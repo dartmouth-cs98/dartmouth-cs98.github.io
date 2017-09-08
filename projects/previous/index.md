@@ -48,6 +48,7 @@ title: Previous Projects
 > * [github project-easytex](https://github.com/dartmouth-cs98/project-easytex)
 > * [github EasyTex-Server](https://github.com/dartmouth-cs98/EasyTex-Server)
 >
+> ![](img/easytex_userflow.jpg){: .medium .fancy}
 >
 
 # HindSite 17F-17W #
