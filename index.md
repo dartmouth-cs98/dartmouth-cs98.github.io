@@ -18,13 +18,13 @@ COSC 50 or permission of [instructor](mailto:tim@cs.dartmouth.edu). COSC 31 reco
 
 # Project Course Overview
 
-In this course you will have the freedom to pitch and develop your own project idea. The first class meetings will be devoted to short technology hackathons, brainstorming sessions, and choosing your development teams. You will be encouraged to be creative and push yourselves technically, but simultaneously to keep your project scope feasible. Often the most successful projects start out as a small, clever idea, while projects that are overly ambitious will prevent you from thoroughly investigating the concept.
+In this course you will have the freedom to pitch and develop your own project idea. It is your time to spend two terms to create your own startup product. The first class meetings will be devoted to short technology hackathons, brainstorming sessions, and choosing your development teams. You will be encouraged to be creative and push yourselves technically, but simultaneously to keep your project scope feasible. Often the most successful projects start out as a small, clever idea, while projects that are overly ambitious will prevent you from thoroughly investigating the concept.
 
 Some things to consider while thinking about project ideas:
 
 * 🚀 Novelty: The purpose of this course is to broaden your experience as a developer. It is an opportunity to investigate a novel idea in a team environment, from initial concept, through all stages of design & development, to delivery of a functional final product. Your project must be a fresh idea, introduced solely for this course. It should not be a continuation of an internship, previous course project, or existing startup.
 * 📱 Format: You may choose any format relevant to software design & implementation. For example, your team may choose to develop a game, a web or mobile app, or even experiment with IoT.
-* 🔨 Impact: Your project should demonstrate a positive impact and offer clear benefit to a user base. Consider themes such as education, research, health care, or environmental protection and improvement. Think outside of what is useful to Dartmouth students - new event apps, yik yak clones, and marketplaces have been attempted before and you might find it more rewarding to build something that challenges you.
+* 🔨 Impact: Your project should demonstrate a positive impact and offer clear benefit to a user base. Consider themes such as education, research, health care, or environmental protection and improvement. Think outside of what is useful to Dartmouth students - new event apps, social network clones, and marketplaces have been attempted before and you might find it more rewarding to build something that challenges you.
 
 
 🏄 This class will be an adventure and requires active participation both inside and outside of class.
