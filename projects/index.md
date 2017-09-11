@@ -4,4 +4,4 @@ title: Projects
 ---
 
 
-## Slack ##
+## <span style="color: #F27D00">Project Info and Milestones Coming Soon</span> ##

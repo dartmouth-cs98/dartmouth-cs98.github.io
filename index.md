@@ -22,9 +22,9 @@ In this course you will have the freedom to pitch and develop your own project i
 
 Some things to consider while thinking about project ideas:
 
-* Novelty: The purpose of this course is to broaden your experience as a developer. It is an opportunity to investigate a novel idea in a team environment, from initial concept, through all stages of design & development, to delivery of a functional final product. Your project must be a fresh idea, introduced solely for this course. It should not be a continuation of an internship, previous course project, or existing startup.
-* Format: You may choose any format relevant to software design & implementation. For example, your team may choose to develop a game, a web or mobile app, or even experiment with IoT.
-* Impact: Your project should demonstrate a positive impact and offer clear benefit to a user base. Consider themes such as education, research, health care, or environmental protection and improvement. Think outside of what is useful to Dartmouth students - new event apps, yik yak clones, and marketplaces have been attempted before and you might find it more rewarding to build something that challenges you.
+* 🚀 Novelty: The purpose of this course is to broaden your experience as a developer. It is an opportunity to investigate a novel idea in a team environment, from initial concept, through all stages of design & development, to delivery of a functional final product. Your project must be a fresh idea, introduced solely for this course. It should not be a continuation of an internship, previous course project, or existing startup.
+* 📱 Format: You may choose any format relevant to software design & implementation. For example, your team may choose to develop a game, a web or mobile app, or even experiment with IoT.
+* 🔨 Impact: Your project should demonstrate a positive impact and offer clear benefit to a user base. Consider themes such as education, research, health care, or environmental protection and improvement. Think outside of what is useful to Dartmouth students - new event apps, yik yak clones, and marketplaces have been attempted before and you might find it more rewarding to build something that challenges you.
 
 
 🏄 This class will be an adventure and requires active participation both inside and outside of class.
@@ -42,20 +42,24 @@ By the end of second term of this course, you will:
 
 Teams will be ~5 members each. Group dynamics and roles will be discussed. Groups will be assigned through a combination of voting on ideas, team member preference and balancing.
 
+## Time Commitment:
+
+Groups are required to establish a team meeting schedule for coding hours throughout the week. Minimum obligation is 10 hours/week. Group coding is encouraged.
+
 ## Schedule:
 
 There are 2 sections of this course!  Section 1 (COSC98.01) is **17F + 18W** and Section 2 (COSC98.02) is **18W + 18S**.  You need to take either one or the other section and cannot mix and match.
 
 ### Class:
 
-  - Section 1 (17F-18W)
+  - **Section 1 (17F-18W)**
     - 3B Classes will meet Tuesday and Thursday (4:30-6:20).
     - 3BX will be available for extra help / team meeting time.
     - Location: Carson 61 on Tuesdays and Fairchild 101 on Thursdays.
-  - Section 2 (18W-18S)
+  - **Section 2 (18W-18S)**
     - 3A Classes will meet Monday (3:30-5:20) and Thursday (4:30-6:20).
     - 3AX will be available for extra help / team meeting time.
-    - Location: Carson 61
+    - Location: TBD
 
 Class time will be used for topic hackathons, team meetings, showing your work, and coding together time.  Each project team will also meet separately every week to work and hack together.  At least 10 hours per week is required and will be logged.
 
@@ -79,12 +83,12 @@ Class time will be used for topic hackathons, team meetings, showing your work, 
   <tr>
     <td>
       <a href="mailto:tim@cs.dartmouth.edu">Tim Tregubov</a><br>
-      <a href="https://cs52-dartmouth.slack.com/messages/@tim/">@tim</a>
+      <a href="https://cs98-dartmouth.slack.com/messages/@tim/">@tim</a>
     </td>
   </tr>
 </table>
 
 
-## Logistics:
+## More Logistics:
 
 See [logistics](/logistics)
