@@ -55,7 +55,7 @@ There are 2 sections of this course!  Section 1 (COSC98.01) is **17F + 18W** and
   - **Section 1 (17F-18W)**
     - 3B Classes will meet Tuesday and Thursday (4:30-6:20).
     - 3BX will be available for extra help / team meeting time.
-    - Location: Carson 61 on Tuesdays and Fairchild 101 on Thursdays.
+    - Location: Carson 61
   - **Section 2 (18W-18S)**
     - 3A Classes will meet Monday (3:30-5:20) and Thursday (4:30-6:20).
     - 3AX will be available for extra help / team meeting time.
