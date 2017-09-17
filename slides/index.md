@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lectures
-permalink: /lectures/
+title: 
+permalink: /slides/
 ---
 
 
