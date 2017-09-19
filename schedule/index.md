@@ -8,34 +8,66 @@ title: Schedule
 # Term 1 Overview
 
 ### Week 1: ###
-Intro to course and Hack-a-thing 1
+* Tues:
+  * Intro To Course
+  * Hactivity
+* Thurs:
+  * Pitch Off
 
 ### Week 2: ###
-Hack-a-thing 2 and Pitching Round 1
+* Tues:
+  * Present Hack-a-thing-1
+* Thurs:
+  * Pitch Round 1
 
 ### Week 3: ###
-Pitching Round 2
+* Tues:
+  * Present Hack-a-thing-2
+* Thurs:
+  * Pitch Round 2
+  * Project Voting
 
 ### Week 4: ###
-Project Proposal and Feature Spec
+* Tues:
+  * User Personas
+  * Project Proposal
+* Thurs:
+  * Design Workshop
+  * Feature Spec
 
 ### Week 5: ###
-Mockups and Data Models
+* Tues:
+  * Mockups and Data Models
+* Thurs:
+  * Work time
 
 ### Week 6: ###
-Scaffolding
+* Tues:
+  * Scaffolding
+* Thurs:
+  * Work time
 
 ### Week 7: ###
-Implementation And Data Wiring
+* Tues:
+  * Implementation And Data Wiring
+* Thurs:
+  * Work time
 
 ### Week 8: ###
-Work In Progress
+* Tues:
+  * Work In Progress
+* Thurs:
+  * Work time
 
 ### Week 9: ###
-Towards a Testable Prototype and Bug Hunt
+* Tues:
+  * Towards a Testable Prototype
+* Thurs:
+  * Bug Hunt
 
-### Week 1-: ###
-End of Term User Testing and Demos
+### Week 10: ###
+* Tues:
+  * End of Term User Testing and Demos
 
 
 

@@ -65,7 +65,7 @@ name: Ok but like, why?
 
 
 ---
-name: Special Food!
+name: 10 Minutes
 
 <iframe width="600" height="300" src="https://www.youtube.com/embed/uXPlzdTcA-I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -81,7 +81,7 @@ name: Special Food!
 * can use some slides if you want - just keep real short and pictures only
 
 ---
-name: Let's Pitch!
+name: 15 Minutes Round One
 
 <iframe src="https://giphy.com/embed/97ZWlB7ENlalq" width="580" height="394" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
@@ -90,6 +90,15 @@ name: Let's Pitch!
 
 ???
 *
+
+---
+name: 15 Minutes Final Round
+
+<iframe src="https://giphy.com/embed/2s7lb48XP0yje" width="480" height="261" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+???
+*
+
 
 
 ---
