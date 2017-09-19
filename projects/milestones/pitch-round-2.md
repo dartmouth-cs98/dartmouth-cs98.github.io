@@ -6,7 +6,7 @@ published: true
 
 ![](img/pitch.gif){: .fancy .medium}
 
-A 5 minute presentation with 5 minutes of Q&A to pitch your idea to the class. Everybody will rank their top choices to form teams.
+A 5 minute presentation with 5 minutes of Q&A to pitch your idea to the class. Everybody will rank their top choices to form teams. You can pitch with at most 1 other person.
 
 ## The Pitch:
 
@@ -14,7 +14,12 @@ A 5 minute presentation with 5 minutes of Q&A to pitch your idea to the class. E
 * Propose your solution
 * Discuss any insights you in particular bring to the table
 
+You can use a slide deck but keep it visual with at most 10 words on any individual slide.
+
 
 ## To Turn In:
 
 * pitch deck
+* your names
+* working title
+* max 8 word tagline
