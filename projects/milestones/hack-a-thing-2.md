@@ -8,7 +8,7 @@ published: true
 
 ## To Start
 
-* setup and clone a github repo using github classroom here: https://classroom.github.com/g/aD7rqYWq
+* setup and clone a github repo using github classroom here: [https://classroom.github.com/g/hyGnTHEh](https://classroom.github.com/g/hyGnTHEh)
 * first person in your group to click the link above will provision the repo and name it
 * second person in your group should just click the link above also and select the proper group to be added to it
 
