@@ -72,7 +72,7 @@ Class time will be used for topic hackathons, team meetings, showing your work, 
   - Open Help/Hack Hours during X-Hour every week. <br>
 
   - Instructor:<br>
-    Mon 2-4:45pm; Fri 11-1pm; or by appointment in Sudikoff 219/007
+    Mon 2-4pm; Fri 11-1pm; or by appointment in Sudikoff 219/007
 
 <table>
   <tr>
