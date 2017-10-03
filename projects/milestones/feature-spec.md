@@ -16,20 +16,20 @@ User stories are short scenarios about how your product is used.  User personas 
 __Structure your user persona like so:__
 
 * Background and Demographic Information
-  * Name
-  * Sketch/Picture
-  * Demographic info (short)
-  * Overheard quote
-  * Short narrative or description about the user and why they're using your product/service.
+  * __Name__
+  * __Sketch/Picture__
+  * __Demographic info__ (short)
+  * __Overheard quote__
+  * __Short narrative__ or description about the user and why they're using your product/service.
     <br>*(try to capture their attitudes, needs, problems/concerns, and experience)*
 * Behavioral and Dimensional Information
-  * Goals and Motivations
+  * __Goals and Motivations__
     <br>*(goals should directly relate to product/service)*
-  * Tasks
+  * __Tasks__
     <br>*(break goals down into tasks — what does the user need to do to accomplish a particular goal)*
-  * Concerns, challenges, and pain points
+  * __Pain Points__, Concerns, and challenges
     <br>*(what are they worried about? what do they have trouble with?)*
-  * User Flow
+  * __User Flow__
     <br>*(describe a typical scenario of the user interacting with your product – this is a short ordered list of actions)*
 
 
