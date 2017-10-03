@@ -11,7 +11,30 @@ The feature spec is a document that is a walk-though of your project from the us
 
 ## User Stories and Personas
 
-User stories are short scenarios about how your product is used. User personas are the fictional individuals who comprise your product’s users. Your personas should have names and believable backgrounds. They should have specific demonstrative use cases for your product. You will refer to them as you work on the product and you’ll find they will be quite useful! The aim of user stories is to codify specific use cases for your product and allow them to be easily communicated as you build the product. They help keep the team focused on the functionality of the product for specific people rather than getting sidetracked by features that seem “cool” or “look good”. For every feature in your spec you should have a user persona that would find it useful or compelling.
+User stories are short scenarios about how your product is used.  User personas are the fictional individuals who comprise your product's users.  Your personas should have names and believable backgrounds.  They should have specific demonstrative use cases for your product.  You will refer to them as you work on the product and you'll find they will be quite useful!  The aim of user stories is to codify specific use cases for your product and allow them to be easily communicated as you build the product.  They help keep the team focused on the functionality of the product for specific people rather than getting sidetracked by features that seem "cool" or "look good".  For every feature in your spec you should have a user persona that would find it useful or compelling. You can use [userforge.com](http://userforge.com) if you want to as it provides a nice interface for creating them.
+
+__Structure your user persona like so:__
+
+* Background and Demographic Information
+  * Name
+  * Sketch/Picture
+  * Demographic info (short)
+  * Overheard quote
+  * Short narrative or description about the user and why they're using your product/service.
+    <br>*(try to capture their attitudes, needs, problems/concerns, and experience)*
+* Behavioral and Dimensional Information
+  * Goals and Motivations
+    <br>*(goals should directly relate to product/service)*
+  * Tasks
+    <br>*(break goals down into tasks — what does the user need to do to accomplish a particular goal)*
+  * Concerns, challenges, and pain points
+    <br>*(what are they worried about? what do they have trouble with?)*
+  * User Flow
+    <br>*(describe a typical scenario of the user interacting with your product – this is a short ordered list of actions)*
+
+
+Once you have the user personas the feature list for your spec grows easily out of it.  You already know what the users want to do — summarize and prioritize.
+
 
 ## To Turn In:
 
@@ -25,4 +48,4 @@ Overall this document does not need to be super extensive, it should cover the f
     * profile with name, birthday
     * feed view
     (please do not make this exhaustive. No need to talk about which buttons are available on each page — just which general action a user would take on that page)
-* At least 3 user stories
+* At least 3 short AND fun user stories - can be in google doc or [userforge.com](http://userforge.com)
