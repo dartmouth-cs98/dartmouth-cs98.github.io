@@ -56,11 +56,12 @@ We'll be using github wikis to keep track of some project documentation. If you 
 
 Overall this document does not need to be super extensive, it should cover the features and be a compelling story about your product, but it doesn’t need to be a million pages.
 
-* Feature Spec as wiki page in your GitHub repo:
-  * A list of features, for example:
-    * logins
-    * profile with name, birthday
-    * feed view
-    * calculating summary graphs of activity
-    (please do not make this exhaustive. No need to talk about which buttons are available on each page — just which general action a user would take on that page)
-* At least 3 short AND fun user stories - can be on wiki or linked to on wiki but hosted on [userforge.com](http://userforge.com).
+* GitHub repository URL to wiki page you created that includes:
+  * Feature Spec as wiki page in your GitHub repo:
+    * A list of features, for example:
+      * logins
+      * profile with name, birthday
+      * feed view
+      * calculating summary graphs of activity
+      (please do not make this exhaustive. No need to talk about which buttons are available on each page — just which general action a user would take on that page)
+  * At least 3 short AND fun user stories - can be on wiki *or* linked to on wiki but hosted on [userforge.com](http://userforge.com).
