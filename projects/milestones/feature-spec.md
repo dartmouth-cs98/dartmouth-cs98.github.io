@@ -40,12 +40,11 @@ Once you have the user personas the feature list for your spec grows easily out 
 
 Overall this document does not need to be super extensive, it should cover the features and be a compelling story about your product, but it doesn’t need to be a million pages.
 
-* Feature Spec Doc (google doc share link):
-  * Short short short summary intro to the project copied from project proposal.
-  * Short walkthrough of the app. Can be broken down into bulleted action steps.
-  * Brief list of views, for example:
-    * login page
+* Feature Spec Doc (google doc share link (commenting permissions):
+  * A list of features, for example:
+    * logins
     * profile with name, birthday
     * feed view
+    * calculating summary graphs of activity
     (please do not make this exhaustive. No need to talk about which buttons are available on each page — just which general action a user would take on that page)
 * At least 3 short AND fun user stories - can be in google doc or [userforge.com](http://userforge.com)
