@@ -47,15 +47,20 @@ Every member on your team **must** use github classroom to set up the teams corr
 
 The first person on your team will name the repo and the team. Each consecutive person will simply choose the repo and team to be granted permissions. Please use this as it keeps everything organized and in one place.  Once your team is created you will be able to create additional repositories as necessary within the cs98 github organization.
 
+
+## GitHub Wiki
+
+We'll be using github wikis to keep track of some project documentation. If you haven't used it before [here's how](https://help.github.com/articles/about-github-wikis/). And some tips on using [markdown](https://guides.github.com/features/mastering-markdown/).
+
 ## To Turn In:
 
 Overall this document does not need to be super extensive, it should cover the features and be a compelling story about your product, but it doesn’t need to be a million pages.
 
-* Feature Spec Doc as a [featurespec.md](https://guides.github.com/features/mastering-markdown/) file in github repo:
+* Feature Spec as wiki page in your GitHub repo:
   * A list of features, for example:
     * logins
     * profile with name, birthday
     * feed view
     * calculating summary graphs of activity
     (please do not make this exhaustive. No need to talk about which buttons are available on each page — just which general action a user would take on that page)
-* At least 3 short AND fun user stories - can be in markdown file or [userforge.com](http://userforge.com)
+* At least 3 short AND fun user stories - can be on wiki or linked to on wiki but hosted on [userforge.com](http://userforge.com).

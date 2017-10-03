@@ -6,9 +6,69 @@ published: true
 
 ![](img/proposal.gif){: .fancy .small}
 
-Here is a [template for a short 2-3 page project proposal](https://docs.google.com/document/d/185URFGTtddRX1yElOwHivfsEViqwQbdrWQGKJOYIS8E/edit?usp=sharing) describing the concept and core components of your project.  It includes things to think about as you are refining your idea so take a look at this early!
+
+## Github Markdown Files and Repo
+
+We'll use this opportunity to get your first project repo started!  We'll be using github classroom to autoprovision repositories and set up teams.
+
+Every member on your team **must** use github classroom to set up the teams correctly and automatically.  Choose your term and section below:
+
+* [CS98 Section 1 starting in 17F](https://classroom.github.com/g/Q8mwfkT2)
+* CS98 Section 2 starting in 18W
+
+The first person on your team will name the repo and the team. Each consecutive person will simply choose the repo and team to be granted permissions. Please use this as it keeps everything organized and in one place.  Once your team is created you will be able to create additional repositories as necessary within the cs98 github organization.
+
+## GitHub wiki
+
+We'll be using github wikis to keep track of some project documentation.  
+
+🚀 [Initialize your wiki now](https://help.github.com/articles/about-github-wikis/).
+
+Here is a template for a project proposal that you should create using the github wiki functionality.
+
+```
+# Project Name Proposal
+### Team Members | CS98 17F
+
+![Team Photo](Insert a Team Photo URL here)
+[*how?*](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+
+## Problem Statement
+
+What is the problem you are aiming to solve? Who are your target users?
+
+## Impact
+
+Briefly explain how the project meets a real-world need.
+
+## Prior Work
+
+Include any existing solutions and explain how you plan on differentiating your product. You should have ~10 different sources. These can range from commercial/competitive solutions to research papers that inform some part of your product.
+
+## Proposed Solution
+
+Briefly describe your proposed solution.  How does it work and what does it do?
+
+## Team
+
+Who are your team members? Identify what skills each team member brings to the table as well as preferred work style (take charge, work alone, pair programming, etc).
+
+## Strategy
+
+Outline your development strategy with general feature milestones - identify minimum viable product features and optional stretch goals. Explain how you plan to test your product.
+
+## Implementation Challenges
+
+What development challenges have you thought about so far?  Identify any risks and briefly discuss possible workarounds / alternatives.
+
+## Meeting Schedule
+
+You are required to spend at least 10 hours/week on development. Outline a general weekly meeting schedule with at least 1 time that everybody can make. At least that one meeting must include the entire team in the same room, in person. The rest of the 10 hours may be split into several sessions throughout the week. A nice tool for this is [when2meet](https://www.when2meet.com/).
+
+```
+
+Your project proposal describes the concept and core components of your project.  It includes things to think about as you are refining your idea so take a look at this early!
 
 ## To Turn In:
 
-  * google doc share linked based on template
-  * Make sure commenting share permissions are set
+  * github repository URL to wiki page you created
