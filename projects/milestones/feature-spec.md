@@ -47,7 +47,6 @@ Every member on your team **must** use github classroom to set up the teams corr
 
 The first person on your team will name the repo and the team. Each consecutive person will simply choose the repo and team to be granted permissions. Please use this as it keeps everything organized and in one place.  Once your team is created you will be able to create additional repositories as necessary within the cs98 github organization.
 
-
 ## GitHub Wiki
 
 We'll be using github wikis to keep track of some project documentation. If you haven't used it before [here's how](https://help.github.com/articles/about-github-wikis/). And some tips on using [markdown](https://guides.github.com/features/mastering-markdown/).
