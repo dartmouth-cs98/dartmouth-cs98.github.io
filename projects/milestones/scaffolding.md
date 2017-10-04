@@ -18,7 +18,7 @@ You should get some basics of your project up and running.  If your project as a
 
 ## Readme
 
-In your project’s main README.md file (you may have multiple repos, but for now just use the repo you’ll be using for whatever is ending up being the frontend) start to outline the tech stack you will using. As you work on the project your README.md file will be a record of the tools you are using and how to get your dev environment running. 
+In your project’s main README.md file (you may have multiple repos, but for now just use the repo you’ll be using for whatever is ending up being the frontend) start to outline the tech stack you will using. As you work on the project your README.md file will be a record of the tools you are using and how to get your dev environment running.
 
 Start this doc now:
 ```
@@ -46,11 +46,12 @@ TODO: list of authors
 ## Acknowledgments
 ```
 
-You don’t have to fill in the whole document for this milestone, but do start on it and fill in what you can.
+You don’t have to fill in the whole document for this milestone, but do start on it and fill in what you can. This README is for now the defacto "landing page" for your project. It should be kept up-to-date so that I / anybody can clone your repos and run your project dev environment.
 
 Note: using github will be an essential part of how you will work together.  You are required to use git flow — i.e. use branches and pull requests as you work together. You don’t necessarily need to do code reviews, but doing git flow with feature branches will help you organize your team and your code.
 
 ## To Turn In:
+* GitHub URL to your repo on canvas (for grading ease)
 * Code scaffolding:
   * some initial starter code
   * working hello worlds for any server/frontend/etc platforms
