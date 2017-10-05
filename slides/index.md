@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title:
 permalink: /slides/
 ---
 
@@ -9,6 +9,7 @@ permalink: /slides/
 
 * [Welcome](00_welcome/)
 * [Pitch Off](01_pitches/)
+* [Design](03_design/)
 
 
 <!-- * [3/28 Welcome](00_welcome/) -->

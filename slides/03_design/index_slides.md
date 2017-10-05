@@ -57,13 +57,14 @@ name: Step 2: Sketches
 
 
 ???
-
+* make them on paper first
+* much faster
 
 ---
 name: Step 3: Mockups
 
 * with inspiration and sketches
-* start on mockups (figma, sketch, etc)
+* start on mockups ([figma](http://figma.com), [sketch](https://www.sketchapp.com), etc)
 * don't code them yet
 
 .fancy.medium[![mockups](img/mockupthings.jpg)]
@@ -83,6 +84,10 @@ name: Step 4: Functional Mockups
 
 .fancy.medium[[![invision](img/invision.gif)](http://invisionapp.com)]
 
+???
+* great way to test your interactions
+* woop forgot some logic path from one view to another
+* can run it by users and see if they can figure it out
 
 ---
 name: Colors
@@ -118,7 +123,7 @@ name: Hierarchy
 
 
 ---
-name: Mindfullness
+name: Mindfulness
 
 
 .fancy.medium[![mockups](img/quote.jpg)]
@@ -130,11 +135,15 @@ name: Mindfullness
 * you chose blue for a restaurant site because you like blue
 * but blue is not appetizing, doesn't make people feel hungry - RED does weird.
 * think about and defend every choice you make - 'i just like it' doesn't cut it.
+* hidden interaction like swiping or hamburger - be careful.
+* ux is like a joke - its bad if it needs explaining
+* can use this time to test that!
 
 ---
 name: resources
 
 * lots of resources out there
+* [cs52.me/workshops/design](http://cs52.me/workshops/design)
 * https://dribbble.com/
 * https://blog.prototypr.io/design-for-programmers-d38c56982cd0
 * http://www.cssdesignawards.com/
@@ -144,10 +153,6 @@ name: resources
 * best form of flattery is imitation
 
 ---
-name: Let's play!
+name: milestone
 
-
-[cs52.me/workshops/design](../workshops/design)
-
-
-???
+[mockups and data models](../projects/milestones/mockups-models)
