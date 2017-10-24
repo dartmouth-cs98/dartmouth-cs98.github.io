@@ -30,16 +30,16 @@ title: Projects
 * **[Mockups & Data Models](milestones/mockups-models)** (week 5):<br>
   Sketches of the user experience and mockups of each main interaction / view. Include descriptions of the various data objects that the project will require.
 
-* **[Scaffolding](milestones/scaffolding)** (week 6):<br>
+* **[Scaffolding](milestones/scaffolding)** (week 5):<br>
   Initial code scaffolding started with a component plan and tools and frameworks chosen.
 
-* **[Implementation & Data Wiring](milestones/wiring)** (week 7):<br>
+* **[Implementation & Data Wiring](milestones/wiring)** (week 6):<br>
   Rudimentary functionality in place and all components are connected and exchange data. Server->client or algorithmic components started.
 
-* **[Work In Progress](milestones/workinprogress)** (week 8):<br>
+* **[Work In Progress](milestones/workinprogress)** (week 7):<br>
   Show some progress.
 
-* **[Testable Prototype](milestones/testable_prototype)** (week 9):<br>
+* **[Testable Prototype](milestones/testable_prototype)** (week 8):<br>
   Focus on function over form and main MVP functionality complete.
 
 * **[Pre-Demo Bug Hunt](milestones/bughunt)** (week 9):<br>
