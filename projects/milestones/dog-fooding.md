@@ -24,14 +24,11 @@ The goal is to inform your further development.  At this point you don't need to
 
 You should spend some decent time helping out the other team in testing.  Each team will do a peer evaluation of their partnered team -- your feedback is critical and you'll get points for it: Peer Feedback
 
-
-
-Analysis
+## Analysis
 Once you've collected and given feedback it is time to analyze your results.  Sort through any survey results and observation notes.  Identify top patterns and write them up.  What should your next steps be?  Try to prioritize your milestones based on your testing.  Add at least 4 new milestones to your github!
 
+## To Turn In:
 
-
-To Turn In:
-
-Your testing plan - what questions were you asking, how did you plan to do your observations?
-Feedback and analysis of results. Submit a document that includes thoughts about how the testing went and your new priorities (1 pager is ok).  Don't sugar coat. This isn't about how far the project has progressed, but about how the testing went - report accurately and make plans accordingly!  Add at least 4 new milestones to your github.
+* Your testing plan - what questions were you asking, how did you plan to do your observations?
+* Feedback and analysis of results. Submit a document that includes thoughts about how the testing went and your new priorities (1 pager is ok).  Don't sugar coat. This isn't about how far the project has progressed, but about how the testing went - report accurately and make plans accordingly!
+* Add at least 4 new milestones to your github.
