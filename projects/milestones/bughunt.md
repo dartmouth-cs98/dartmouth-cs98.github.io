@@ -14,7 +14,7 @@ Each team should be prepared to demo what they have currently and to discuss the
 
 Reported bugs should be checked against duplicates already filed.  If you accidentally file a duplicate you should reference it from the original and close it so it doesn't clutter the repo.  Additionally, bugs should attempt to be helpful and insightful and will be judged by whether they help the team.
 
-Finally you should engage with opened issues - if it is something that isn't an issue - mark it that way and close it. If it is something you fix, reference the commit or PR that you fixed it in and close it.  If you have questions about the issue, comment on it.
+Finally you should engage with opened issues - if it is something that isn't an issue - mark it that way and close it. If it is something you fix, reference the commit or PR that you fixed it in and close it.  If you have questions about the issue, comment on it.  If you filed an issue and the team asks you about it it is your responsibility to be responsive.
 
 ## To Turn In:
 
