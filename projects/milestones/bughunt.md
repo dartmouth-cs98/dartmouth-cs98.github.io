@@ -19,5 +19,5 @@ Finally you should engage with opened issues - if it is something that isn't an 
 ## To Turn In:
 
 * github urls to at least 3 issues that you opened on other projects repositories
-* each team is required to engage with the issues opened.
+* each team is required to engage with the issues opened
 * any EC pull request urls
