@@ -1,36 +1,22 @@
 ---
 layout: page
-title: Term Demos and Testing
+title: Final Project Submission
 published: true
 ---
 
+![](https://media.giphy.com/media/BQAk13taTaKYw/giphy.gif){: .fancy .small}
 
-![](img/endofterm.gif){: .fancy .small}
 
-![](img/Technigala_Poster.jpg){: .fancy .medium}
-
-MVP demos and testing of the projects for this term.  The main focus will be on getting user feedback.  Invite friends!  There will be food and drinks!
-
-Please show up early to set up your table.  The event will be science fair style - you will have a table with your project name and either a screen or a stand for a laptop to better demo your awesome projects.
-
-The focus is on demo-ing and getting feedback. Have a feedback form ready and ask questions. Ask specific targeted questions rather than general questions such as "would you use this product?".
-
-Be prepared to verbally
-* Motivate the idea
-* Show it in action and let people try it out!
-* Discuss challenges
-* Ask for feedback
-
-![](http://i.giphy.com/p9O75RBS946He.gif){: .fancy .small}
-
+Demos are now done!  Hopefully, everything worked perfectly.  One last thing left to do.  Make sure all your readme's are updated and that getting the project up and running for testing is possible based on your documentation.  Submit a debrief of the term and your team survey.
 
 ## To Turn In:
-(can be turned in a day or two after demos)
 
 * github urls for your final project
 * README.md files need to all be up to date with
+  * update any setup/deployment steps (make sure a new user can set it up)
 * a brief summary / debrief of this term including:
   * what worked this term / didn’t work
-  * a rundown of your user testing plan, any responses/observations
+  * a rundown of your user testing, any responses/observations
   * brief summary of any insights / conclusions drawn
-  * a brief general plan of attack for next term.
+  * any potential next steps
+* make sure to fill out the team survey
