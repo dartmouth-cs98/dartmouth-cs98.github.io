@@ -1,6 +1,6 @@
 ---
 layout: page_with_slides
-title: CS52 Welcome
+title: CS98 Welcome
 published: true
 ---
 

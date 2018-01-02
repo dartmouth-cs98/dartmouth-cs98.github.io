@@ -1,6 +1,6 @@
 ---
 layout: page_with_slides
-title: JS
+title: Pitches
 published: true
 ---
 

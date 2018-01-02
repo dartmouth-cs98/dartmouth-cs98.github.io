@@ -1,6 +1,6 @@
 ---
 layout: page_with_slides
-title: CSS
+title: Design
 published: true
 ---
 
