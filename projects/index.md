@@ -78,7 +78,12 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 During the second term we'll focus on specific weekly milestones that each team will create will less overall milestones.
 
 **Week 1**:<br>
-  This is the time to plan out your milestones for this term. We will do fewer general milestones but will instead focus on custom milestones for your individual projects.
+  We'll start out the term with some self reflection about the project — to try to incorporate feedback from user testing and consider any pivots etc.
+
+- [ ] Milestone: [Project Self Reflection](milestones/project-self-reflection)
+
+**Week 1**:<br>
+  This is also the time to plan out your milestones for this term. We will do fewer general milestones but will instead focus on custom milestones for your individual projects.
 
 - [ ] Milestone: [Milestone Planning](milestones/milestone-plan)
 

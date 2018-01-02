@@ -23,6 +23,16 @@ Enter in your milestones on your project github repos.  At this point create at 
 Each milestone now needs to be split up into multiple issues.  You can think of the issues as individual tasks: "create login button",  "api endpoint for user profile", etc.  Issues can also be bugs that you find along the way.  You should assign people to each issue as you work on them so your team knows who is doing what. For now, populate the first few milestones with some tasks!  Break up large tasks into individual smaller ones, each one should be under a few hours of work. The smaller the tasks the actually faster you will work (not just the appearance of speed).  It is easier to take on a manageable scope issue and work through it than if the issue has multiple steps that quickly become overwhelming to think through.  Feel free to assign each other tasks, a little aggressiveness is ok!  
 
 
+
+## Bug Fixes
+Do you have any bugs left from last term?  Now's a good time to triage them and see which you want to fix and which might go away depending on how your product evolves, etc.  If you haven't made them into github issues you should! Here's some good labels that you should use to help prioritize.
+
+* <font style="color:red">[blocker]</font>
+* <font style="color:orange">[important]</font>
+* <font style="color:lightblue">[back burner]</font>
+* <font style="color:grey">[won't fix]</font>
+
+
 ## To Turn In:
 * github links to milestones in issues
 * if you have multiple repos you'll probably want to have milestones entered in both - they can be the same or specific (for instance server vs frontend might have different milestones). Submit links to each.
