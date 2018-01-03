@@ -57,7 +57,10 @@ As soon as you can you should have a team meeting and work through some of these
 ## How to get there
 *Now that you've thought about where your project is headed and where you want it to go write down how might approach getting there.*
 
-#### what are your next steps?
+#### What are your next steps?
+
+## Team Selfie
+*Post a team selfie as proof that you met in person. Rewards if your team meets for food together.*
 
 </pre>
 
