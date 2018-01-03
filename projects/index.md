@@ -22,7 +22,8 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 **Week 2**:<br>
   Idea week. Pitch potential project ideas to the rest of the class to get feedback and recruit teammembers.
 
-- [ ] Milestone: [Pitch Round 1](milestones/pitch-round-1)
+- [ ] Milestone 1: [Pitch Round 1](milestones/pitch-round-1)
+- [ ] Milestone 2: [Pitch Round 2](milestones/pitch-round-2)
   - *in pairs*
 
 **Week 3**:<br>
@@ -82,7 +83,7 @@ During the second term we'll focus on specific weekly milestones that each team 
 
 - [ ] Milestone: [Project Self Reflection](milestones/project-self-reflection)
 
-**Week 1**:<br>
+**Week 2**:<br>
   This is also the time to plan out your milestones for this term. We will do fewer general milestones but will instead focus on custom milestones for your individual projects.
 
 - [ ] Milestone: [Milestone Planning](milestones/milestone-plan)
