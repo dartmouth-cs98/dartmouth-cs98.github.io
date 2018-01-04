@@ -56,12 +56,12 @@ There are 2 sections of this course!  Section 1 (COSC98.01) is **17F + 18W** and
     - 3B Classes will meet Tuesday and Thursday (4:30-6:20).
     - Thursday class time will used for team meetings and working together.
     - 3BX will be available for help / team meeting time.
-    - Location: Carson 61
+    - Location: Carson 61 (Thursdays Carson 60 is overflow space)
   - **Section 2 (18W-18S)**
     - 3A Classes will meet Monday (3:30-5:20) and Thursday (4:30-6:20).
     - Thursday class time will used for team meetings and working together.
     - 3AX will be available for help / team meeting time.
-    - Location: Carson 61 (currently)
+    - Location: Carson 61 (Thursdays Carson 60 is overflow space)
 
 Class time will be used for topic hackathons, team meetings, showing your work, and coding together time.  Each project team will also meet separately every week to work and hack together.  At least 10 hours per week is required and will be logged.
 
