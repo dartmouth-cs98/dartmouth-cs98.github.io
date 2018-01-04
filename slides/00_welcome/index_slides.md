@@ -31,10 +31,11 @@ name: CS98
 #### _the startup experience_
 
 ???
+* 2 terms long
 * a lot of you have had internships - working at a company
 * academic course project experience
 * but probably not a do your own startup experience
-* try to make this as real as possible with best practices
+* try to make this as real as possible with best practices, given that its still a course
 * will be about you so if you have ideas on how to improve just talk to me
 
 ---
@@ -51,6 +52,7 @@ name: Online @
 * administrative stuffs
 * using github extensively, get comfortable
 * previous projects on github and on the website
+* open an issue or PR!
 
 
 ---
@@ -58,18 +60,20 @@ name: etc
 
 .medium_small[![](http://i.giphy.com/tn8zWeNYA73G0.gif)]
 
-* 3B — 4:30-6:20pm - Carson 61
-* will use both Tues and Thurs for a variety of things
+* 3A — 4:30-6:20pm - Carson 61
+* Mondays are regular
+* Thursdays are mostly team meeting and work time (Carson 61+60)
 * x-hours
   * Mon 5:35 - 6:25pm
-  * coding time + help time
+  * coding, help, snack time
 
 ???
 * coding together
 * activities such as bughunts and testing
-* pitches
+* brainstorm and pitch ideas
 * inter and intra group collaboration
-* time logs - for billing purposes
+* will keep time logs - for billing purposes
+* both rooms on thursdays to make your team scheduling easier
 
 
 
@@ -88,11 +92,14 @@ name: Code
 ```
 
 ???
+* think of it more like industry intellectual property
+* don't use another companies code without it being above board
 * internet full of codes is a good thing - we're all archeologists - puzzle solvers
 * if copy - just cite it
 * sharing is caring (when cited)
 * want you to be able to show your work - have lots of green squares on github
 * remember, I am hyper available, just talk to me
+* helps me helps your teammates
 
 
 
@@ -103,13 +110,17 @@ name: Slack
 .small[![](img/giphy_slack.gif)]
 
 * [https://cs98-dartmouth.slack.com](https://cs98-dartmouth.slack.com)!
-* all course communication
+* **all** course communication
 * each team will have a channel
 * download mobile, desktop, web apps
   * get used to it
 
 ???
 * i don't do email well...
+* how many of you signed on?
+* teams that use slack do better - its true - the bestest (and canvas)
+* don't use groupme or texting, if issues come up i can't help
+* don't worry about me being in channels - i'm friendly and don't bite - here to help
 
 ---
 name: Grading
@@ -127,6 +138,8 @@ name: Grading
 * may be adjusted slightly
 * your grade my vary based on individual contribution (combined metric of time+feedback+participation+github)
 * logs are like hour logs for  billing at a company - slightly annoying but keeps everybody on target - will be pretty easy
+* weekly checkins will start once you have teams
+* may use thursdays for that - not sure
 
 
 ---
@@ -144,21 +157,12 @@ name: Project Complexity
 * some display of said data or computation that is reasonably complex
 * it is two terms so you have time to implement something cool!
 * don't worry we'll figure this out together
+* reward for challenge - min complexity - but better grade if challenged
+* going to try out: easy - medium - hard levels
+* can negotiate but time converts to complexity at some point
+* past -> rigor
+* 2 terms == lotta f' time
 
-
----
-name: Monies
-
-<iframe src="https://giphy.com/embed/l0HFkA6omUyjVYqw8" width="480" height="357" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-* some funding available
-* 100 per team per term to start
-
-???
-* hosting
-* hardware if necessary
-* assets etc
-* hindsite story: aws x-large instances racked up 300$ in a day
 
 
 ---
@@ -173,6 +177,40 @@ name: Commitment
 ???
 
 
+
+---
+name: thesislyfe -> startuplyfe
+
+.left[![](img/thesis.jpg)]
+.right[<br><br>![](img/thesis2.gif)]
+
+
+???
+* we are't doing thesis
+* buuuut hopefully you'll care abouut enough
+  * that all the cartoons will apply
+* also there is honors available but requires a thesis in addition...
+* honestly - the course is designed to be 10-15 hours a week
+* if you spend that you'll be happy with the result
+* less and your team will eventually be mad at you
+
+
+---
+name: Monies
+
+<iframe src="https://giphy.com/embed/l0HFkA6omUyjVYqw8" width="480" height="357" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+* some funding available
+* 100 per team per term to start
+
+???
+* hosting
+* hardware if necessary
+* assets etc
+* discounts or credits available
+* hindsite story: aws x-large instances racked up 300$ in a day
+  * elastic search clsuter tutorial
+
 ---
 name: Tech Stacks
 
@@ -182,7 +220,7 @@ name: Tech Stacks
 
 ???
 * common question and every developers first dilemma - what tools to use
-* one person on team django but really maybe not best tool
+* (one person on team django but really maybe not best tool) all groups hate it eventually
 * how data is stored (persistance)
 * how it is served
 * how it is displayed
@@ -209,10 +247,12 @@ name: Potential Stacks
   * _MongoDB_, sqlite, RDS, MySQL, Postgres
 * hardware:
   * buttons, eye tracking, vr, cameras, sensors!
+  * hololens, kinect, oculus, cardboard
 
 And much much more
 
 ???
+* can't use firebase and call it done
 * hack-a-thing is exactly so you can play with some
 * \*hate
 
@@ -232,7 +272,7 @@ name: From Scratch?!?
 * and learn how to do it right
 * learning from past experiences so i can help avoid pitfalls from the past
 * this will be the best cs98 to date
-* starter projects can be helpful but also dangerous
+* starter projects can be helpful but also dangerous, too complex sometimes (eval starter projects)
 
 
 ---
@@ -245,7 +285,7 @@ name: How do we get there?
 * github to keep us on track
 
 ???
-* we'll just follow a simple recipe for success
+* we'll just follow a simple recipe for success - weekly progress
 * never had a team not have a successful working project
 
 
@@ -260,7 +300,7 @@ name: What is at the end?
 
 
 ???
-* together with DALI
+* together with DALI, previous 98, some other classes
 * 500+ people
 * not presentations (science fair style)
 * what to work towards
@@ -303,8 +343,10 @@ name: Problems to Solve
 * some of you have ideas, don't worry but take a step back and do some more ideating
 * Think outside of what is useful to Dartmouth students
 * startup advice is wrong - don't always have to solve a problem you yourself face
+  * we have all the same problems - finding out events/parties, waiting in line at kaf, buying stuff
 * new event apps, social network clones, and marketplaces have been attempted before and you might find it more rewarding to build something that challenges you.
 * sometimes can't be solved - event planning for instance - just needs everybody to use the same platform
+* consider improvements on existing things - or games
 
 
 ---
@@ -316,7 +358,7 @@ name: Outside the Box?
 * why build something boring?
 
 ???
-
+* with a team of cool people
 
 
 ---
@@ -328,6 +370,12 @@ name: Previous Project: Hindsite
 ???
 * better history chrome extension
 * full text search of every page you've visited - previews
+* was in the chrome store for a little while
+* cost a lot in hosting - they all had jobs
+* but they applied to ycombinator
+* and worked on it for an extra term too
+* sam altman kept it installed and logged in for a few months
+* cool problems to solve like scalability and security
 
 
 ---
@@ -389,21 +437,8 @@ name: just breathe
 * no kinect or hololens exp, or react-native etc
 * you can learn and build a lot in 6 months
 
-
 ---
-name:
-
-.medium[![](img/hacktivity_rules.jpg)]
-
-???
-* each person write down a random word
-* form teams of 4ish people
-* swap words with another team
-* brainstorm and create a product that ties together all words
-
-
----
-name: next steps
+name: next week
 
 .medium_small[![](img/hack-a-thing.gif)]
 
@@ -420,3 +455,39 @@ name: next steps
   * but don't get tooo attached
 * follow a tutorial
 * plan to spend at least 10 hours on this
+
+
+
+---
+name: Inspiration
+
+.left[![](https://media.giphy.com/media/26BkNrGhy4DKnbD9u/giphy.gif)]
+.right[![](https://media.giphy.com/media/QveMWHFk4ojsI/giphy.gif)]
+
+Start an inspiration board.
+
+
+???
+* keep track of things you see online that are interesting
+* clip pictures / urls / etc
+* we'll compile then for an upcoming milestones
+
+
+
+---
+name:
+
+.medium[![](img/hacktivity_rules.jpg)]
+
+* 10 Min - brainstorm
+* 30 Min - BUILD a prototype
+* 10 Min - Prep Pitches
+* 2 Min - Pitch It!
+
+???
+* each person write down a random word
+* form teams of 4ish people
+* swap words with another team
+* brainstorm and create a product that ties together all words
+* can be a digital or physical product
+* create a little presentation

@@ -41,10 +41,12 @@ All your projects on github should include a README.md file.  For this milestone
 
 ## GitHub
 
-This is also a time to figure out how to use git flow.  On your final project you'll be required to use git flow with feature branch style [pull requests](https://yangsu.github.io/pull-request-tutorial/).   You should make sure you have github set up with your [correct github email](https://help.github.com/articles/setting-your-email-in-git/) so that your commits are recognized as belonging to you.  Make sure you have at least 1 commit connected to your github email on this.
+This is also a time to figure out how to use git flow - if you are working with someone else.  On your final project you'll be required to use git flow with feature branch style [pull requests](https://yangsu.github.io/pull-request-tutorial/).   
+
+🚀 You should make sure you have github set up with your [correct github email](https://help.github.com/articles/setting-your-email-in-git/) so that your commits are recognized as belonging to you.  Make sure you have at least 1 commit connected to your github email on this.
 
 ## To Turn In
 
 * github url to your repo for your attempt
 * readme.md file included in repo per above
-* at least 1 commit per person
+* at least 2 commits per person with [author recognized by github](https://help.github.com/articles/why-are-my-commits-linked-to-the-wrong-user/#commits-are-not-linked-to-any-user).
