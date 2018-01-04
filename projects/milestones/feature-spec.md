@@ -43,9 +43,9 @@ We'll use this opportunity to get your first project repo started!  We'll be usi
 Every member on your team **must** use github classroom to set up the teams correctly and automatically.  Choose your term and section below:
 
 * [CS98 Section 1 starting in 17F](https://classroom.github.com/g/Q8mwfkT2)
-* CS98 Section 2 starting in 18W
+* [CS98 Section 2 starting in 18W](https://classroom.github.com/g/AJvcvBWj)
 
-The first person on your team will name the repo and the team. Each consecutive person will simply choose the repo and team to be granted permissions. Please use this as it keeps everything organized and in one place.  Once your team is created you will be able to create additional repositories as necessary within the cs98 github organization.
+The first person on your team will name the repo and the team. Each consecutive person will click on the same github classroom link above and simply choose the repo and team to be granted permissions. Please use this as it keeps everything organized and in one place.  Once your team is created and you have all gone through the classroom link you will be able to create additional repositories as necessary within the cs98 github organization.
 
 ## GitHub Wiki
 

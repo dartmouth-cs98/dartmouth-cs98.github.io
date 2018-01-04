@@ -380,7 +380,14 @@ name: The Tale Of Pretty Music Maker
 ---
 name: just breathe
 
-<iframe src="https://giphy.com/embed/mZHDnUBJsQ9xu" width="480" height="204" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+.medium[![](img/breathe.gif)]
+.medium[![](img/rocks.gif)]
+
+???
+
+* You can do it!  Some of the groups in the past had no experience with what they were building
+* no kinect or hololens exp, or react-native etc
+* you can learn and build a lot in 6 months
 
 
 ---
@@ -388,19 +395,28 @@ name:
 
 .medium[![](img/hacktivity_rules.jpg)]
 
+???
+* each person write down a random word
+* form teams of 4ish people
+* swap words with another team
+* brainstorm and create a product that ties together all words
+
 
 ---
 name: next steps
 
 .medium_small[![](img/hack-a-thing.gif)]
 
-* [Hack-a-thing-1](https://canvas.dartmouth.edu/courses/22238/assignments/111997)
-  * in pairs
+* [Hack-a-thing-1](../projects/milestones/hack-a-thing-1)
+  * individually or in pairs
   * choose some technology based on interesting
   * hack something together
+  * plan to spend 10 hours (min) learning/exploring
 
 ???
 * idea is to broaden your horizons
 * choose something you'd like to learn
 * potentially could be related to an idea you have
   * but don't get tooo attached
+* follow a tutorial
+* plan to spend at least 10 hours on this
