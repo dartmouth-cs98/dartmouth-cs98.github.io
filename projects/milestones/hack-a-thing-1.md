@@ -9,15 +9,18 @@ published: true
 ## To Start
 
 * setup and clone a github repo using github classroom here: https://classroom.github.com/g/aD7rqYWq
-* first person in your group to click the link above will provision the repo and name it
-* second person in your group should just click the link above also and select the proper group to be added to it
+* you may work with up to 1 other person on this - but you are welcome to also work individually. You may get more out of it individually.
+
+## Time Commitment/complexity
+
+You should plan to spend at least 10 hours on this. The workload of this course overall is 10-15hours a week — if you spend less your final product may suffer and you will make the world sad.
 
 ## Overview
 To get ready to build your project and to stretch our coding muscles this milestone will be a little bit different from the others.  We're going to spend a week to hack together using some technology you are interested in learning.  What you build could be related to project ideas you already have but don't be too tied to it as things could change.  Consider this an opportunity to play with some of the technologies that you are potentially considering using. If you might want to build a webapp that uses video or an ios app that uses accelerometer, etc, build a small test of that technology.  You are welcome to use this time to try your hand at coding in a framework related to your project, for instance React if you want to build a webapp, or Unity3D if you want to play with game stuff, etc.   If you've never coded in a particular technology now would be the time to try it out before you start working on a full project without feeling like you have to commit.
 
-## Teams
+## Team
 
-For this milestone you should work in pairs.  You can self register your team as a group on canvas. This is also an opportunity to try to work with someone new or try out a working dynamic with someone you might want to work with later.
+You may work with up to 1 other person on this. This can be an opportunity to try to work with someone new or try out a working dynamic with someone you might want to work with later.
 
 ## Build
 
@@ -32,7 +35,7 @@ If you follow a tutorial or two just remember to acknowledge this fact in your R
 All your projects on github should include a README.md file.  For this milestone all it needs is:
 
 * Short description of what you attempted to build
-* Who did what
+* Who did what (if you worked with someone else)
 * What you learned
 * What didn't work
 
