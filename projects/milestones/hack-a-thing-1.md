@@ -8,7 +8,7 @@ published: true
 
 ## To Start
 
-* setup and clone a github repo using github classroom here: https://classroom.github.com/g/aD7rqYWq
+* setup and clone a github repo using github classroom here: [https://classroom.github.com/g/aD7rqYWq](https://classroom.github.com/g/aD7rqYWq)
 * you may work with up to 1 other person on this - but you are welcome to also work individually. You may get more out of it individually.
 
 ## Time Commitment/complexity
