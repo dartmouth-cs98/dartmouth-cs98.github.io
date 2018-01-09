@@ -1,6 +1,6 @@
 ---
 layout: page_with_slides
-title: Design
+title: Ideas and Design
 published: true
 ---
 

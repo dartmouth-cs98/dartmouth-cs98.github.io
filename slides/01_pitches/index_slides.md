@@ -25,11 +25,25 @@ name: Today
 
 <iframe width="600" height="400" src="https://www.youtube.com/embed/J-GVd_HLlps?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-
-* Pitch Off
-* Work on Hactivity!
+* Thoughts on pitching
+* Ideas+
 
 ???
+* today talk about pitching ideas and do a idea workshop thing
+* I generally dislike formal brainstorming
+  - but hopefully this will be fun and fruitful
+
+---
+name: Hack-a-thing-1
+
+<iframe src="https://giphy.com/embed/tQ8uT9t0uK92M" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+* is coming along?
+
+???
+* anybody choose a thing to hack on?  
+* anybody want to share?
+
 
 
 ---
@@ -45,9 +59,6 @@ name: Story
 
 
 ???
-*
-
-
 ---
 name: Ok but like, why?
 
@@ -60,8 +71,11 @@ name: Ok but like, why?
 * get roommate to cleanup
 * go on a date
 * get a job
-* everything is pitching
-* present what you care about
+* anytime present what you care about
+
+* last term we had a pitching activity
+* where people pitched their favorite food and then we got that food later in term
+* we can do that or move on to an ideation workshop?
 
 
 ---
@@ -74,7 +88,7 @@ name: 10 Minutes
 1. Write the characteristics that make the food special
 1. Pick a few things that differentiate your food choice
 1. Think of a story or way to talk about what makes this food so special.
-1. Write a very short elevator pitch
+1. Write a very short elevator pitch - 1 minute
 1. Practice it with a partner
 
 ???
@@ -86,29 +100,103 @@ name: 15 Minutes Round One
 <iframe src="https://giphy.com/embed/97ZWlB7ENlalq" width="580" height="394" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 * pitch bracket each table
-* then each tables choose 1
+* each table chooses 1 winner
+* post name of winner in #section-2
 
 ???
-*
 
 ---
-name: 15 Minutes Final Round
+name: Final Round
 
 <iframe src="https://giphy.com/embed/2s7lb48XP0yje" width="480" height="261" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
+* each table winner pitches to everybody and we vote in slack with 👍 count for winner
+
 ???
 *
+
+---
+name: Ideas
+
+
+.fancy.medium[![](https://media.giphy.com/media/PIYuiILBo5OnK/giphy.gif)]
+
+
+???
+* hard to generate
+* today we'll do some brainstorming
+* today will be different
+* queue smoke machine
 
 
 
 ---
-name: Hack-a-thing-1
+name: Some Inspiration Sources
 
-<iframe src="https://giphy.com/embed/tQ8uT9t0uK92M" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-* due Tues!
-* build a thing and come prepared to share it
+* http://www.ycombinator.com/resources/
+* https://www.startupschool.org/
+* http://www.paulgraham.com/startupideas.html
+* https://www.ycombinator.com/rfs/
+* https://www.npr.org/podcasts/510313/how-i-built-this
+* https://dribbble.com/
+* http://abc.go.com/shows/shark-tank
+
+
 
 ???
-* anybody choose a thing to hack on?  
-* is assignment clear?
+* how i built this is a cool interview series
+* if at the end of class you in a place where you want to apply to ycombinator - that is ultimate stretch goal
+
+
+
+---
+name: Idea Thing
+
+
+* Write down 1 platform, 1 topic, 1 audience, 1 animal
+* on separete postits
+* put in cups
+
+
+
+
+???
+* platform like Vr
+* topics: like healthcare
+* audience: like kindergartners, or married stressed  parents, etc
+
+
+---
+name: Mix em up
+
+
+* choose 1 each
+* brainstorm individually for 3 minutes
+* then as table discuss options and choose 1 set of 4
+
+
+---
+name: Ideate
+
+* individually ideate for a couple of minutes on the chosen set
+* then as a team ideate together
+* 15 Minutes
+* swap 1 word with another team if you need
+
+
+---
+name: Identify and Sketch Features
+
+
+* split up your idea into main features
+  * collaboratively build it
+  * show user flows
+* prep a short pitch deck
+  * problem statement /story
+  * show your solution
+  * why are you the best team to do this
+
+
+---
+name: Pitch It!
