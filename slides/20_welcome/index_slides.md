@@ -110,7 +110,7 @@ name: 5 Minute Review
 name: 10 Minute Warmup
 
 
-.medium[![](https://media.giphy.com/media/26FKS6G3nQCgWBh3a/giphy.gif)]
+<iframe src="https://giphy.com/embed/26FKS6G3nQCgWBh3a" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 * use your team's `platform+audience+animal` combo
 * think about what the product could be given the changes
