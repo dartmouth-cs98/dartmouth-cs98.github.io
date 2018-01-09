@@ -120,7 +120,7 @@ name: 10 Minute Warmup
 * very brief lateral thinking
 
 ---
-name: New Directions 20 minutes
+name: New Directions 10 minutes
 
 .small[![](https://media.giphy.com/media/ztqABkC42zZx6/giphy.gif)]
 
