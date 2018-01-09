@@ -5,11 +5,17 @@ permalink: /slides/
 ---
 
 
-<span style="color: #F27D00">*posted prior to class*</span>
+### Term 1
 
 * [Welcome](00_welcome/)
 * [Pitch Off](01_pitches/)
 * [Design](03_design/)
+
+
+### Term 2
+
+* [Welcome](20_welcome/)
+
 
 
 <!-- * [3/28 Welcome](00_welcome/) -->
