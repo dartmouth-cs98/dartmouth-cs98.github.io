@@ -6,17 +6,16 @@ published: true
 
 ![](img/pitch.gif){: .fancy .medium}
 
-This is a warm-up round!
-
-A 3 minute presentation with 3 minutes of Q&A to pitch your idea to the class. You can pitch with at most 1 other person.
+A 3 minute presentation with 3 minutes of Q&A to pitch your idea to the class. You can pitch with *at most 1* other person.
 
 ## The Pitch:
 
-* Motivate idea, tell a story
+* Motivate idea, tell a story! Everyone loves stories.
 * Propose your solution
+  * OR pose the problem you want to attempt to solve.
 * Discuss any insights you in particular bring to the table
 
-You can use a slide deck but keep it very visual with at most 10 words on any individual slide!
+You can use a slide deck but keep it very visual with *at most 10 words* on any individual slide!
 
 
 ## To Turn In:
