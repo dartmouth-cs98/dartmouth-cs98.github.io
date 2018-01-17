@@ -43,7 +43,7 @@ All your projects on github should include a README.md file.  For this milestone
 
 This is also a time to figure out how to use git flow - if you are working with someone else.  On your final project you'll be required to use git flow with feature branch style [pull requests](https://yangsu.github.io/pull-request-tutorial/).   
 
-🚀 You should make sure you have github set up with your [correct github email](https://help.github.com/articles/setting-your-email-in-git/) so that your commits are recognized as belonging to you.  Make sure you have at least 1 commit connected to your github email on this.
+🚀 You should make sure you have github set up with your [correct github email](https://help.github.com/articles/setting-your-email-in-git/) so that your commits are recognized as belonging to you.  Make sure you have at least 2 commits connected to your github email on this.
 
 ## To Turn In
 
