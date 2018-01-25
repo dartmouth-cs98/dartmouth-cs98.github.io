@@ -28,7 +28,8 @@ name: Design
 
 ???
 * just some tips
-* not really a designer but here's what I've learned from hanging around designers
+* not really a designer (tried to go to graphic design school many years ago though)
+* here's what I've learned from hanging around designers
 * based on working on hundreds of projects
 
 
@@ -59,6 +60,7 @@ name: Step 2: Sketches
 ???
 * make them on paper first
 * much faster
+* we'll try to get to that today
 
 ---
 name: Step 3: Mockups
@@ -71,14 +73,16 @@ name: Step 3: Mockups
 
 
 ???
+* the case for mockups:
 * help you remember what needs to be built
 * much quicker to play around with different options quickly and easily to determine what works best for your product
-
+* coordinate with your team - keep everybody on track
 
 ---
 name: Step 4: Functional Mockups
 
 * put mockups together
+* built in to Figma or
 * Invision: https://www.invisionapp.com/education-signup
 * PopPaper: https://marvelapp.com/pop/
 
@@ -115,7 +119,8 @@ name: Hierarchy
 
 ???
 
-* When laying out your page, remember to think about the visual hierarchy
+* laying out your page, remember to think about the visual hierarchy
+* ordering of what users see based on size/color/movement
 * What will users eyes see first, your call to action, or the large user profile button that they never really need to go to
 * Try to imagine what you would notice first as a new user and then order your elements in terms of visual saliency appropriately
 * Larger and brighter colored things tend to be noticed first
@@ -128,6 +133,7 @@ name: Mindfulness
 
 .fancy.medium[![mockups](img/quote.jpg)]
 
+UX is like a joke...
 
 ???
 * famous designer
@@ -142,7 +148,8 @@ name: Mindfulness
 ---
 name: resources
 
-* lots of resources out there
+lots of resources out there
+
 * [cs52.me/workshops/design](http://cs52.me/workshops/design)
 * https://dribbble.com/
 * https://blog.prototypr.io/design-for-programmers-d38c56982cd0
@@ -152,7 +159,70 @@ name: resources
 ???
 * best form of flattery is imitation
 
----
-name: milestone
 
-[mockups and data models](../projects/milestones/mockups-models)
+
+---
+name: NEXT Scaffolding
+
+ .fancy.medium[![](http://i.giphy.com/GWbMbUysgsIda.gif)]
+
+* initial code scaffolding
+* tools and frameworks chosen
+* team has local dev environment set up
+
+???
+* Next thursday
+* Initial code scaffolding started
+* component plan
+* tools and frameworks chosen
+* everybody has local dev environment set up
+
+
+
+---
+name: TODAY Feature Spec + Sketches Start
+
+ .fancy.medium[![](http://i.giphy.com/13NR9a0aYuYMy4.gif)]
+
+* terse walk-though of project
+* from users perspective
+* terse listing of features
+* terse+memorable user personas
+* [mockups and sketches](../projects/milestones/mockups-models)
+
+???
+* A walk-though of your project from the users perspective listing out every feature that it should have
+* a few user stories attached
+* mockups of user experience.
+* lets first finish these yes?
+
+
+---
+name:  Sketch Time Step 1: Generate Options
+
+
+.fancy.medium[![](../../projects/milestones/img/papersketch.png)]
+
+* which **(2-5) main features** you will sketch that are essential to your product
+* thick markers, paper, timekeeper
+* **5 minutes of individual sketching per feature** (improv rules)
+* compare sketches and create group versions that incorporate the best (active agreement/disagreement)
+* Aim for **2-3 versions per feature**.
+
+???
+* Fidelity is at its lowest. Use the “thick marker trick” - the thicker the marker, the more you force yourself to keep the designs at a conceptual level (it’s difficult to add in details when the marker tip is so large!). Whiteboard markers are great here too, just take photos!
+* Include little or no specific content
+* Drop any worries about scale, straight lines, grids, etc.
+* Think in flows whenever possible (what pages come after?)
+* Match your sketches with your flow diagram - what part of the flow is not yet in the sketch?
+* Never settle for your first idea!
+
+
+---
+name:  Sketch Time Step 2
+
+
+.fancy.medium.left[![](../../projects/milestones/img/popapp-prototype-animation.gif)]
+
+* Put in [Pop Paper](https://marvelapp.com/pop/)
+* Test User Flow
