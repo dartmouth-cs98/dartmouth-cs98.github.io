@@ -43,7 +43,7 @@ Once you are ready to make it prettier just go straight into a tool like [Figma]
 
 There are many good design resources out there. Here's [one](http://cdn.ustwo.com/PPP/PP3.pdf) about pixel perfect design.
 
-[Here's an beautiful example](https://projects.invisionapp.com/share/HABOKZQRZ#/) of an invision walkthough for a smaller scope 2 week project from CS52 and [a tutorial for figma](http://cs52.me/workshops/design).  And another cool invision mockup for a [project that did AR](https://projects.invisionapp.com/share/76AJI0NJN).
+[Here's an beautiful example](https://projects.invisionapp.com/share/HABOKZQRZ#/) of an invision walkthough for a smaller scope 2 week project from CS52 and [a tutorial for figma](http://cs52.me/workshops/design).  And another cool invision mockup for a [project that did AR](https://projects.invisionapp.com/share/K6AR2EJ5U).
 
 ## Site Map / Flow Diagram
 
