@@ -15,3 +15,4 @@ Don't forget to keep logs of each of your meetings - and that you have scheduled
 
 ## To Turn In:
 * Individually, a link to a PR or two that you are proud of with a couple of sentences about why you are proud of it and how it was important for the project.  Remember you should all be doing pull requests - not pushing commits directly.
+* Don't forget to try for 3-5 closed issues on github per person per week.
