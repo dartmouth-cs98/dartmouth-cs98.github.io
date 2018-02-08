@@ -5,12 +5,13 @@ published: true
 ---
 
 
-![](img/workinprogress.gif){: .fancy .medium}
+![](https://media.giphy.com/media/26tneSGWphvmFlUju/giphy.gif){: .fancy .medium}
 
+<!-- img/workinprogress.gif -->
 
 Keep going, you're doing great!  Show some progress. Do well. Make pretty code.
 
-Don't forget to keep logs of each of your meetings - and schedule at least 1 weekly catch up using [calendly](https://calendly.com/timofei/cs98).  Nothing specific to turn in this week except:
+Don't forget to keep logs of each of your meetings - and that you have scheduled at least 1 individual catch up for this term using [calendly](https://calendly.com/timofei/cs98).  Nothing specific to turn in this week except:
 
 ## To Turn In:
-* Individually, a link to a PR that you are proud of with a sentence about why.
+* Individually, a link to a PR or two that you are proud of with a couple of sentences about why you are proud of it and how it was important for the project.  Remember you should all be doing pull requests - not pushing commits directly.
