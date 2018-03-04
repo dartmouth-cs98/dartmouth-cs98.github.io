@@ -7,7 +7,7 @@ published: true
 
 ![](img/endofterm.gif){: .fancy .small}
 
-![](img/technigala-18w-poster.jpg){: .fancy .medium}
+![](img/technigala-18w-poster.png){: .fancy .medium}
 
 This is your final for the term and a public demo of the projects! Invite your friends, family, enemies, and randos!  There will be food and drinks! It will be science fair style and each team will have a spot marked for them in the Hanover Inn Ballroom.
 
