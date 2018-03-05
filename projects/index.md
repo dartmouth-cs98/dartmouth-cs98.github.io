@@ -107,4 +107,5 @@ During the second term we'll focus on specific weekly milestones that each team 
 **Week 10**:<br>
   MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
 
-- [ ] Milestone: [Term Demos and Testing](milestones/demos)
+- [ ] Milestone: [FINAL DEMOS](milestones/demos)
+- [ ] Milestone: [Final Project Submission](milestones/final)
