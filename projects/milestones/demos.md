@@ -25,6 +25,8 @@ This is your time to shine.  Show off what you built in all of its glory.  Your 
 
 The goal here is to celebrate what you built and pitch it to users.  You should be bug free and fully operational.
 
+For Section 1, your last step is your [final submission](final.md).
+
 ## For Section 2: Focus on MPV and TESTING
 
 Demos should be MVP - showcase features that are essential for your project and focus on getting those working. IE, what is the core thing that your project does — you don't need any extra stuff like settings, edge cases, unnecessary fields, etc —  but you do need the main idea to come across and be testable.  If you need help prioritizing, slack me!
@@ -34,6 +36,11 @@ Your product needs to be usable by the public.  If it is an app get it on testfl
 You'll want to be able to observe and keep notes on how people use what you've built - have a form with some questions.  Don't ask general questions like "would you use this?". Ask more specific questions that you want resolved.  Do you prefer a slider or a dropdown?  How would you use this product?  You’ll use this feedback to start the next term so this is important.  Don't forget to collect data.  Also keep good observational notes that are more than,  "it seemed people liked it", and more like, "30% of users attempted clicking button 3 when it wasn't enabled".  Be creepy, watch people interact with your product.
 
 Grades for this term will be "ONGOING" in banner.
+
+To Turn in:
+* fill out team form
+* submit short short super short what went well / what didn't
+* summarize your user testing and feedback on a new wiki page on your repo `user testing 18w`- record as much as you can remember.
 
 
 ![](http://i.giphy.com/p9O75RBS946He.gif){: .fancy .small}
