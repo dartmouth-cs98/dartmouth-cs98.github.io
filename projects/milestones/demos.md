@@ -37,7 +37,7 @@ You'll want to be able to observe and keep notes on how people use what you've b
 
 Grades for this term will be "ONGOING" in banner.
 
-To Turn in:
+To Turn In for Section 2:
 * fill out team form
 * submit short short super short what went well / what didn't
 * summarize your user testing and feedback on a new wiki page on your repo `user testing 18w`- record as much as you can remember.
