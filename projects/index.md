@@ -87,22 +87,33 @@ During the second term we'll focus on specific weekly milestones that each team 
 
 - [ ] Milestone: [Milestone Planning](milestones/milestone-plan)
 
+**Week 3**:<br>
+  Buddy team code review. In class we will pair up teams and review each others codes. There will be a small github component to this.
+
 **Week 4**:<br>
+  A team set milestone is accomplished or updated.
+
+**Week 5**:<br>
+  Stretch goal setting.  Each member of every team needs to choose a stretch goal to work towards.
+
+**Week 6**:<br>
   Just a checkin to share out progress and things learned with the other teams.
 
-- [ ] Milestone: [Midterm Checkin](milestones/midterm-checkin)
+  - [ ] Milestone: [Midterm Checkin](milestones/midterm-checkin)
+
+**Week 7**:<br>
+  In class session of breaking each others projects to reveal bugs and give last minute feedback.
+
+- [ ] Milestone: [Pre-Final-Demo Bug Hunt](milestones/final-bughunt)
 
 **Week 8**:<br>
   Come up with a plan for publishing the product and a go to market strategy.
 
 - [ ] Milestone: Publishing and Go To Market Strategy
-
 <!-- [Publishing and Go To Market Strategy](milestones/publishing) -->
 
 **Week 9**:<br>
-  In class session of breaking each others projects to reveal bugs and give last minute feedback.
-
-- [ ] Milestone: [Pre-Final-Demo Bug Hunt](milestones/final-bughunt)
+  Stretch goal milestones accomplished.
 
 **Week 10**:<br>
   MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.

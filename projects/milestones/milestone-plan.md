@@ -20,8 +20,9 @@ Enter in your milestones on your project github repos.  At this point create at 
 
 ![](img/issuesviews.jpg){: .fancy .medium}
 
-Each milestone now needs to be split up into multiple issues.  You can think of the issues as individual tasks: "create login button",  "api endpoint for user profile", etc.  Issues can also be bugs that you find along the way.  You should assign people to each issue as you work on them so your team knows who is doing what. For now, populate the first few milestones with some tasks!  Break up large tasks into individual smaller ones, each one should be under a few hours of work. The smaller the tasks the actually faster you will work (not just the appearance of speed).  It is easier to take on a manageable scope issue and work through it than if the issue has multiple steps that quickly become overwhelming to think through.  Feel free to assign each other tasks, a little aggressiveness is ok!  
+Each milestone now needs to be split up into multiple issues.  You can think of the issues as individual tasks: "create login button",  "api endpoint for user profile", etc.  Issues can also be bugs that you find along the way.  You should assign people to each issue as you work on them so your team knows who is doing what. For now, populate the first few milestones with some tasks!  Break up large tasks into individual smaller ones, each one should be under a few hours of work. The smaller the tasks the actually faster you will work (not just the appearance of speed).  It is easier to take on a manageable scope issue and work through it than if the issue has multiple steps that quickly become overwhelming to think through.  Feel free to assign each other tasks, a little aggressiveness is ok!
 
+You should have at least 1 assigned issue per team member for your first milestone.
 
 
 ## Bug Fixes
@@ -35,5 +36,5 @@ Do you have any bugs left from last term?  Now's a good time to triage them and 
 
 ## To Turn In:
 * github links to milestones in issues
-* if you have multiple repos you'll probably want to have milestones entered in both - they can be the same or specific (for instance server vs frontend might have different milestones). Submit links to each.
+* if you have multiple repos you might want to have milestones entered in both - they can be the same or specific (for instance server vs frontend might have different milestones). Submit links to each. Not the same issues usually of course.
 * work on and close a few issues, in fact since you have some time, complete your first milestone or two. Let's front load this term and get a lot done in the next couple of weeks. Submit links to any closed issues.

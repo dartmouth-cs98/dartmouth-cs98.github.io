@@ -59,8 +59,6 @@ As soon as you can you should have a team meeting and work through some of these
 
 #### What are your next steps?
 
-## Team Selfie
-*Post a team selfie as proof that you met in person. Rewards if your team meets for food together.*
 
 </pre>
 

@@ -46,55 +46,6 @@ name: Room Stuff
   * coding, help, snack time
 
 
----
-name: Feedbacks
-
-
-* could have done a little more to help projects have real definition before diving into them 👎
-* overall emphasis on design thinking was good 👍
-* The hack-a-thing was a cool introduction to the term. 👍
-* hack-a-thing was a cool way to start. 👍
-* Lots of time wasted in beginning of term before starting project 👎
-* wish we had started working on the actual projects earlier in the term 👎
-* The pace of the course is perfect. 🎉
-
----
-name: Feedbacks on Milestones
-
-* the milestones were useful in organizing our project 👍
-* milestones were a bit contrived, and compromised some of our own independence in the project 👎
-* I liked the milestones and how they forced you to keep up or fall behind 👍
-* Maybe more milestones later in term? Work kind of piled up at the end 👷
-* More structure, exact expectations as they line up with grading would be nice. 💯
-
-
----
-name:  Feedbacks on feedback
-
-* More rigorous standards. 💭
-* sometimes it was unclear about what exactly was due (PRs vs. issues), and when/where to turn it in (on canvas?)
-* attendance grade would be excellent to make sure your team isn't the only team that's not at class ⛔
-* more clarity on due dates 📅
-
-???
-* every date is on canvas
-
-
----
-name:  Overall
-* This course was good, depends how the project turns out next term 🏄
-* Not a lot – requirement for CS major. ❄️
-* This is my favorite CS class so far as I get to apply what I learned. 💯
-* I think it's the perfect way to end my computer science major at Dartmouth. :end
-* great way to wrap up my cs major & i am excited for next term
-* great job at moderating group cohesion, and should focus more attention on group participation.
-* really enjoyable presence in classroom, cannot imagine a more approachable professor.
-* added a lot of confidence in my ability to code
-
-
-???
-
-
 
 ---
 name: Inspiration Time
@@ -118,14 +69,14 @@ name: Ad Agency
 
 
 ???
-*
+* need to randomize teams
 
 
 ---
 name: Start Agency
 
-1. swap project with another team
 1. write project name on board
+1. swap tables with another team
 1. come up with Agency name and write below project name
 
 
