@@ -201,6 +201,25 @@ name: user testing review
   * [WanderLust](https://github.com/dartmouth-cs98/18w-wanderlust/wiki/User-Testing-18W)
 
 
+
+---
+name: New Product Ad Campaign
+
+.small[![](https://media.giphy.com/media/l0HlKQn0fNxEPaOYg/giphy.gif)]
+
+* 35 minutes
+* come up with a short video ad for what you envision the product to be
+* ~1 min
+* post on slack in #section-2
+
+???
+* shoot video on phones - someone put together in imovie or whatnot
+* can be cheezy infomercial style
+* or can act out skits live with slides as backdrops
+* if you need props can leave and come back
+
+
+
 ---
 name: New Directions 10 minutes
 
@@ -213,19 +232,3 @@ name: New Directions 10 minutes
 
 ???
 *
-
-
----
-name: New Product Ad Campaign
-
-.small[![](https://media.giphy.com/media/l0HlKQn0fNxEPaOYg/giphy.gif)]
-
-* 35 minutes
-* come up with a short video ad for what you envision the product to be
-* ~1 min
-
-???
-* shoot video on phones - someone put together in imovie or whatnot
-* can be cheezy infomercial style
-* or can act out skits live with slides as backdrops
-* if you need props can leave and come back

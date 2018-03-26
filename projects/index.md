@@ -81,11 +81,10 @@ During the second term we'll focus on specific weekly milestones that each team 
   We'll start out the term with some self reflection about the project — to try to incorporate feedback from user testing and consider any pivots etc.
 
 - [ ] Milestone: [Project Self Reflection](milestones/project-self-reflection)
+- [ ] Milestone: [Milestone Planning](milestones/milestone-plan)
 
 **Week 2**:<br>
-  This is also the time to plan out your milestones for this term. We will do fewer general milestones but will instead focus on custom milestones for your individual projects.
-
-- [ ] Milestone: [Milestone Planning](milestones/milestone-plan)
+  TBD
 
 **Week 3**:<br>
   Buddy team code review. In class we will pair up teams and review each others codes. There will be a small github component to this.

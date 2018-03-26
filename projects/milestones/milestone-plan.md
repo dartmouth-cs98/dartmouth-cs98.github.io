@@ -14,7 +14,7 @@ As you think about your milestones, consider any feedback you collected during t
 ## GitHub Milestones
 ![](img/milestonesview.jpg){: .fancy .medium}
 
-Enter in your milestones on your project github repos.  At this point create at least a milestone per week up through week 5. Enter in due dates for each. Give your best shot at these, they should be more specific than "make progress for week 2".  They should be less specific than "create login button" (this is an issue rather than a milestone). Examples include: "login and user profile flow",  "event review functionality", "fully integrate current flows with api".  You can change these around later, but for now do put some thought into them.
+Enter in your milestones on your project github repos.  At this point create at least 1 milestone per week up through week 5. Enter in due dates for each. Give your best shot at these, they should be more specific than "make progress for week 2".  They should be less specific than "create login button" (this is an issue rather than a milestone). Examples include: "login and user profile flow",  "event review functionality", "fully integrate current flows with api".  You can change these around later, but for now do put some thought into them.
 
 ## Issues
 
@@ -22,7 +22,7 @@ Enter in your milestones on your project github repos.  At this point create at 
 
 Each milestone now needs to be split up into multiple issues.  You can think of the issues as individual tasks: "create login button",  "api endpoint for user profile", etc.  Issues can also be bugs that you find along the way.  You should assign people to each issue as you work on them so your team knows who is doing what. For now, populate the first few milestones with some tasks!  Break up large tasks into individual smaller ones, each one should be under a few hours of work. The smaller the tasks the actually faster you will work (not just the appearance of speed).  It is easier to take on a manageable scope issue and work through it than if the issue has multiple steps that quickly become overwhelming to think through.  Feel free to assign each other tasks, a little aggressiveness is ok!
 
-You should have at least 1 assigned issue per team member for your first milestone.
+You should have at least 1 assigned issue per team member for your first due milestone and at least 1 per member that is not assigned in the future milestones.
 
 
 ## Bug Fixes
