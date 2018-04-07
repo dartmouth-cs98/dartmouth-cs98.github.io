@@ -16,6 +16,8 @@ As you think about your milestones, consider any feedback you collected during t
 
 Enter in your milestones on your project github repos.  At this point create at least 1 milestone per week up through week 5. Enter in due dates for each. Give your best shot at these, they should be more specific than "make progress for week 2".  They should be less specific than "create login button" (this is an issue rather than a milestone). Examples include: "login and user profile flow",  "event review functionality", "fully integrate current flows with api".  You can change these around later, but for now do put some thought into them.
 
+However, there are two schools of thought here - you could name the milestones by feature-sets,  something like `user login flow` and then have issues associated with that.  Or you could just make them `week 1 sprint` and such.  You are free to choose either way - the important thing here is for you to be able to see progress and keep your issues organized. Either way you should have at least 1 milestone with a due date per week.
+
 ## Issues
 
 ![](img/issuesviews.jpg){: .fancy .medium}
