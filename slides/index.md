@@ -14,7 +14,9 @@ permalink: /slides/
 
 ### Term 2
 
-* [Welcome](20_welcome/)
+* [Welcome 17f](20_welcome_winter/)
+* [Welcome 18w](20_welcome/)
+* [Code Review](22_code_review/)
 
 
 
