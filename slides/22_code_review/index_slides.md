@@ -26,6 +26,8 @@ name: Buddy Team Code Reviews
 
 ???
 * gonna do buddy code reviews
+* who has had official code reviews at in internship or something?
+* how did they go?
 
 
 ---
