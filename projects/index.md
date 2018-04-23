@@ -95,6 +95,8 @@ During the second term we'll focus on specific weekly milestones that each team 
 **Week 5**:<br>
   Stretch goal setting.  Each member of every team needs to choose a stretch goal to work towards.
 
+- [ ] Milestone: [Stretch Goals!](milestones/stretch-goals)
+
 **Week 6**:<br>
   Just a checkin to share out progress and things learned with the other teams.
 
