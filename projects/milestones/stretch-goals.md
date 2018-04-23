@@ -30,7 +30,7 @@ Create a wiki page on your github repo called: Stretch Goal Evaluation
 
 ## To Turn In:
 * Individually (canvas personal stretch goals):
-  * describe a stretch goal that you would personally like for your own project to accomplish and how it fits the grand vision of the project.
+  * describe a stretch goal that you would personally like for your project to accomplish, why do you feel it is critical, what is standing in your way?
   * submit who you partnered up with to discuss this
   * and how you felt presenting it to the team went (very short).
 * As a team (canvas group stretch goals):
