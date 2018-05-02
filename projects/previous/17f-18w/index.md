@@ -15,6 +15,7 @@ title: 17F-18W
 >
 > ![](img/meshcash-StartupAndOnboarding.gif){: .small .fancy}
 > ![](img/meshcash-ReceivingPaymentRequest.gif){: .small .fancy}
+> ![](img/meshcash.jpeg){: .medium .fancy}
 
 
 # MiAM: Make It A Meme! 17F-18W #
@@ -29,6 +30,8 @@ title: 17F-18W
 > ![](img/miam-battle.gif){: .small .fancy}
 > ![](img/miam-editor.gif){: .small .fancy}
 > ![](img/miam-remix.gif){: .small .fancy}
+> ![](img/miam.jpg){: .medium .fancy}
+
 
 
 # Planit 17F-18W #
@@ -42,6 +45,7 @@ title: 17F-18W
 > ![](img/planit-landing_page.png){: .medium .fancy}
 > ![](img/plantit1.gif){: .medium .fancy}
 > ![](img/planit2.gif){: .medium .fancy}
+> ![](img/planit.png){: .medium .fancy}
 
 
 # Scannibble 17F-18W #
@@ -55,6 +59,7 @@ title: 17F-18W
 >
 > ![](img/scannibble1.gif){: .small .fancy}
 > ![](img/scannibble2.gif){: .small .fancy}
+> ![](img/scannibble.jpg){: .medium .fancy}
 
 
 # WhoAmI 17F-18W #
@@ -66,6 +71,7 @@ title: 17F-18W
 > * [github (private)](https://github.com/dartmouth-cs98/17f-smr)
 >
 > ![](img/whoami1.gif){: .fancy}
+> ![](img/whoami-selfie.jpg){: .medium .fancy}
 
 
 # WebAdventure 17F-18W #
@@ -79,3 +85,4 @@ title: 17F-18W
 > ![](img/webadventure-lobby.gif){: .medium .fancy}
 > ![](img/webadventure-gameplay.gif){: .medium .fancy}
 > ![](img/webadventure-end.gif){: .medium .fancy}
+> ![](img/webadventure-selfie2.jpg){: .medium .fancy}
