@@ -7,27 +7,27 @@ published: true
 
 ![](img/endofterm.gif){: .fancy .small}
 
-![](img/technigala-18w-poster.png){: .fancy .medium}
+![](img/technigala18S.jpg){: .fancy .medium}
 
-This is your final for the term and a public demo of the projects! Invite your friends, family, enemies, and randos!  There will be food and drinks! It will be science fair style and each team will have a spot marked for them in the Hanover Inn Ballroom.
+This is your final for the term and a public demo of the projects! Invite your friends, family, enemies, and randos!  There will be food and drinks!
 
-Come at 5:45 to set up your table, clean your laptop screens, plug things in, get drink tickets.
+Demos are **Wednesday, May 30th, First Floor Berry 6-8pm**. Please show up at **5:45pm** to set up your table (remember we could have had a final instead!).  The event will be science fair style - you will have a table with your project name and either a screen or a stand for a laptop to better demo your awesome projects. Come early to clean up your screens and set things up.
 
 Be prepared to
-* Motivate the idea to a general audience
+* Motivate the idea to a general audience (very brief intros, don't spend too much time talking)
 * Show it in action and __let people try it out__!
 * Discuss challenges
 * Ask for feedback
 
-## For Section 1: Your Final DEMO!
+<!-- ## For Section 1: Your Final DEMO! -->
 
 This is your time to shine.  Show off what you built in all of its glory.  Your product should be public: if it is an app, hopefully it was approved and in your platforms app store, if it is a web app have it hosted on a real domain (register something better than surge or heroku).  If you have time, print out some business cards at Gnomon if you want to get users onto your platform.
 
 The goal here is to celebrate what you built and pitch it to users.  You should be bug free and fully operational.
 
-For Section 1, your last step is your [final submission](final.md).
+Your last step is your [final submission](final.md).
 
-## For Section 2: Focus on MPV and TESTING
+<!-- ## For Section 2: Focus on MPV and TESTING
 
 Demos should be MVP - showcase features that are essential for your project and focus on getting those working. IE, what is the core thing that your project does — you don't need any extra stuff like settings, edge cases, unnecessary fields, etc —  but you do need the main idea to come across and be testable.  If you need help prioritizing, slack me!
 
@@ -40,7 +40,7 @@ Grades for this term will be "ONGOING" in banner.
 To Turn In for Section 2:
 * fill out team form
 * submit short short super short what went well / what didn't
-* summarize your user testing and feedback on a new wiki page on your repo `user testing 18w`- record as much as you can remember.
+* summarize your user testing and feedback on a new wiki page on your repo `user testing 18w`- record as much as you can remember. -->
 
 
 ![](http://i.giphy.com/p9O75RBS946He.gif){: .fancy .small}
