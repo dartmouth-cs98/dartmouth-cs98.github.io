@@ -16,7 +16,7 @@ Make sure all your readme's are updated and that getting the project up and runn
 Submit a debrief of the term and your team survey.  Super short - please do not spend a lot of time on this. I want to get a sense of how things went for you.
 
 ## Gifs
-Create a couple of gifs of your product in action. These can be short - show some cool part of your product working. This will be displayed for posterity to inspire the next generation!
+Create several gifs of your product in action. These can be short - show some cool part of your product working. This will be displayed for posterity to inspire the next generation!
 
 There are lots of gif making apps out there: [gif brewery](https://gfycat.com/gifbrewery), [giphycapture](https://giphy.com/apps/giphycapture), [screentogif](http://www.screentogif.com/)
 
@@ -30,5 +30,5 @@ There are lots of gif making apps out there: [gif brewery](https://gfycat.com/gi
   * brief summary of any insights from user testing / conclusions drawn
   * any potential next steps (if you were going to take this further)
   * what would have made this a better experience?
-* links to gifs of very short demos of your product
+* links to gifs of short demos of your product
 * make sure to fill out the team survey
