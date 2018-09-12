@@ -100,7 +100,7 @@ img.medium_small, .medium_small img {
   width: 50% !important;
 }
 
-img.small, .small img {
+img.small, .small img, iframe.imgur-embed-iframe-pub {
   width: 45% !important;
   /*margin-left: 17.5%;*/
 }
@@ -108,7 +108,6 @@ img.tiny, .tiny img {
   width: 40% !important;
   /*margin-left: 17.5%;*/
 }
-
 
 /*lets have us some fancy images*/
 .main-content img.fancy, .fancy img {

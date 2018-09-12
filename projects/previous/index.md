@@ -19,6 +19,8 @@ published: true
 > [![](17f-18w/img/miam-feed.gif){: .small .fancy}](17f-18w)
 > [![](17f-18w/img/meshcash-ReceivingPaymentRequest.gif){: .small .fancy}](17f-18w)
 
-# [18W-18S](#) #
+# [18W-18S](18w-18s) #
+
+> [![](18w-18s/img/monad.gif){: .medium .fancy}](18w-18s)
 
 > Coming Soon!
