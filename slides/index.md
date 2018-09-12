@@ -7,16 +7,16 @@ permalink: /slides/
 
 ### Term 1
 
-* [Welcome](00_welcome/)
-* [Pitch Off](01_pitches/)
-* [Design](03_design/)
+<!-- * [Welcome](00_welcome/) -->
+<!-- * [Pitch Off](01_pitches/) -->
+<!-- * [Design](03_design/) -->
 
 
 ### Term 2
 
-* [Welcome 17f](20_welcome_winter/)
-* [Welcome 18w](20_welcome/)
-* [Code Review](22_code_review/)
+<!-- * [Welcome 17f](20_welcome_winter/) -->
+<!-- * [Welcome 18w](20_welcome/) -->
+<!-- * [Code Review](22_code_review/) -->
 
 
 
