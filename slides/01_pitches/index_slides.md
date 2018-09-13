@@ -155,7 +155,7 @@ name: Idea Thing
 
 
 * Write down 1 platform, 1 topic, 1 audience, 1 animal
-* on separete postits
+* on separate post-its
 * put in cups
 
 

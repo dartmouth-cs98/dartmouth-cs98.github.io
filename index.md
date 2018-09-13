@@ -14,11 +14,11 @@ Participation in a software engineering group project to meet a real-world need.
 
 # Prerequisite
 
-COSC 50 or permission of [instructor](mailto:tim@cs.dartmouth.edu). COSC 31 recommended. Open only to students pursuing a major in Computer Science or a modified major with Computer Science as the primary part. This course is normally taken in the senior year. This course must be taken in two consecutive terms, either fall/winter or winter/spring.
+Open only to students pursuing a major in Computer Science or a modified major with Computer Science as the primary part. This course is normally taken in the senior year. This course must be taken in two consecutive terms, either fall/winter or winter/spring.
 
 # Project Course Overview
 
-In this course you will have the freedom to pitch and develop your own project idea. It is your time to spend two terms to create your own startup product. The first class meetings will be devoted to short technology hackathons, brainstorming sessions, and choosing your development teams. You will be encouraged to be creative and push yourselves technically, but simultaneously to keep your project scope feasible. Often the most successful projects start out as a small, clever idea, while projects that are overly ambitious will prevent you from thoroughly investigating the concept.
+In this course you will have the freedom to pitch and develop your own project idea. It is your time to spend two terms to create your own startup product. The first class meetings will be devoted to short technology hackathons, brainstorming sessions, and choosing your product teams. You will be encouraged to be creative and push yourselves technically, but simultaneously to keep your project scope feasible. Often the most successful projects start out as a small, clever idea, while projects that are overly ambitious will prevent you from thoroughly investigating the concept.
 
 Some things to consider while thinking about project ideas:
 
@@ -48,20 +48,20 @@ Groups are required to establish a team meeting schedule for coding hours throug
 
 ## Schedule:
 
-There are 2 sections of this course!  Section 1 (COSC98.01) is **17F + 18W** and Section 2 (COSC98.02) is **18W + 18S**.  You need to take either one or the other section and cannot mix and match.
+There are 2 sections of this course!  Section 1 (COSC98.01) is **18F + 19W** and Section 2 (COSC98.02) is **19W + 19S**.  You need to take either one or the other section and cannot mix and match.
 
 ### Class:
 
-  - **Section 1 (17F-18W)**
+  - **Section 1 (18F-19W)**
     - 3B Classes will meet Tuesday and Thursday (4:30-6:20).
     - Thursday class time will used for team meetings and working together.
     - 3BX will be available for help / team meeting time.
-    - Location: Carson 61 (Thursdays Carson 60 is overflow space)
-  - **Section 2 (18W-18S)**
+    - Location: Carson 61
+  - **Section 2 (19W-19S)**
     - 3A Classes will meet Monday (3:30-5:20) and Thursday (4:30-6:20).
     - Thursday class time will used for team meetings and working together.
     - 3AX will be available for help / team meeting time.
-    - Location: Carson 61 (Thursdays Carson 60 is overflow space)
+    - Location: TBD
 
 Class time will be used for topic hackathons, team meetings, showing your work, and coding together time.  Each project team will also meet separately every week to work and hack together.  At least 10 hours per week is required and will be logged.
 

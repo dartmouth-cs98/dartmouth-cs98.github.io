@@ -21,14 +21,9 @@ name: base
 ---
 name: CS98
 
-<iframe width="600" height="400" src="https://www.youtube.com/embed/fd_9qwpzVBQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
----
-name: CS98
-
 ## Senior Design and Implementation Project
 
-#### _the startup experience_
+#### _the startup experience_<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^<font style="color:grey;font-style:italic;">founder</font>
 
 ???
 * 2 terms long
@@ -60,12 +55,12 @@ name: etc
 
 .medium_small[![](http://i.giphy.com/tn8zWeNYA73G0.gif)]
 
-* 3A — 4:30-6:20pm - Carson 61
-* Mondays are regular
-* Thursdays are mostly team meeting and work time (Carson 61+60)
+* 3B — 4:30-6:20pm - Carson 61
+* Tuesdays various class things
+* Thursdays are mostly team meeting and work time (Carson 61)
 * x-hours
   * Mon 5:35 - 6:25pm
-  * coding, help, snack time
+  * meeting time as necessary - room available
 
 ???
 * coding together
@@ -97,9 +92,10 @@ name: Code
 * internet full of codes is a good thing - we're all archeologists - puzzle solvers
 * if copy - just cite it
 * sharing is caring (when cited)
-* want you to be able to show your work - have lots of green squares on github
+* goals is to share your work - have lots of green squares on github
 * remember, I am hyper available, just talk to me
 * helps me helps your teammates
+* sometimes important because maybe there's more reasoning to why something was done some way
 
 
 
@@ -117,10 +113,12 @@ name: Slack
 
 ???
 * i don't do email well...
-* how many of you signed on?
+* will send out invites later today
 * teams that use slack do better - its true - the bestest (and canvas)
 * don't use groupme or texting, if issues come up i can't help
 * don't worry about me being in channels - i'm friendly and don't bite - here to help
+* honestly don't read unless you @mention me
+* and if problems come up later there's history and i'm aware of it
 
 ---
 name: Grading
@@ -133,19 +131,29 @@ name: Grading
 * Github pull requests and commits
 * Project difficulty
 * Individual contribution scaling vs Team grade
+* 1 Individual 30 minute meetings at beginning of each term
+* What you set out to do and how far you get is considered
 
 ???
 * may be adjusted slightly
 * your grade my vary based on individual contribution (combined metric of time+feedback+participation+github)
-* logs are like hour logs for  billing at a company - slightly annoying but keeps everybody on target - will be pretty easy
+* logs are like hour logs for  billing at a company - will attach to git flow somehow instead this time
 * weekly checkins will start once you have teams
-* may use thursdays for that - not sure
+* will send out info about doing 1 goal setting meeting individually in the next couple of weeks for each of you
+* grumpier in my old age
+* have in the past been too nice at the beginning - leading to disappointment all around at the end
+* people have complained that project goals weren't clear and they were penalized about user experience issues
+* "didn't realize that there would be a focus on UX and whether the project was usable"
+* problem unless researchy or difficult then we can talk about pivoting / progress on solving the problem
+* again talk to me if things are unclear
 
 
 ---
 name: Project Complexity
 
-<iframe src="https://giphy.com/embed/8xZp5BHGTNqYE" width="219" height="380" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+.tiny.fancy[![](img/puppy-shake-head.gif)]
+
 
 * code full system - no platforms as a services
 * reasonable complexity - server/client/computation
@@ -158,10 +166,11 @@ name: Project Complexity
 * it is two terms so you have time to implement something cool!
 * don't worry we'll figure this out together
 * reward for challenge - min complexity - but better grade if challenged
-* going to try out: easy - medium - hard levels
+* will give feedback: easy - medium - hard levels
 * can negotiate but time converts to complexity at some point
 * past -> rigor
 * 2 terms == lotta f' time
+* will try to have some rubrics for each milestone in advance
 
 
 
@@ -170,9 +179,10 @@ name: Commitment
 
 <iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="407" height="430" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-* coding time 10hrs a week min
+* 10hrs a week min (outside of class)
 * bonus points for working together
 * class time (some of which can be coding time)
+* the more you put in the more you'll get out in terms of project satisfaction / grade / fame
 
 ???
 
@@ -186,13 +196,14 @@ name: thesislyfe -> startuplyfe
 
 
 ???
+* how many of you have had friends disappear due to doing thesis?
 * we are't doing thesis
 * buuuut hopefully you'll care abouut enough
-  * that all the cartoons will apply
 * also there is honors available but requires a thesis in addition...
 * honestly - the course is designed to be 10-15 hours a week
 * if you spend that you'll be happy with the result
 * less and your team will eventually be mad at you
+* don't need to disappear completely, cause milestones will prevent procrastination
 
 
 ---
@@ -240,7 +251,7 @@ name: Potential Stacks
   * game/vr: _unity3d_, unreal, etc
   * IoT: _arduino_, raspberry pi, wearables, etc
 * server-side:
-  * _node_, _express_, rails, _flask_, django*
+  * _node_, _express_, rails, elixir, _flask_, django*
 * hosting:
   * _Heroku_, _GitHub pages_, AWS, etc
 * databases:
@@ -255,6 +266,8 @@ And much much more
 * can't use firebase and call it done
 * hack-a-thing is exactly so you can play with some
 * \*hate
+* we're actually gonna learn some shit
+* let me know if you want to try some cool hardware - we can try working that out
 
 
 
@@ -273,6 +286,8 @@ name: From Scratch?!?
 * learning from past experiences so i can help avoid pitfalls from the past
 * this will be the best cs98 to date
 * starter projects can be helpful but also dangerous, too complex sometimes (eval starter projects)
+* having that experience and confidence that you too can be a startup founder
+* a builder of worlds
 
 
 ---
@@ -287,25 +302,35 @@ name: How do we get there?
 ???
 * we'll just follow a simple recipe for success - weekly progress
 * never had a team not have a successful working project
+* caveat last spring a couple teams had last minute breaking changes during demos... broke my heart to see it
 
 
 ---
 name: What is at the end?
 
-#Project Demos!
+## Project Demos!
+
+The goal: a project you are super proud of!
+
+### also Fame and Fortune*
 
 .left[![](img/cs-unleashed.png)]
 
 .right[![](img/mafia.jpg)]
 
 
+
+
 ???
+* how many have been to the technigala demos? 
 * together with DALI, previous 98, some other classes
 * 500+ people
 * not presentations (science fair style)
 * what to work towards
 * show off your work!
 * invite your friends!
+* the goal is for you to be proud of your work
+* but you should also want me to be proud of your work
 
 
 
@@ -339,6 +364,8 @@ name: Problems to Solve
   * Impact: bigger than here
   * Format: game, web, mobile, iot, wearable, etc
 
+* There are [lots of fascinating apis](https://www.programmableweb.com/) out there: from beer reviews to machine learning, and vision apis, to fictional datasets. Could you integrate some of these to enhance your idea?
+
 ???
 * some of you have ideas, don't worry but take a step back and do some more ideating
 * Think outside of what is useful to Dartmouth students
@@ -346,7 +373,6 @@ name: Problems to Solve
   * we have all the same problems - finding out events/parties, waiting in line at kaf, buying stuff
 * new event apps, social network clones, and marketplaces have been attempted before and you might find it more rewarding to build something that challenges you.
 * sometimes can't be solved - event planning for instance - just needs everybody to use the same platform
-* consider improvements on existing things - or games
 
 
 ---
@@ -359,13 +385,17 @@ name: Outside the Box?
 
 ???
 * with a team of cool people
+* consider improvements on existing things - or games
+* Games, could you take some known game and make it a site or mobile app?
+* Is there an existing product that you want to clone but with a special take.  Uber for puppies, airbnb for breakfast sandwiches, cryptocurrencies for goldfish?
+* Your ideas can be serious, world changing, or completely silly.  The point is to enjoy building something cool.
 
 
 ---
-name: Previous Project: Hindsite
+name: Previous Project: Hindsite 16f-17w
 
 
-.medium[![](../../projects/previous/img/timeline-reef.gif)]
+.medium[![](../../projects/previous/16f-17w/img/timeline-reef.gif)]
 
 ???
 * better history chrome extension
@@ -379,10 +409,10 @@ name: Previous Project: Hindsite
 
 
 ---
-name: Previous Project: Climb.AR
+name: Previous Project: Climb.AR 16f-17w
 
 
-.medium[![](../../projects/previous/img/music_game_demo.gif)]
+.medium[![](../../projects/previous/16f-17w/img/music_game_demo.gif)]
 
 ???
 * climbing game platform
@@ -391,20 +421,21 @@ name: Previous Project: Climb.AR
 
 
 ---
-name: Previous Project: Lensflare
+name: Previous Project: Lensflare 16f-17w
 
 
-.small[![](../../projects/previous/img/lensflare_poster.jpeg)]
+.small[![](../../projects/previous/16f-17w/img/lensflare_poster.jpeg)]
 
 ???
 * HoloLens app to allow spatial annotations with text, video and 3D animated assets
 * has a backend and management interface to allow easily adding/customizing assets
+* production quality could have been a product
 
 ---
-name: Previous Project: Queue
+name: Previous Project: Queue 17w-17s
 
 
-.medium[![](../../projects/previous/img/queue.jpg)]
+.medium[![](../../projects/previous/17w-17s/img/queue.jpg)]
 
 ???
 * ios app that allows sharing music playlist based on bluetooth distance
@@ -412,10 +443,60 @@ name: Previous Project: Queue
 
 
 ---
+name: Previous Project: MiAM 17f-18w
+.tiny[![](../../projects/previous/17f-18w/img/miam-feed.gif)]
+.tiny[![](../../projects/previous/17f-18w/img/miam-remix.gif)]
+
+
+???
+* react-native app that allows people to create / stack different gifs and stickers together and remix others
+* also meme battle
+* published but didn't get the PR push at the end
+
+
+
+---
+name: Previous Project: WebAdventure 17f-18w
+.tiny[![](../../projects/previous/17f-18w/img/webadventure-end.gif)]
+
+
+???
+* a better wikigame
+* published for a while in chrome store
+* didn't really think through game dynamic so in the end wasn't quite fun?
+
+
+http://localhost:4000/projects/previous/17f-18w/img/planit2.gif
+
+
+---
+name: Previous Project: Planit 17f-18w
+.medium[![](../../projects/previous/17f-18w/img/planit2.gif)]
+
+
+???
+* travel planning webapp
+* built a nice complex system (phoenix elixir/ react)
+* didn't really do much user testing so in the end the product wasn't ready for prime time
+
+
+---
+name: Previous Project: Scannible 17f-18w
+.tiny[![](../../projects/previous/17f-18w/img/scannibble1.gif)]
+
+???
+* travel planning webapp
+* built a nice complex system (phoenix elixir/ react)
+* didn't really do much user testing so in the end the product wasn't ready for prime time
+
+
+
+
+---
 name: The Tale Of Pretty Music Maker
 
 
-.medium[![](../../projects/previous/img/prettymusicmaker.gif)]
+.medium[![](../../projects/previous/16f-17w/img/prettymusicmaker.gif)]
 
 ???
 * web loop music creator
@@ -423,6 +504,23 @@ name: The Tale Of Pretty Music Maker
 * regretted their project in 98
 * and wished they had worked on something more engaging like prettymusicmaker
 * was almost like they were completely different people when they enjoyed the project
+
+
+
+
+---
+name: The Tale Of OrderOrchard
+
+
+.medium[![](img/order-orchard.png)]
+
+???
+* student project
+* kept at it
+* initially online food ordering
+* but pivoted when they identified a bigger pain point for restaurants
+* big enough pain point that they've signed some big customers
+
 
 
 ---
@@ -437,8 +535,29 @@ name: just breathe
 * no kinect or hololens exp, or react-native etc
 * you can learn and build a lot in 6 months
 
+
 ---
-name: next week
+name: start with: Interviews
+
+* [Interviews Milestone](../projects/milestones/interviews)
+
+.left-small[![](img/have-an-idea.gif)]
+.right-large[![](img/big-idea.gif)]
+.right-large[![](img/crazy-idea.gif)]
+
+
+???
+* talk to at least 1 person who is not a student
+* they can be professor you find inspiring, a mentor, a parent, a co-worker from an internship etc
+* ask about a problem or idea for something they would like improved/fixed/made
+* record: target audience, what the problem is,  what the proposed solution might look like
+* idea is to get our thoughts percolating about ideas that might be outside dartmouth
+* who knows prof: Misha Gronas?
+* he always has crazy ideas - his last was outsourcing streaming videos of talks/events  
+
+
+---
+name: next week: Hack-A-Thing
 
 .medium_small[![](img/hack-a-thing.gif)]
 
@@ -457,20 +576,22 @@ name: next week
 * plan to spend at least 10 hours on this
 
 
-
 ---
-name: Inspiration
+name: as you go: Inspiration Board
+
+* Start an inspiration board.
+* cool tool: [milanote](https://www.milanote.com/refer/rcAxjfzasgu2C6IoR8)
 
 .left[![](https://media.giphy.com/media/26BkNrGhy4DKnbD9u/giphy.gif)]
 .right[![](https://media.giphy.com/media/QveMWHFk4ojsI/giphy.gif)]
 
-Start an inspiration board.
 
 
 ???
 * keep track of things you see online that are interesting
 * clip pictures / urls / etc
-* we'll compile then for an upcoming milestones
+* we'll compile then for an upcoming milestone
+
 
 
 

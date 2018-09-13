@@ -14,6 +14,7 @@ title: Projects
 **Week 1**:<br>
 To kick off the course we'll do a week long hackathon on a technology/platform of your choosing to stretch coding muscles and prepare for project.
 
+- [ ] Milestone: [Interviews](milestones/interviews)<br>
 - [ ] Milestone: [Hack-a-thing-1](milestones/hack-a-thing-1)<br>
   - *to be done individually or in pairs*
 - [ ] Tues: no class
@@ -24,6 +25,8 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 
 - [ ] Milestone 1: [Pitch Round 1](milestones/pitch-round-1)
   - *in pairs*
+- [ ] Share Interviews
+- [ ] Share Hack-A-Thing-1
 
 **Week 3**:<br>
   A second round week long hackathon on a technology/platform of your choosing to stretch coding muscles and prepare for project. This is to be done as a team.
