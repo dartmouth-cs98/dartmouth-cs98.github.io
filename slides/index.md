@@ -7,7 +7,7 @@ permalink: /slides/
 
 ### Term 1
 
-<!-- * [Welcome](00_welcome/) -->
+* [Welcome](00_welcome/)
 <!-- * [Pitch Off](01_pitches/) -->
 <!-- * [Design](03_design/) -->
 

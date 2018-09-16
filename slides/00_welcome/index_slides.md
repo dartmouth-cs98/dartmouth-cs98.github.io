@@ -322,7 +322,7 @@ The goal: a project you are super proud of!
 
 
 ???
-* how many have been to the technigala demos? 
+* how many have been to the technigala demos?
 * together with DALI, previous 98, some other classes
 * 500+ people
 * not presentations (science fair style)
@@ -601,7 +601,7 @@ name:
 .medium[![](img/hacktivity_rules.jpg)]
 
 * 10 Min - brainstorm
-* 30 Min - BUILD a prototype
+* 20 Min - BUILD a prototype
 * 10 Min - Prep Pitches
 * 2 Min - Pitch It!
 
