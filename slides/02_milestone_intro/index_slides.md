@@ -21,7 +21,7 @@ name: base
 
 
 ---
-name: Final Projects!
+name: Mile Stones!
 
 .medium_small[![](img/finalproject.jpg)]
 

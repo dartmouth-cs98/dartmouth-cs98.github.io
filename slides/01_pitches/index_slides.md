@@ -25,12 +25,13 @@ name: Today
 
 <iframe width="600" height="400" src="https://www.youtube.com/embed/J-GVd_HLlps?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+* Interviews
 * Thoughts on pitching
-* Ideas+
+* Ideas++
 
 ???
 * today talk about pitching ideas and do a idea workshop thing
-* I generally dislike formal brainstorming
+* I generally dislike formal brainstorming - some of you might feel that way too
   - but hopefully this will be fun and fruitful
 
 ---
@@ -41,24 +42,28 @@ name: Hack-a-thing-1
 * is coming along?
 
 ???
-* anybody choose a thing to hack on?  
-* anybody want to share?
-
+* anybody choose a thing to hack on?   what?
 
 
 ---
-name: Story
+name: Stories
 
 <iframe src="https://giphy.com/embed/IoQETeY2ue5bi" width="308" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-* What is the problem?
-  * Story hook / why it matters?
-* What are you doing / your solution?
-* How are you special?
-* Next step?
+* What are we but a collection of stories that we tell?
 
+* oorrr What is the problem?
+  * Story hook / why it matters?
 
 ???
+* but why is story important?
+* what are we but a collection of stories that we tell?  real deep.
+* if you ever want story time in class just ask me something
+* and then:
+* What are you doing / your solution?
+* How are you special?
+
+
 ---
 name: Ok but like, why?
 
@@ -79,41 +84,26 @@ name: Ok but like, why?
 
 
 ---
-name: 10 Minutes
+name: Project Teams
 
-<iframe width="600" height="300" src="https://www.youtube.com/embed/uXPlzdTcA-I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+.fancy.medium[![](img/community-nope.gif)]
 
-1. Think of a food you love
-1. Picture it, see it, taste it in your mind
-1. Write the characteristics that make the food special
-1. Pick a few things that differentiate your food choice
-1. Think of a story or way to talk about what makes this food so special.
-1. Write a very short elevator pitch - 1 minute
-1. Practice it with a partner
+
+* more teams+ideas next week
+* based on ideas + friendship + foeship
+* pitching sesh on Tuesday!
+
 
 ???
-* can use some slides if you want - just keep real short and pictures only
+* more relevant to this class - how to settle on your initial idea
+* working with friends can be great
+* or not
+* your preferences
+* but working on idea you like more important
+* how to get people to work on your idea?  stories
 
----
-name: 15 Minutes Round One
 
-<iframe src="https://giphy.com/embed/97ZWlB7ENlalq" width="580" height="394" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-* pitch bracket each table
-* each table chooses 1 winner
-* post name of winner in #section-2
-
-???
-
----
-name: Final Round
-
-<iframe src="https://giphy.com/embed/2s7lb48XP0yje" width="480" height="261" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-* each table winner pitches to everybody and we vote in slack with 👍 count for winner
-
-???
-*
 
 ---
 name: Ideas
@@ -146,56 +136,91 @@ name: Some Inspiration Sources
 
 ???
 * how i built this is a cool interview series
+* anybody listen to it?
 * if at the end of class you in a place where you want to apply to ycombinator - that is ultimate stretch goal
 
 
 
 ---
-name: Idea Thing
+name: Practice Story Telling
+
+.fancy.medium[![](img/kitchen-story.gif)]
 
 
-* Write down 1 platform, 1 topic, 1 audience, 1 animal
-* on separate post-its
-* put in cups
+* at your table, tell each other your interview **story**
+* embellish as needed
+* parse out:
+  * what is the problem
+  * who is the audience
+  * what would be a delivery mechanism/platform for a potential solution?
+* select best story from your table to share
+
+???
+* lets practice in tables -  sit at the same table as your interview partner
+* 15 minutes to do this - then we'll share out one story from each table to class
+
+
+
+
+
+---
+name: QUICK BREAK
+
+.fancy.medium[![](img/break-time.gif)]
+
+
+---
+name: Idea-tivity!
+
+.fancy.medium[![](img/no-idea.gif)]
+
+
+* Write down:
+  * **1 platform** (vr, product, mobile, web, text, etc)
+  * **1 topic/problem** (from interviews)
+  * **1 audience** (4 year olds with missing teeth, single parents, stressed teens, mail delivery people in their 70s)
+  * **1 animal** (kittens, lions, etc)
+* on separate cards
+* put in trays up front
 
 
 
 
 ???
+* oh god not another activity!
 * platform like Vr
-* topics: like healthcare
+* topics: like healthcare, problem
 * audience: like kindergartners, or married stressed  parents, etc
 
 
 ---
 name: Mix em up
 
+.fancy.medium[![](img/mix-up.gif)]
 
-* choose 1 each
-* brainstorm individually for 3 minutes
-* then as table discuss options and choose 1 set of 4
-
-
----
-name: Ideate
-
-* individually ideate for a couple of minutes on the chosen set
-* then as a team ideate together
-* 15 Minutes
-* swap 1 word with another team if you need
+* 5 MIN:
+  * choose 1 set of 4 per 2 person team
+  * brainstorm on how to solve the set
+* 5 MIN:
+  * then as table discuss options and choose 1 set of 4
+  * allowed to swap 1 word
 
 
 ---
-name: Identify and Sketch Features
+name: Identify and Sketch Features - 30MIN
 
 
 * split up your idea into main features
   * collaboratively build it
   * show user flows
-* prep a short pitch deck
+* prep a **short pitch deck**
   * problem statement /story
-  * show your solution
-  * why are you the best team to do this
+  * who is it for?
+  * share some thoughts on your solution
+  * what is your special insight?
+
+???
+
 
 
 ---
