@@ -19,21 +19,70 @@ name: base
 .title[{{name}}]
 
 
----
-name: 5 Minutes
 
-<iframe width="600" height="300" src="https://www.youtube.com/embed/uXPlzdTcA-I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+---
+name: Hack-a-thing-1 Speed Sharing
+
+<iframe src="https://giphy.com/embed/tQ8uT9t0uK92M" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+* lets see what we all built!
+* [timer](http://www.intervaltimer.com/timers/8076716-hack-a-thing-speed-share)
+
+???
+* speed dating style
+* 4 minutes to share
+
+
+
+
+---
+name: Food
+
+.medium_small[![](img/yum.gif)]
+
+1. Who doesn't love food?
+1. Smell is wired into cortex
+1. Shared evocative experience
+1. let's pick something tasty to get for the class
+
+???
+* sense of smell bypasses thalamus
+* goes directly to olfactory cortex
+* thalamus regulates signals, can modulate - smell doesn't get modulated
+
+
+
+---
+name: Prep
+
+<iframe width="600" height="280" src="https://www.youtube.com/embed/uXPlzdTcA-I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 1. Think of a food you love
 1. Picture it, see it, taste it in your mind
 1. Write the characteristics that make the food special
-1. Pick a few things that differentiate your food choice
-1. Think of a story or way to talk about what makes this food so special.
-1. Write a very short elevator pitch - 1 minute
-1. Practice it with a partner
+1. How did this food change your life?
+1. How might this food change the life of others?
+1. Think of a story: Who are you with? Who made it? How does the food create connection?
+
 
 ???
 * can use some slides if you want - just keep real short and pictures only
+* lets walk through the steps all together
+* close your eyes
+* "The difference between an ordinary pitch and a powerful pitch is the difference between a frozen dinner and the best meal you’ve ever eaten."
+
+
+---
+name: Create Elevator Pitch thingy
+
+.medium_small[![](img/elevator-food.gif)]
+
+1. Show your passion (30 seconds)
+    * Engage with story hook
+1. Show you know your stuff (10 seconds)
+1. Show them you are the chef who will make this happen (20 seconds)
+
+
 
 ---
 name: 15 Minutes Round One
@@ -42,7 +91,8 @@ name: 15 Minutes Round One
 
 * pitch bracket each table
 * each table chooses 1 winner
-* post name of winner in #section-2
+* post name of winner in slack: #section-1
+
 
 ???
 
