@@ -12,8 +12,22 @@ published: true
 * first person in your group to click the link above will provision the repo and name it
 * second person in your group should just click the link above also and select the proper group to be added to it
 
+
 ## Overview
-To get ready to build your project and to stretch our coding muscles this milestone will be a little bit different from the others.  We're going to spend a week to hack together using some technology you are interested in learning.  What you build could be related to project ideas you already have but don't be too tied to it as things could change.  Consider this an opportunity to play with some of the technologies that you are potentially considering using. If you might want to build a webapp that uses video or an ios app that uses accelerometer, etc, build a small test of that technology.  You are welcome to use this time to try your hand at coding in a framework related to your project, for instance React if you want to build a webapp, or Unity3D if you want to play with game stuff, etc.   If you've never coded in a particular technology now would be the time to try it out before you start working on a full project without feeling like you have to commit.
+Similarly to [Hack-A-Thing-1](hack-a-thing-1), we'll spend a week hacking on some technology. You can either choose a new technology to try out or you can go deeper on what you were working on previously.  Don't just brush this assignment off and follow some easy tutorial.  This is a chance to play around with something you've been curious about and share it with the rest of the class.  If you choose to keep hacking on the same thing as last week make sure to use git tag to mark it, and that you do enough on it to count.   
+
+## Using git tags
+
+```bash
+git commit #make sure you are all committed and pushed
+git tag hack-a-thing-1 #this will tag the current place you are at as hack-a-thing-1
+git push origin --tags
+```
+
+
+## Time Commitment/complexity
+
+You should plan to spend at least 10 hours on this. The workload of this course overall is at a minimum 10 hours a week — if you spend less your final product may suffer and you will make the world sad.
 
 ## Teams
 
@@ -32,16 +46,22 @@ If you follow a tutorial or two just remember to acknowledge this fact in your R
 All your projects on github should include a README.md file.  For this milestone all it needs is:
 
 * Short description of what you attempted to build
-* Who did what
+* Who did what (if you worked with someone else)
 * What you learned
+* How does this hack-a-thing inspire you or relate to your possible project ideas?
 * What didn't work
 
 ## GitHub
 
 This is also a time to figure out how to use git flow.  On your final project you'll be required to use git flow with feature branch style [pull requests](https://yangsu.github.io/pull-request-tutorial/).   You should make sure you have github set up with your [correct github email](https://help.github.com/articles/setting-your-email-in-git/) so that your commits are recognized as belonging to you.  Make sure you have at least 1 commit connected to your github email on this.
 
+
 ## To Turn In
 
 * github url to your repo for your attempt
 * readme.md file included in repo per above
-* at least 1 commit per person
+* at least 2 commits per person with [author recognized by github](https://help.github.com/articles/why-are-my-commits-linked-to-the-wrong-user/#commits-are-not-linked-to-any-user).
+
+## In Class
+
+* be prepared to show a demo of what you built in class!

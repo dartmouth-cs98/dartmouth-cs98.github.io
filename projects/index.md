@@ -21,18 +21,19 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 - [ ] Thurs: Intro to Course and Hacktivity
 
 **Week 2**:<br>
-  Idea week. Pitch potential project ideas to the rest of the class to get feedback and recruit teammembers.
+  A second round week long hackathon on a technology/platform of your choosing to stretch coding muscles and prepare for project. This is to be done as a team.
 
 - [ ] Milestone 1: [Pitch Round 1](milestones/pitch-round-1)
+- [ ] Milestone 2: [Hack-a-thing-2](milestones/hack-a-thing-2)
   - *in pairs*
 - [ ] Share Interviews
 - [ ] Share Hack-A-Thing-1
 
 **Week 3**:<br>
-  A second round week long hackathon on a technology/platform of your choosing to stretch coding muscles and prepare for project. This is to be done as a team.
+  Idea week. Pitch potential project ideas to the rest of the class to get feedback and recruit teammembers.
 
 - [ ] Milestone 1: [Pitch Round 2](milestones/pitch-round-2)
-- [ ] Milestone 2: [Hack-a-thing-2](milestones/hack-a-thing-2)
+- [ ] Share Hack-A-Thing-2
   - *in your team*
 
 **Week 4**:<br>

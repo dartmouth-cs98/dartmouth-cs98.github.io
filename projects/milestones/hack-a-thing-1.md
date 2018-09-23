@@ -11,12 +11,13 @@ published: true
 * setup and clone a github repo using github classroom here: [https://classroom.github.com/g/aD7rqYWq](https://classroom.github.com/g/aD7rqYWq)
 * you may work with up to 1 other person on this - but you are welcome to also work individually. You may get more out of it individually. The first person to accept the invite via the link above should name the repo. The second person should still use the same link but select the name of the team created by the first.  We'll be using github classroom for a lot of things.
 
-## Time Commitment/complexity
-
-You should plan to spend at least 10 hours on this. The workload of this course overall is at a minimum 10 hours a week — if you spend less your final product may suffer and you will make the world sad.
 
 ## Overview
 To get ready to build your project and to stretch our coding muscles this milestone will be a little bit different from the others.  We're going to spend a week to hack together using some technology you are interested in learning.  What you build could be related to project ideas you already have but don't be too tied to it as things could change.  Consider this an opportunity to play with some of the technologies that you are potentially considering using. If you might want to build a webapp that uses video or an ios app that uses accelerometer, etc, build a small test of that technology.  You are welcome to use this time to try your hand at coding in a framework related to your project, for instance React if you want to build a webapp, or Unity3D if you want to play with game stuff, etc.   If you've never coded in a particular technology now would be the time to try it out before you start working on a full project without feeling like you have to commit.
+
+## Time Commitment/complexity
+
+You should plan to spend at least 10 hours on this. The workload of this course overall is at a minimum 10 hours a week — if you spend less your final product may suffer and you will make the world sad.
 
 ## Team
 
