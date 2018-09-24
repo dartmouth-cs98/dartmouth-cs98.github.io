@@ -36,6 +36,19 @@ name: Hack-a-thing-1 Speed Sharing
 
 
 ---
+name: Project Teams
+
+.medium[![](img/dreamteam.gif)]
+
+* how to be selected
+* ideas, ideas, ideas
+
+???
+*
+
+
+
+---
 name: Food
 
 .medium_small[![](img/yum.gif)]
