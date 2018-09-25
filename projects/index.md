@@ -32,9 +32,10 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 **Week 3**:<br>
   Idea week. Pitch potential project ideas to the rest of the class to get feedback and recruit teammembers.
 
-- [ ] Milestone 1: [Pitch Round 2](milestones/pitch-round-2)
+<!-- - [ ] Milestone 1: [Pitch Round 2](milestones/pitch-round-2) -->
+
+- [ ] Milestone 1: Ideas Selection and Group Formation
 - [ ] Share Hack-A-Thing-2
-  - *in your team*
 
 **Week 4**:<br>
   Defining the project in more details with a project proposal and feature spec
