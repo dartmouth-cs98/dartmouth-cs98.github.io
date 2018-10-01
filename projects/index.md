@@ -23,7 +23,7 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 **Week 2**:<br>
   A second round week long hackathon on a technology/platform of your choosing to stretch coding muscles and prepare for project. This is to be done as a team.
 
-- [ ] Milestone 1: [Pitch Round 1](milestones/pitch-round-1)
+- [ ] Milestone 1: [Pitch Videos](milestones/pitch-videos)
 - [ ] Milestone 2: [Hack-a-thing-2](milestones/hack-a-thing-2)
   - *in pairs*
 - [ ] Share Interviews

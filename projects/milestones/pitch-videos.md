@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pitch Round 1
+title: Pitch Videos
 published: true
 ---
 
@@ -10,7 +10,7 @@ Pitching will happen in on an online platform this year built by a Dartmouth '17
 
 ## Setup
 
-Go to:  https://www.pitchback.me/
+Go to:  [https://www.pitchback.me/](https://www.pitchback.me/)
 
 ❗only works in recent versions of [Chrome](https://www.google.com/chrome/browser/
 )!
@@ -18,8 +18,6 @@ Go to:  https://www.pitchback.me/
 Use this platform to record takes of your pitch.  Once you have a take you are happy with make sure to make it public!
 
 ![](img/makepublic.jpg){: .mini}
-
-
 
 
 ## The Idea
@@ -32,6 +30,7 @@ Use this platform to record takes of your pitch.  Once you have a take you are h
 * Discuss any insights you might have into the problem
 
 You can use a short slide deck but keep it very visual with *at most 10 words* on any individual slide!
+🚀 Upload your slide deck to your pitchback.me project.
 
 Please, don't be shy, your idea is great! Pitch cause you care. Pitch for the practice. Pitch to make a difference. Pitch to inspire!
 
@@ -42,6 +41,13 @@ Some thoughts:
 * Your ideas can be serious, world changing, or completely silly.  The point is to enjoy building something cool.
 
 Once teams are created around these pitches, you will have an opportunity to brainstorm a bit more as your team so these don't lock you in.
+
+## Background Research
+
+Don't forget to do some background research.  Sometimes a brief google will show lots of other approaches to the problem. That does not immediately mean your approach isn't valuable.  However the first questions people ask are: doesn't that already exist?  isn't that just instagram?
+
+You need to be prepared to defend why your approach is better/different/revolutionary/etc.  
+
 
 
 ## To Turn In:
