@@ -23,7 +23,6 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 **Week 2**:<br>
   A second round week long hackathon on a technology/platform of your choosing to stretch coding muscles and prepare for project. This is to be done as a team.
 
-- [ ] Milestone 1: [Pitch Videos](milestones/pitch-videos)
 - [ ] Milestone 2: [Hack-a-thing-2](milestones/hack-a-thing-2)
   - *in pairs*
 - [ ] Share Interviews
@@ -32,17 +31,18 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 **Week 3**:<br>
   Idea week. Pitch potential project ideas to the rest of the class to get feedback and recruit teammembers.
 
-<!-- - [ ] Milestone 1: [Pitch Round 2](milestones/pitch-round-2) -->
-
+- [ ] Milestone 1: [Pitch Videos](milestones/pitch-videos)
 - [ ] Milestone 1: Ideas Selection and Group Formation
 - [ ] Share Hack-A-Thing-2
 
 **Week 4**:<br>
   Defining the project in more details with a project proposal and feature spec
 
-- [ ] Milestone 1: [Project Proposal](milestones/project-proposal)
+- [ ] In Class: [First Team Worksheet](milestones/first-meeting)
+
+- [ ] Milestone 2: [Project Proposal](milestones/project-proposal)
   - A short document describing the concept and core components of your project.
-- [ ] Milestone 2: [Feature Spec](milestones/feature-spec)
+- [ ] Milestone 3: [Feature Spec](milestones/feature-spec)
   - A walk-though of your project from the users perspective listing out every feature that it should have with a few user stories attached.
 
 **Week 5**:<br>
