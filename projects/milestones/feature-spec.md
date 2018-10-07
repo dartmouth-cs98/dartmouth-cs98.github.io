@@ -53,8 +53,6 @@ We'll be using github wikis to keep track of some project documentation. If you 
 
 ## To Turn In:
 
-Overall this document does not need to be super extensive, it should cover the features and be a compelling story about your product, but it doesn’t need to be a million pages.
-
 * GitHub repository URL to wiki page you created that includes:
   * Feature Spec as wiki page in your GitHub repo:
     * A list of features, for example:

@@ -78,3 +78,4 @@ And then use the template above to start a page!
 ## To Turn In:
 
   * github repository URL to wiki page you created
+  * make sure everyone on your team has clicked the github classroom link and is the team
