@@ -45,7 +45,7 @@ __Structure your user persona like so:__
 
 
 Once you have the user personas the feature list for your spec grows easily out of it.  You already know what the users want to do — summarize and prioritize.
-
+f
 We'll use these throughout the milestones, so you should like your persona and take part in creating it.
 
 
