@@ -26,7 +26,8 @@ Together with your buddy team, construct some user personas for each other.  Eac
 __Structure your user persona like so:__
 
 * Background and Demographic Information
-  * __Name__
+  * __Fictional Name__
+  * __Buddy Team Member__
   * __Sketch/Picture__
   * __Demographic__ (short)
   * __Overheard quote__
