@@ -51,10 +51,10 @@ A flow diagram documents the tasks the user will perform, in relation to each ot
 
 ![](img/flowdiagram.png)
 
-Checkout what [polished versions](https://speckyboy.com/collection-inspiring-sitemaps-user-flow-maps/) looks like for some inspiration.  You can have your flow diagram be your Invision or Pop Paper connections.
+Checkout what [polished versions](https://speckyboy.com/collection-inspiring-sitemaps-user-flow-maps/) looks like for some inspiration.  You can have your flow diagram be your Figma connections or Pop Paper connections.
 
 ## Data Models
-This is also a good time to plan out some of your data models.  Consider what data you need for your project and figure out some of the fields and objects.  You don't need to create a full relational model, but do consider what your data should look like. Describe the objects you think you will need (an informal schema for your data).  Create a Wiki page with the data models you plan out.
+This is also a good time to plan out some of your data models.  Consider what data you need for your project and figure out some of the fields and objects.  You don't need to create a full relational model, but do consider what your data should look like. Describe the objects you think you will need (an informal schema for your data).  Create a Wiki page called  "Data Models" you plan out.
 
 ```javascript
 user: {
@@ -73,8 +73,10 @@ post: {
 ```
 
 ## To Turn In:
-* Sketches of each view of your product (photos of paper)
-* Higher fidelity mockups submitted in [invisionapp](https://www.invisionapp.com/) or [figma](https://www.figma.com) links - link from your github wiki!
-* A flow diagram/site map showing how your views interconnect (can be hand drawn) or can just be invision/figma connections.
-* Data Models on a Wiki page
+* 3 Wiki Pages:
+    * Initial Sketches:  Sketches of each view of your product (photos of paper) posted on github wiki
+    * Mockups:
+        * Higher fidelity mockups submitted as [figma](https://www.figma.com) links - link from your github wiki!
+        * A flow diagram/site map showing how your views interconnect (can be hand drawn) or can just be figma connections.
+    * Data Models
 * Submit urls to each wiki page on canvas
