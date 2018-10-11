@@ -45,6 +45,11 @@ There are many good design resources out there. Here's [one](http://cdn.ustwo.co
 
 [Here's an beautiful example](https://projects.invisionapp.com/share/HABOKZQRZ#/) of a walkthough for a smaller scope 2 week project from CS52 and [a tutorial for figma](http://cs52.me/workshops/design).  And another cool mockup for a [project that did AR](https://projects.invisionapp.com/share/K6AR2EJ5U).
 
+
+## No User Interface? No Problem
+
+Some products may not have what you would think of as a traditional user interface: maybe it is a code library,  or a physical device that has certain behaviors.  However, these still have a user facing aspect.  If it is a code library — this is a time to map out your public API - function calls or http endpoints are your user interface.  If it is a physical device with certain behaviors - map out what those are and what is the control interface.  Additionally, you can use this opportunity to design any materials that communicate what your device does to the outside world.
+
 ## Site Map / Flow Diagram
 
 A flow diagram documents the tasks the user will perform, in relation to each other and over time. Create flows for the primary tasks, but keep this in sketch or text form (best to not dwell on how it looks at this stage but rather how these elements connect to each other).
@@ -72,9 +77,12 @@ post: {
 }
 ```
 
+Your project may or may not have data that needs to be serialized or saved to a server, but most likely it will have some data structures that you need to think about.
+
+
 ## To Turn In:
 * 3 Wiki Pages:
-    * Initial Sketches:  Sketches of each view of your product (photos of paper) posted on github wiki
+    * Sketches:  Initial sketches of each view of your product (photos of paper) posted on github wiki
     * Mockups:
         * Higher fidelity mockups submitted as [figma](https://www.figma.com) links - link from your github wiki!
         * A flow diagram/site map showing how your views interconnect (can be hand drawn) or can just be figma connections.

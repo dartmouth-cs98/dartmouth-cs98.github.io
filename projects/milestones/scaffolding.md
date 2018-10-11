@@ -46,7 +46,7 @@ TODO: list of authors
 ## Acknowledgments
 ```
 
-You don’t have to fill in the whole document for this milestone, but do start on it and fill in what you can. This README is for now the defacto "landing page" for your project. It should be kept up-to-date so that I / anybody can clone your repos and run your project dev environment.
+You don’t have to fill in the whole document for this milestone, but do start on it and fill in what you can. This README is for now the defacto "landing page" for your project. It should be kept up-to-date so that I / anybody can clone your repos and run your project dev environment.  This needs to be updated — this is how I will know how to set up your project to test and how your teammates will know how to get it running as well.
 
 Note: using github will be an essential part of how you will work together.  You are required to use git flow — i.e. use branches and pull requests as you work together. You don’t necessarily need to do code reviews, but doing git flow with feature branches will help you organize your team and your code.
 
