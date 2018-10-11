@@ -25,15 +25,15 @@ Start this doc now:
 
 # Project Name
 
-TODO: short project description, some sample screenshots or mockups
+TODO: super short project description, some sample screenshots or mockups
 
 ## Architecture
 
-TODO:  descriptions of code organization and tools and libraries used
+TODO:  overall descriptions of code organization and tools and libraries used
 
 ## Setup
 
-TODO: how to get the project dev environment up and running, npm install etc
+TODO: how to get the project dev environment up and running, npm install etc, all necessary commands needed, environment variables etc
 
 ## Deployment
 
