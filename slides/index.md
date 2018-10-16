@@ -12,6 +12,8 @@ permalink: /slides/
 * [Pitch Intro](02_food-pitch/)
 * [Refining Ideas](04_user-personas)
 * [Design](04_design)
+* [Design Feedback](05_design_feedback)
+
 
 
 ### Term 2
