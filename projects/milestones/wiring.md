@@ -33,8 +33,11 @@ It's time to maximize our usage of github by using some project management featu
 
 ![](img/rocks.gif){: .fancy .small}
 
-🚀 Remember a part of your grade is usage of issues - once your project gets rolling you should shoot for closing 5 issues per week per person.  This should give you a sense of the scope of an issue. If each issue is under 2 hrs then 5 issues is around 10 hours.  This isn't a hard and fast rule - but try to do this on average. 
+🚀 Remember a part of your grade is usage of issues - once your project gets rolling you should shoot for closing 5 issues per week per person.  This should give you a sense of the scope of an issue. If each issue is under 2 hrs then 5 issues is around 10 hours.  This isn't a hard and fast rule - but try to do this on average.
 
+## Update Designs per feedback
+
+Go ahead, create your first issue - "update designs based on feedback"!
 
 ## README.md
 
@@ -46,5 +49,5 @@ You could set up Travis CI for your project with automatic linting / build check
 
 ## To Turn In:
 * short description (couple of sentences) of what worked and what didn't.
-* make sure everyone on your team has been assigned at least 2 issues and has marked at least 1 issue as done.
+* make sure everyone on your team has been assigned at least 5 issues and has marked at least 1 issue as done.
 * turn in links to each assigned issue
