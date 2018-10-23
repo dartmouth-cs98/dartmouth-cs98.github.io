@@ -74,7 +74,7 @@ name: Heart
 
 ???
 * also care about what your buddy teams user persona actors think?
-* also - onboarding flow!  
+* also - onboarding flow
 
 
 
