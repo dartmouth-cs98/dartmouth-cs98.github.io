@@ -14,6 +14,7 @@ permalink: /slides/
 * [Design](04_design)
 * [Design Feedback](05_design_feedback)
 * [GitHub Pull Requests](05_github-prs)
+* [Code Review Intro](07_code_review/)
 
 
 
@@ -21,7 +22,7 @@ permalink: /slides/
 
 <!-- * [Welcome 17f](20_welcome_winter/) -->
 <!-- * [Welcome 18w](20_welcome/) -->
-<!-- * [Code Review](22_code_review/) -->
+<!-- * [Code Review 2](22_code_review/) -->
 
 
 
