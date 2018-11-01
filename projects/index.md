@@ -74,9 +74,10 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 - [ ] Milestone: [Pre-Demo Bug Hunt](milestones/bughunt)
 
 **Week 10**:<br>
-  MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
+  MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Expo style. Open to public.
 
-- [ ] Milestone: [Term Demos and Testing](milestones/demos)
+- [ ] Milestone: [Term 1 Demos and Testing](milestones/t1-demos)
+- [ ] Milestone: [Term 1 Summary](milestones/t1-summary)
 
 
 ## Term 2 At a Glance

@@ -11,7 +11,7 @@ published: true
 
 This is your final for the term and a public demo of the projects! Invite your friends, family, enemies, and randos!  There will be food and drinks!
 
-Demos are **Wednesday, May 30th, First Floor Berry 6-8pm**. Please show up at **5:45pm** to set up your table (remember we could have had a final instead!).  The event will be science fair style - you will have a table with your project name and either a screen or a stand for a laptop to better demo your awesome projects. Come early to clean up your screens and set things up.
+Demos are **Tuesday, May 30th, First Floor Berry 6-8pm**. Please show up at **5:45pm** to set up your table (remember we could have had a final instead!).  The event will be science fair style - you will have a table with your project name and either a screen or a stand for a laptop to better demo your awesome projects. Come early to clean up your screens and set things up.
 
 Be prepared to
 * Motivate the idea to a general audience (very brief intros, don't spend too much time talking)
