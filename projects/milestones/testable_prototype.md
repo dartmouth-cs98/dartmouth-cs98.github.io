@@ -39,20 +39,19 @@ To prepare for this let's come up with a feature prioritization plan!  Create a 
 
 ## Critical Features
 
-* list of features from MVP (with tentative due date)
-* link each to github issue
-* start with what you had for your original feature spec and update
+* 🔥list of features from MVP (with due dates)
+* 🔥link each to github issue
+* 🔥start with what you had for your original feature spec and update
 
 ## Secondary Features
 
-* break out less important but would like to have features here
+* 🍦 break out less important but would like to have features here (with potential due dates)
 
 ## Non Critical
 
-* identify features that don't need to be done this term here
+* ⛔ identify features that don't need to be done this term here
 
 ```
-
 
 ### Signoff
 
