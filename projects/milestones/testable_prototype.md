@@ -53,7 +53,7 @@ To prepare for this let's come up with a feature prioritization plan!  Create a 
 
 ```
 
-### Signoff
+## Signoff
 
 Each team will need to get instructor signoff on this.
 
