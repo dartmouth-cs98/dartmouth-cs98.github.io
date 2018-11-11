@@ -5,9 +5,7 @@ published: true
 ---
 
 
-![](http://i.giphy.com/p9O75RBS946He.gif){: .fancy .small}
-
-<!-- ![](img/technigala18S.jpg){: .fancy .medium} -->
+![](img/technigala18F.jpg){: .fancy .medium}
 
 This is your final for the term and a public demo of the projects! Invite your friends, family, enemies, and randos!  There will be food and drinks!
 
@@ -37,6 +35,8 @@ Here's some things you'll be graded on:
   * Testing questions prepared / notes taken
   * How much of the MVP functionality was functional
   * Was the primary critical functionality testable
+
+![](http://i.giphy.com/p9O75RBS946He.gif){: .fancy .small}
 
 ## To Turn In
 * nothing - just be there
