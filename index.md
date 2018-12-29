@@ -7,6 +7,8 @@ title: Dartmouth CS98
 # ORC Description
 Participation in a software engineering group project to meet a real-world need. Group members are responsible for all aspects of a software system, including iterative requirements analysis, design, implementation, and testing. The course also stresses customer interactions, documentation, process, and teamwork. The result is a software product of significant scope and significant benefit to a user base.
 
+Open only to students pursuing a major in Computer Science or a modified major with Computer Science as the primary part.  98.01 and 98.02 constitute a two course sequence, and they must be taken in consecutive terms, either fall/winter or winter/spring, normally in the senior year.
+
 <div markdown="1" style="text-align:center">
 ![dev magic](assets/imgs/dev_magic.gif){: .fancy}
 </div>
@@ -14,7 +16,7 @@ Participation in a software engineering group project to meet a real-world need.
 
 # Prerequisite
 
-Open only to students pursuing a major in Computer Science or a modified major with Computer Science as the primary part. This course is normally taken in the senior year. This course must be taken in two consecutive terms, either fall/winter or winter/spring.
+At least two courses from COSC 50-69 or at least three courses from COSC 50-89, or permission of instructor.
 
 # Project Course Overview
 
@@ -48,24 +50,24 @@ Groups are required to establish a team meeting schedule for coding hours throug
 
 ## Schedule:
 
-There are 2 sections of this course!  Section 1 (COSC98.01) is **18F + 19W** and Section 2 (COSC98.02) is **19W + 19S**.  You need to take either one or the other section and cannot mix and match.
+There are 2 (COSC98.01+COSC98.02) sequences of this course. You need to take COSC98.01 and COSC98.02 in consecutive terms and cannot mix and match. Section 1 is **18F(98.01) + 19W(98.02)** and Section 2 is **19W(98.01) + 19S(98.02)**.
 
 ### Class:
 
   - **Section 1 (18F-19W)**
     - 3B Classes will meet Tuesday and Thursday (4:30-6:20).
     - Thursday class time will used for team meetings and working together.
-    - 3BX will be available for help / team meeting time.
-    - Location: Carson 61
+    - 3BX will be available for help / team meeting tsime.
+    - Location: LSC200
   - **Section 2 (19W-19S)**
     - 3A Classes will meet Monday (3:30-5:20) and Thursday (4:30-6:20).
     - Thursday class time will used for team meetings and working together.
     - 3AX will be available for help / team meeting time.
-    - Location: TBD
+    - Location: LSC200
 
 Class time will be used for topic hackathons, team meetings, showing your work, and coding together time.  Each project team will also meet separately every week to work and hack together.  At least 10 hours per week is required and will be logged.
 
-![](assets/imgs/carson61.jpg){: .fancy }
+![](assets/imgs/lsc200.jpg){: .fancy }
 
 ### Office Hours and Contact:
 
@@ -73,22 +75,16 @@ Class time will be used for topic hackathons, team meetings, showing your work, 
 
   - Open Help/Hack Hours during X-Hour every week. <br>
 
-  - Instructor:<br>
-    Mon 2-4pm; Fri 11-1pm; or [by appointment in Sudikoff 219/007](https://calendly.com/timofei/cs98)
+  - Instructor: [Tim Tregubov](mailto:tim@cs.dartmouth.edu)<br>
+    Mon 2-4pm; Fri 11-1pm; or [by appointment in Sudikoff 219/007](https://calendly.com/timofei/cs98)<br>
+    ![](assets/imgs/tt_profile.jpg){: .fancy .profile}<br>
+    [@tim](https://cs98-dartmouth.slack.com/messages/@tim/)<br>
 
-<table>
-  <tr>
-    <td>
-      <img class="profile fancy" src="assets/imgs/tt_profile.jpg" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="mailto:tim@cs.dartmouth.edu">Tim Tregubov</a><br>
-      <a href="https://cs98-dartmouth.slack.com/messages/@tim/">@tim</a>
-    </td>
-  </tr>
-</table>
+  - TA: [Kate Salesin](mailto:Katherine.A.Salesin.GR@dartmouth.edu)<br>
+    TBD; or by appointment<br>
+    ![](assets/imgs/kate.jpg){: .fancy .profile}<br>
+    [@kate](https://cs98-dartmouth.slack.com/messages/@Kate/)<br>
+
 
 
 ## More Logistics:
