@@ -7,14 +7,14 @@ permalink: /slides/
 
 ### Term 1
 
-* [Welcome](00_welcome/)
-* [Idea Generation](01_ideas/)
-* [Pitch Intro](02_food-pitch/)
-* [Refining Ideas](04_user-personas)
-* [Design](04_design)
-* [Design Feedback](05_design_feedback)
-* [GitHub Pull Requests](05_github-prs)
-* [Code Review Intro](07_code_review/)
+<!-- * [Welcome](00_welcome/) -->
+<!-- * [Idea Generation](01_ideas/) -->
+<!-- * [Pitch Intro](02_food-pitch/) -->
+<!-- * [Refining Ideas](04_user-personas) -->
+<!-- * [Design](04_design) -->
+<!-- * [Design Feedback](05_design_feedback) -->
+<!-- * [GitHub Pull Requests](05_github-prs) -->
+<!-- * [Code Review Intro](07_code_review/) -->
 
 
 
