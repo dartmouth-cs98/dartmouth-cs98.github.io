@@ -25,5 +25,11 @@ published: true
 
 # [18F-19W](18f-19w) #
 
-<!-- > [![](18f-19w/img/ML-6908.jpg){: .medium .fancy}](18f-19w) -->
-> <iframe class="medium fancy" width="560" height="315" src="https://www.youtube.com/embed/25nWcX_lzQA?rel=0&amp;controls=0&amp;showinfo=0&amp;loop=1&amp;playlist=25nWcX_lzQA&amp;autoplay=1&amp;modestbranding=1&amp;fs=0&amp;disablekb=1&amp;autohide=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<a href="18f-19w" class="blockquote-style">
+    <video loop autoplay class="medium fancy">
+    <source src="http://res.cloudinary.com/dali-lab/video/upload/ac_none,w_560,h_315,c_crop/v1546203223/cs98/technigala-18f-small.webm" type="video/webm"/>
+    <source src="http://res.cloudinary.com/dali-lab/video/upload/ac_none,w_560,h_315,c_crop/v1546203223/cs98/technigala-18f-small.mp4" type="video/mp4"/>
+    <source src="http://res.cloudinary.com/dali-lab/video/upload/ac_none,w_560,h_315,c_crop/v1546203223/cs98/technigala-18f-small.ogv" type="video/ogg"/>
+    Your browser does not support HTML5 video tags
+    </video>
+</a>

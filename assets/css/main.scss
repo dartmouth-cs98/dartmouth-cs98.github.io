@@ -115,6 +115,21 @@ img.mini, .mini img {
 }
 
 
+.main-content .blockquote-style {
+  padding: 0 1rem;
+  margin-left: 0;
+  color: $blockquote-text-color;
+  border-left: 0.3rem solid $border-color;
+
+  > :first-child {
+    margin-top: 0;
+  }
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
 .medium {
   width: 75% !important;
 }
