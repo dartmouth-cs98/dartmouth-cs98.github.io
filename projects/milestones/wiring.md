@@ -12,7 +12,11 @@ At this stage you should have rudimentary functionality in place. For instance i
 
 ## Implementation and Wiring
 
-For this milestone the main idea is to get a "deep" wiring of your project components.  If you have a frontend and backend, make sure they can talk to each other.  If you have computational elements and display elements, this is the time to move past mockup data and have the display use the computed data.  You don't have to have every data connection wired up, but at least one should be working - the idea being to test the full data path.
+For this milestone the main idea is to get a "deep" wiring of your project components.  If you have a frontend and backend, make sure they can talk to each other.  If you have computational elements and display elements, this is the time to move past mockup data and have the display use the computed data.  You don't have to have every data connection wired up, but at least one should be working - the idea being to test the full data path.  
+
+* If you have an *api/client setup*, then client should be able to make requests to server
+* If there is a *database* that it is storing something and your code uses results of queries
+* If some *computational or sensor components* they should be wired in and have working input/output that you handle.
 
 ## GitHub Issues
 
@@ -49,5 +53,6 @@ You could set up Travis CI for your project with automatic linting / build check
 
 ## To Turn In:
 * short description (couple of sentences) of what worked and what didn't.
+* make sure you have a deep connection test of your components, if api/client that they are making requests to each other, if database that it is storing something and your api uses it somehow, if some computational or sensor components make sure you are getting inputs. 
 * make sure everyone on your team has been assigned at least 5 issues and has marked at least 1 issue as done.
 * turn in links to each assigned issue
