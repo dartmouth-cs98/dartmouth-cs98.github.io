@@ -26,7 +26,7 @@ published: true
 # [18F-19W](18f-19w) #
 
 <div class="blockquote-style">
-    <video loop autoplay class="medium fancy">
+    <video loop autoplay muted class="medium fancy">
     <source src="http://res.cloudinary.com/dali-lab/video/upload/ac_none,w_560,h_315,c_crop/v1546203223/cs98/technigala-18f-small.webm" type="video/webm"/>
     <source src="http://res.cloudinary.com/dali-lab/video/upload/ac_none,w_560,h_315,c_crop/v1546203223/cs98/technigala-18f-small.mp4" type="video/mp4"/>
     <source src="http://res.cloudinary.com/dali-lab/video/upload/ac_none,w_560,h_315,c_crop/v1546203223/cs98/technigala-18f-small.ogv" type="video/ogg"/>
