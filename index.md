@@ -81,7 +81,7 @@ Class time will be used for topic hackathons, team meetings, showing your work, 
     [@tim](https://cs98-dartmouth.slack.com/messages/@tim/)<br>
 
   - TA: [Kate Salesin](mailto:Katherine.A.Salesin.GR@dartmouth.edu)<br>
-    TBD; or by appointment<br>
+    Office hours by appointment<br>
     ![](assets/imgs/kate.jpg){: .fancy .profile}<br>
     [@kate](https://cs98-dartmouth.slack.com/messages/@Kate/)<br>
 
