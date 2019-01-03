@@ -62,7 +62,7 @@ There are two different ways to use ZenHub - you can either download a [Chrome E
     in this pipeline need no further work and are ready to be closed. Having a good ‘Definition of Done’ agreed upon before work starts on an Issue is very helpful here! If there were any objectives or key metrics associated with the Issue, they can be appended prior to closing.
 
 
-## Do It With ZenHub
+## Apply It
 
 1. 🚀Go through **ALL** your current *New Issues* and deal with them.
     * Either sort them into *Icebox* if you aren't going to work on them soon.
@@ -101,6 +101,6 @@ Remember that each issue should be scoped to be around 1 sitdown work session, j
 
 
 ## To Turn In:
-* do all the steps in the [ZenHub section](#do-it-with-zenhub), don't forget to label as we'll be checking for those.
+* do all the steps in the [ZenHub section](#apply-it), don't forget to label as we'll be checking for those.
 * submit zenhub link to your workspace with a filter set
 * work on and close some issues, if you have some time, complete your first milestone. Let's front load this term and get a lot done in the next couple of weeks. Submit links to any closed issues.
