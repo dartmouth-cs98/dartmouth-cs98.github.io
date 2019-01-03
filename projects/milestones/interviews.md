@@ -13,7 +13,7 @@ This milestone is to get our thoughts percolating about ideas that might be from
 
 ## Find Someone
 
-Your mission is to find at least 1 person who is not a student and invite them for coffee/tea/gelato/walk around Occom (or even just 15 minutes to video chat).  This could be a professor you find inspiring, a mentor, a parent, a co-worker from an internship, your favorite barista, or someone completely random in town.
+Your mission is to find at least 1 person who is not a student and invite them for coffee/tea/gelato/walk around Occom (or even just 15 minutes to video chat).  This could be a professor you find inspiring, a mentor, a parent, a co-worker from an internship, your favorite barista, or someone completely random in town.  If a family member then you have to do 2 interviews as it is generally easier to interview a family member. 
 
 ## Interview Them
 
@@ -21,7 +21,7 @@ Tell them you have an annoying prof that wants you to ask around for cool ideas/
 
 ## Partner
 
-Do this assignment with a partner.  It is much easier to keep conversations going with a partner to help.  Have one person take notes.  Have some prepared questions / topics.  Talk about some ideas you might have and build off of them.
+Do this assignment with a partner (but you each need to have chosen 1 person to interview together, so 2 interviews total).  It is much easier to keep conversations going with a partner to help.  Have one person take notes.  Have some prepared questions / topics.  Talk about some ideas you might have and build off of them.
 
 
 ## Record

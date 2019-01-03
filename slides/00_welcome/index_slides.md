@@ -21,17 +21,43 @@ name: base
 ---
 name: CS98
 
-## Senior Design and Implementation Project
+## Senior Design and Implementation Project I
 
 #### _the startup experience_<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^<font style="color:grey;font-style:italic;">founder</font>
+
+<br><br><br><br>
+
+*Tim Tregubov*
 
 ???
 * 2 terms long
 * a lot of you have had internships - working at a company
 * academic course project experience
 * but probably not a do your own startup experience
-* try to make this as real as possible with best practices, given that its still a course
+* software dev best practice
 * will be about you so if you have ideas on how to improve just talk to me
+
+
+
+---
+name: Course Goals
+
+.medium_small[![](img/useless-box.gif)]
+
+* learn to build from scratch
+* solve problems
+* software dev best practices
+* ship a glorious product
+* make bank, or better, change the world
+
+???
+* talk about history
+* class used to be a layup
+* first realized nobody had built stuff
+* so added rigor for complexity
+* then added rigor for idea - realized people needed to love it
+* the general point here is: you have half a year, don't fucking waste it on something you don't care about.
+
 
 ---
 name: Online @
@@ -55,12 +81,12 @@ name: etc
 
 .medium_small[![](http://i.giphy.com/tn8zWeNYA73G0.gif)]
 
-* 3B — 4:30-6:20pm - Carson 61
-* Tuesdays various class things
-* Thursdays are mostly team meeting and work time (Carson 61)
+<!-- * 3B — 4:30-6:20pm - Carson 61 -->
+* 3A - Mon 3:30-5:20 and Tues 4:30-6:20, LSC 200
+* Mondays, discussion/activities
+* Thursdays, meeting time/sharing
 * x-hours
-  * Mon 5:35 - 6:25pm
-  * meeting time as necessary - room available
+  * Mon 5:35 - 6:25pm, as necessary room available
 
 ???
 * coding together
@@ -101,7 +127,7 @@ name: Code
 
 
 ---
-name: Slack
+name: Slack, Canvas
 
 .small[![](img/giphy_slack.gif)]
 
@@ -109,7 +135,9 @@ name: Slack
 * **all** course communication
 * each team will have a channel
 * download mobile, desktop, web apps
-  * get used to it
+* get used to it
+* **canvas** for submitting thing, all assignments
+
 
 ???
 * i don't do email well...
@@ -119,25 +147,26 @@ name: Slack
 * don't worry about me being in channels - i'm friendly and don't bite - here to help
 * honestly don't read unless you @mention me
 * and if problems come up later there's history and i'm aware of it
+* less of a prof, more of scrum manager (equally useless?) here to help guide you through an awesome building experience
 
 ---
 name: Grading
 
-<iframe src="https://giphy.com/embed/KVeeqrI575N8A" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+.small[![](img/redpanda.gif)]
 
 * Project Milestones — 75%
   * milestone weights will vary
-* Weekly Progress: Instructor Checkins + Written Logs — 25%
-* Github pull requests and commits
-* Project difficulty
+  * late penalty: -10% of milestone per day.
+* Weekly Progress: Instructor Checkins + GitHub — 25%
 * Individual contribution scaling vs Team grade
-* 1 Individual 30 minute meetings at beginning of each term
+    * Github pull requests and commits
+    * Attendance/Participation
+* Project difficulty
 * What you set out to do and how far you get is considered
 
 ???
 * may be adjusted slightly
-* your grade my vary based on individual contribution (combined metric of time+feedback+participation+github)
-* logs are like hour logs for  billing at a company - will attach to git flow somehow instead this time
+* your grade my vary based on individual contribution (combined metric effort+feedback+participation+github)
 * weekly checkins will start once you have teams
 * will send out info about doing 1 goal setting meeting individually in the next couple of weeks for each of you
 * grumpier in my old age
@@ -146,6 +175,7 @@ name: Grading
 * "didn't realize that there would be a focus on UX and whether the project was usable"
 * problem unless researchy or difficult then we can talk about pivoting / progress on solving the problem
 * again talk to me if things are unclear
+
 
 
 ---
@@ -167,7 +197,7 @@ name: Project Complexity
 * don't worry we'll figure this out together
 * reward for challenge - min complexity - but better grade if challenged
 * will give feedback: easy - medium - hard levels
-* can negotiate but time converts to complexity at some point
+* can negotiate - time converts to complexity at some point
 * past -> rigor
 * 2 terms == lotta f' time
 * will try to have some rubrics for each milestone in advance
@@ -177,9 +207,9 @@ name: Project Complexity
 ---
 name: Commitment
 
-<iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="407" height="430" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="307" height="330" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-* 10hrs a week min (outside of class)
+* 10-15hrs a week min (outside of class)
 * bonus points for working together
 * class time (some of which can be coding time)
 * the more you put in the more you'll get out in terms of project satisfaction / grade / fame
@@ -191,8 +221,8 @@ name: Commitment
 ---
 name: thesislyfe -> startuplyfe
 
-.left[![](img/thesis.jpg)]
-.right[<br><br>![](img/thesis2.gif)]
+.medium_small[![](img/thesis.jpg)]
+.medium[![](img/thesis2.gif)]
 
 
 ???
@@ -206,13 +236,30 @@ name: thesislyfe -> startuplyfe
 * don't need to disappear completely, cause milestones will prevent procrastination
 
 
+
+---
+name: CS vs Startup
+
+.medium.fancy[![](img/bill-nye.gif)]
+
+* What about science?
+* What about social entrepreneurship?
+
+???
+* last term someone asked CS culminating vs startup
+* it can definitely be more researchy or not have a clear consumer
+* but we're humans, so everything is a problem to solve
+* if you want to do something algorithmic or a software library or dev tool thats fine, all the steps we take can be made to fit. 
+* or a social entrepeurship project
+
+
+
 ---
 name: Monies
 
 <iframe src="https://giphy.com/embed/l0HFkA6omUyjVYqw8" width="480" height="357" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-* some funding available
-* 100 per team per term to start
+* some funding available for stuff
 
 ???
 * hosting
@@ -306,19 +353,35 @@ name: How do we get there?
 
 
 ---
+name: At a glance
+
+* Week 1: Interviews, Hack-a-thing
+* Week 2: Refine ideas, Hack-a-thing
+* Week 3: Form groups and select ideas
+* Week 4: Define project and scope and technologies
+* Week 5: Mockups, data models, codes started
+* Week 6: Code wired together, rudimentary functionality
+* Week 7: Code reviews
+* Week 8: Focus on critical/testable features
+* Week 9: MVP Demo Celebration
+
+
+???
+* expectations:  you have a working testable thing at the end of t1 that you enjoy working on and are excited to get feedback on. 
+
+
+---
 name: What is at the end?
 
 ## Project Demos!
 
 The goal: a project you are super proud of!
 
-### also Fame and Fortune*
+### also Fame and Fortune* / a better world
 
 .left[![](img/cs-unleashed.png)]
 
 .right[![](img/mafia.jpg)]
-
-
 
 
 ???
@@ -331,6 +394,7 @@ The goal: a project you are super proud of!
 * invite your friends!
 * the goal is for you to be proud of your work
 * but you should also want me to be proud of your work
+* at the END OF T2!  will ship a glorious product
 
 
 
@@ -352,6 +416,7 @@ name: git help
 * [http://www.ndpsoftware.com/git-cheatsheet.html](http://www.ndpsoftware.com/git-cheatsheet.html)
 
 ???
+* how many people have used pull requests before?  don't worry we'll practice! 
 
 
 ---
@@ -370,8 +435,8 @@ name: Problems to Solve
 * some of you have ideas, don't worry but take a step back and do some more ideating
 * Think outside of what is useful to Dartmouth students
 * startup advice is wrong - don't always have to solve a problem you yourself face
-  * we have all the same problems - finding out events/parties, waiting in line at kaf, buying stuff
-* new event apps, social network clones, and marketplaces have been attempted before and you might find it more rewarding to build something that challenges you.
+  * we have all the same problems - finding out events/parties, waiting in line for the pong game, buying stuff
+* event apps, social network clones, and marketplaces have been attempted before and you might find it more rewarding to build something that challenges you.
 * sometimes can't be solved - event planning for instance - just needs everybody to use the same platform
 
 
@@ -395,7 +460,7 @@ name: Outside the Box?
 name: Previous Project: Hindsite 16f-17w
 
 
-.medium[![](../../projects/previous/16f-17w/img/timeline-reef.gif)]
+.large[![](../../projects/previous/16f-17w/img/timeline-reef.gif)]
 
 ???
 * better history chrome extension
@@ -412,7 +477,7 @@ name: Previous Project: Hindsite 16f-17w
 name: Previous Project: Climb.AR 16f-17w
 
 
-.medium[![](../../projects/previous/16f-17w/img/music_game_demo.gif)]
+.large[![](../../projects/previous/16f-17w/img/music_game_demo.gif)]
 
 ???
 * climbing game platform
@@ -455,29 +520,20 @@ name: Previous Project: MiAM 17f-18w
 
 
 
+
 ---
-name: Previous Project: WebAdventure 17f-18w
-.tiny[![](../../projects/previous/17f-18w/img/webadventure-end.gif)]
+name: Previous: Planit '17, Wanderlust '18
+
+.left[![](../../projects/previous/17f-18w/img/planit2.gif)]
+
+.right.medium_small[![](../../projects/previous/18w-18s/img/wanderlust-2s.gif)]
 
 
 ???
-* a better wikigame
-* published for a while in chrome store
-* didn't really think through game dynamic so in the end wasn't quite fun?
-
-
-http://localhost:4000/projects/previous/17f-18w/img/planit2.gif
-
-
----
-name: Previous Project: Planit 17f-18w
-.medium[![](../../projects/previous/17f-18w/img/planit2.gif)]
-
-
-???
-* travel planning webapp
+* travel planning and journalling 
 * built a nice complex system (phoenix elixir/ react)
 * didn't really do much user testing so in the end the product wasn't ready for prime time
+* travel is hard... crowded space
 
 
 ---
@@ -485,11 +541,39 @@ name: Previous Project: Scannible 17f-18w
 .tiny[![](../../projects/previous/17f-18w/img/scannibble1.gif)]
 
 ???
-* travel planning webapp
-* built a nice complex system (phoenix elixir/ react)
-* didn't really do much user testing so in the end the product wasn't ready for prime time
+* food allergen database and detector
 
 
+---
+name: Previous Project: CoinDuel 18W-18S
+.tiny[![](../../projects/previous/18w-18s/img/coinduel-howtoplay.gif)]
+
+???
+* fanduel with crypto - in app store, was oddly fun
+* a bit simple but they made their own currency
+
+
+---
+name: Previous Project: Monad 18W-18S
+.medium[![](../../projects/previous/18w-18s/img/monad.gif)]
+
+???
+* playmonad
+* learn to code ai bots online
+* built a really complex deployment platform
+* docker, react, python, mongo
+
+
+---
+name: Ongoing Projects
+
+.medium[![](../../projects/previous/18f-19w/img/smores-screencap.jpg)]
+
+* we'll meet them next thursday
+* take a look through: http://cs98.me/projects/previous/
+
+???
+* an AR game, a robotic elderly care bot, IoT recycling detector, etc
 
 
 ---
@@ -520,8 +604,28 @@ name: The Tale Of OrderOrchard
 * initially online food ordering
 * but pivoted when they identified a bigger pain point for restaurants
 * big enough pain point that they've signed some big customers
+* also tale of collegepulse but you're all probably tired of hearing that one
 
 
+---
+name: what is the point?
+
+.medium[![](img/mrfox.gif)]
+
+* build something to solve a problem
+* build it to make a better world
+* topics: education, wellbeing, accessibility, poverty, health, etc
+
+???
+* bit of a soap box issue for me
+* you get all this knowledge and amazing experience
+* but the point of this education is to also help you care
+* care for making a better world
+* the existential responsiblity to create the world as you want it to be
+* you may feel powerless, but every action you do in the world matters
+* i'm not inspirational, but i want to try through this class to empower you all to care about what you do and to change the world for the better
+* if you want to talk philosophy, i have office hours
+* collegepulse wants to solve societal pressures and misconceptions - less people drink and have sex then people might feel pressured into believing - greater potential impact past american schools - what does it mean to black out in cultures where nobody drinks? or where drinking ages are different?
 
 ---
 name: just breathe
@@ -534,6 +638,8 @@ name: just breathe
 * You can do it!  Some of the groups in the past had no experience with what they were building
 * no kinect or hololens exp, or react-native etc
 * you can learn and build a lot in 6 months
+
+
 
 
 ---
@@ -554,10 +660,11 @@ name: start with: Interviews
 * idea is to get our thoughts percolating about ideas that might be outside dartmouth
 * who knows prof: Misha Gronas?
 * he always has crazy ideas - his last was outsourcing streaming videos of talks/events  
+* will send out assignment on canvas
 
 
 ---
-name: next week: Hack-A-Thing
+name: next up: Hack-A-Thing
 
 .medium_small[![](img/hack-a-thing.gif)]
 
@@ -565,7 +672,7 @@ name: next week: Hack-A-Thing
   * individually or in pairs
   * choose some technology based on interesting
   * hack something together
-  * plan to spend 10 hours (min) learning/exploring
+  * plan to spend **10 hours** (min) learning/exploring
 
 ???
 * idea is to broaden your horizons
@@ -579,8 +686,10 @@ name: next week: Hack-A-Thing
 ---
 name: as you go: Inspiration Board
 
-* Start an inspiration board.
+* Start an idea inspiration board.
 * cool tool: [milanote](https://www.milanote.com/refer/rcAxjfzasgu2C6IoR8)
+* will submit it later for some grade points
+* **find a cool article or paper on tech/software/cs/problems in the world, that you want to share with the class**
 
 .left[![](https://media.giphy.com/media/26BkNrGhy4DKnbD9u/giphy.gif)]
 .right[![](https://media.giphy.com/media/QveMWHFk4ojsI/giphy.gif)]
@@ -600,15 +709,20 @@ name:
 
 .medium[![](img/hacktivity_rules.jpg)]
 
+.left[
 * 10 Min - brainstorm
 * 20 Min - BUILD a prototype
 * 10 Min - Prep Pitches
 * 2 Min - Pitch It!
+]
+
+.right[
+1. each person write down a random word
+1. form teams
+1. swap words with another team
+1. brainstorm and create a product that ties together all words
+1. can be a digital or physical product
+1. create a presentation and show it
+]
 
 ???
-* each person write down a random word
-* form teams of 4ish people
-* swap words with another team
-* brainstorm and create a product that ties together all words
-* can be a digital or physical product
-* create a little presentation
