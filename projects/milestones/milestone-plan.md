@@ -69,7 +69,7 @@ There are two different ways to use ZenHub - you can either download a [Chrome E
     * *Backlog* if they are something to work on next.
     * *InProgress* for the specific tasks you are currently going to work on.
     * Close issues that are old or deprecated. 
-1. 🚀Enter in all bugs from the past term.
+1. 🚀Enter in **ALL** bugs from the past term.
     * create new issues (select the appropriate repo "Create in ..." if associated with a particular repo).
     * label them with a <span style="color: red;">🐛bug</span> label
     * you can break them down further with:
@@ -77,7 +77,7 @@ There are two different ways to use ZenHub - you can either download a [Chrome E
         * <font style="color:orange">[ ❗️important]</font>
         * <font style="color:lightblue">[ 🍲 back burner]</font>
         * <font style="color:grey">[ 🙅won't fix]</font>
-1. 🚀Enter in all new feature ideas
+1. 🚀Enter in **ALL** new feature ideas
     * create new issues (select the approriate repo "Create in ..." if associated with a particular repo) for each new feature idea you had via feedback last term, or as you brainstormed earlier in this milestone.
     * label them with a <span style="color: blue;"> 💎enhancement</span> tag or others as you see fit. Feel free to use invalid. Or create your own tags.
 1. 🚀Create a milestone:
@@ -92,7 +92,7 @@ There are two different ways to use ZenHub - you can either download a [Chrome E
 
 Remember that each issue should be scoped to be around 1 sitdown work session, just a couple hours. Break up large tasks into individual smaller ones, each one should be under a few hours of work. The smaller the tasks the actually faster you will work (not just the appearance of speed).  It is easier to take on a manageable scope issue and work through it than if the issue has multiple steps that quickly become overwhelming to think through. 
 
-💢Feel free to assign each other tasks, a little aggressiveness is ok! you can interact via comments on the issues also, on a good project the board will feel like a community, people upvoting and clapping for each other, discussing the issues, or how best to implement something. EC: mention @timofei7 or @ksalesin in an issue or a PR when you need help. We're happy to help — and since this was a wall of text we'll know that you happened to read it all. 
+💢Feel free to assign each other tasks, a little aggressiveness is ok! you can interact via comments on the issues also, on a good project the board will feel like a community, people upvoting and clapping for each other, discussing the issues, or how best to implement something. EC: mention @timofei7 or @ksalesin in an issue or a PR when you need help or feedback or want to say hi. We're happy to help — and since this was a wall of text we'll know that you happened to read it all. 
 
 
 ## Motivation 
