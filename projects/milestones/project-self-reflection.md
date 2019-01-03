@@ -13,13 +13,14 @@ But right now is also a good time to work out the future direction of the projec
 
 We'll start out the term with some self reflection about the project — to try to incorporate feedback from user testing and consider any pivots etc.
 
-As soon as you can you should have your first all-hands in-person team meeting for the term and work through some of these questions. This is a markdown worksheet template that you should copy into your project github wiki and fill out.  These are starting points for discussion with your team. Don't skimp on this.
+As soon as you can you should have your first all-hands in-person team meeting for the term and work through some of these questions. This is a markdown worksheet template that you should copy into your project github wiki and fill out. These are starting points for discussion with your team. Don't skimp on this.  We'll discuss it in person during next class.
 
-Start a wiki page titled:  "T2 Project Reflection and Next Steps"
+Start a wiki page titled:  `T2 Project Reflection and Next Steps Worksheet`
 
 <pre class="wrap">
-## T2 Project Reflection and Next Steps
+## T2 Project Reflection and Next Steps Worksheet
 
+![](/path/to/team-selfie-during-meeting-as-proof.jpg)
 
 ## Original idea
 *Revisit your original goals (check out your project proposal).*
@@ -89,4 +90,4 @@ Start a wiki page titled:  "T2 Project Reflection and Next Steps"
 
 ## To Turn In:
 * github wiki link to reflection worksheet
-* 
+* don't forget team selfie (prove you met in person, photoshopping allowed in small quantities)
