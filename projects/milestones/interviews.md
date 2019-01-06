@@ -19,19 +19,20 @@ Your mission is to find at least 1 person who is not a student and invite them f
 
 Tell them you have an annoying prof that wants you to ask around for cool ideas/problems that people have.  Ask them if they've ever wished some product existed, or if they have any "if I quite my job I'd want to invent X" kind of ideas.  Often profs have lots of ideas about random things that if they had time/energy/CS skillz/money they might want to build.  If they don't have any ideas, ask them about what irritates them.  Try for forge a connection with them around irritating and annoying things you hate. Hatred can lead to innovation.
 
+Rather than providing an interview template to follow, my suggestion is to try to prompt them to tell some stories about times they were pissed off, or times they noticed a clever solution to something, or about things in the world that they care deeply about.  Emotions are good, note how they feel towards the problem, do their eyes light up in excitement or anger? 
+
 ## Partner
 
 Do this assignment with a partner (but you each need to have chosen 1 person to interview together, so 2 interviews total).  It is much easier to keep conversations going with a partner to help.  Have one person take notes.  Have some prepared questions / topics.  Talk about some ideas you might have and build off of them.
 
-
 ## Record
 
-Take notes and them compile them in a Google Doc.
+Take notes and them compile them in a Google Doc. Try to collect at least a couple stories / ideas / problems. 
 
 Some specific things to take note of:
 * who is the target audience
 * what is the problem statement
-* what the proposed solution might look like
+* what a solution might look like
 
 
 ## To Turn In

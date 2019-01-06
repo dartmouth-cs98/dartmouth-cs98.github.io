@@ -57,7 +57,7 @@ There are 2 (COSC98.01+COSC98.02) sequences of this course. You need to take COS
   - **Section 1 (18F-19W)**
     - 3B Classes will meet Tuesday and Thursday (4:30-6:20).
     - Thursday class time will used for team meetings and working together.
-    - 3BX will be available for help / team meeting tsime.
+    - 3BX will be available for help / team meeting time.
     - Location: LSC200
   - **Section 2 (19W-19S)**
     - 3A Classes will meet Monday (3:30-5:20) and Thursday (4:30-6:20).
@@ -76,7 +76,7 @@ Class time will be used for topic hackathons, team meetings, showing your work, 
   - Open Help/Hack Hours during X-Hour every week. <br>
 
   - Instructor: [Tim Tregubov](mailto:tim@cs.dartmouth.edu)<br>
-    Mon 2-4pm; Fri 11-1pm; or [by appointment in Sudikoff 219/007](https://calendly.com/timofei/cs98)<br>
+    Fri 11-1pm; or [by appointment in Sudikoff 219/007](https://calendly.com/timofei/cs98)<br>
     ![](assets/imgs/tt_profile.jpg){: .fancy .profile}<br>
     [@tim](https://cs98-dartmouth.slack.com/messages/@tim/)<br>
 
