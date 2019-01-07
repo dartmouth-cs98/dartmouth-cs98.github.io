@@ -187,19 +187,12 @@ name: Ok but like, why?
 
 <iframe src="https://giphy.com/embed/113udJYmASs3qE" width="480" height="282" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-* generally useful
-* for class will be part of how we choose projects
+* pitching won't be how we choose projects this term!
+* but storytelling will be critical
+* the story of what your product does
+* or what your research question is
 
 ???
-* get roommate to cleanup
-* go on a date
-* get a job
-* anytime present what you care about
-
-* last term we had a pitching activity
-* where people pitched their favorite food and then we got that food later in term
-* we can do that or move on to an ideation workshop?
-
 
 ---
 name: Project Teams
@@ -209,9 +202,8 @@ name: Project Teams
 
 * more teams+ideas next week
 * based on ideas + friendship + foeship
-* changing things up -
 * previously: pitch ideas, scrapping that
-* now pivoting more to discussion about tech and problems
+* more discussion about tech and problems
 * teams based on theme/tech instead
 
 
@@ -255,8 +247,8 @@ name: Some Inspiration Sources
 ???
 * how i built this is a cool interview series
 * anybody listen to it?
-* if at the end of class you in a place where you want to apply to ycombinator - that is ultimate stretch goal
-* 
+* world problems
+* how to think about problems and scale
 
 
 
@@ -275,7 +267,7 @@ name: Practice Story Telling
 * select best story from your table to share
 
 ???
-* lets practice in tables -  sit at the same table as your interview partner
+* lets practice in tables -  sit at a different table from your interview partner
 * 15 minutes to do this - then we'll share out one story from each table to class
 
 
@@ -321,6 +313,8 @@ name: Mix em up
 * 10 MIN:
   * then as table discuss options and consolidate on 1 idea
 
+???
+* idea here is to just insert a bit of randomness, stochastic hill climbing - just in case one of these ideas can be improved a bit with some lateral thinking.
 
 ---
 name: Identify and Sketch Features - 30MIN
