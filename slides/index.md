@@ -8,7 +8,7 @@ permalink: /slides/
 ### Term 1
 
 * [Welcome](00_welcome/)
-<!-- * [Idea Generation](01_ideas/) -->
+* [Idea Generation](01_ideas/)
 <!-- * [Pitch Intro](02_food-pitch/) -->
 <!-- * [Refining Ideas](04_user-personas) -->
 <!-- * [Design](04_design) -->

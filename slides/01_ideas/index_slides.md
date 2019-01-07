@@ -19,10 +19,10 @@ name: base
 .title[{{name}}]
 
 ---
-name: Today
+name: CS98: Today
 
 
-## sit with your Interview partner if you had one!
+## don't sit with your Interview partner if you had one!
 
 
 
@@ -34,13 +34,14 @@ name: Today
 <iframe width="600" height="400" src="https://www.youtube.com/embed/J-GVd_HLlps?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 * Interviews
-* Thoughts on pitching
 * Ideas++
+* Broaden our problem scope
 
 ???
-* today talk about pitching ideas and do a idea workshop thing
+* today talk about ideas and workshop out some of the interviews
 * I generally dislike formal brainstorming - some of you might feel that way too
   - but hopefully this will be fun and fruitful
+* goal is to broaden our scope
 
 ---
 name: Hack-a-thing-1
@@ -51,6 +52,115 @@ name: Hack-a-thing-1
 
 ???
 * anybody choose a thing to hack on?   what?
+* anybody need ideas?
+
+
+---
+name: Technologies
+
+.fancy.medium[![](img/andreessen.jpg)]
+
+* on slack `#inspiration`
+* hearables
+* ar/vr
+* sensors
+
+???
+* some thoughts on state of the art
+* using our hearing a lot
+* marc andreessen 
+* i listen to audiobooks a lot - while walking or driving especially - crank through a book a week. 
+* hearables
+* lots of cool sensors from the stuff on your phone to cheap eeg for brainwaves and heartrate monitors
+
+---
+name: WTF hearable?
+
+.fancy.medium[![](img/tom-cruise-hearables.jpg)]
+
+* has additional sensors
+* hearing or comprehension enhancement
+* various assistants
+
+???
+* hearing is just as valuable an input
+* i listen to audiobooks a lot - while walking or driving especially - crank through a book a week. 
+* anyway - audio interactions - predicted to be big
+* stigma of talking to oneself / hearing aid though is a thing to combat
+* close to brain - eeg?
+* not sure how to build off of this - prototyping something larger
+
+
+---
+name: AR/VR
+<iframe width="660" height="415" src="https://www.youtube.com/embed/dO1NpT2SSX4?start=7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* shared worlds
+* collaborative vs combative
+* before pokemon go came ingress
+
+???
+* niantic is doing some cool stuff - i emailed them asking about access to platform maybe 
+* before pokemon go they had a game called ingress
+* sent people on missions to take pictures of landmarks
+* used that for pokemon go
+* now they have all the walking paths that exist in the world... what will they do with that? 
+* also an interesting technique - crowdsourcing the data you need by providing rewards for it
+
+---
+name: AR/VR
+
+<iframe width="660" height="415" src="https://www.youtube.com/embed/aPWkmLJmVKA?start=21" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* clearly just the beginning...
+
+
+---
+name: VR
+
+<iframe width="760" height="515" src="https://www.youtube.com/embed/WeVJIuyJq08?vq=hd1080" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+???
+* not sure what the killer app here is
+* but this is a beautiful realtime demo from unity
+* imagine a study space / vr office though - where would it be? would it have a table? 
+* studies show that context to where you remember things is important in helping recall / put you in the right mood
+
+
+
+---
+name: More Topics
+
+.fancy.small[![](img/flyaway.gif)]
+
+
+* education
+* games
+* behavior change (health, happiness, security)
+* opensource
+
+
+???
+* do we think education is optimal?
+* queue soap box - turns out giving students a giant textbook to read and talking at them for an hour isn't the way the brain works.  we are amazing learners - you learn language mostly just by listening - an infants brain learns phonemes and words by analyzing the distribution of sounds. probabilistic statistical learning
+* pre-tty _ ba-by (transitional probabilities, that a syllable will occur given a previous) oral speach has no real boundaries
+* we do this automatically.
+* at 11 months old babies can distinguish grammatical from non-grammatical sentences
+*
+
+
+---
+name: Choose your own adventure
+
+.fancy.medium[![](img/Months1.png)]
+
+
+* https://waitbutwhy.com/2014/05/life-weeks.html
+
+???
+* this is cs98
+
 
 
 ---
@@ -99,7 +209,10 @@ name: Project Teams
 
 * more teams+ideas next week
 * based on ideas + friendship + foeship
-* pitching sesh on Tuesday!
+* changing things up -
+* previously: pitch ideas, scrapping that
+* now pivoting more to discussion about tech and problems
+* teams based on theme/tech instead
 
 
 ???
@@ -107,10 +220,7 @@ name: Project Teams
 * working with friends can be great
 * or not
 * your preferences
-* but working on idea you like more important
-* how to get people to work on your idea?  stories
-
-
+* but working on theme you like more important
 
 
 ---
@@ -127,25 +237,26 @@ name: Ideas
 * queue smoke machine
 
 
-
 ---
 name: Some Inspiration Sources
 
-
+* https://80000hours.org/career-guide/world-problems/
+* https://80000hours.org/problem-profiles/#potentially_promising
 * http://www.ycombinator.com/resources/
-* https://www.startupschool.org/
+* https://www.startupschool.org/library
 * http://www.paulgraham.com/startupideas.html
+* https://www.producthunt.com
 * https://www.ycombinator.com/rfs/
 * https://www.npr.org/podcasts/510313/how-i-built-this
 * https://dribbble.com/
 * http://abc.go.com/shows/shark-tank
 
 
-
 ???
 * how i built this is a cool interview series
 * anybody listen to it?
 * if at the end of class you in a place where you want to apply to ycombinator - that is ultimate stretch goal
+* 
 
 
 
@@ -182,14 +293,12 @@ name: Idea-tivity!
 
 .fancy.medium[![](img/no-idea.gif)]
 
-
 * Write down:
   * **1 platform** (vr, product, mobile, web, text, etc)
   * **1 topic/problem** (from interviews)
   * **1 audience** (4 year olds with missing teeth, single parents, stressed teens, mail delivery people in their 70s)
   * **1 animal** (kittens, lions, etc)
 * on separate cards
-* put in trays up front
 
 
 
@@ -206,30 +315,36 @@ name: Mix em up
 
 .fancy.medium[![](img/mix-up.gif)]
 
-* 5 MIN:
-  * choose 1 set of 4 per 2 person team
+* 10 MIN:
+  * choose 2 sets of 4
   * brainstorm on how to solve the set
-* 5 MIN:
-  * then as table discuss options and choose 1 set of 4
-  * allowed to swap 1 word
+* 10 MIN:
+  * then as table discuss options and consolidate on 1 idea
 
 
 ---
 name: Identify and Sketch Features - 30MIN
 
-
 * split up your idea into main features
   * collaboratively build it
+  * can use digital tools like [Pop Paper](https://marvelapp.com/pop/) or [Figma](https://www.figma.com)
   * show user flows
 * prep a **short pitch deck**
   * problem statement /story
   * who is it for?
   * share some thoughts on your solution
-  * what is your special insight?
+  * what is your special insight
+  * show some of your mocks/sketches/drawings
+* post a link to google presentation `#section-2`
+* pitch it
 
 ???
 
 
 
 ---
-name: Pitch It!
+name: Coming Next
+
+* Thurs: Share out Hack-a-things
+* Mon: Share a cool paper or article on a tech or a human problem
+* Next Thurs: Teams form
