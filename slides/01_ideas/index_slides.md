@@ -130,10 +130,9 @@ name: VR
 
 
 ---
-name: More Topics
+name: Some Broad Topics
 
 .fancy.small[![](img/flyaway.gif)]
-
 
 * education
 * games
@@ -147,8 +146,20 @@ name: More Topics
 * pre-tty _ ba-by (transitional probabilities, that a syllable will occur given a previous) oral speach has no real boundaries
 * we do this automatically.
 * at 11 months old babies can distinguish grammatical from non-grammatical sentences
-*
 
+---
+name: Share Topics
+
+.small[![](img/sharing.gif)]
+
+* Next assignment: find and share an interesting paper or article
+* can be about tech or problems in the world
+* post in slack `#inspiration` with comment about why it is interesting to you
+
+???
+* this is just a little starter
+* find more and post them
+* then next week we'll share them out - will send more info about this later
 
 ---
 name: Choose your own adventure
