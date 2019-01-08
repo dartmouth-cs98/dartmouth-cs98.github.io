@@ -20,8 +20,7 @@ permalink: /slides/
 
 ### Term 2
 
-<!-- * [Welcome 17f](20_welcome_winter/) -->
-<!-- * [Welcome 18w](20_welcome/) -->
+* [Welcome 19w](20_welcome/)
 <!-- * [Code Review 2](22_code_review/) -->
 
 
