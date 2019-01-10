@@ -23,7 +23,8 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 **Week 2**:<br>
   A second round week long hackathon on a technology/platform of your choosing to stretch coding muscles and prepare for project. This is to be done as a team.
 
-- [ ] Milestone 2: [Hack-a-thing-2](milestones/hack-a-thing-2)
+- [ ] Milestone: [Share A Paper](milestones/paper-presentation)<br>
+- [ ] Milestone: [Hack-a-thing-2](milestones/hack-a-thing-2)
   - *in pairs*
 - [ ] Share Interviews
 - [ ] Share Hack-A-Thing-1
@@ -90,7 +91,7 @@ During the second term we'll focus on specific weekly milestones that each team 
 - [ ] Milestone: [Milestone Planning](milestones/milestone-plan)
 
 **Week 2**:<br>
-  TBD
+- [ ] Milestone: Close out Sprint 1, Evaluate and Plan Sprint 2
 
 **Week 3**:<br>
   Buddy team code review. In class we will pair up teams and review each others codes. There will be a small github component to this.

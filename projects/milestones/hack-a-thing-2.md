@@ -14,7 +14,8 @@ published: true
 
 
 ## Overview
-Similarly to [Hack-A-Thing-1](hack-a-thing-1), we'll spend a week hacking on some technology. You can either choose a new technology to try out or you can go deeper on what you were working on previously.  Don't just brush this assignment off and follow some easy tutorial.  This is a chance to play around with something you've been curious about and share it with the rest of the class.  If you choose to keep hacking on the same thing as last week make sure to use git tag to mark it, and that you do enough on it to count.   
+Similarly to [Hack-A-Thing-1](hack-a-thing-1), we'll spend a week hacking on some technology. You can either choose a new technology to try out or you can go deeper on what you were working on previously.  However, if you choose to dive deeper there is an expectation that the work is reasonably complex to justify two weeks of experimentation. Don't just brush this assignment off and follow some easy tutorial.  This is a chance to play around with something you've been curious about and share it with the rest of the class.  If you choose to keep hacking on the same thing as last week make sure to use git tag to mark it, and that you do enough on it to count. 
+
 
 ## Using git tags
 
@@ -31,7 +32,7 @@ You should plan to spend at least 10 hours on this. The workload of this course 
 
 ## Teams
 
-For this milestone you should work in pairs.  You can self register your team as a group on canvas. This is also an opportunity to try to work with someone new or try out a working dynamic with someone you might want to work with later.
+For this milestone you should work in pairs.This is also an opportunity to try to work with someone new or try out a working dynamic with someone you might want to work with later.
 
 ## Build
 

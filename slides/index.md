@@ -9,7 +9,7 @@ permalink: /slides/
 
 * [Welcome](00_welcome/)
 * [Idea Generation](01_ideas/)
-<!-- * [Pitch Intro](02_food-pitch/) -->
+* [Sharing is Caring](03_sharing-is-caring/)
 <!-- * [Refining Ideas](04_user-personas) -->
 <!-- * [Design](04_design) -->
 <!-- * [Design Feedback](05_design_feedback) -->
@@ -18,10 +18,12 @@ permalink: /slides/
 
 
 
-### Term 2
+### Term 2   
 
 * [Welcome 19w](20_welcome/)
+* [Sharing is Caring](03_sharing-is-caring/)
 <!-- * [Code Review 2](22_code_review/) -->
+
 
 
 
