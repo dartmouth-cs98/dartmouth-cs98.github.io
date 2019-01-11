@@ -12,7 +12,7 @@ published: true
 
 This is the time to transition to the next sprint!  This will involve a short review and team retrospective and planning next steps. 
 
-You should have an in-person team meeting and resolve all your currently working on tasks as best you can in preparation for this meeting.  All your feature pull requests should be reviewed and merged into master so you can demo your work.
+You should have an in-person team meeting and resolve all your currently working on tasks as best you can in preparation for this meeting.  All your previous sprint assigned issues and feature pull requests should be reviewed and merged into master so you can demo your work.
 
 ### Review
 
@@ -65,4 +65,6 @@ Well yes, there is no other milestone other than making progress. If every issue
 
 ## To Turn In:
 * submit zenhub link to your workspace
+    * showing new assignments
+    * and all of your previous sprint finished!
 * submit wiki page link to your retrospective
