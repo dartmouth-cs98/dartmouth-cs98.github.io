@@ -21,9 +21,12 @@ Grading of collaborative team based work will be done based on GitHub pull reque
 The final grade will be based on a combination of weekly performance, class demos throughout the term, preset milestones, and peer evaluation. Grading will take into account GitHub pull requests. Proper git flow will be introduced early on in the term and will be required for all groups. Since projects are a team effort, you will earn a group grade along with a modifier for individual performance. In extreme cases individuals may be dropped or raised several grade points from the group.  For instance, if you were the star performer on the team and committed the large majority of code but your teammates didn't pull their weight so the project wasn't quite up to standards: the team might receive a B- but you might get an A.  Alternatively if you slacked and contributed only a few lines to some documentation to boost your git commit count, we will notice and you might get a rather poor grade even if your teammates pulled off an impressive project without you and got an A* overall.  We will read your code and we will have regular code reviews.
 
 * Project Milestones — 50%
-  * milestone weights will vary
+    * milestone weights will vary
 * Weekly Progress: Instructor Checkins + Written Logs — 50%
 * Late penalty: -10% of milestone per day.
+* Attendance/Participation: 5%
+    * 2 excused absences are allowed.
+
 
 
 ## Honor principle -- Not your standard warning! ##
