@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Next Sprint
+title: Sprint 2
 published: true
 ---
 
