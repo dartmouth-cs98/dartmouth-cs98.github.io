@@ -87,43 +87,56 @@ During the second term we'll focus on specific weekly milestones that each team 
 **Week 1**:<br>
   We'll start out the term with some self reflection about the project — to try to incorporate feedback from user testing and consider any pivots etc.
 
-- [ ] Milestone: [Project Self Reflection](milestones/project-self-reflection)
-- [ ] Milestone: [Milestone Planning](milestones/milestone-plan)
+  - [ ] Milestone: [Project Self Reflection](milestones/project-self-reflection)
+  - [ ] Milestone: [Milestone Planning](milestones/milestone-plan)
 
 **Week 2**:<br>
-- [ ] Milestone: Close out Sprint 1, Evaluate and Plan Sprint 2
+  
+  - [ ] Milestone: [Close out Sprint 1, Evaluate and Plan Sprint 2](milestones/sprint1)
 
 **Week 3**:<br>
   Buddy team code review. In class we will pair up teams and review each others codes. There will be a small github component to this.
 
+  - [ ] Milestone: [Close out Sprint 2, Evaluate and Plan Sprint 3](milestones/sprint2)
+
 **Week 4**:<br>
   A team set milestone is accomplished or updated.
+
+  - [ ] Milestone: [Close out Sprint 3, Evaluate and Plan Sprint 4](milestones/sprint3)
 
 **Week 5**:<br>
   Stretch goal setting.  Each member of every team needs to choose a stretch goal to work towards.
 
+  - [ ] Milestone: [Close out Sprint 4, Evaluate and Plan Sprint 5](milestones/sprint4)
   - [ ] Milestone: [Stretch Goals!](milestones/stretch-goals)
 
 **Week 6**:<br>
   Just a checkin to share out progress and things learned with the other teams.
 
+  - [ ] Milestone: [Close out Sprint 5, Evaluate and Plan Sprint 6](milestones/sprint5)
   - [ ] Milestone: [Midterm Checkin](milestones/midterm-checkin)
 
 **Week 7**:<br>
   Work time and buddy team progress update.
 
+  - [ ] Milestone: [Close out Sprint 6, Evaluate and Plan Sprint 7](milestones/sprint6)
+
 **Week 8**:<br>
   Work time and buddy team progress update.
+
+  - [ ] Milestone: [Close out Sprint 7, Evaluate and Plan Sprint 8](milestones/sprint7)
 
 **Week 9**:<br>
   Come up with a plan for publishing the product and a go to market strategy.
   In class session of breaking each others projects to reveal bugs and give last minute feedback.
 
+  - [ ] Milestone: [Close out Sprint 8, Evaluate and Plan Sprint 9](milestones/sprint8)
   - [ ] Milestone: [Publishing and Go To Market Strategy](milestones/publishing)
   - [ ] Milestone: [Pre-Final-Demo Bug Hunt](milestones/final-bughunt)
 
 **Week 10**:<br>
   MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
 
-- [ ] Milestone: [FINAL DEMOS](milestones/demos)
-- [ ] Milestone: [Final Project Submission](milestones/final)
+  - [ ] Milestone: [Close out Sprint 9!](milestones/sprint9)
+  - [ ] Milestone: [FINAL DEMOS](milestones/demos)
+  - [ ] Milestone: [Final Project Submission](milestones/final)
