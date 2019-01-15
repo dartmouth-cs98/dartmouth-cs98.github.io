@@ -10,6 +10,8 @@ permalink: /slides/
 * [Welcome](00_welcome/)
 * [Idea Generation](01_ideas/)
 * [Sharing is Caring](03_sharing-is-caring/)
+<!--  idea pitches and paper sharing -->
+
 <!-- * [Refining Ideas](04_user-personas) -->
 <!-- * [Design](04_design) -->
 <!-- * [Design Feedback](05_design_feedback) -->
