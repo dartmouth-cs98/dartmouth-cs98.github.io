@@ -6,7 +6,7 @@ title: Projects
 
 <!-- ## <span style="color: #F27D00">Project Info Coming Soon</span> ## -->
 
-## <span style="color: #F27D00">Schedule is approximate and adaptive! See Canvas for authoritative dates and submissions of milestones.</span> ##
+## <span style="color: #9d162e">Schedule is approximate and adaptive! See Canvas for authoritative dates and submissions of milestones.</span> ##
 
 
 ## Term 1 At a Glance

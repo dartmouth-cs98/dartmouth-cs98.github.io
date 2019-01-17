@@ -5,13 +5,11 @@ permalink: /slides/
 ---
 
 
-### Term 1
-
+### Part 1
 * [Welcome](00_welcome/)
 * [Idea Generation](01_ideas/)
-* [Sharing is Caring](03_sharing-is-caring/)
-<!--  idea pitches and paper sharing -->
 
+<!--  idea pitches and paper sharing -->
 <!-- * [Refining Ideas](04_user-personas) -->
 <!-- * [Design](04_design) -->
 <!-- * [Design Feedback](05_design_feedback) -->
@@ -20,11 +18,15 @@ permalink: /slides/
 
 
 
-### Term 2   
-
+### Part 2   
 * [Welcome 19w](20_welcome/)
-* [Sharing is Caring](03_sharing-is-caring/)
+
 <!-- * [Code Review 2](22_code_review/) -->
+
+
+### Together
+* [Sharing is Caring](30_sharing-is-caring/)
+* [Teams, Teams, Teams](31_teamsteamsteams)
 
 
 

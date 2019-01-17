@@ -50,7 +50,7 @@ Here are some examples:
 * *I want to be a ghost, quiet for most of the day but reliably haunting the repo with my contributions.*
 
 
-Fill out the form below for yourself.  We'll add these to the `Group Dynamics Worksheet` wiki page later. 
+Copy the form and fill it out for yourself!   We'll add these to the [Part B](#part-b) after you are done.
 
 
 ```
@@ -74,11 +74,12 @@ Instructions: Complete all of Part B as a team.
 Create this as a wiki page titled `Group Dynamics Worksheet` in github (more directions below).
 
 ```
-#Group Dynamics Worksheet
+# Group Dynamics Worksheet
 
 ## Team Members:
 
 // TODO: paste in each individuals responses from Part A here
+// use Slack to coordinate
 
 
 ## I. Communication
