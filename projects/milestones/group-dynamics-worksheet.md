@@ -50,7 +50,7 @@ Here are some examples:
 * *I want to be a ghost, quiet for most of the day but reliably haunting the repo with my contributions.*
 
 
-Copy the form, paste it just below, and fill it out for yourself!   We'll add these to the First Team Meeting Workshop. 
+Fill out the form below for yourself.  We'll add these to the `Group Dynamics Worksheet` wiki page later. 
 
 
 ```
@@ -82,7 +82,7 @@ Create this as a wiki page titled `Group Dynamics Worksheet` in github (more dir
 
 
 ## I. Communication
-*Pick a tentative weekly meeting schedule that all members of your group are available for. You are required to spend at least 10 hours/week outside of class. Outline a general weekly meeting schedule with at least 1 time that everybody can make. That one meeting must include the entire team in the same room, in person. The rest of the 10 hours may be split into several sessions throughout the week. A nice tool for this is [when2meet](https://www.when2meet.com/).*
+*You are required to spend at least 10 hours/week outside of class. Outline a general weekly meeting schedule with at least 1 time that everybody can make. That one meeting must include the entire team in the same room, in person. The rest of the 10 hours may be split into several sessions throughout the week. A nice tool for this is [when2meet](https://www.when2meet.com/).*
 
 ### Schedule
 * LSC 200 at 3:30 on Mondays
@@ -115,16 +115,11 @@ Try to be as specific as possible.
 * A better plan for Ghosting: “Elect the team member who is closest with that person to check in with them one-on-one. Based on the conversation, reexamine the tasks currently on that person’s plate and revise if necessary. Affirm that they are coming to the next team meeting. At the next team meeting, every team member will make an effort to include the Ghoster in any team discussions.”
 
 ### Course of Action
-*What will your group do in order to resolve each type of conflict?*
-
-### Escalation
-*What are the levels of escalation?*
+*What will your group do in order to resolve each type of conflict? (include the levels of escalation)*
 
 
 The End!
 ```
-
-## Add bo
 
 ## Github Markdown Files and Repo
 
