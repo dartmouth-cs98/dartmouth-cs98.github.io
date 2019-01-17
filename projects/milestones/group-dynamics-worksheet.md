@@ -12,7 +12,7 @@ author: Kate
 Instructions:
 * Complete all of Part A by yourself (this should take ~10 minutes). 
 * Once everyone on your team is finished with Part A, go around and share your responses to the two Role questions.
-* You may use [HackMD](https://hackmd.io) to work with the templates below and then you'll upload them to github wiki per the directions below.
+* You may use [HackMD](https://hackmd.io) to work with the templates below and then you'll upload them to github wiki per the directions below. Simply copy/paste the markdown template into hackmd and you'll see what it looks like.
 
 ### I. Why are you making me do this?
 
@@ -82,7 +82,7 @@ Create this as a wiki page titled `Group Dynamics Worksheet` in github (more dir
 
 
 ## I. Communication
-*Pick a tentative weekly meeting schedule that all members of your group are available for.*
+*Pick a tentative weekly meeting schedule that all members of your group are available for. You are required to spend at least 10 hours/week outside of class. Outline a general weekly meeting schedule with at least 1 time that everybody can make. That one meeting must include the entire team in the same room, in person. The rest of the 10 hours may be split into several sessions throughout the week. A nice tool for this is [when2meet](https://www.when2meet.com/).*
 
 ### Schedule
 * LSC 200 at 3:30 on Mondays
@@ -104,15 +104,15 @@ Create this as a wiki page titled `Group Dynamics Worksheet` in github (more dir
 ## III. Conflict Resolution
 There are three main types of conflict that tend to occur in group projects:
 
-* Creative differences: disagreement on any decisions related to the product
-* Personal differences: friction between people due to manner or words said
-* Ghosting: consistent missed deadlines or lack of contribution
+* **Creative differences**: disagreement on any decisions related to the product
+* **Personal differences**: friction between people due to manner or words said
+* **Ghosting**: consistent missed deadlines or lack of contribution
 
 Your group should decide on a plan of action to deal with each type of conflict. There can be multiple levels to each plan. Involving the instructors (Tim or Kate) can be part of the plan.
 
 Try to be as specific as possible. 
-A bad plan for Ghosting: “Talk to the person.” (too vague)
-A better plan for Ghosting: “Elect the team member who is closest with that person to check in with them one-on-one. Based on the conversation, reexamine the tasks currently on that person’s plate and revise if necessary. Affirm that they are coming to the next team meeting. At the next team meeting, every team member will make an effort to include the Ghoster in any team discussions.”
+* A bad plan for Ghosting: “Talk to the person.” (too vague)
+* A better plan for Ghosting: “Elect the team member who is closest with that person to check in with them one-on-one. Based on the conversation, reexamine the tasks currently on that person’s plate and revise if necessary. Affirm that they are coming to the next team meeting. At the next team meeting, every team member will make an effort to include the Ghoster in any team discussions.”
 
 ### Course of Action
 *What will your group do in order to resolve each type of conflict?*

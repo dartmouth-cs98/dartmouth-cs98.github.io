@@ -13,7 +13,7 @@ This will be a short document outlining your plans for the project.
 
 Here is a template for a project proposal that you should create using the github wiki functionality.
 
-```
+```markdown
 # Project Name Proposal
 ### Team Members | CS98 18F
 
@@ -35,10 +35,6 @@ Include any existing solutions and explain how you plan on differentiating your 
 
 Briefly describe your proposed solution.  How does it work and what does it do?
 
-## Team
-
-Who are your team members? Identify what skills each team member brings to the table as well as preferred work style (take charge, work alone, pair programming, etc).
-
 ## Strategy
 
 Outline your development strategy with general feature milestones - identify minimum viable product features and optional stretch goals. Explain how you plan to test your product.
@@ -46,10 +42,6 @@ Outline your development strategy with general feature milestones - identify min
 ## Implementation Challenges
 
 What development challenges have you thought about so far?  Identify any risks and briefly discuss possible workarounds / alternatives.
-
-## Meeting Schedule
-
-You are required to spend at least 10 hours/week on development. Outline a general weekly meeting schedule with at least 1 time that everybody can make. At least that one meeting must include the entire team in the same room, in person. The rest of the 10 hours may be split into several sessions throughout the week. A nice tool for this is [when2meet](https://www.when2meet.com/).
 
 ```
 
