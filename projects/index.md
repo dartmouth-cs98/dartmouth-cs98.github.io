@@ -30,16 +30,15 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 - [ ] Share Hack-A-Thing-1
 
 **Week 3**:<br>
-  Idea week. Pitch potential project ideas to the rest of the class to get feedback and recruit teammembers.
+  Idea week and Group Formation.
+- [ ] In Class: [Group Dynamics Worksheet](milestones/group-dynamics-worksheet)
+- [ ] In Class: [First Team Worksheet](milestones/first-meeting)
 
-- [ ] Milestone 1: [Pitch Videos](milestones/pitch-videos)
-- [ ] Milestone 2: Ideas Selection and Group Formation
+<!-- - [ ] Milestone 1: [Pitch Videos](milestones/pitch-videos) -->
 - [ ] Share Hack-A-Thing-2
 
 **Week 4**:<br>
   Defining the project in more details with a project proposal and feature spec
-
-- [ ] In Class: [First Team Worksheet](milestones/first-meeting)
 
 - [ ] Milestone 1: [Project Proposal](milestones/project-proposal)
   - A short document describing the concept and core components of your project.
