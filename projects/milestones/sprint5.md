@@ -5,7 +5,7 @@ published: true
 ---
 
 
-![](img/rocks.gif){: .fancy .medium-small}
+![](img/severus.gif){: .fancy .medium-small}
 
 
 ## Overview 

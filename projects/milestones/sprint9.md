@@ -5,7 +5,7 @@ published: true
 ---
 
 
-![](img/rocks.gif){: .fancy .medium-small}
+[![](img/bulk-apperception.gif){: .fancy .medium-small}](https://medium.com/@epassi/recreating-the-westworld-attribute-matrix-3e72d9d419df)
 
 
 ## Overview 

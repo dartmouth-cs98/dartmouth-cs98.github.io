@@ -5,7 +5,7 @@ published: true
 ---
 
 
-![](img/rocks.gif){: .fancy .medium-small}
+![](img/wonderwoman.gif){: .fancy .medium-small}
 
 
 ## Overview 
