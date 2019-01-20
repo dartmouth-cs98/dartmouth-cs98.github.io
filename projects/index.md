@@ -31,7 +31,7 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 
 **Week 3**:<br>
   Idea week and Group Formation.
-  
+
 - [ ] Share Hack-A-Thing-2
 
 - [ ] In Class: [Group Dynamics Worksheet](milestones/group-dynamics-worksheet)
@@ -42,9 +42,9 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 **Week 4**:<br>
   Defining the project in more details with a project proposal and feature spec
 
-- [ ] Milestone 1: [Project Proposal](milestones/project-proposal)
+- [ ] Milestone: [Project Proposal](milestones/project-proposal)
   - A short document describing the concept and core components of your project.
-- [ ] Milestone 2: [Feature Spec](milestones/feature-spec)
+- [ ] Milestone: [Feature Spec](milestones/feature-spec)
   - A walk-though of your project from the users perspective listing out every feature that it should have with a few user stories attached.
 
 **Week 5**:<br>

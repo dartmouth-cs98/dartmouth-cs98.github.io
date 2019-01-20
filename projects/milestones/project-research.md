@@ -7,8 +7,6 @@ published: true
 ![](img/wheel.gif){: .fancy .small}
 
 
-## State of the Art Research
-
 As we work on an idea toward a [Project Proposal](project-proposal/), first mission critical thing is to do some research. 📝 What is the state of the art?
 
 All to often people jump on an idea and skip doing any due diligence on it.  This is not to say that if the product or idea already exist that it is time to abandon it, but that there are lessons to be learned from any previous work done in related areas.
