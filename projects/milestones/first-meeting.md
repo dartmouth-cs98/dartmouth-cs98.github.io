@@ -90,8 +90,7 @@ Create this as a wiki page titled `First Team Meeting Worksheet` in github.
 *How is your approach different/better than the state of the art?*
 
 ### Inspiration
-*Are there any existing products/techniques.research, that we could, by analogy, draw
-inspiration from?*
+*Are there any existing products/techniques.research, that we could, by analogy, draw inspiration from?*
 
 ## IV. Iterate
 *If any of the state of the art research brought up questions or warrants further investigation — mention that here and then keep iterating.*
