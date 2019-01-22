@@ -25,8 +25,9 @@ name: base
 ---
 name: What is it we are building?!
 
+.medium.fancy[![](img/ideas.gif)]
 
-.medium.fancy[![](img/thats-okay.gif)]
+<!-- .medium.fancy[![](img/thats-okay.gif)] -->
 
 
 ???
@@ -96,13 +97,16 @@ name: Purpose
 ---
 name: Today
 
-* share your ideas
-* then
-* work on [http://cs98.me/projects/milestones/user-personas](http://cs98.me/projects/milestones/user-personas)
+.medium_small.fancy[![](img/newton-ideas.gif)]
+
+* share your ideas / short storytime
+    1. what is the problem
+    1. who benefits
+    1. challenges
+* then get started on [http://cs98.me/projects/milestones/user-personas](http://cs98.me/projects/milestones/user-personas)
 
 
 ???
-
 
 
 
