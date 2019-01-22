@@ -139,5 +139,5 @@ During the second term we'll focus on specific weekly milestones that each team 
   MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
 
   - [ ] Milestone: [Close out Sprint 9!](milestones/sprint9)
-  - [ ] Milestone: [FINAL DEMOS](milestones/demos)
-  - [ ] Milestone: [Final Project Submission](milestones/final)
+  - [ ] Milestone: [FINAL DEMOS](milestones/t2-demos)
+  - [ ] Milestone: [Final Project Submission](milestones/t2-summary)

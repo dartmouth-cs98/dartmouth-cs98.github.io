@@ -8,7 +8,7 @@ published: true
 ![](img/stretch-kittens.gif){: .fancy .medium_small}
 
 
-Let's revisit some of our stretch goals and try to push ourselves a little bit.
+Let's revisit some of our stretch goals and see how we are doing.
 
 Take a look at your wiki pages: original project proposal, feature spec, and more importantly the [self-reflection](project-self-reflection) from this term.   What did you mark as stretch goals?  How much does that vision reflect where you are now?
 
@@ -17,6 +17,10 @@ Think about what would personally be a stretch goal you would love to see implem
 Pair up with someone else from the class - anybody - try talking to someone new! and discuss your stretch goals and practice justifying them / pitching them to your own team.  
 
 When you get back to your team - gather your ideas together and go around and let everyone pitch why they think this goal is a priority.
+
+
+
+
 
 ## Wiki Page
 

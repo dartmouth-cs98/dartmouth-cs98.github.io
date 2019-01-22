@@ -23,7 +23,7 @@ The final grade will be based on a combination of weekly performance, class demo
 * Project Milestones — 50%
     * milestone weights will vary
 * Weekly Progress: Instructor Checkins + Written Logs — 50%
-* Late penalty: -10% of milestone per day.
+* Late penalty: -12% of milestone per day.
 * Attendance/Participation: 5%
     * 2 excused absences are allowed.
 

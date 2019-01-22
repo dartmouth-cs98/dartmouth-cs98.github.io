@@ -10,7 +10,7 @@ permalink: /slides/
 * [Idea Generation](01_ideas/)
 
 <!--  idea pitches and paper sharing -->
-<!-- * [Refining Ideas](04_user-personas) -->
+* [Refining Ideas](04_user-personas)
 <!-- * [Design](04_design) -->
 <!-- * [Design Feedback](05_design_feedback) -->
 <!-- * [GitHub Pull Requests](05_github-prs) -->
