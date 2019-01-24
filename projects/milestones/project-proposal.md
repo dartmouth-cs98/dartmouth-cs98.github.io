@@ -28,7 +28,7 @@ We will dive deeper into figuring out specific features in [Feature Spec](featur
 *What is the problem you are aiming to solve? This is not the solution, that goes later.*
 
 ## Stakeholders
-*Who are all the stakeholders? These could be users, partners, admins, founders, etc.*
+*Briefly summarize who are all the stakeholders? These could be users, partners, admins, founders, etc.*
 
 ## Proposed Solution
 *Briefly describe your proposed solution.  How does it work and what does it do?*
