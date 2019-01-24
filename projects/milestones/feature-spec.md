@@ -1,15 +1,21 @@
 ---
 layout: page
 title: Feature Spec
-published: false
+published: true
 ---
 
 
 ![](img/feature_spec.gif){: .fancy .medium}
 
-The feature spec is a document that is a walk-though of your project from the users perspective. It provides a listing of all the features you are envisioning for the product. The feature spec functions as your overall plan for the project. Rather than thinking about it as locking you in, use this as an opportunity to think through your product in detail. Think of it as a living document, don’t be afraid to change it later as your ideas about the project mature. It does not need to be an exhaustive document. Joel Spolsky (of Stackoverflow and more recently Trello) has a nice writeup of the why and how of specs here: [joelonsoftware](http://www.joelonsoftware.com/articles/fog0000000035.html). He references an [overly long example](http://www.joelonsoftware.com/articles/WhatTimeIsIt.html). We’ll simplify things a little bit and keep our document shorter and although he says only one person should write the spec, you should definitely do this as your whole team!  Here's some more [tips on feature specs](https://medium.com/dali-lab/9-ideas-for-more-useful-feature-specs-7ca5c679ca3c).
+## What is a feature spec? 
 
-For our needs — the feature spec is a listing of what you think you need to build this term to be able to prove out your idea. 
+The feature spec is a document that is a walk-though of your project from the users perspective. It provides a listing of all the features you are envisioning for the product. The feature spec functions as your overall plan for the project. Rather than thinking about it as locking you in, this is an opportunity to think through your product in detail. Think of it as a living document, don’t be afraid to change it later as your ideas about the project mature. It does not need to be an exhaustive document. Joel Spolsky (of Stackoverflow and more recently Trello) has a nice writeup of the why and how of specs here: [joelonsoftware](http://www.joelonsoftware.com/articles/fog0000000035.html) and here's some great general [tips on feature specs](https://medium.com/dali-lab/9-ideas-for-more-useful-feature-specs-7ca5c679ca3c). 
+
+For our needs — the feature spec will be listing of what you think you need to build this term to be able to prove out your idea. 
+
+## Another document?
+
+Nope! 
 
 Rather than creating a separate document for this — we're going to use [ZenHub](https://www.zenhub.com/)!  Wait what is this ZenHub thing?! Not another tool!  ❌
 
@@ -17,12 +23,14 @@ Rather than creating a separate document for this — we're going to use [ZenHub
 
 <iframe class="fancy" src="https://player.vimeo.com/video/207024351" width="640" height="351" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-ZenHub is a tool built on top of GitHub Issues to make them better. GitHub issues are decent on their own, but they are hard to keep track of when you have a lot (just a long list) and it is hard to know who is currently working on what, or to assign due dates to things.  Milestones within GitHub are ok, but also not great.  ZenHub fixes all of this, and is powered by GitHub issues underneath it all, so you can connect/[close them with Pull Requests](https://blog.github.com/2013-05-14-closing-issues-via-pull-requests/). 
+ZenHub is a tool built on top of GitHub Issues to make them better. GitHub issues are decent on their own, but they are hard to keep track of when you have a lot (just a long list) and it is hard to know who is currently working on what, or to assign due dates to things, of if you have multiple repos how to keep track of stuff. ZenHub fixes all of this, and is powered by GitHub issues underneath it all, so you can connect/[close them with Pull Requests](https://blog.github.com/2013-05-14-closing-issues-via-pull-requests/). 
 
 ![](img/zenhub-board.jpg){: .fancy .medium}
 <br>*(a well utilized DALI ZenHub board)*
 
-There are two different ways to use ZenHub - you can either download a [Chrome Extension](https://www.zenhub.com/extension) and then ZenHub appears in the GitHub interface for you automagically. Or you can log in via [zenhub.com](https://app.zenhub.com) - just log in via github, choose **dartmouth-cs98** as your Organization,  change workspace to one of your repos.  It should already be set up that there is a workspace named for your project that is connected to your repos.  This means that all your issues show up (under *New Issues*). 
+There are two different ways to use ZenHub - you can either download a [Chrome Extension](https://www.zenhub.com/extension) and then ZenHub appears in the GitHub interface for you automagically. Or you can log in via [zenhub.com](https://app.zenhub.com) - just log in via github, choose **dartmouth-cs98** as your Organization,  change workspace to one of your repos.  It should already be set up that there is a workspace named for your project that is connected to your repos.  This means that all your issues should now show up (under *New Issues*). 
+
+🚀 Sign in to [ZenHub](https://app.zenhub.com) now.
 
 ### Features of ZenHub:
 
@@ -61,35 +69,51 @@ There are two different ways to use ZenHub - you can either download a [Chrome E
 * **Done Issues**:<br>
     in this pipeline need no further work and are ready to be closed. Having a good ‘Definition of Done’ agreed upon before work starts on an Issue is very helpful here! If there were any objectives or key metrics associated with the Issue, they can be appended prior to closing.
 
+## Huh?
 
-*Outline a proposed development strategy with general feature milestones. Identify minimum viable product (MVP) features and optional stretch goals. Create a list of features that are needed to be able to do some product validation. At the end of the term you'll need to show something that is testable or viewable by a public audience.*
+If none of the above made sense, don't worry, it will once you start assigning each other tasks and coding together. 
 
-🚀 Create a wiki page `Feature Spec` and use the following template. You may modify it as you see fit. Most of these you will pull from your user personas.  
+## First Discuss Plan
+
+🚀 During a team meeting, plan out a development strategy with general feature milestones. Identify minimum viable product (MVP) features and optional stretch goals. Create a list of features that are needed to be able to do some product validation. Remember, at the end of the term you'll need to show something that is testable and viewable by a public audience.
+
+Rather than creating a separate doc and porting things over — who needs the duplicate work 🤦‍ - we'll skip that step and jump right in.  Similarly to how you made your User Personas into GitHub Issues, we'll be using GitHub to track your main features. 
+
+## Create Epics
+
+[Epics](https://help.zenhub.com/support/solutions/articles/43000010341) are ways of grouping together tasks/issues by subject rather than by due date.  The main idea is that GitHub Issues are small tasks, individually bite sized coding time, but we need something to group them together into larger features that may take a lot more time. That is where *Epics* come in. 
+
+Once you've set yourself up with ZenHub - simply follow these steps to create an *Epic* for **each** of your primary features.
+
+1. Go to **NEW ISSUE** in ZenHub.
+1. Title is your feature name. Things like: "robot can drive from point a -> point b", "display list of posts stored in db".  Again these are big ticket features - not individual tasks.
+1. Description - put in as much of a description as you want to make it clear what this is.
+1. Label it:
+  * <font style="color:red">[ 🔥 primary feature]</font>
+  * <font style="color:orange">[ 💼 secondary feature]</font>
+  * <font style="color:lightblue">[ 🏹 stretch feature]</font>
+1. Estimate. Give it an guesstimate of effort 1-40 (1 person hour-ish).
+1. Click: **Create an Epic**
 
 
-```markdown
-# Feature Spec
+### <font style="color:red">[ 🔥 primary feature]</font>
 
-## Critical Features
-*These are the primary most important features. The product doesn't have a purpose without these features. These are sometimes the harder things, but the most necessary to start tackling early to get validation. Try to list these in order that they happen in the user experience.*
+These are the primary most important features. The product doesn't have a purpose without these features. These are sometimes the harder things, but the most necessary to start tackling early to get validation. Try to list these in order that they happen in the user experience.
 
-* list your features | priority 1-10 | estimate effort 1-40 (1 person hours-ish)
-* main functionality thing | priority 10 | effort 12
-* other thing | priority 3 | effort 2
+### <font style="color:orange">[ 💼 secondary feature]</font>
 
-## Secondary Features
-*These are features that make the product more usable, but can be hacked around if necessary. Things like login/auth might go here (unless you are building a security product).*
+These are features that make the product more usable, but can be hacked around if necessary. Things like login/auth might go here (unless you are building a security product).
 
-* list your features | priority 2 | effort 1
+### <font style="color:lightblue">[ 🏹 stretch feature]</font>
 
-## Stretch Goals
-* Self explanatory. Things not quite critical but would be really cool.
+Self explanatory. Things not quite critical but would be really cool.
 
-* list your features | priority 2 | effort 1
 
-```
+## How Many?
+
+There is no rule about how many features you should have. It should make sense for your product. 
 
 
 ## To Turn In:
 
-* GitHub repository URL to wiki page you created that includes:
+* ZenHub URL with Epics filter turned on.
