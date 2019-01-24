@@ -9,9 +9,9 @@ published: true
 
 This will be a short document outlining your plans for the project.
 
-Your project proposal describes the concept and core components of your project. This is not contractual, and we'll remain agile as we work. Hoewver, it is helpful to get all your thoughts down and to choose a direction. Remember, testable MVP in 6-7 weeks from now! 
+Your project proposal describes the concept and core components of your project. This is not contractual, and we'll remain agile as we work. However, it is helpful to get all your thoughts down and to choose a direction. Remember, testable MVP 6 weeks from now! 
 
-You should craft it together as a team, preferrably during an in person meeting. 
+You should craft this together as a team, preferably during an in person meeting. 
 
 🚀 Create a wiki page `Project Proposal` with the following template.
 
@@ -39,11 +39,14 @@ We will dive deeper into figuring out specific features in [Feature Spec](featur
 ## Impact
 *Explain how a solution to this problem meets a real-world need. Does it have a broad potential impact?*
 
-## Strategy
-*Outline a proposed development strategy with general feature milestones - identify minimum viable product (MVP) features and optional stretch goals.*
+## Success Metrics
+*What are your ultimate success metrics? This could be changing one person's life for the better, or getting 1k downloads, or some performance threshold.* 
+
+## Minimum Viable Product (MVP)
+*Briefly describe your MVP features. Don't get bogged down in details, this should be a very terse list (~3). What is the critical thing your product needs to do to be special.*
 
 ## Validation 
-*Briefly explain how you plan to test/validate your product. What are your success metrics?*
+*Explain how you plan to test/validate your product. Propose a term 1 and a term 2 validation idea. This can be different things depending on your project: user testing, or usage analytics, or performance characteristics. It can be done via surveys or in product analytics, or other performance measurements.*
 
 ## Implementation Challenges
 *What development challenges have you thought about so far?  Identify any risks and briefly discuss possible workarounds / alternatives.*
