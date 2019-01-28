@@ -11,7 +11,7 @@ permalink: /slides/
 
 <!--  idea pitches and paper sharing -->
 * [Refining Ideas](04_user-personas)
-<!-- * [Design](04_design) -->
+* [Design](04_design)
 <!-- * [Design Feedback](05_design_feedback) -->
 <!-- * [GitHub Pull Requests](05_github-prs) -->
 <!-- * [Code Review Intro](07_code_review/) -->

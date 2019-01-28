@@ -38,7 +38,7 @@ You can put all your sketches together using [Pop](https://marvelapp.com/pop/) â
 
 ### Step 2: Make Prettier
 
-Once you are ready to make it prettier just go straight into [Figma](https://www.figma.com/) (free for students).  Don't forget to [verify your student status](https://www.figma.com/student/apply).
+Once you are ready to make it prettier just go straight into [Figma](https://www.figma.com/) (free for students).  Don't forget to [verify your student status](https://www.figma.com/student/apply).  *Note: Make sure to create your project in the CS98 Figma Team - and don't create multiple projects â€” just one project and one page so you can link your various designs together.*
 
 There are many good design resources out there. Here's [one](http://cdn.ustwo.com/PPP/PP3.pdf) about pixel perfect design.
 

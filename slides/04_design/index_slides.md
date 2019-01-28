@@ -28,10 +28,10 @@ name: Design
 
 ???
 * just some tips
+* sorry for the repeat for those of you who have heard this before
 * not really a designer (tried to go to graphic design school many years ago though)
 * here's what I've learned from hanging around designers
 * based on working on hundreds of projects
-* similar to my spiel to cs52
 
 
 ---
@@ -39,16 +39,18 @@ name: But I just want to code!!
 
 .fancy.small[![](img/coding.webp)]
 
-🚫
+*💳credit given for design work*<br>
+*and it'll turn out better*
 
 
 ???
-* cowhand coding - just leads to manure code
+* **cowhand** coding - just leads to manure code
 * just jumping in will lead to having a big ol mess of features
 * stuff you don't even need to build
 * i'm happy to help
 * also office hours / open lab hours in DALI have many designers happy to help
 * doesn't hurt to learn
+* credit given for design work
 
 
 
@@ -56,8 +58,7 @@ name: But I just want to code!!
 name: Step 1: Inspiration Board
 
 * find examples of similar products
-* take screenshots
-* save urls
+* take screenshots / save urls
 * copy color schemes
 
 .fancy.medium[![](img/inspiration.jpg)]
@@ -66,7 +67,7 @@ name: Step 1: Inspiration Board
 ???
 * other people have made pretty designs,  look at them, use them for inspiration, copy them as best you can
 * you've all been keeping these already right?   
-* inspiration boards are the biggest difference between good designers and pretenders.  if a designer starts with an inspiration board you can see their thought process and it is obvious in the final product that they thought about what they were making
+* inspiration boards are the **biggest difference between good designers and pretenders**.  if a designer starts with an inspiration board you can see their thought process and it is obvious in the final product that they thought about what they were making
 
 
 ---
@@ -87,7 +88,7 @@ name: Step 2: Sketches
 name: Step 3: Mockups
 
 * with inspiration and sketches
-* start on mockups ([figma](http://figma.com), [sketch](https://www.sketchapp.com), etc)
+* start on mockups ([Figma](http://figma.com))
 * don't code them yet
 
 .fancy.medium[![mockups](img/mockupthings.jpg)]
@@ -98,6 +99,7 @@ name: Step 3: Mockups
 * help you remember what needs to be built
 * much quicker to play around with different options quickly and easily to determine what works best for your product
 * coordinate with your team - keep everybody on track
+* Figma is like google docs for design - super
 
 ---
 name: No UI? No problem!
@@ -105,11 +107,11 @@ name: No UI? No problem!
 
 .fancy.small[![mockups](img/rover.jpg)]
 
-.fancy.medium[![mockups](img/robot.jpg)]
-
+.medium[![mockups](img/robot.jpg)]
 
 
 ???
+* but also use figma for storyboard - upload sketches - use primative shapes / icons
 * Some products may not have what you would think of as a traditional user interface
 * maybe it is a code library,  or a physical device that has certain behaviors.  
 * However, these still have a user facing aspect
@@ -122,17 +124,16 @@ name: No UI? No problem!
 name: Step 4: Functional Mockups
 
 * put mockups together
-* built in to Figma or
-* Invision: https://www.invisionapp.com/education-signup
-* PopPaper: https://marvelapp.com/pop/
+* build with [Figma](https://help.figma.com/article/199-getting-started-with-prototyping)
+* for paper sketches use: [MarvelApp PopPaper](https://marvelapp.com/pop/)
 
-.fancy.medium[[![invision](img/invision.gif)](http://invisionapp.com)]
+.fancy.medium[[![figma prototyping](img/proto-figma-2.gif)](https://help.figma.com/article/199-getting-started-with-prototyping)]
 
 ???
 * great way to test your interactions
 * woop forgot some logic path from one view to another
 * can run it by users and see if they can figure it out
-* again for the AR or robot projects
+* again for the AR or robot projects - can use sketches or shapes and words
 
 
 
@@ -146,6 +147,7 @@ name: No UI? No Problem, p2
 ???
 * you can storyboard out the interactions and behaviors
 * in some cases like AR you probably want to do both!
+* think through every step in the storyboard - might the old person trip on the eldercare robot in the dark? 
 
 
 ---
@@ -219,6 +221,29 @@ UX is like a joke...
 * can use this time to test that!
 
 
+---
+name: Appetizing?
+
+
+.fancy.left[![mockups](img/appetite-blue-toast.jpg)]
+.fancy.right[![mockups](img/bluerice.jpg)]
+
+???
+* but blue is not appetizing, doesn't make people feel hungry - RED does weird.
+
+---
+name: Flux Express
+
+
+.fancy[![mockups](img/flux-design.jpg)]
+
+???
+* you chose blue for a restaurant site because you like blue
+* but blue isn't appetizing - they rebranded multiple times
+* it looks clean - until you realize you're supposed to order food
+
+
+
 
 ---
 name: Make or Break
@@ -260,7 +285,6 @@ name: NEXT Scaffolding
 * team has local dev environment set up
 
 ???
-* Next Thursday
 * Initial code scaffolding started
 * component plan
 * tools and frameworks chosen
@@ -275,7 +299,6 @@ name: NEXT Scaffolding
 ???
 * work together and don't skimp on just winging it
 * don't want this to happen - hurricane is coming
-* we'll work on it next week but wanted to release it so maybe some people on the team can start on it early
 
 ---
 name:  Sketch Time Step 1: Generate Options
@@ -283,6 +306,7 @@ name:  Sketch Time Step 1: Generate Options
 
 .fancy.medium[![](../../projects/milestones/img/papersketch.png)]
 
+* assignment: [http://cs98.me/projects/milestones/mockups-models](http://cs98.me/projects/milestones/mockups-models)
 * which **(2-5) main features** you will sketch that are essential to your product
 * thick markers, paper
 * **5 minutes of individual sketching per feature**
@@ -290,11 +314,10 @@ name:  Sketch Time Step 1: Generate Options
 * Aim for **2-3 versions per feature**.
 
 ???
-* Use the “thick marker trick” - the thicker the marker, the more you force yourself to keep the designs at a conceptual level (it’s difficult to add in details when the marker tip is so large!). Whiteboard markers are great here too, just take photos!
+* the thicker the marker, the more you force yourself to keep the designs at a conceptual level 
 * Include little or no specific content
 * Drop any worries about scale, straight lines, grids, etc.
 * Think in flows whenever possible (what pages come after?)
-* Match your sketches with your flow diagram - what part of the flow is not yet in the sketch?
 * Never settle for your first idea!
 
 
@@ -302,8 +325,7 @@ name:  Sketch Time Step 1: Generate Options
 name:  Sketch Time Step 2
 
 
-.fancy.medium.left[![](../../projects/milestones/img/popapp-prototype-animation.gif)]
+.fancy.medium_small.left[![](../../projects/milestones/img/popapp-prototype-animation.gif)]
 
 * Put in [Pop Paper](https://marvelapp.com/pop/)
 * Test User Flow
-* Test as your persona with buddy team!  
