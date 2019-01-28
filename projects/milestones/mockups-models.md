@@ -56,7 +56,7 @@ Some products may not have what you would think of as a traditional user interfa
 
 This is also a great time to start on a team/product name and create a logo. Logo's can be both difficult and easy to come up with.  There are [7 different types of logos](https://99designs.ca/blog/tips/types-of-logos/), but some of them are easier than others to create.  Try taking your name and write in a nice font in Figma, then edit the contours of the letters/move them around/zoom in.  Use some of the [icons in the Design Templates](https://www.figma.com/file/9jbm8rHDqoEpXZTLnXp7To/Evericons?node-id=0%3A1) project.  Play around with colors and voila you will have a logo.
 
-For the end of this term - we're going to try printing out t-shirts for every team. These will be in a particular format that we'll send out a tutorial on.  For now you can draw some sketches, and start working on something in Figma. Pro tip: it will eventually need to be only solid shapes of one color to be cut out in vinyl. 
+For the end of this term - we're going to try printing out t-shirts for every team. These will be in a particular format that we'll send out a tutorial on.  For now you can draw some sketches, and start working on something in Figma. Pro tip: it will eventually need to be only solid shapes of one color to be cut out in [vinyl](https://www.instructables.com/id/Vinyl-Cut-Heat-Transfer-T-Shirts/). 
 
 ![](img/figma-outline.gif){: .fancy .medium}<br>
 *(play around with changing fonts or symbols for easy logos: right click -> Outline Stroke)*
