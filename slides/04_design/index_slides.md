@@ -23,7 +23,7 @@ name: base
 ---
 name: Design
 
-.fancy.medium[![](https://media.giphy.com/media/povenlBAIz14s/giphy.gif)]
+.fancy.medium_small[![](https://media.giphy.com/media/povenlBAIz14s/giphy.gif)]
 
 
 ???
@@ -299,6 +299,18 @@ name: NEXT Scaffolding
 ???
 * work together and don't skimp on just winging it
 * don't want this to happen - hurricane is coming
+* going to be a bit of a rush to get to MVP for demos
+
+
+---
+name: NEXT week: Wiring
+
+.fancy.small[![](http://i.giphy.com/3o6MbnG1lpwIf5stB6.gif)]
+
+???
+* wiring together for a deep test
+* data front to back - any serious computational components wired in
+
 
 ---
 name:  Sketch Time Step 1: Generate Options
