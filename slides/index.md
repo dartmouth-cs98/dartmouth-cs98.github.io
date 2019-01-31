@@ -27,6 +27,7 @@ permalink: /slides/
 ### Together
 * [Sharing is Caring](30_sharing-is-caring/)
 * [Teams, Teams, Teams](31_teamsteamsteams)
+* [Feedback Session](33_feedback_session)
 
 
 

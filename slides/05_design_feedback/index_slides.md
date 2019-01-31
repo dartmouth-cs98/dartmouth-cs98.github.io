@@ -81,34 +81,28 @@ name: Heart
 
 
 ---
-name: In Buddy Teams
+name: Take Notes
 
 .fancy.medium[![](img/figmafeedback.jpg)]
 
 
-* walk through your figma/sketches/flow designs
-* after some discussion, ask questions
-* each buddy needs to provide >=2 constructive comments
-    * as figma comments or github issues
-    * try to formulate your comments from the perspective of your persona!
-    * submit links on canvas (link to figma, or individual github issue)
+* will need to submit feedback more officially later
+* give verbal feedback
+* write down feedback given
 
 ???
 *
 
 
+
+
 ---
-name: NEXT Scaffolding
+name: Divide and Conquer
 
-.fancy.medium[![](../04_design/img/bamboo-scaffolding.gif)]
-
-* initial code scaffolding
-* tools and frameworks chosen
-* team has local dev environment set up
+* ask for and give project brief
+* remember to mention who target audience is
+* act the part
 
 ???
-* Thursday
-* Initial code scaffolding started
-* component plan
-* tools and frameworks chosen
-* everybody has local dev environment set up
+*
+
