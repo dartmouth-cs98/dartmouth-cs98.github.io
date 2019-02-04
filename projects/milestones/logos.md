@@ -82,3 +82,13 @@ For the end of this term - we're going to try printing out t-shirts for every te
 
 ## To Turn In:
 * 
+
+
+
+simpler = better. 
+the more little details you have, the more you're going to hate your life when you have to weed out all the negative spaces manually.
+one color (think of a logo as a shadow puppet / silhouette).
+you can do more than one color, but be prepared for some alignment-related frustration: since each color gets cut out of a different roll of vinyl, you'll have to find a way to register the relative positions of the different pieces.
+if your design has a gradient in it, something has gone terribly, terribly wrong.
+no skinny lines.
+ big, bold shapes have a lower risk of warping when being transferred, and a lower risk of falling off afterwards.

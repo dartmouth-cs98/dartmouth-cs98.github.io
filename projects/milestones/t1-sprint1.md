@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Sprint 7
+title: Sprint 1
 published: true
 ---
 
 
-![](img/wonderwoman.gif){: .fancy .medium-small}
+![](img/cheetah.gif){: .fancy .medium-small}
 
 
 ## Overview 
@@ -13,6 +13,7 @@ published: true
 This is the time to transition to the next sprint!  This will involve a short review and team retrospective and planning next steps. 
 
 You should have an in-person team meeting and resolve all your currently working on tasks as best you can in preparation for this meeting.  All your previous sprint assigned issues and feature pull requests should be reviewed and merged into master so you can demo your work.
+
 
 ### Review
 
@@ -29,9 +30,9 @@ Have a time to discuss what is working and what isn't.  Include a summary of thi
 Here's a template:
 
 ```markdown
-# Sprint Retrospectives T2
+# Sprint Retrospectives T1
 
-* Sprint Week #: 
+* Sprint #: 
     * members in attendance:
         - [x] Jasmine
         - [ ] Alladin
@@ -44,17 +45,29 @@ Here's a template:
 
 ```
 
-You'll update this weekly during your sprint transitions!
+You'll update this weekly during your sprint transitions! 
+
+
+## Your Mission for Sprint 2
+
+In Sprint 1 you did a deep wiring test of your product. Components are connected and data/computation is flowing. This is great!
+
+Your mission this week is to make substantial progress (that is always the mission).  You should be wrapping up having all the deep functionality of your project done.  Now expand on the core functionality. Expand on interfaces, make sure to keep usability in mind. Start making this product really work.  
+
+Remember, prioritize hard/real functionality over filler. Don't worry about things like *settings pages*, rather focus the core functionality. 
 
 ## Planning
 
-Now plan out your next steps.  Add in *New Issues*, sort them into *IceBox* and *Backlog*.  Assign at least 4 issues per person.  
+Now plan out your next steps.  Add in *New Issues*, sort them into *IceBox* and *Backlog*.  Assign at least 4 issues per person.
 
 **4 issues?!?!**
 
 Well yes, there is no other milestone other than making progress. If every issue takes 2 hours (a nice casual sitdown work session), then there are you are at 8 hours. That leaves a few hours for things taking a bit longer to do / team meetings and discussions.
 
 
+
 ## To Turn In:
 * submit zenhub link to your workspace
+    * showing new assignments
+    * and all of your previous sprint finished!
 * submit wiki page link to your retrospective

@@ -11,7 +11,7 @@ We will use [Slack](https://cs98-dartmouth.slack.com), an online collaborative t
 
 ## Instructor Meetings ##
 
-Groups will meet with the course instructor weekly to discuss progress and plan next steps. Ask questions, be proactive, we're here to help! [Schedule time here](https://calendly.com/timofei/cs98).
+Groups will meet with the course instructor weekly in class to discuss progress and plan next steps. Ask questions, be proactive, we're here to help! You are also welcome to [Schedule individual/additional group meeting times here](https://calendly.com/timofei/cs98).
 
 
 ## Grading ##

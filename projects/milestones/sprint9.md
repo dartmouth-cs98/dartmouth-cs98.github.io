@@ -16,7 +16,7 @@ You should have an in-person team meeting and resolve all your currently working
 
 ### Review
 
-During the meeting you should each demo your weeks work to your team. It is nice to use this momement to celebrate accomplishements, clap loudly for your teammates and support each other.
+During the meeting you should each demo your week's work to your team. It is nice to use this moment to celebrate accomplishments, clap loudly for your teammates and support each other.
 
 This is a good time to get immediate feedback as well — so try the features out and if there are bugs, put them in ZenHub!
 
@@ -44,7 +44,7 @@ Here's a template:
 
 ```
 
-You'll update this weekly during your sprint transitions!  Does not have to be too 
+You'll update this weekly during your sprint transitions!
 
 
 ## Planning

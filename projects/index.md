@@ -60,26 +60,32 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 **Week 6**:<br>
   Rudimentary functionality in place and all components are connected and exchange data. Server->client or algorithmic components started.
 
-- [ ] Milestone: [Implementation & Data Wiring](milestones/wiring)
+- [ ] Milestone: [Implementation & Data Wiring Sprint Plan](milestones/wiring-start-sprint)
+- [ ] Milestone: [Close out Sprint 1, Evaluate and Plan Sprint 2](milestones/t1-sprint1)
 
 **Week 7**:<br>
   Show some progress.
 
 - [ ] Milestone: [Work In Progress](milestones/workinprogress)
+- [ ] Milestone: [Close out Sprint 2, Evaluate and Plan Sprint 3](milestones/t1-sprint2)
 
 **Week 8**:<br>
   Focus on function over form and main MVP functionality complete.
 
 - [ ] Milestone: [Testable Prototype](milestones/testable_prototype)
+- [ ] Milestone: [Close out Sprint 3, Evaluate and Plan Sprint 4](milestones/t1-sprint3)
 
 **Week 9**:<br>
   In class session of breaking each others projects to reveal bugs and give last minute feedback.
 
 - [ ] Milestone: [Pre-Demo Bug Hunt](milestones/bughunt)
+- [ ] Milestone: [Close out Sprint 4, Evaluate and Plan Sprint 5](milestones/t1-sprint4)
+
 
 **Week 10**:<br>
   MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Expo style. Open to public.
 
+- [ ] Milestone: [Close out last Sprint of term!](milestones/t1-sprint5)
 - [ ] Milestone: [Term 1 Demos and Testing](milestones/t1-demos)
 - [ ] Milestone: [Term 1 Summary](milestones/t1-summary)
 
