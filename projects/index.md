@@ -117,18 +117,19 @@ During the second term we'll focus on specific weekly milestones that each team 
   Stretch goal setting.  Each member of every team needs to choose a stretch goal to work towards.
 
   - [ ] Milestone: [Close out Sprint 4, Evaluate and Plan Sprint 5](milestones/sprint4)
-  - [ ] Milestone: [Stretch Goals!](milestones/stretch-goals)
 
 **Week 6**:<br>
   Just a checkin to share out progress and things learned with the other teams.
 
   - [ ] Milestone: [Close out Sprint 5, Evaluate and Plan Sprint 6](milestones/sprint5)
-  - [ ] Milestone: [Midterm Checkin](milestones/midterm-checkin)
+  - [ ] Milestone: [Success Metrics](milestones/t2-success-metrics)
 
 **Week 7**:<br>
   Work time and buddy team progress update.
 
   - [ ] Milestone: [Close out Sprint 6, Evaluate and Plan Sprint 7](milestones/sprint6)
+  - [ ] Milestone: [Midterm Checkin](milestones/midterm-checkin)
+
 
 **Week 8**:<br>
   Work time and buddy team progress update.
