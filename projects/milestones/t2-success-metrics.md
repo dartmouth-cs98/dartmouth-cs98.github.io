@@ -66,7 +66,7 @@ Create a wiki page on your github repo called: `Success Metrics and Validation P
 * ex: we are the favorite team and we get a lunch voucher to get brunch with the prof
 
 ## Validation Plan
-*now comes the hard part, the validation plan. how do you get from goals to success metrics that are validated?*
+*now comes the hard part, the validation plan. how do you get from goals to success metrics that are validated? this can be user testing, performance metrics, a public demo, etc. if you feel stuck talk to us about it.*
 
 * ex: we use analytics to show that feature x is important
 * ex: we plan to demo our product to 50 people and observe and survey them to show that our product is impactful
@@ -76,8 +76,8 @@ Create a wiki page on your github repo called: `Success Metrics and Validation P
 
 
 ## To Turn In:
-* Individually (canvas personal stretch goals):
+* Individually (canvas Personal Success Metrics and Goals):
   * link to github issue
   * and how you felt sharing it with the team went
-* As a team (canvas group stretch goals):
-    * url to validation plan
+* As a team (canvas Group Success Metrics and Validation Plan):
+    * url to validation plan wiki
