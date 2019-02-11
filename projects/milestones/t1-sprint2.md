@@ -5,7 +5,7 @@ published: true
 ---
 
 
-![](img/cheetah.gif){: .fancy .medium-small}
+![](img/owl.gif){: .fancy .medium-small}
 
 
 ## Overview 
@@ -30,7 +30,6 @@ Have a time to discuss what is working and what isn't.  Include a summary of thi
 Here's a template:
 
 ```markdown
-# Sprint Retrospectives T1
 
 * Sprint #: 
     * members in attendance:
@@ -48,11 +47,9 @@ Here's a template:
 You'll update this weekly during your sprint transitions! 
 
 
-## Your Mission for Sprint 2
+## Your Mission for Sprint 3
 
-In Sprint 1 you did a deep wiring test of your product. Components are connected and data/computation is flowing. This is great!
-
-Your mission this week is to make substantial progress (that is always the mission).  You should be wrapping up having all the deep functionality of your project done.  Now expand on the core functionality. Expand on interfaces, make sure to keep usability in mind. Start making this product really work.  
+Start prioritizing functionality that you need tested during end of term demos.  This term we're working towards a functional and **testable** MVP for demos, so you should be starting to think about what is core functionality that will make for a compelling demo of your idea.  Work towards that!
 
 Remember, prioritize hard/real functionality over filler. Don't worry about things like *settings pages*, rather focus the core functionality. 
 
