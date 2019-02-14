@@ -48,13 +48,11 @@ Here's a template:
 You'll update this weekly during your sprint transitions! 
 
 
-## Your Mission for Sprint 2
+## Your Mission for Sprint 4
 
-In Sprint 1 you did a deep wiring test of your product. Components are connected and data/computation is flowing. This is great!
+At this point, you should basically be all set for demos!  
 
-Your mission this week is to make substantial progress (that is always the mission).  You should be wrapping up having all the deep functionality of your project done.  Now expand on the core functionality. Expand on interfaces, make sure to keep usability in mind. Start making this product really work.  
-
-Remember, prioritize hard/real functionality over filler. Don't worry about things like *settings pages*, rather focus the core functionality. 
+Kidding, but seriously, this week you come up with a plan for what your demo will look like and work towards making sure you can execute it. You should plan on having a fully testable prototype by the end of this sprint!
 
 ## Planning
 
