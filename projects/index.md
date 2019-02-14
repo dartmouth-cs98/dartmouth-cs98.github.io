@@ -66,7 +66,6 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 **Week 7**:<br>
   Show some progress.
 
-- [ ] Milestone: [Work In Progress](milestones/workinprogress)
 - [ ] Milestone: [Close out Sprint 2, Evaluate and Plan Sprint 3](milestones/t1-sprint2)
 
 **Week 8**:<br>
