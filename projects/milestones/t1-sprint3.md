@@ -5,7 +5,7 @@ published: true
 ---
 
 
-![](img/cheetah.gif){: .fancy .medium-small}
+![](img/fine.gif){: .fancy .medium-small}
 
 
 ## Overview 
