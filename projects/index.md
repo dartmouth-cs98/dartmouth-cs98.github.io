@@ -71,13 +71,13 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 **Week 8**:<br>
   Focus on function over form and main MVP functionality complete.
 
-- [ ] Milestone: [Testable Prototype](milestones/testable_prototype)
+<!-- - [ ] Milestone: [Testable Prototype](milestones/testable_prototype) -->
 - [ ] Milestone: [Close out Sprint 3, Evaluate and Plan Sprint 4](milestones/t1-sprint3)
 
 **Week 9**:<br>
   In class session of breaking each others projects to reveal bugs and give last minute feedback.
 
-- [ ] Milestone: [Pre-Demo Bug Hunt](milestones/bughunt)
+<!-- - [ ] Milestone: [Pre-Demo Bug Hunt](milestones/bughunt) -->
 - [ ] Milestone: [Close out Sprint 4, Evaluate and Plan Sprint 5](milestones/t1-sprint4)
 
 
