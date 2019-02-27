@@ -5,7 +5,7 @@ published: true
 ---
 
 
-![](img/technigala18F.jpg){: .fancy .medium}
+![](img/technigala19W.jpg){: .fancy .medium}
 
 This is your final for the term and a public demo of the projects! Invite your friends, family, enemies, and randos!  There will be food and drinks!
 
