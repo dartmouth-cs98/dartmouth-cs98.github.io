@@ -30,7 +30,6 @@ Have a time to discuss what is working and what isn't.  Include a summary of thi
 Here's a template:
 
 ```markdown
-# Sprint Retrospectives T1
 
 * Sprint #: 
     * members in attendance:
