@@ -30,7 +30,6 @@ Have a time to discuss what is working and what isn't.  Include a summary of thi
 Here's a template:
 
 ```markdown
-# Sprint Retrospectives T1
 
 * Sprint #: 
     * members in attendance:
@@ -48,9 +47,11 @@ Here's a template:
 You'll update this weekly during your sprint transitions! 
 
 
-## Your Mission for Sprint 5
+## Your Mission for THE LAST SPRINT OF THIS TERM!
 
-This is the last sprint of the term!  At the end of this sprint you **will** have a demo ready product.  There may be a few bug fixes left but try to have everything done so during our last class we can do a quick demo run through! 
+This is the last sprint of the term!  Half way through this sprint... your product will be put through its paces at [THE DEMO SESSION](t1-demos)! Working, bug-free demo is the requirement.  You can leave some room in this sprint for any documentation and [final summary stuff](t1-summary) which is due at the end of the sprint.
+
+This will be your opportunity to test your product and get feedback, so have a testing plan in place.  Don't worry about documentation until **after** demos.
 
 ## Planning
 
