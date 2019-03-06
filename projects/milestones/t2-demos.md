@@ -25,7 +25,7 @@ This is your time to shine.  Show off what you built in all of its glory.  Your 
 
 The goal here is to celebrate what you built and pitch it to users.  You should be bug free and fully operational.
 
-Your last step is your [final submission](final.md).
+Your last step is your [final submission](t2-summary.md).
 
 <!-- ## For Section 2: Focus on MPV and TESTING
 
