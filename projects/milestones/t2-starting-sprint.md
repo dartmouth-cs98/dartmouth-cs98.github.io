@@ -13,6 +13,22 @@ As you think about your milestones, consider any feedback you collected and care
 As you think ahead, you should know that this term is fast paced. You should have v2 ready for beta release by midterms. For any consumer facing product you'll want to get it into the hands of real users by week 7 or so. That last step is hard, polishing a thing and shipping it, you think you can save it for last, but don't be that group that is pulling an all-nighter before final demos. 
 
 
+## Tag in Master (for the end of the week)
+
+New for 2019! At the end of the week, when you are closing out your sprint, you should tag a working version of your repos. Merge working features that you are closing into your `master` branch (if you have a different naming scheme let us know),  make sure that each repo is in a **buildable** state (compiler checks pass, the project can be run).  Then apply a tag with the name of the sprint you are closing.  `t2.sprint1` is what you'll use at the end of this week.
+
+### Using git tags
+
+```bash
+#make sure you are in your master branch
+git diff #make sure you are all committed and pushed
+git tag t2.sprint1 #this will tag the current place you are at as t2.sprint1
+git push origin --tags
+```
+
+
+
+
 ## ZenHub Refresher! 
 
 ![](img/release-velocity.jpg){: .fancy .medium}
@@ -52,6 +68,8 @@ Remember that each issue/task should be scoped to be around 1 sitdown work sessi
 ## Monday Checkins
 
 Every Monday, after your sprint transition, we'll do a checkin in class specific to what you what you worked on. You should be prepared to show progress and we're review your transition and help scope out next steps if you need.
+
+
 
 ## To Turn In:
 * do all the steps and get your zenhub boards in order.

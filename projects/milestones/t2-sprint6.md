@@ -17,6 +17,19 @@ During the meeting you should each demo your week's work to your team. It is nic
 
 This is a good time to get immediate feedback as well — so try the features out and if there are bugs, put them in ZenHub!
 
+### Tag Sprint Version in Master
+
+Don't forget to tag a working end-of-sprint version of your repos. Merge working features that you are closing into your `master` branch (if you have a different naming scheme let us know),  make sure that each repo is in a **buildable** state (compiler checks pass, the project can be run).  Then apply a tag with the name of the sprint you are closing. Use the following naming convention: `t2.sprint#` 
+
+#### Using git tags
+
+```bash
+#make sure you are in your master branch
+git diff #make sure you are all committed and pushed
+git tag t2.sprint1 #this will tag the current place you are at as t2.sprint1
+git push origin --tags
+```
+
 ## Retrospective 
 
 Have a time to discuss what is working and what isn't.  Include a summary of this when you submit this!

@@ -11,11 +11,26 @@ This is the time to transition to the next sprint!  This will involve a short re
 
 You should have an in-person team meeting and resolve all your currently working on tasks as best you can in preparation for this meeting.  All your previous sprint assigned issues and feature pull requests should be reviewed and merged into master so you can demo your work.
 
+
 ### Review
 
 During the meeting you should each demo your week's work to your team. It is nice to use this moment to celebrate accomplishments, clap loudly for your teammates and support each other.
 
 This is a good time to get immediate feedback as well — so try the features out and if there are bugs, put them in ZenHub!
+
+### Tag Sprint Version in Master
+
+Don't forget to tag a working end-of-sprint version of your repos. Merge working features that you are closing into your `master` branch (if you have a different naming scheme let us know),  make sure that each repo is in a **buildable** state (compiler checks pass, the project can be run).  Then apply a tag with the name of the sprint you are closing. Use the following naming convention: `t2.sprint#` 
+
+#### Using git tags
+
+```bash
+#make sure you are in your master branch
+git diff #make sure you are all committed and pushed
+git tag t2.sprint1 #this will tag the current place you are at as t2.sprint1
+git push origin --tags
+```
+
 
 ## Retrospective 
 
