@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Sprint 8
+title: Sprint 1
 published: true
 ---
-
-
-![](img/firecode.gif){: .fancy .medium-small}
 
 
 ## Overview 
@@ -24,14 +21,12 @@ This is a good time to get immediate feedback as well — so try the features ou
 
 Have a time to discuss what is working and what isn't.  Include a summary of this when you submit this!
 
-🚀 Create a wiki page:  Sprint Retrospectives
+🚀 Create a wiki page:  `Sprint Retrospectives Term 2` 
 
-Here's a template:
+Here's a template for what to add every week:
 
 ```markdown
-# Sprint Retrospectives T2
-
-* Sprint Week #: 
+* Sprint #_: 
     * members in attendance:
         - [x] Jasmine
         - [ ] Alladin
@@ -44,18 +39,27 @@ Here's a template:
 
 ```
 
-You'll update this weekly during your sprint transitions!
+You'll update this weekly during your sprint transitions! 
 
 
 ## Planning
 
-Now plan out your next steps.  Add in *New Issues*, sort them into *IceBox* and *Backlog*.  Assign at least 4 issues per person.  
+Now plan out your next steps.  Add in *New Issues*, sort them into *IceBox* and *Backlog*.  Assign at least 4 issues per person.
 
 **4 issues?!?!**
 
 Well yes, there is no other milestone other than making progress. If every issue takes 2 hours (a nice casual sitdown work session), then there are you are at 8 hours. That leaves a few hours for things taking a bit longer to do / team meetings and discussions.
 
 
+
+## Keep up the good work, you're all rockstars
+
+![](img/notarockstar.gif){: .fancy .medium-small}
+
+
+
 ## To Turn In:
 * submit zenhub link to your workspace
+    * showing new assignments
+    * and all of your previous sprint finished!
 * submit wiki page link to your retrospective

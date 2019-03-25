@@ -1,0 +1,41 @@
+---
+layout: page
+title: Personal Success
+published: true
+---
+
+
+
+## Overview 
+
+It is time to revisit your team goals and see how you are doing.  In particular,you should try to imagine where you want to be at the end of this term and during it! Let us think about what success means for us, individually, as a team, as a product, and as a class.
+
+## Review
+
+Take a look at your wiki pages: original project proposal, feature spec, and the [self-reflection](project-self-reflection) from this term.   What did you mark as stretch goals?  How much does that vision reflect where you are now?
+
+Think about what would personally be a goal that you would love to see implemented by the end of term.  Think about what would make you extra proud of the project.  Is it something you had already personally hoped would be part of the core functionality?  Why isn't it and what is the limitation?  Don't try to game the system and choose all easy things btw, we can tell. Think about what you'd like to accomplish and what might be standing in the way.
+
+
+### Personal ZenHub Issue
+
+🚀 **Create** a ZenHub issue on your project repo following this template and assign it to *yourself* **and** `@katesalesin` and `@timofei7`. **label** it with <span style="color: gold">[goals]</span>. Do not add it to any milestones.
+
+```markdown
+# Title: Name | Personal Goals
+*what does success for this class mean to you?*
+
+* ex: i learn redux and make some cool complex logic
+* ex: i am able to show my work off in my portfolio
+* ex: i get a citation in this class to show off to all my friends
+* ex: i get complex feature x working because i really care about it
+* ex: we ship the product and it changes the world
+
+## Challenges
+*what are some challenges you foresee?*
+```
+
+
+## To Turn In:
+* Individually (canvas Personal Success):
+  * link to github issue

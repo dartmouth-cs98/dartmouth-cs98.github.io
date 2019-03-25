@@ -5,29 +5,29 @@ permalink: /slides/
 ---
 
 
-### Part 1
-* [Welcome](00_welcome/)
-* [Idea Generation](01_ideas/)
+<!-- ### Part 1 -->
+<!-- * [Welcome](00_welcome/) -->
+<!-- * [Idea Generation](01_ideas/) -->
 
 <!--  idea pitches and paper sharing -->
-* [Refining Ideas](04_user-personas)
-* [Design](04_design)
+<!-- * [Refining Ideas](04_user-personas) -->
+<!-- * [Design](04_design) -->
 <!-- * [Design Feedback](05_design_feedback) -->
 <!-- * [GitHub Pull Requests](05_github-prs) -->
 <!-- * [Code Review Intro](07_code_review/) -->
 
 
 
-### Part 2   
-* [Welcome 19w](20_welcome/)
+### 98.02 19F
+* [Welcome 19f](20_welcome/)
 
 <!-- * [Code Review 2](22_code_review/) -->
 
 
-### Together
-* [Sharing is Caring](30_sharing-is-caring/)
-* [Teams, Teams, Teams](31_teamsteamsteams)
-* [Feedback Session](33_feedback_session)
+<!-- ### Together -->
+<!-- * [Sharing is Caring](30_sharing-is-caring/) -->
+<!-- * [Teams, Teams, Teams](31_teamsteamsteams) -->
+<!-- * [Feedback Session](33_feedback_session) -->
 
 
 

@@ -21,10 +21,9 @@ name: base
 ---
 name: CS98
 
-<!-- .medium[![](https://media.giphy.com/media/APchGXnNFaAT6JhuZu/giphy.gif)] -->
-.medium_small[![](https://media.giphy.com/media/uos5sW7pBy5W0/giphy.gif)]
+.medium[![](https://media.giphy.com/media/APchGXnNFaAT6JhuZu/giphy.gif)]
+<!-- .medium_small[![](https://media.giphy.com/media/uos5sW7pBy5W0/giphy.gif)] -->
 
-Happy Winter!
 
 ???
 * hope everybody had good break! missed you all!
@@ -38,16 +37,18 @@ Happy Winter!
 ---
 name: Administrative Stuff
 
-.medium_small[![](https://media.giphy.com/media/7o6JghTx4mn84/giphy.gif)]
+<!-- .medium_small[![](https://media.giphy.com/media/7o6JghTx4mn84/giphy.gif)] -->
+*gif removed*
 
 * LSC200
-* Tuesdays as usual
-* Thursdays are mostly team meeting and work time
+* Tuesdays: team checkins and work time
+* Thursdays: team meeting and work time
 * x-hours
   * Mon 5:35 - 6:25pm
   * coding, help, snack time
 
-
+???
+* there was a complaint in course assessments about gifs, i'm all for improving the class 
 
 
 

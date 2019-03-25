@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Sprint 7
+title: Sprint 2
 published: true
 ---
 
-
-![](img/wonderwoman.gif){: .fancy .medium-small}
 
 
 ## Overview 
@@ -24,14 +22,12 @@ This is a good time to get immediate feedback as well — so try the features ou
 
 Have a time to discuss what is working and what isn't.  Include a summary of this when you submit this!
 
-🚀 Create a wiki page:  Sprint Retrospectives
+🚀 Create a wiki page:  `Sprint Retrospectives Term 2` 
 
-Here's a template:
+Here's a template for what to add every week:
 
 ```markdown
-# Sprint Retrospectives T2
-
-* Sprint Week #: 
+* Sprint #_: 
     * members in attendance:
         - [x] Jasmine
         - [ ] Alladin
@@ -44,11 +40,12 @@ Here's a template:
 
 ```
 
-You'll update this weekly during your sprint transitions!
+You'll update this weekly during your sprint transitions! 
+
 
 ## Planning
 
-Now plan out your next steps.  Add in *New Issues*, sort them into *IceBox* and *Backlog*.  Assign at least 4 issues per person.  
+Now plan out your next steps.  Add in *New Issues*, sort them into *IceBox* and *Backlog*.  Assign at least 4 issues per person.
 
 **4 issues?!?!**
 
@@ -57,4 +54,6 @@ Well yes, there is no other milestone other than making progress. If every issue
 
 ## To Turn In:
 * submit zenhub link to your workspace
+    * showing new assignments
+    * and all of your previous sprint finished!
 * submit wiki page link to your retrospective
