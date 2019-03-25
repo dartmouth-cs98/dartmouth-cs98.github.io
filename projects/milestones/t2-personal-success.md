@@ -8,13 +8,13 @@ published: true
 
 ## Overview 
 
-It is time to revisit your team goals and see how you are doing.  In particular,you should try to imagine where you want to be at the end of this term and during it! Let us think about what success means for us, individually, as a team, as a product, and as a class.
+It is time to revisit your team goals and see how you are doing.  In particular,you should try to imagine where you want to be at the end of this term and during it! Think about what you want to get out of the class, and what success means for you individually. 
 
 ## Review
 
-Take a look at your wiki pages: original project proposal, feature spec, and the [self-reflection](project-self-reflection) from this term.   What did you mark as stretch goals?  How much does that vision reflect where you are now?
+Take a look at your wiki pages: original project proposal, feature spec, and the [self-reflection](project-self-reflection) from this term. What did you mark as stretch goals? How much does that vision reflect where you are now? Think about how the project went this past term and feedback received.
 
-Think about what would personally be a goal that you would love to see implemented by the end of term.  Think about what would make you extra proud of the project.  Is it something you had already personally hoped would be part of the core functionality?  Why isn't it and what is the limitation?  Don't try to game the system and choose all easy things btw, we can tell. Think about what you'd like to accomplish and what might be standing in the way.
+Think about what would personally be a goal that you would love to see implemented by the end of term.  What would make you extra proud of the project.  Is it something you had already personally hoped would be part of the core functionality?  Why isn't it and what is the limitation?  Don't try to game the system and choose all easy things btw, we can tell. Think about what you'd like to accomplish and what might be standing in the way.
 
 
 ### Personal ZenHub Issue
@@ -33,6 +33,11 @@ Think about what would personally be a goal that you would love to see implement
 
 ## Challenges
 *what are some challenges you foresee?*
+
+* ex: my team is annoying and i hate everything
+* ex: i get stuck on something technical and don't know who to turn to
+* ex: i accidentally delete all my code and all our team repos using some dark magic i found on stackoverflow and i'm stuck at dartmouth forever
+
 ```
 
 
