@@ -19,7 +19,7 @@ Think about what would personally be a goal that you would love to see implement
 
 ### Personal ZenHub Issue
 
-🚀 **Create** a ZenHub issue on your project repo following this template and assign it to *yourself* **and** `@katesalesin` and `@timofei7`. **label** it with <span style="color: gold">[goals]</span>. Do not add it to any milestones.
+🚀 **Create** a ZenHub issue on your project repo following this template and assign it to *yourself* **and** `@ksalesin` and `@timofei7`. **label** it with <span style="color: gold">[goals]</span>. Do not add it to any milestones.
 
 ```markdown
 # Title: Name | Personal Goals
