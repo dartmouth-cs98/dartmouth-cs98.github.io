@@ -55,53 +55,39 @@ name: Administrative Stuff
 ---
 name:  Critical Feedback Summary
 
-* more critical feedback +10
+* providing specific tutorials / assignments +4
+* use x-hour +2
+* more critical feedback +5
 * more frequent in-person check ins / in class consultation time +5
-* fewer activities / start on project earlier +6
-* more hackathings +4
-* fewer hackathings +4
-* clearer due dates / office hours +3
-* more code time 💻 +5
+* need less emphasis on lectures and more group coding and Q&A sessions ?
 * more food 🍕 +1
-* read papers / project work instead of arts and crafts +5
-* idea generation activies at the beginning ended up being really helpful for the final project. +4
-* buddy teams not useful +3
-* make attendance mandatory +5 ❗️
+* idea generation and time spent at beginning was good +4
+* less gifs
+* I'm spending 30+ hours on the project because others are slacking off
+* sprint transitions weren't very structured/well organized 
+* don't fully understand how we'll be graded, but to be fair we don't find that out until the second term, so maybe the final grade after end of term demos will shed some light.
+* had some trouble keeping track of course deadlines for assignments 
 
 ???
-* fewer activities this term
-* and will keep on top of grading with Kate's help!
-* also introduce Kate Salesin - CS grad ta - who will help with critical feedback and is another resource for you all
-* i love arts and crafts - today we have some options of what to do
-* attendance is now mandatory - please sign in - both tues and thursdays, even if it is just team work time
-
-
----
-name:  Pace Feedback Summary
-
-* perfect / flawless
-* too slow in beginning
-* too fast at end
-
-???
-* duly noted will push harder earlier
+* the gifs are there to keep me awake, but i'll try with fewer
+* i thought canvas sent out notifactions when assigned are published, since it doesn't i'll be more mindful
+* we'll grade monday mornings - so be prepared
 
 
 ---
 name:  Positive Feedback Selections
 
-* Phenomenal capstone experience
+* Every year the class becomes less of a layup. 👍
 * this course is a blessing. 
-* So far I'm having a blast, love to have a project that I feel is my own!
-* I love working with my team and truly appreciate the ability to pick a project and go with it.
+* Everything seemed quite adequate and necessary.
+* I really like creating something from start to finish
 * The part where we could play with new technologies really helped us see the different kinds of products we could design.
-* This has been one of my favorite classes at Dartmouth.
-* I really loved working with my team and building a project that has real-word applications
-* Classes were fun/less bureaucratic(?) than other classes
+* There is a collaborative environment that is fostered in the classroom every day - people are kind to one another and are willing to help each other
+* It's allowing me to build a real project and apply the things I've learned throughout my major!
+* I had a lot of fun working with new technologies that I didn't have the opportunity to learn in other classes
 * I have enjoyed all of it  The exercises we went through were helpful in aiding me to think of outside of the box ideas.
-* The collaborative environment
-* I worked to teach myself a lot and learn from my teammates
-
+* I enjoy doing group work and also enjoyed the tutorials in the beginning of the term.
+* I think the group style of the course makes for a better learning experience. On top of that, having the ability to create my own idea with other people that I work well with is incredible.
 
 
 
@@ -113,23 +99,16 @@ name:  Positive Feedback Selections
 ---
 name:  This term
 
-.medium[![](img/pride-rock.gif)]
-
+<!-- .medium[![](img/pride-rock.gif)] -->
+*gif removed*
 
 * Per team milestones in ZENHUB - with due dates and accountability
-* sprints will be graded
-* Individual Code Reviews with meee!
 * More clarification and feedback along the way
+* Each Monday class we'll have team checkins/standups showing progress during sprint
 * Pride
 
 
 ???
-* how did the first pass at ZenHub go - shall we discuss more?
-* generally i've realized that i'm more lenient in the beginning (for all classes)
-* when people are learning and such
-* but then get stricter/harsher as time goes on
-* it is more optimal to go the other way, but i'm bad at that
-* so full disclaimer
 * what makes me proud:
   * polished experience
   * any shortcuts are hidden (no user workarounds)
@@ -140,6 +119,7 @@ name:  This term
     * thinking through use cases
     * no bugs
   * beauty - this is a tricky one - 
+* what makes you proud might be different, hence the assignment for your personal success goals
 
 
 
@@ -151,25 +131,20 @@ name: Time For ACTIVITY!
 
 ???
 * more arts and crafts time!
-* kidding - per request we'll spend more time talking individually
-* we'll do some sharing activities with the new kids on thursday
-
+* kidding 
 
 
 
 ---
 name: This Week
 
-.fancy.large[![](img/zenhub.jpg)]
-
-* checkins
-* use zenhub and finish sprint 1
-* next: plan sprint 2
-* update designs
-* now: share a quick update with everybody of main takeaways from last term
+* today: retrospective
+* today/tomorrow: plan sprint 1
+* end of week: personal success
+* all the time: update designs
 
 ???
-*  share out where you are to the class - main takeaways pivots etc. also ask questions if you need help prioritizing
+* the idea here is to gather all your thoughts from demos and feedback and figure out where you collectively want to go to next
 *  updating designs so you know what you're buidling is helpful.  also there are design starter packs for figma that might help with look and feel if you want - i can share one
 
 
