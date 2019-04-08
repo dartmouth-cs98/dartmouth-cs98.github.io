@@ -50,6 +50,12 @@ Here's a template for what to add every week:
     * what didn't
         * we didn't make much progress
         * etc
+    * self assessment on progress
+        * where are you in relation to progress towards finalfinal product? 
+        * lay out each of the next weeks till end of term with brief goals for each
+          * current week: goals
+          * week #: goals
+          * week #: goals, etc
 
 ```
 
