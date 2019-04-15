@@ -114,23 +114,24 @@ During the second term we'll focus on specific weekly milestones that each team 
   A team set milestone is accomplished or updated.
 
   - [ ] Milestone: [Close out Sprint 3, Evaluate and Plan Sprint 4](milestones/t2-sprint3)
+  - [ ] Milestone: [Success Metrics and Validation Plan](milestones/t2-project-validation)
 
 **Week 5**:<br>
-  Stretch goal setting.  Each member of every team needs to choose a stretch goal to work towards.
+  Midterm checkin to share out progress and things learned with the other teams.
 
   - [ ] Milestone: [Close out Sprint 4, Evaluate and Plan Sprint 5](milestones/t2-sprint4)
+  - [ ] Milestone: [Midterm Checkin 1](milestones/midterm-checkin)
 
 **Week 6**:<br>
-  Just a checkin to share out progress and things learned with the other teams.
+  Evaluate and iterate on project features.
 
   - [ ] Milestone: [Close out Sprint 5, Evaluate and Plan Sprint 6](milestones/t2-sprint5)
-  - [ ] Milestone: [Success Metrics](milestones/t2-success-metrics)
 
 **Week 7**:<br>
-  Work time and buddy team progress update.
+  Midterm checkin to share out progress and things learned with the other teams.
 
   - [ ] Milestone: [Close out Sprint 6, Evaluate and Plan Sprint 7](milestones/t2-sprint6)
-  - [ ] Milestone: [Midterm Checkin](milestones/midterm-checkin)
+  - [ ] Milestone: [Midterm Checkin 2](milestones/midterm-checkin)
 
 
 **Week 8**:<br>
