@@ -16,7 +16,7 @@ Recall your personal success goals and take a look back at your Project Self Ref
 Is your final validation a published app with lots of users?  Is it methods validation that you write up and present in a scientific format such as a poster?  What results do you have to get to consider the project idea validated?  Discuss and decide on what makes most sense for the project.  Not all projects have the same goals, if you have a consumer app iterating and collecting usage analytics based on real user input may be a goal,  if you are prototyping a novel interaction you may want to have some public showcase where you collect observations, and if your project has a data or computational aspect that could be validated via performance analysis you may consider a paper/poster that discusses your results.
 
 ❓ Why is this important?
-🖐 Your validation plan is what your project is really about. You have some idea, how do you show that it worked?  This is where you prove something about the project.  Remember your initial problem statement, you may have a revised problem statement, but the important question is, does your solution solve that problem. 
+🖐 Your validation plan is what your project is really about. You have some idea, how do you show that it worked?  This is where you prove something about the project.  Remember your initial problem statement, you may have revised it since the start of the project, but the important question is, does your solution solve that problem or what steps does it take towards solving that problem.
 
 
 ## Wiki Page
