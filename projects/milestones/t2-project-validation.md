@@ -9,15 +9,17 @@ published: true
 
 ## Overview 
 
-It is time to revisit your team goals and see how you are doing.  In particular, you should try to imagine where you want to be in 4 weeks. And most importantly, let us think about what success means for us, individually, as a team, as a product, and as a class.
+It is time to revisit your team goals and see how you are doing.  In particular, you should try to imagine where you want to be at the end of the term. And most importantly, let us think about what success means for us, individually, as a team, as a product, and as a class.
 
 ## Team Success Metrics
 
-As a team, gather your ideas together and go around and let everyone discuss where they see the project headed and propose some success metrics and goals for the group as a whole. 
+Recall your personal success goals and take a look back at your Project Self Reflection from the start of term.  As a team, gather your ideas together and go around and let everyone discuss where they see the project headed and propose some success metrics and goals for the project. 
+
+Is your final validation a published app with lots of users?  Is it methods validation that you write up and present in a scientific format such as a poster?  What results do you have to get to consider the project idea validated?  Discuss and decide. 
 
 ## Wiki Page
 
-Create a wiki page on your github repo called: `Success Metrics and Validation Plan`
+Create a wiki page on your github repo called: `Final Success Metrics and Validation Plan`.  Use the following template, try to do a bit more than the examples, 5+ per section.
 
 
 ```markdown
