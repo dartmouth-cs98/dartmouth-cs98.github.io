@@ -10,7 +10,7 @@ published: true
 
 At this point you should have a version of your product ready for a private beta release!  We will dogfood our own products at this point. The term dogfooding comes from "eating your own dogfood" an industry term for using your own products.  Some people prefer to call this "drinking your own champagne" or "icecreaming" (developing icecream that you would want to eat yourself).
 
-During class we will pair up teams to setup testing of each other's products.  In preparation, your product should work!
+During class we will pair up to setup testing of each other's products.  In preparation, your product should work!
 
 ## Testing Plan
 
@@ -20,15 +20,24 @@ Likert scale questions are often used in surveys (usually these are 5 point scal
 
 The goal is to inform your further development.  At this point you don't need to know if people like your app or not, but you do want to know if there are concrete ways to improve it.
 
+Create a wiki page `Testing Plan and Results` and just put down some thoughts on what you'd like to get out of the dog-fooding.  It is a touch point where you can get some eyes on your product, or your code, or your methods and should be thoughtfully considered. Don't waste your classmates time by winging it. 
+
+```markdown
+# Testing Plan
+
+
+# Testing Results
+
+```
+
 ## Flip Side
 
-You should spend some decent time helping out the other team in testing.  Each team will do a peer evaluation of their partnered team -- your feedback is critical and you'll get points for it: Peer Feedback
+You should spend some decent time helping out the other team in testing.  Each team will do a peer evaluation of their partnered team -- your feedback is critical and you'll get points for it.
 
 ## Analysis
-Once you've collected and given feedback it is time to analyze your results.  Sort through any survey results and observation notes.  Identify top patterns and write them up.  What should your next steps be?  Try to prioritize your milestones based on your testing.  Add at least 4 new milestones to your github!
+Once you've collected and given feedback it is time to analyze your results.  Sort through any survey results and observation notes.  Identify top patterns and write them up.  What should your next steps be?  Try to prioritize your remaining weeks tasks based on your testing.
 
 ## To Turn In:
 
-* Your testing plan - what questions were you asking, how did you plan to do your observations?
-* Feedback and analysis of results. Submit a document that includes thoughts about how the testing went and your new priorities (1 pager is ok).  Don't sugar coat. This isn't about how far the project has progressed, but about how the testing went - report accurately and make plans accordingly!
-* Add at least 4 new milestones to your github.
+* Your testing plan - what questions are you planning on asking, how do you plan to do your observations, what feedback do you need, how do you plan on demonstrating your product/thesis/code? (plan and record this in advance)
+* Feedback and analysis of results. Submit github link to wiki page that includes thoughts about how the testing went and your new priorities.  Don't sugar coat. This isn't about how far the project has progressed, but about how the testing went - report accurately and make plans accordingly! (do this after)

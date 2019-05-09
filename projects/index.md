@@ -131,13 +131,15 @@ During the second term we'll focus on specific weekly milestones that each team 
   Midterm checkin to share out progress and things learned with the other teams.
 
   - [ ] Milestone: [Close out Sprint 6, Evaluate and Plan Sprint 7](milestones/t2-sprint6)
-  - [ ] Milestone: [Midterm Checkin 2](milestones/midterm-checkin)
+  - [ ] Milestone: [Create Dog-Fooding Plan](milestones/dog-fooding)
 
 
 **Week 8**:<br>
   Work time and buddy team progress update.
 
   - [ ] Milestone: [Close out Sprint 7, Evaluate and Plan Sprint 8](milestones/t2-sprint7)
+  - [ ] Milestone: [Setup Dog-Fooding and analyze results](milestones/dog-fooding)
+
 
 **Week 9**:<br>
   Come up with a plan for publishing the product and a go to market strategy.
