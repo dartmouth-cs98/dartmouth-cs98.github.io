@@ -41,8 +41,9 @@ Have a time to discuss what is working and what isn't.  Include a summary of thi
 Here's a template for what to add every week:
 
 ```markdown
-* Sprint #_: 
+* Retrospective on Sprint #_: 
     * members in attendance:
+        ![selfie proof of meeting]()
         - [x] Jasmine
         - [ ] Alladin
     * what worked well
@@ -53,11 +54,11 @@ Here's a template for what to add every week:
         * etc
     * self assessment on progress
         * where are you in relation to progress towards finalfinal product? 
-        * lay out each of the next weeks till end of term with brief goals for each
+          * give an estimate of how far towards your goals you are, do you think you're on track? 
+        * lay out *each* of the following weeks till end of term with brief goals for each
           * current week: goals
           * week #: goals
           * week #: goals, etc
-
 ```
 
 You'll update this weekly during your sprint transitions! 

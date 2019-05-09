@@ -25,15 +25,14 @@ This is a good time to get immediate feedback as well — so try the features ou
 
 Have a time to discuss what is working and what isn't.  Include a summary of this when you submit this!
 
-🚀 Create a wiki page:  Sprint Retrospectives
+🚀 Create a wiki page:  `Sprint Retrospectives`
 
 Here's a template:
 
 ```markdown
-# Sprint Retrospectives T1
-
-* Sprint #: 
+* Retrospective on Sprint #_: 
     * members in attendance:
+        ![selfie proof of meeting]()
         - [x] Jasmine
         - [ ] Alladin
     * what worked well
@@ -42,7 +41,13 @@ Here's a template:
     * what didn't
         * we didn't make much progress
         * etc
-
+    * self assessment on progress
+        * where are you in relation to progress towards finalfinal product? 
+          * give an estimate of how far towards your goals you are, do you think you're on track? 
+        * lay out *each* of the following weeks till end of term with brief goals for each
+          * current week: goals
+          * week #: goals
+          * week #: goals, etc
 ```
 
 You'll update this weekly during your sprint transitions! 
