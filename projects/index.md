@@ -146,11 +146,11 @@ During the second term we'll focus on specific weekly milestones that each team 
   In class session of breaking each others projects to reveal bugs and give last minute feedback.
 
   - [ ] Milestone: [Close out Sprint 8, Evaluate and Plan Sprint 9](milestones/t2-sprint8)
-  - [ ] Milestone: [Publishing and Go To Market Strategy](milestones/t2-publishing)
-  - [ ] Milestone: [Pre-Final-Demo Bug Hunt](milestones/t2-final-bughunt)
+  - [ ] Milestone: [Publishing](milestones/t2-publishing)
+  <!-- - [ ] Milestone: [Pre-Final-Demo Bug Hunt](milestones/t2-final-bughunt) -->
 
 **Week 10**:<br>
-  MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
+  MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Expo style. Open to public. Invite Everyone! 
 
   - [ ] Milestone: [Close out Sprint 9!](milestones/t2-sprint9)
   - [ ] Milestone: [FINAL DEMOS](milestones/t2-demos)

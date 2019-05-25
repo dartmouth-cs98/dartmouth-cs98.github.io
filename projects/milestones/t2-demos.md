@@ -7,11 +7,11 @@ published: true
 
 ![](img/endofterm.gif){: .fancy .small}
 
-![](img/technigala19W.jpg){: .fancy .medium}
+![](img/Technigala_19S.png){: .fancy .medium}
 
 This is your final for the term and a public demo of the projects! Invite your friends, family, enemies, and randos!  There will be food and drinks!
 
-Demos are **Wednesday, March 6th, First Floor Berry 6-8pm**. Please show up at **5:45pm** to set up your table (remember we could have had a final instead!).  The event will be science fair style - you will have a table with your project name and either a screen or a stand for a laptop to better demo your awesome projects. Come early to clean up your screens and set things up.
+Demos are **Wednesday, May 29th, Hanover Inn Ballroom 6-8pm**. Please show up at **5:45pm** to set up your table and don't leave before your instructor comes by (remember we could have had a final instead!).  The event will be expo style - you will have a table with your project name and either a screen or a stand for a laptop to better demo your awesome projects. Come early to clean up your screens and set things up.
 
 Be prepared to
 * Motivate the idea to a general audience (very brief intros, don't spend too much time talking)
@@ -19,15 +19,15 @@ Be prepared to
 * Discuss challenges
 * Ask for feedback
 
-<!-- ## For Section 1: Your Final DEMO! -->
+<!-- ## For 98.02: Your Final DEMO! -->
 
 This is your time to shine.  Show off what you built in all of its glory.  Your product should be public: if it is an app, hopefully it was approved and in your platforms app store, if it is a web app have it hosted on a real domain (register something better than surge or heroku).  If you have time, print out some business cards at Gnomon if you want to get users onto your platform.
 
-The goal here is to celebrate what you built and pitch it to users.  You should be bug free and fully operational.
+The goal here is to celebrate what you built and share it with the world.  You should be bug free and fully operational.
 
 Your last step is your [final submission](t2-summary.md).
 
-<!-- ## For Section 2: Focus on MPV and TESTING
+<!-- ## For 98.01: Focus on MPV and TESTING
 
 Demos should be MVP - showcase features that are essential for your project and focus on getting those working. IE, what is the core thing that your project does — you don't need any extra stuff like settings, edge cases, unnecessary fields, etc —  but you do need the main idea to come across and be testable.  If you need help prioritizing, slack me!
 
@@ -37,7 +37,7 @@ You'll want to be able to observe and keep notes on how people use what you've b
 
 Grades for this term will be "ONGOING" in banner.
 
-To Turn In for Section 2:
+To Turn In for 98.01:
 * fill out team form
 * submit short short super short what went well / what didn't
 * summarize your user testing and feedback on a new wiki page on your repo `user testing 18w`- record as much as you can remember. -->

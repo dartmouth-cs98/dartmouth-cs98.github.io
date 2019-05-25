@@ -26,14 +26,15 @@ Depending on your project what publishing means will be different.
 * WebApp:
   - register a public domain name
 
-## Advertise it
+## Advertise it (optional)
 
-Let's get the products out there with a small AD campaign.  You can do this either with Facebook, Google Ad Words, or Apple App Store (I've never tried this last one but feel free to experiment).  The more targeted the advertising the more results you'll see.  Facebook Ads are pretty easy - you create a FB page for your product and then "boost" a post - you can target very specific user demographics, set a target time limit for your campaign, and a max budget. Let's keep our budget to $20.  
+Let's get the products out there with a small AD campaign.  You can do this either with Facebook, Google Ad Words, or Apple App Store (I've never tried this last one but feel free to experiment).  The more targeted the advertising the more results you'll see.  Facebook Ads are pretty easy - you create a FB page for your product and then "boost" a post - you can target very specific user demographics, set a target time limit for your campaign, and a max budget. Let's keep our budget to $15.  
 
+<!-- 
 ## To Turn In
 
 * Published link of your project
-* Screencaps of your Ad and your campaign results as provided by your ad platform of choice.
+* Screencaps of your Ad and your campaign results as provided by your ad platform of choice. -->
 
 
 ![](img/deploy.gif){: .fancy .medium}
