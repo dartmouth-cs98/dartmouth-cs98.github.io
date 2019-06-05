@@ -49,4 +49,4 @@ If your product does not have a user flow and is more research, submit screensho
   * update any setup/deployment steps (make sure a new user can set it up)
 * link to Final Project Repo wiki page
 * links to gifs of short demos of your product
-* make sure to fill out the team survey!
+* make sure to fill out the team survey! (link on canvas)
