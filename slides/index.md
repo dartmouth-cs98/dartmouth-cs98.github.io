@@ -18,8 +18,8 @@ permalink: /slides/
 
 
 
-### 98.02 19F
-* [Welcome 19f](20_welcome/)
+<!-- ### 98.02 19F -->
+<!-- * [Welcome 19f](20_welcome/) -->
 
 <!-- * [Code Review 2](22_code_review/) -->
 

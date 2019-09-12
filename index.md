@@ -28,7 +28,6 @@ Some things to consider while thinking about project ideas:
 * 📱 Format: You may choose any format relevant to software design & implementation. For example, your team may choose to develop a game, a web or mobile app, or even experiment with IoT.
 * 🔨 Impact: Your project should demonstrate a positive impact and offer clear benefit to a user base. Consider themes such as education, research, health care, or environmental protection and improvement. Think outside of what is useful to Dartmouth students - new event apps, social network clones, and marketplaces have been attempted before and you might find it more rewarding to build something that challenges you.
 
-
 🏄 This class will be an adventure and requires active participation both inside and outside of class.
 
 By the end of second term of this course, you will:
@@ -46,20 +45,20 @@ Teams will be ~5 members each. Group dynamics and roles will be discussed. Group
 
 ## Time Commitment:
 
-Groups are required to establish a team meeting schedule for coding hours throughout the week. Minimum obligation is 10 hours/week. Group coding is encouraged.
+Groups are required to establish a team meeting schedule for coding hours throughout the week. Minimum obligation is 10 hours/week outside of class time. Group coding is encouraged.
 
 ## Schedule:
 
-There are 2 (COSC98.01+COSC98.02) sequences of this course. You need to take COSC98.01 and COSC98.02 in consecutive terms and cannot mix and match. Section 1 is **18F(98.01) + 19W(98.02)** and Section 2 is **19W(98.01) + 19S(98.02)**.
+There are 2 (COSC98.01+COSC98.02) sequences of this course. You need to take COSC98.01 and COSC98.02 in consecutive terms and cannot mix and match. Section 1 is **19F(98.01) + 20W(98.02)** and Section 2 is **20W(98.01) + 20S(98.02)**.
 
 ### Class:
 
-  - **Section 1 (18F-19W)**
+  - **Section 1 (19F-20W)**
     - 3B Classes will meet Tuesday and Thursday (4:30-6:20).
     - Thursday class time will used for team meetings and working together.
     - 3BX will be available for help / team meeting time.
-    - Location: LSC200
-  - **Section 2 (19W-19S)**
+    - Location: Carson 61
+  - **Section 2 (20W-20S)**
     - 3A Classes will meet Monday (3:30-5:20) and Thursday (4:30-6:20).
     - Thursday class time will used for team meetings and working together.
     - 3AX will be available for help / team meeting time.
@@ -67,7 +66,8 @@ There are 2 (COSC98.01+COSC98.02) sequences of this course. You need to take COS
 
 Class time will be used for topic hackathons, team meetings, showing your work, and coding together time.  Each project team will also meet separately every week to work and hack together.  At least 10 hours per week is required and will be logged.
 
-![](assets/imgs/lsc200.jpg){: .fancy }
+<!-- ![](assets/imgs/lsc200.jpg){: .fancy } -->
+![](assets/imgs/carson61.jpg){: .fancy }
 
 ### Office Hours and Contact:
 
@@ -80,11 +80,11 @@ Class time will be used for topic hackathons, team meetings, showing your work, 
     ![](assets/imgs/tt_profile.jpg){: .fancy .profile}<br>
     [@tim](https://cs98-dartmouth.slack.com/messages/@tim/)<br>
 
-  - TA: [Kate Salesin](mailto:Katherine.A.Salesin.GR@dartmouth.edu)<br>
+  <!-- - TA: [Kate Salesin](mailto:Katherine.A.Salesin.GR@dartmouth.edu)<br>
     Office hours by appointment<br>
     ![](assets/imgs/kate.jpg){: .fancy .profile}<br>
     [@kate](https://cs98-dartmouth.slack.com/messages/@Kate/)<br>
-
+ -->
 
 
 ## More Logistics:
