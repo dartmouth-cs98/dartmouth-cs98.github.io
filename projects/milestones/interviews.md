@@ -9,11 +9,11 @@ published: true
 
 ## Collect Some Ideas
 
-This milestone is to get our thoughts percolating about ideas that might be from outside our usual experience.  To accomplish this we'll first ask some people who are not students (we'll get to Dartmouth students later). People often have random back-burner ideas or insights into problems — things that they wish had solutions, or ideas for solutions that they wish they knew how to build. Often people are willing to give these away for the price of a :coffee:.
+This milestone is to get our thoughts percolating about ideas that might be from outside our usual experience.  To accomplish this we'll first ask some people who are not students (we'll get to Dartmouth students later). People often have random back-burner ideas or insights into problems — things that they wish had solutions, or ideas for solutions that they wish they knew how to build. Often people are willing to give these away for the price of a ☕️.
 
 ## Find Someone
 
-Your mission is to find at least 1 person who is not a student and invite them for coffee/tea/gelato/walk around Occom (or even just 15 minutes to video chat).  This could be a professor you find inspiring, a mentor, a parent, a co-worker from an internship, your favorite barista, or someone completely random in town.  If a family member then you have to do 2 interviews as it is generally easier to interview a family member. 
+Your mission is to find at least 1 person who is not a student and invite them for coffee/tea/gelato/walk around Occom Pond (or even just 15 minutes to video chat).  This could be a professor you find inspiring, a mentor, a parent, a co-worker from an internship, your favorite barista, or someone completely random in town. If a family member then you have to do 2 interviews as it is generally easier to interview a family member. 
 
 ## Interview Them
 

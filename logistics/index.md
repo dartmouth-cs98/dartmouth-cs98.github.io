@@ -25,7 +25,7 @@ The final grade will be based on a combination of weekly performance, class demo
 * Weekly Progress: Instructor Checkins — 35%
 * Late penalty: -12% of milestone per day.
 * Attendance/Participation: 15%
-    * 2 excused absences are allowed.
+    * 2 free absences are allowed (no need to ask in advance).
 
 
 
