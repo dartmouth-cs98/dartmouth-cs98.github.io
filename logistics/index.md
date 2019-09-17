@@ -11,7 +11,7 @@ We will use [Slack](https://cs98-dartmouth.slack.com), an online collaborative t
 
 ## Instructor Meetings ##
 
-Groups will meet with the course instructor weekly in class to discuss progress and plan next steps. Ask questions, be proactive, we're here to help! You are also welcome to [Schedule individual/additional group meeting times here](https://calendly.com/timofei/cs98).
+Groups will meet with the course instructor weekly in class to discuss progress and plan next steps. Ask questions, be proactive, we're here to help! You are also welcome to [Schedule individual/additional group meeting times here](https://calendly.com/timofei/check-in).
 
 
 ## Grading ##
@@ -58,7 +58,7 @@ or
 
 
 
-## Special accommodations and Religious observances##
+## Special accommodations and Religious observances ##
 
 Students with disabilities who may need disability-related academic adjustments and services for this course are encouraged to see me privately as early in the term as possible.  Similarly for Religious observances please talk to the staff as early as possible to resolve any conflicts.
 
