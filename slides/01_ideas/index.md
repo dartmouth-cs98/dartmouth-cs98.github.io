@@ -1,6 +1,6 @@
 ---
 layout: page_with_slides
-title: Pitches
+title: Ideas
 published: true
 ---
 

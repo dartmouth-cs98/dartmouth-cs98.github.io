@@ -58,11 +58,33 @@ name: Course Goals
 * then added rigor for idea - realized people needed to love it
 * the general point here is: you have half a year, don't fucking waste it on something you don't care about.
 
+---
+name: etc
+
+.medium_small[![](img/tn8zWeNYA73G0.gif)]
+
+* 3B — 4:30-6:20pm
+<!-- * 3A - Mon 3:30-5:20 and Tues 4:30-6:20, LSC 200 -->
+* Mondays, discussion/activities
+* Thursdays, meeting time/sharing
+* x-hours
+  * Mon 5:35 - 6:25pm, as necessary room available
+* 11/17 Carson61, 11/19 LSC200, after Fairchild 101
+
+???
+* coding together
+* activities such as bughunts and testing
+* brainstorm and pitch ideas
+* inter and intra group collaboration
+* will keep time logs - for billing purposes
+
+
 
 ---
 name: Online @
 
-<iframe src="//giphy.com/embed/3oD3YveOJWdwIAfZ5e" width="600" height="389" frameBorder="0" class="giphy-embed"></iframe>
+
+.medium[![](img/sv.gif)]
 
 
 * web: [http://cs98.me](http://cs98.me)
@@ -75,26 +97,6 @@ name: Online @
 * previous projects on github and on the website
 * open an issue or PR!
 
-
----
-name: etc
-
-.medium_small[![](http://i.giphy.com/tn8zWeNYA73G0.gif)]
-
-<!-- * 3B — 4:30-6:20pm - Carson 61 -->
-* 3A - Mon 3:30-5:20 and Tues 4:30-6:20, LSC 200
-* Mondays, discussion/activities
-* Thursdays, meeting time/sharing
-* x-hours
-  * Mon 5:35 - 6:25pm, as necessary room available
-
-???
-* coding together
-* activities such as bughunts and testing
-* brainstorm and pitch ideas
-* inter and intra group collaboration
-* will keep time logs - for billing purposes
-* both rooms on thursdays to make your team scheduling easier
 
 
 
@@ -136,7 +138,8 @@ name: Slack, Canvas
 * each team will have a channel
 * download mobile, desktop, web apps
 * get used to it
-* **canvas** for submitting thing, all assignments
+* **canvas** for submitting all assignments
+  * even if just a link to github
 
 
 ???
@@ -149,32 +152,184 @@ name: Slack, Canvas
 * and if problems come up later there's history and i'm aware of it
 * less of a prof, more of scrum manager (equally useless?) here to help guide you through an awesome building experience
 
+
+
+---
+name: this is git
+
+.fancy.medium_small[![xkcd git](http://imgs.xkcd.com/comics/git.png)]
+
+???
+* mandatory
+
+
+---
+name: git help
+
+.small[![](img/git_data_transport.png)]
+
+* [https://onlywei.github.io/explain-git-with-d3/](https://onlywei.github.io/explain-git-with-d3/)
+* [http://www.ndpsoftware.com/git-cheatsheet.html](http://www.ndpsoftware.com/git-cheatsheet.html)
+
+???
+* how many people have used pull requests before?  don't worry we'll practice! 
+
+
+---
+name: ZenHub
+
+<div class="blockquote-style">
+    <video loop autoplay muted class="medium fancy">
+    <source src="http://res.cloudinary.com/dali-lab/video/upload/ac_none,w_560,h_315,c_crop/v1546203223/cs98/zenhub-overview.webm" type="video/webm"/>
+    <source src="http://res.cloudinary.com/dali-lab/video/upload/ac_none,w_560,h_315,c_crop/v1546203223/cs98/zenhub-overview.mp4" type="video/mp4"/>
+    <source src="http://res.cloudinary.com/dali-lab/video/upload/ac_none,w_560,h_315,c_crop/v1546203223/cs98/zenhub-overview.ogv" type="video/ogg"/>
+    Your browser does not support HTML5 video tags
+    </video>
+</div>
+
+* agile workflow 
+* more intro later - but specific "tickets" per person to coordinate work
+* mandatory, graded, **helpful**
+
+
+
 ---
 name: Grading
 
 .small[![](img/redpanda.gif)]
 
-* Project Milestones — 75%
+* Project Milestones — 50%
   * milestone weights will vary
-  * late penalty: -10% of milestone per day.
-* Weekly Progress: Instructor Checkins + GitHub — 25%
+  * late penalty: -12% of milestone per day.
+* Weekly Progress: Instructor Checkins + GitHub — 35%
+* Attendance/Participation - 15%
 * Individual contribution scaling vs Team grade
     * Github pull requests and commits
-    * Attendance/Participation
-* Project difficulty
-* What you set out to do and how far you get is considered
+    * Issue engagement and story points
+    * Technical (craft, breadth/depth of work) *
+    * Team (communication, attendance, team player) *
+    * Growth (curiosity, rigor, improvement over the term) *
+
 
 ???
+* will try to have individual meetings with each one of your - details to follow
 * may be adjusted slightly
 * your grade my vary based on individual contribution (combined metric effort+feedback+participation+github)
 * weekly checkins will start once you have teams
 * will send out info about doing 1 goal setting meeting individually in the next couple of weeks for each of you
 * grumpier in my old age
-* have in the past been too nice at the beginning - leading to disappointment all around at the end
+* warnings about last year
 * people have complained that project goals weren't clear and they were penalized about user experience issues
 * "didn't realize that there would be a focus on UX and whether the project was usable"
 * problem unless researchy or difficult then we can talk about pivoting / progress on solving the problem
 * again talk to me if things are unclear
+
+
+---
+name: Survey
+
+<iframe src="https://dalilab.typeform.com/report/CTeb9I/JVBhNIjDat0IdlOC"  width="900" height="500" frameBorder="0" ></iframe>
+
+???
+
+---
+name: What you want, P1
+
+* main goal is to make something that I'm super excited about
+* Super excited to take the course!
+* I hope that I can build something that is **useful in real life**
+* I want to make a **project that has an impact**, somewhere on some field
+* I'm most interested in tech for social good! Something that has a **positive impact on the world**. OR something that **blends tech/data/art** in an interesting way.
+* hope is to build a **shippable and usable product**
+* I'd love to build something that people actually use
+* I just want to make something cool. Not really sure what that entails.
+* I want to **conceptualize and guide a product** from idea => MVP+ implementation!
+* Working on something that benefits a non-profit goal like education or public health would be even more rewarding.
+* I would like to build something around a business plan though - **a product that could actually be taken to market**.
+* I'm excited to **solve potential real world problems and hopefully have a fun group experience**!
+
+
+???
+* great my whole life my driving motivation has been to build cool things
+* my  parents were artists - if i wanted a toy, they told me to make it
+* want to help people have the transformative experience of creating something out of nothing.  and idea->reality
+
+---
+name: What you want, P2
+
+* Want to **spend time with a group** and **achieve something great** together.
+* Gain **experience in a team setting** with a **significant project** and hard deadlines
+* I'm scared of this class and software development. I **would like to not be scared**
+* I really hope I can **grow in confidence** as a developer, and learn the skills required to grow an idea into a product. I hope to be part of a **team that works hard, but is also patient**.
+* My dream is that I have a team where everyone has clearly defined responsibilities, and can be **trusted to complete their tasks** without being begged.
+* I've done a lot of projects in either mobile or web development and I would **like to branch out**
+* Prefer not working with people looking to line their pockets from the project.
+* I would love to learn more about computer vision
+* Want to flex skills outside of web dev/app dev.
+* ***Just wanna graduate*** 
+
+
+???
+* the question is do you want to graduate having built something cool AND with a good grade?   when i meet with each of you individually - tell me what you want - if you want to pass and don't care, do tell me, i'll try to help make that painless so we're not fighting
+
+
+---
+name: What you want, P3
+* I want to **make a product I'm proud of** and that I can continue later and maybe even put on a resume.
+* I'm especially interested in **applying the skills** I learned in the past three years to a project that serves for **social good**.
+* Finally do a long-term project that hopefully can have impressive result!
+* I hope to build something really cool that **won't just sit in a git repo** somewhere but actually be used
+*  lot of coding experience and project experience that will help me in a professional setting after graduation. I think an **exposure to a wide range of technologies** would be beneficial.
+* I want to be able to leave Dartmouth having created/done something to be proud of, and potentially carry it on further past Dartmouth.
+* I've been looking forward to this course since I became a CS major. I want to **build some cool shit that will have an impact**. I also want to meet some more CS majors!
+
+
+???
+
+
+---
+name: What you want is what I want!
+
+.small[![](img/against-the-world.gif)]
+
+
+* Produce something of significance and impact
+* Feel empowered to think of an idea and create it into being
+* Be engaged and proactive on your project
+* Go beyond the minimum milestone guidelines
+* Collaborate with your team in a thoughtful and respectful manner
+* Enjoy exploration and creation
+
+???
+* we're in this together - yes this is a required class - but it can be enjoyable for all of us
+
+<!-- name: Last year
+
+.left.large[![](img/box-plot-image.png)]
+
+.right[
+* Median: 3.66
+* Minimum: 1
+* Maximum: 4
+* First quartile: 3.33
+* Third quartile: 4
+* Interquartile Range: 0.67
+* Outliers: 1 1 1
+] -->
+
+
+
+
+---
+name: Your Questions So Far
+
+* To what degree are consumer interactions going to be a part of the design and implementation process of the project?
+* I’m worried about workload, so I would prefer having small deadlines along the terms even as just a guideline.
+*  I'm wondering how regimented the 3B time is? I've never taken a 3B before and am a little nervous about that aspect, but everything else I can't wait for.
+* How is a two-term course usually structured?
+* Do we pick our groups or are they assigned?
+
+
 
 
 
@@ -184,13 +339,13 @@ name: Project Complexity
 
 .tiny.fancy[![](img/puppy-shake-head.gif)]
 
-
-* code full system - no platforms as a services
+* What you set out to do and how far you get is considered
+* code full system - minimal platforms as a services
 * reasonable complexity - server/client/computation
-* will discuss per project later
 
 
 ???
+* points for stretching
 * some data persistance or computation
 * some display of said data or computation that is reasonably complex
 * it is two terms so you have time to implement something cool!
@@ -207,15 +362,15 @@ name: Project Complexity
 ---
 name: Commitment
 
-<iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="307" height="330" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+.tiny.fancy[![](img/kitten-commitment.gif)]
 
 * 10-15hrs a week min (outside of class)
-* bonus points for working together
+* physically working together is important
 * class time (some of which can be coding time)
-* the more you put in the more you'll get out in terms of project satisfaction / grade / fame
+* the more you put in the more you'll get out in terms of project satisfaction / grade / fame / fortune / impact on the world
 
 ???
-
+* figure out what drives you, what is meaningful to you
 
 
 ---
@@ -247,17 +402,18 @@ name: CS vs Startup
 
 ???
 * last term someone asked CS culminating vs startup
-* it can definitely be more researchy or not have a clear consumer
+* it can definitely be more experimental or not have a clear consumer
 * but we're humans, so everything is a problem to solve
 * if you want to do something algorithmic or a software library or dev tool thats fine, all the steps we take can be made to fit. 
-* or a social entrepeurship project
+* or a social e-ship project
+* but this is NOT a research thesis - if you want hardcore research - do that
 
 
 
 ---
 name: Monies
 
-<iframe src="https://giphy.com/embed/l0HFkA6omUyjVYqw8" width="480" height="357" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+.medium[![](img/monies.gif)]
 
 * some funding available for stuff
 
@@ -319,9 +475,26 @@ And much much more
 
 
 ---
+name: Potential Hardware
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H713WDWTUDo?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+  * buttons, eye tracking, vr, cameras, sensors!
+  * hololens, magic leap, kinect, oculus quest, google cardboard, actual cardboard
+  * raspberry Pi IoT kits, haptic gloves
+  * iphones for AR
+
+??? 
+* we have some devices available to play with
+* not today but if you are interested in any of these slack me
+
+---
 name: From Scratch?!?
 
-<iframe src="https://giphy.com/embed/OdwX6AhjmbN9C" width="480" height="364" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+.medium.fancy[![](img/marvel.gif)]
+
 
 * from blank terminal to full project
 * worktime during most classtime
@@ -340,7 +513,8 @@ name: From Scratch?!?
 ---
 name: How do we get there?
 
-<iframe src="https://giphy.com/embed/ZgNQXIMhy2JCE" width="480" height="364" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+.medium.fancy[![](img/shield.gif)]
 
 * hack-a-thing to get us warmed up
 * then milestones to guide us
@@ -379,7 +553,7 @@ The goal: a project you are super proud of!
 
 ### also Fame and Fortune* / a better world
 
-.left[![](img/cs-unleashed.png)]
+.left[![](img/technigala.jpg)]
 
 .right[![](img/mafia.jpg)]
 
@@ -398,31 +572,11 @@ The goal: a project you are super proud of!
 
 
 
----
-name: this is git
-
-.fancy.medium_small[![xkcd git](http://imgs.xkcd.com/comics/git.png)]
-
-???
-* mandatory
-
-
----
-name: git help
-
-.small[![](img/git_data_transport.png)]
-
-* [https://onlywei.github.io/explain-git-with-d3/](https://onlywei.github.io/explain-git-with-d3/)
-* [http://www.ndpsoftware.com/git-cheatsheet.html](http://www.ndpsoftware.com/git-cheatsheet.html)
-
-???
-* how many people have used pull requests before?  don't worry we'll practice! 
-
 
 ---
 name: Problems to Solve
 
-<iframe src="https://giphy.com/embed/c5eqVJN7oNLTq" width="380" height="272" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+.small.fancy[![](img/puppyhelp.gif)]
 
 * Considerations
   * Novelty: explore something new(ish)
@@ -443,7 +597,7 @@ name: Problems to Solve
 ---
 name: Outside the Box?
 
-<iframe src="https://giphy.com/embed/ZhypAXYqYPS7e" width="283" height="380" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+.small.fancy[![](img/outsidethebox.gif)]
 
 * if you had half a year to build anything you want?
 * why build something boring?
@@ -495,17 +649,6 @@ name: Previous Project: Lensflare 16f-17w
 * HoloLens app to allow spatial annotations with text, video and 3D animated assets
 * has a backend and management interface to allow easily adding/customizing assets
 * production quality could have been a product
-
----
-name: Previous Project: Queue 17w-17s
-
-
-.medium[![](../../projects/previous/17w-17s/img/queue.jpg)]
-
-???
-* ios app that allows sharing music playlist based on bluetooth distance
-* in the same room, share your playlist / add tracks to others
-
 
 ---
 name: Previous Project: MiAM 17f-18w
@@ -565,15 +708,62 @@ name: Previous Project: Monad 18W-18S
 
 
 ---
-name: Ongoing Projects
+name: Previous Project: Tasssel 18F-19W
+
+> <iframe style="border: none;" width="500" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FaUwZCUORxAAuT7YZ1Eiq0dbv%2FHome%3Fnode-id%3D2%253A2%26scaling%3Dscale-down" allowfullscreen></iframe>
+
+
+???
+* fly out to YC - was pretty full featured product
+
+
+---
+name: Previous Project: Smores 18F-19W
 
 .medium[![](../../projects/previous/18f-19w/img/smores-screencap.jpg)]
 
-* we'll meet them next thursday
-* take a look through: http://cs98.me/projects/previous/
 
 ???
-* an AR game, a robotic elderly care bot, IoT recycling detector, etc
+* collaborative physics puzzles - help the marshmallow get to the graham cracker
+* 2 iphones at the same time
+
+
+---
+name: Previous Project: NavSight 19W-19S
+
+.tiny[![](../../projects/previous/19w-19s/img/jukejuke-1.gif)]
+
+???
+* multipart experiment, had OBD car adapter, had ML model for traffic lights, had a haptic belt (lots of soldering) for direction control
+
+---
+name: Previous Project: Echo.Verse 19W-19S
+
+<div class="blockquote-style">
+    <video loop autoplay muted class="small fancy">
+    <source src="http://res.cloudinary.com/dali-lab/video/upload/ac_none,w_560,h_315,c_crop/v1546203223/cs98/19w-pixivity-2.webm" type="video/webm"/>
+    <source src="http://res.cloudinary.com/dali-lab/video/upload/ac_none,w_560,h_315,c_crop/v1546203223/cs98/19w-pixivity-2.mp4" type="video/mp4"/>
+    <source src="http://res.cloudinary.com/dali-lab/video/upload/ac_none,w_560,h_315,c_crop/v1546203223/cs98/19w-pixivity-2.ogv" type="video/ogg"/>
+    Your browser does not support HTML5 video tags
+    </video>
+</div>
+
+???
+* art installation, reddit scraping, sentiment analysis, unity3d for displaying echo chambers
+
+---
+name: Previous Project: BearTrax 19W-19S
+
+.tiny[![](../../projects/previous/19w-19s/img/wity-0.gif)]
+.tiny[![](../../projects/previous/19w-19s/img/wity1.gif)]
+
+
+???
+* art installation
+
+
+
+
 
 
 ---
@@ -605,12 +795,14 @@ name: The Tale Of OrderOrchard
 * but pivoted when they identified a bigger pain point for restaurants
 * big enough pain point that they've signed some big customers
 * also tale of collegepulse but you're all probably tired of hearing that one
+* recently they've had some successes that i'm not allowed to talk about - but suffice to say in 4 years they've done better than they would have as valley engineers and are living the entrepreneurial dream. 
+* this isn't an e-ship course, i just want you to have fun building stuff, but cool things can happen
 
 
 ---
 name: what is the point?
 
-.medium[![](img/mrfox.gif)]
+.medium.fancy[![](img/mrfox.gif)]
 
 * build something to solve a problem
 * build it to make a better world
@@ -630,8 +822,8 @@ name: what is the point?
 ---
 name: just breathe
 
-.medium[![](img/breathe.gif)]
-.medium[![](img/rocks.gif)]
+.medium.fancy[![](img/breathe.gif)]
+.medium.fancy[![](img/rocks.gif)]
 
 ???
 
@@ -647,9 +839,9 @@ name: start with: Interviews
 
 * [Interviews Milestone](../projects/milestones/interviews)
 
-.left-small[![](img/have-an-idea.gif)]
-.right-large[![](img/big-idea.gif)]
-.right-large[![](img/crazy-idea.gif)]
+.left-small.fancy[![](img/have-an-idea.gif)]
+.right-large.fancy[![](img/big-idea.gif)]
+.right-large.fancy[![](img/crazy-idea.gif)]
 
 
 ???
@@ -661,6 +853,27 @@ name: start with: Interviews
 * who knows prof: Misha Gronas?
 * he always has crazy ideas - his last was outsourcing streaming videos of talks/events  
 * will send out assignment on canvas
+
+
+
+---
+name: this week
+
+* Start an idea inspiration board.
+* **find a cool article or paper on tech/software/cs/problems in the world, that you want to share with the class**
+* **interview some people**
+* details to follow tonight
+
+.left[![](img/bulb.gif)]
+.right[![](img/bulb2.gif)]
+
+
+
+???
+* keep track of things you see online that are interesting
+* clip pictures / urls / etc
+* we'll compile then for an upcoming milestone
+
 
 
 ---
@@ -681,25 +894,6 @@ name: next up: Hack-A-Thing
   * but don't get tooo attached
 * follow a tutorial
 * plan to spend at least 10 hours on this
-
-
----
-name: as you go: Inspiration Board
-
-* Start an idea inspiration board.
-* cool tool: [milanote](https://www.milanote.com/refer/rcAxjfzasgu2C6IoR8)
-* will submit it later for some grade points
-* **find a cool article or paper on tech/software/cs/problems in the world, that you want to share with the class**
-
-.left[![](https://media.giphy.com/media/26BkNrGhy4DKnbD9u/giphy.gif)]
-.right[![](https://media.giphy.com/media/QveMWHFk4ojsI/giphy.gif)]
-
-
-
-???
-* keep track of things you see online that are interesting
-* clip pictures / urls / etc
-* we'll compile then for an upcoming milestone
 
 
 

@@ -34,7 +34,7 @@ published: true
     </video>
 </div>
 
-# [19W-19S](19W-19S) #
+# [19W-19S](19w-19s) #
 
 <div class="blockquote-style">
     <video loop autoplay muted class="medium fancy">
