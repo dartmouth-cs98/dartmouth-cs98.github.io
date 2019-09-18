@@ -5,8 +5,8 @@ permalink: /slides/
 ---
 
 
-<!-- ### Part 1 -->
-<!-- * [Welcome](00_welcome/) -->
+### Part 1
+* [Welcome](00_welcome/)
 <!-- * [Idea Generation](01_ideas/) -->
 
 <!--  idea pitches and paper sharing -->

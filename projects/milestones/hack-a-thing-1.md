@@ -17,7 +17,7 @@ To get ready to build your project and to stretch our coding muscles this milest
 
 ## Time Commitment/complexity
 
-You should plan to spend at least 10 hours on this. The workload of this course overall is at a minimum 10 hours a week — if you spend less your final product may suffer and you will make the world sad.
+You should plan to spend **at least 10 hours** on this. The workload of this course overall is at a minimum 10 hours a week — if you spend less your final product may suffer and you will make the world sad.
 
 ## Team
 
@@ -29,11 +29,11 @@ Choose some technology and build a thing.  This can be as simple as finding a go
 
 ## Scope
 
-Do not use a personal project you have worked on in the past - this needs to be something new that you have wanted to explore but have not had the chance to. It should be approximately 10hrs work of effort, so if you do a tutorial and you're done with it in 2 hours, try expanding it or do a second one.
+Do not use a personal project you have worked on in the past - this needs to be something new that you have wanted to explore but have not had the chance to. It should be approximately 10hrs work of effort, so if you do a tutorial and you're done with it in 2 hours, try expanding it or do multiple tutorials.
 
 ## Tutorials
 
-If you follow a tutorial or two just remember to acknowledge this fact in your README file. There are many good tutorials out there - popular choices are react-native, Unity3D, voice technologies, AR/VR, etc.   http://lynda.dartmouth.edu/ is a decent source for some.
+Remember to acknowledge any tutorials or resources you used in your [README.md](#readme) file. There are many good tutorials out there - popular choices are react-native, Unity3D, voice technologies, AR/VR, etc.   http://lynda.dartmouth.edu/ is a decent source for some.
 
 ## README
 
@@ -49,6 +49,8 @@ All your projects on github should include a README.md file.  For this milestone
 This is also a time to figure out how to use git flow - if you are working with someone else.  On your final project you'll be required to use git flow with feature branch style [pull requests](https://yangsu.github.io/pull-request-tutorial/).   
 
 🚀 You should make sure you have github set up with your [correct github email](https://help.github.com/articles/setting-your-email-in-git/) so that your commits are recognized as belonging to you.  Make sure you have at least 2 commits connected to your github email on this.  Points taken off if this is not so.
+
+🛑 The above is critical. If you do not have your author email set correctly / not registered with github then your commit history becomes an untrackable mess and we will deduct points over and over until you fix it.
 
 ## To Turn In
 
