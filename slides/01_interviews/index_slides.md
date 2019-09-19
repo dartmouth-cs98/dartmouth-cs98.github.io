@@ -18,14 +18,24 @@ name: base
 
 .title[{{name}}]
 
-
 ---
 name: CS98: Today
 
 
-* Topics
+## don't sit with your Interview partner if you had one!
+
+
+
+
+---
+name: Today
+
+
+<iframe width="600" height="400" src="https://www.youtube.com/embed/J-GVd_HLlps?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+* Interviews
+* Ideas++
 * Broaden our problem scope
-* Hack-a-thing1
 
 ???
 * today talk about ideas and workshop out some of the interviews
@@ -38,13 +48,11 @@ name: Hack-a-thing-1
 
 <iframe src="https://giphy.com/embed/tQ8uT9t0uK92M" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-* what to hack on?
-* anybody started?
+* is coming along?
 
 ???
 * anybody choose a thing to hack on?   what?
 * anybody need ideas?
-
 
 
 ---
@@ -52,16 +60,16 @@ name: Technologies
 
 .fancy.medium[![](img/andreessen.jpg)]
 
+* on slack `#inspiration`
 * hearables
 * ar/vr
 * sensors
-* wearables
-* IoT
 
 ???
 * some thoughts on state of the art
 * using our hearing a lot
 * marc andreessen 
+* i listen to audiobooks a lot - while walking or driving especially - crank through a book a week. 
 * hearables
 * lots of cool sensors from the stuff on your phone to cheap eeg for brainwaves and heartrate monitors
 
@@ -76,7 +84,7 @@ name: WTF hearable?
 
 ???
 * hearing is just as valuable an input
-* i listen to audiobooks a lot - while walking or driving especially - crank through a book a week, hate modulating what i'm listening to based on context - my headphones try?
+* i listen to audiobooks a lot - while walking or driving especially - crank through a book a week. 
 * anyway - audio interactions - predicted to be big
 * stigma of talking to oneself / hearing aid though is a thing to combat
 * close to brain - eeg?
@@ -104,27 +112,8 @@ name: AR/VR
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/aPWkmLJmVKA?start=21" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+* clearly just the beginning...
 
-
-
----
-name: Spatial Computing?
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HD9jeo9M8vo?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-* lots of work left to do
-
----
-name: VR
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H713WDWTUDo?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-* can be more than just people wearing headsets
-
-???
-* mixed reality mini golf?
-* mixed reality escape the room?
 
 ---
 name: VR
@@ -138,41 +127,6 @@ name: VR
 * imagine a study space / vr office though - where would it be? would it have a table? 
 * studies show that context to where you remember things is important in helping recall / put you in the right mood
 
----
-name: change in the nature of change
-
-.fancy.large[![](img/changes.jpg)]
-
-* Jim Coulter ’82 Founding Partner and Co-CEO, TPG Capital
-
-???
-* he talked about how they look for industries where there was a bunch of change happening - in particular change that was maybe slowing but not decided
-* but he's looking for good investments not necessarily things to fix that are broken
-* https://www.youtube.com/embed/AwXzt2CV7is?start=230
-
----
-name: distributed economies
-
-.medium[![](img/de.png)]
-
-* example: education
-  * ancient Greece (plato/socrates)
-  * dark ages (celibate living in monastery)
-  * medieval Europe (tutors living in home)
-  * 18th century (oxford or apprenticeships)
-  * 19th century (assembly line education)*
-  * Now 21st century - what are we doing better?
-
-???
-* industries disrupted by the distributed economy
-* healthcare: not monolithic hospitals -> distributed care
-* computing:  not mainframe or even personal computer -> but distributed devices
-* shopping:  many online stores or at least sellers
-* experiences:  not tour agencies but individuals via airbnb
-* education: not industrial buildings with thousands of students ->  supplemental materials 
-* media:  not blockbuster or cable, many streaming services
-* this enables a few things ->  distributed solutions are easier!
-* you don't need a ton of money to build a factory floor -> you can solve smaller problems -> this is cascading - increasing the speed of innovation
 
 
 ---
@@ -193,8 +147,6 @@ name: Some Broad Topics
 * we do this automatically.
 * at 11 months old babies can distinguish grammatical from non-grammatical sentences
 
-
-
 ---
 name: Share Topics
 
@@ -202,39 +154,30 @@ name: Share Topics
 
 * Next assignment: find and share an interesting paper or article
 * can be about tech or problems in the world
-* post in slack `#inspiration` with comment about why it is interesting to you as you research
+* post in slack `#inspiration` with comment about why it is interesting to you
 
 ???
 * this is just a little starter
 * find more and post them
 * then next week we'll share them out - will send more info about this later
 
-
 ---
-name: Interviews
+name: Choose your own adventure
+
+.fancy.medium[![](img/Months1.png)]
 
 
-.medium_small[![](img/anatomy.jpg)]
-
-* [Interviews Milestone](../projects/milestones/interviews)
-
+* https://waitbutwhy.com/2014/05/life-weeks.html
 
 ???
-* talk to at least 1 person who is not a student
-* they can be professor you find inspiring, a mentor, a parent, a co-worker from an internship etc
-* ask about a problem or idea for something they would like improved/fixed/made
-* record: target audience, what the problem is,  what the proposed solution might look like
-* idea is to get our thoughts percolating about ideas that might be outside dartmouth
-* who knows prof: Misha Gronas?
-* he always has crazy ideas - his last was outsourcing streaming videos of talks/events  
-* will send out assignment on canvas
+* this is cs98
 
 
 
 ---
 name: Stories
 
-.fancy.tiny[![](img/stories.gif)]
+<iframe src="https://giphy.com/embed/IoQETeY2ue5bi" width="308" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 * What are we but a collection of stories that we tell?
 
@@ -253,10 +196,12 @@ name: Stories
 ---
 name: Ok but like, why?
 
-.fancy.medium[![](img/why.gif)]
+<iframe src="https://giphy.com/embed/113udJYmASs3qE" width="480" height="282" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-* choose initial started ideas via pitching
+* pitching won't be how we choose projects this term!
+* but storytelling will be critical
 * the story of what your product does
+* or what your research question is
 
 ???
 
@@ -267,15 +212,18 @@ name: Project Teams
 
 
 * more teams+ideas next week
-* based on idea pitches + friendship + foeship
+* based on ideas + friendship + foeship
+* previously: pitch ideas, scrapping that
 * more discussion about tech and problems
+* teams based on theme/tech instead
 
 
 ???
+* more relevant to this class - how to settle on your initial idea
 * working with friends can be great
 * or not
 * your preferences
-* but working on theme/idea you like more important
+* but working on theme you like more important
 
 
 ---
@@ -315,42 +263,93 @@ name: Some Inspiration Sources
 
 
 
-<!-- name: QUICK BREAK
-
-.fancy.medium[![](img/break-time.gif)] -->
-
 ---
-name: Choose your own adventure
+name: Practice Story Telling
 
-.fancy.medium[![](img/Months1.png)]
+.fancy.medium[![](img/kitchen-story.gif)]
 
 
-* https://waitbutwhy.com/2014/05/life-weeks.html
+* at your table, tell each other your interview **story**
+* embellish as needed
+* parse out:
+  * what is the problem
+  * who is the audience
+  * what would be a delivery mechanism/platform for a potential solution?
+* select best story from your table to share
 
 ???
-* this is cs98
+* lets practice in tables -  sit at a different table from your interview partner
+* 15 minutes to do this - then we'll share out one story from each table to class
+
+
+
+
 
 ---
-name: In Class Interviews!
+name: QUICK BREAK
 
-.medium_small[![](img/anatomy.jpg)]
+.fancy.medium[![](img/break-time.gif)]
 
-* [Interviews Milestone](../projects/milestones/interviews)
-* interview someone you don't know well (tables paired)
-* tell stories, stir the pot, get inspired
-* talk about things you hate, ideas you have, cool technologies you want to try or have tried
-* 15 min or so then switch
+
+---
+name: Idea-tivity!
+
+.fancy.medium[![](img/no-idea.gif)]
+
+* Write down:
+  * **1 platform** (vr, product, mobile, web, text, etc)
+  * **1 topic/problem** (from interviews)
+  * **1 audience** (4 year olds with missing teeth, single parents, stressed teens, mail delivery people in their 70s)
+  * **1 animal** (kittens, lions, etc)
+* on separate cards
+
+
 
 
 ???
-* idea is to STIR THE POT, inject some randomness into our thinking
-* i'm happy to talk about some big topic problems i see that need solving
-  * homelessness
-  * universal income
-  * education
+* oh god not another activity!
+* platform like Vr
+* topics: like healthcare, problem
+* audience: like kindergartners, or married stressed  parents, etc
+
+
+---
+name: Mix em up
+
+.fancy.medium[![](img/mix-up.gif)]
+
+* 10 MIN:
+  * choose 2 sets of 4
+  * brainstorm on how to solve the set
+* 10 MIN:
+  * then as table discuss options and consolidate on 1 idea
+
+???
+* idea here is to just insert a bit of randomness, stochastic hill climbing - just in case one of these ideas can be improved a bit with some lateral thinking.
+
+---
+name: Identify and Sketch Features - 30MIN
+
+* split up your idea into main features
+  * collaboratively build it
+  * can use digital tools like [Pop Paper](https://marvelapp.com/pop/) or [Figma](https://www.figma.com)
+  * show user flows
+* prep a **short pitch deck**
+  * problem statement /story
+  * who is it for?
+  * share some thoughts on your solution
+  * what is your special insight
+  * show some of your mocks/sketches/drawings
+* post a link to google presentation `#section-2`
+* pitch it
+
+???
+
+
 
 ---
 name: Coming Next
 
-* Tues: Share out Interviews/ Hacks
-* Thurs: Share out interesting papers
+* Thurs: Share out Hack-a-things
+* Mon: Share a cool paper or article on a tech or a human problem
+* Next Thurs: Teams form

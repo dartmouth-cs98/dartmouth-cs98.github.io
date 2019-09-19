@@ -7,8 +7,9 @@ permalink: /slides/
 
 ### Part 1
 * [Welcome](00_welcome/)
-<!-- * [Idea Generation](01_ideas/) -->
+* [Idea Generation](01_ideas/)
 
+<!-- * [Interviews](01_interviews/) -->
 <!--  idea pitches and paper sharing -->
 <!-- * [Refining Ideas](04_user-personas) -->
 <!-- * [Design](04_design) -->
