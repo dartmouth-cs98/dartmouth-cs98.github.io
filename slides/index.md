@@ -8,8 +8,12 @@ permalink: /slides/
 ### Part 1
 * [Welcome](00_welcome/)
 * [Idea Generation](01_ideas/)
-
+* [Hack-a-thing-1](02_hack-a-thing-1/)
 <!-- * [Interviews](01_interviews/) -->
+
+
+<!-- * [milestone intro](02_milestone_intro/) (nah)-->
+
 <!--  idea pitches and paper sharing -->
 <!-- * [Refining Ideas](04_user-personas) -->
 <!-- * [Design](04_design) -->
