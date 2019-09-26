@@ -9,7 +9,7 @@ permalink: /slides/
 * [Welcome](00_welcome/)
 * [Idea Generation](01_ideas/)
 * [Hack-a-thing-1](02_hack-a-thing-1/)
-* [Interviews](01_interviews/)
+* [Interviews](02_interviews/)
 
 
 <!-- * [milestone intro](02_milestone_intro/) (nah)-->
