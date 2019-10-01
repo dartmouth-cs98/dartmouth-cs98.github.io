@@ -32,7 +32,7 @@ name: MileStones!
 
 <!-- .medium_small[![](img/finalproject.jpg)] -->
 
-* Pitches (10/3, 10/7)
+* Pitches (10/7, 10/8)
   * shared google slides
 * Groups Form, State Of The Art Research (10/8, 10/10)
 * Personas/Features (10/15)
