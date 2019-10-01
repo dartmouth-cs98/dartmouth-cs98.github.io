@@ -1,6 +1,6 @@
 ---
 layout: page_with_slides
-title: Project Intro
+title: Milestone Intro
 published: true
 ---
 

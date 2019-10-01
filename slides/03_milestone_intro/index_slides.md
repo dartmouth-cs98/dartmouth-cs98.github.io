@@ -19,68 +19,38 @@ name: base
 .title[{{name}}]
 
 
+---
+name: CS98 Today
+
+
+* paper presentations
+* [https://tinyurl.com/cs98-19f-papers](https://tinyurl.com/cs98-19f-papers) 
+
 
 ---
-name: Mile Stones!
+name: MileStones!
 
-.medium_small[![](img/finalproject.jpg)]
+<!-- .medium_small[![](img/finalproject.jpg)] -->
 
-* last 3 weeks of class
-* projects from scratch
-  * libraries, frameworks, apis of course
-* required components
-
-
+* Pitches (10/3, 10/7)
+  * shared google slides
+* Groups Form, State Of The Art Research (10/8, 10/10)
+* Personas/Features (10/15)
+* Mockups/Scaffolding (10/22)
+* Data/Component Wiring Sprint 1 (10/27)
+* Sprint 2 (11/3)
+* Sprint 3 (11/10)
+* Sprint 4 (11/17)
+* Technigala Demos (11/19)
 
 
 ???
-* required components:
-  * client and server
-  * data persistence - basic create retrieve update delete
-  * some reasonable complexity
-
-
----
-name: Final Projects!
-
-* previous final projects:
-  * snapchat desktop clone
-  * group.me realtime event planner
-  * pong game finder/planner
-  * virtual tour guide (mobile, fb messenger, admin portal)
-  * lost and found app
-  * airbnb for parking spaces
-  * hackathon communication and planning platform
-
-
-
-
-???
-* a couple groups went all out and build both a react-native app and a web app
-
-
----
-name: Dates:
-
-* Pitch Sign-Up (4/30)
-* Pitch Presentation (5/4)
-* Feature Spec + Mockups (5/9)
-* Scaffolding (5/14)
-* Dev Site Up (client+server) (5/18)
-* Pre-demo Bug Hug (5/25)
-* Final Project Demos (5/30)
-* Final Submission (6/5)
-
-
-???
-* trying so that we have plenty of time for This
-* start thinking about ideas,  talk to me about scope
-
+* demos are of MVP, most critical functionality - does not need things like login etc
 
 
 
 ---
-name: Pitch Sign-Up
+name: Pitch Deck
 
  .fancy.medium[![](http://i.giphy.com/IH3ZwYeR9AlP2.gif)]
 
@@ -99,10 +69,9 @@ name: Pitch Presentations
 
  .fancy.medium[![](http://i.giphy.com/nldqZAXfXH6I8.gif)]
 
-* 2 minute MAX presentation with 2 minutes Q&A
+* 3 minute MAX presentation with 2 minutes Q&A
 * can do in pairs if you want
-* groups (of 5) formed by ranking favorite ideas
-* also who you prefer working with
+* [milestone](../../project/milestones/pitches)
 
 ???
 * A 2 minute presentation with 2 minutes of Q&A to pitch your idea to the class
@@ -112,9 +81,23 @@ name: Pitch Presentations
 
 
 
-
-
 ---
+name: Next Up
+
+* Thursday: 
+  * [pitches round 1](../../project/milestones/pitches)
+  * hack sharing
+* Monday: 
+  * [pitches round 2](../../project/milestones/pitches)
+
+???
+* two opportunities - lets try thursday if not many then monday during xhour to continue
+
+
+<!-- 
+
+
+
 name: Feature Spec + Mockups
 
  .fancy.medium[![](http://i.giphy.com/13NR9a0aYuYMy4.gif)]
@@ -134,7 +117,6 @@ name: Feature Spec + Mockups
 
 
 
----
 name: Scaffolding
 
  .fancy.medium[![](http://i.giphy.com/GWbMbUysgsIda.gif)]
@@ -153,7 +135,6 @@ name: Scaffolding
 
 
 
----
 name: Dev Site Up (client+server)
 
  .fancy.medium[![](http://i.giphy.com/IU9JNuUSmxZTy.gif)]
@@ -170,7 +151,6 @@ name: Dev Site Up (client+server)
 
 
 
----
 name: Pre-Demo Bug Hunt
 
 <iframe src="//giphy.com/embed/VBVY9IJKDxwHK?hideSocial=true" width="242.8571428571429" height="380" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
@@ -188,7 +168,6 @@ name: Pre-Demo Bug Hunt
 
 
 
----
 name: Final Project Demos
 
  .fancy.medium[![](http://i.giphy.com/p9O75RBS946He.gif)]
@@ -200,4 +179,4 @@ name: Final Project Demos
 ???
 * Final presentation of project. Open to public.
 * Motivate the idea, show it in action, discuss challenges
-* will be in hanover inn ballroom!
+* will be in hanover inn ballroom! -->

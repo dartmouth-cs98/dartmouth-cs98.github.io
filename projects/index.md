@@ -26,13 +26,15 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 - [ ] Milestone: [Share A Paper](milestones/paper-presentation)<br>
 - [ ] Milestone: [Hack-a-thing-2](milestones/hack-a-thing-2)
   - *in pairs*
-- [ ] Share Interviews
 - [ ] Share Hack-A-Thing-1
 
 **Week 3**:<br>
   Idea week and Group Formation.
 
 - [ ] Share Hack-A-Thing-2
+- [ ] Share Interviews
+- [ ] Milestone: [Pitch Round 1](milestones/pitches)
+
 
 - [ ] In Class: [Group Dynamics Worksheet](milestones/group-dynamics-worksheet)
 - [ ] In Class: [First Team Worksheet](milestones/first-meeting)

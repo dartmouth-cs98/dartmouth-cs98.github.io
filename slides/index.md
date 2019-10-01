@@ -10,7 +10,9 @@ permalink: /slides/
 * [Idea Generation](01_ideas/)
 * [Hack-a-thing-1](02_hack-a-thing-1/)
 * [Interviews](02_interviews/)
+* [Paper Sharing, Milestone Intro](03_milestone_intro/)
 
+<!-- * [Pitch Intro](02_pitch_intro/) -->
 
 <!-- * [milestone intro](02_milestone_intro/) (nah)-->
 
