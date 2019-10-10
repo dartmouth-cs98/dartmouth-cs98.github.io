@@ -27,9 +27,12 @@ name: CS98 Teams
 
 
 ???
-* teams have been formed - lots of complex spreadsheets 
-
-
+* teams have been formed - lots of complex spreadsheets
+* couple of comments:
+* don't be sad if your idea didn't get enough votes to qualify - you got it out there and still have an opportunity to change the minds of your teammates - this is just a starter
+* short window during which we can shuffle around teams - arrange your own swaps or talk to me if you want to move.  most teams of 4 or 5 but we could do up to 6 and in special cases down to 3 - talk to me if that is the case
+* this part is always challenging and we tried to take into account your project preference first - then people preferences - and i even read through your 'what i want to get out of this class responses from the registration form"
+* if your team has an asterisk - come talk to me after this
 
 
 
@@ -38,14 +41,9 @@ name: What is it we are building?!
 
 .medium.fancy[![](img/ideas.gif)]
 
-<!-- .medium.fancy[![](img/thats-okay.gif)] -->
-
 
 ???
-* refining our plans!
-
-
-
+* next week or so will be about figuring out more specifics - narrowing down problem statement etc
 
 
 
