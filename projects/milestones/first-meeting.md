@@ -28,7 +28,7 @@ Create this as a wiki page titled `First Team Meeting Worksheet` in github.
 
 
 ## I. Identify a Common Vision
-*You’ve all voted for some common themes and ideas. Now is the time to work through your commonalities and find a unifying vision between all of you. Answer the following for each of you.  This is the time to speak your mind.  Be honest with each other.*
+*You’ve all voted on a common idea and themes. Now is the time to work through your commonalities and find a unifying vision between all of you. Answer the following for each of you.  This is the time to speak your mind.  Be honest with each other.*
 
 ### Commonalities
 *Who makes up your team?  What are some common things you are interested in? Tell each other about the things you put down on the survey and expand on some of your passions.*
@@ -80,20 +80,18 @@ Create this as a wiki page titled `First Team Meeting Worksheet` in github.
 
 
 ## III. Survey the State of the Art
-*Do some research — this is an ongoing but do some now all together to get started. Try to find what else is out there that is similar, either products, or technical papers that are related.*
+*Do some research — this will be fleshed out further in a full milestone but do some now quickly all together to get started. Try to find what else is out there that is similar, either products, or technical papers that are related.*
 
 
 ### Similar Goals
-*Are there others working to achieve similar goals? List them.*
+*Are there others working to achieve similar goals?*
 
 ### Differences
 *How is your approach different/better than the state of the art?*
 
 ### Inspiration
-*Are there any existing products/techniques.research, that we could, by analogy, draw inspiration from?*
+*Are there any existing products/techniques/research, that we could, by analogy, draw inspiration from?*
 
-## IV. Iterate
-*If any of the state of the art research brought up questions or warrants further investigation — mention that here and then keep iterating.*
 ```
 
 

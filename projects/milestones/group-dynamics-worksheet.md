@@ -2,7 +2,7 @@
 layout: page
 title: Group Dynamics Worksheet
 published: true
-author: Kate
+author: Kate Salesin
 ---
 
 ![](img/successville.gif){: .fancy .medium}

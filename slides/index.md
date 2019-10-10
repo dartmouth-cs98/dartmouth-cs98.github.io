@@ -17,6 +17,7 @@ permalink: /slides/
 <!-- * [milestone intro](02_milestone_intro/) (nah)-->
 
 <!--  idea pitches and paper sharing -->
+* [First Team Meeting](03_first-team-meeting)
 <!-- * [Refining Ideas](04_user-personas) -->
 <!-- * [Design](04_design) -->
 <!-- * [Design Feedback](05_design_feedback) -->
