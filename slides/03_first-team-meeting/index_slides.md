@@ -98,7 +98,7 @@ name: TODOs:
 * 1: [First Team Meeting Worksheet](../../projects/milestones/first-meeting)
 * 2: [Group Dynamics Worksheet](../../projects/milestones/group-dynamics-worksheet)
 * next: [State of the Art Research](../../projects/milestones/project-research)
-
+* (github classroom links to start first team repo)
 
 ???
 * get to know your team
