@@ -20,6 +20,17 @@ name: base
 
 
 
+---
+name: CS98 Teams
+
+.medium.fancy[![](img/algo.jpg)]
+
+
+???
+* teams have been formed - lots of complex spreadsheets 
+
+
+
 
 
 ---
