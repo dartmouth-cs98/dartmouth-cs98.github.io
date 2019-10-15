@@ -79,7 +79,7 @@ Go through ZenHub and organize!
     * Close issues that are old or deprecated. 
 1. 🚀Enter in any bugs that you currently have:
     * create new issues (select the appropriate repo "Create in ..." if associated with a particular repo).
-    * label them with a <span style="color: red;">🐛bug</span> label
+    * label them with a <span style="color: red;">🐛bug</span> label [*(create new labels)*](https://help.github.com/en/articles/creating-a-label)
     * you can break them down further with:
         * <font style="color:red">[ 🔥 blocker]</font>
         * <font style="color:orange">[ ❗️important]</font>

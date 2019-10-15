@@ -9,7 +9,7 @@ published: true
 
 This will be a short document outlining your plans for the project.
 
-Your project proposal describes the concept and core components of your project. This is not contractual, and we'll remain agile as we work. However, it is helpful to get all your thoughts down and to choose a direction. Remember, testable MVP 6 weeks from now! 
+Your project proposal describes the concept and core components of your project. This is not contractual, and we'll remain agile as we work. However, it is helpful to get all your thoughts down and to choose a direction. Remember, testable MVP of your core features by the end of the term is our goal!
 
 You should craft this together as a team, preferably during an in person meeting. 
 
@@ -20,9 +20,9 @@ We will dive deeper into figuring out specific features in [Feature Spec](featur
 
 ```markdown
 # ProjectName Proposal
-### Team Members | CS98 19W
+### Team Members | CS98 19F
 
-![](Insert a URL for a Team Photo from your meeting here)
+![insert a team photo here](http://url/to/team/photo.jpg)
 
 ## Problem Statement
 *What is the problem you are aiming to solve? This is not the solution, that goes later.*
@@ -43,7 +43,7 @@ We will dive deeper into figuring out specific features in [Feature Spec](featur
 *What are your ultimate success metrics? This could be changing one person's life for the better, or getting 1k downloads, or some performance threshold.* 
 
 ## Minimum Viable Product (MVP)
-*Briefly describe your MVP features. Don't get bogged down in details, this should be a very terse list (~3). What is the critical thing your product needs to do to be special.*
+*Briefly describe your MVP features. Don't get bogged down in details, this should be a very terse list. What is the critical thing your product needs to do to be special? Build this from your User Personas.*
 
 ## Validation 
 *Explain how you plan to test/validate your product. Propose a term 1 and a term 2 validation idea. This can be different things depending on your project: user testing, or usage analytics, or performance characteristics. It can be done via surveys or in product analytics, or other performance measurements.*

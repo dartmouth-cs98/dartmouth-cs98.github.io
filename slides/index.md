@@ -11,20 +11,15 @@ permalink: /slides/
 * [Hack-a-thing-1](02_hack-a-thing-1/)
 * [Interviews](02_interviews/)
 * [Paper Sharing, Milestone Intro](03_milestone_intro/)
-
 <!-- * [Pitch Intro](02_pitch_intro/) -->
-
 <!-- * [milestone intro](02_milestone_intro/) (nah)-->
-
 <!--  idea pitches and paper sharing -->
 * [First Team Meeting](03_first-team-meeting)
-<!-- * [Refining Ideas](04_user-personas) -->
+* [Refining Ideas](04_user-personas)
 <!-- * [Design](04_design) -->
 <!-- * [Design Feedback](05_design_feedback) -->
 <!-- * [GitHub Pull Requests](05_github-prs) -->
 <!-- * [Code Review Intro](07_code_review/) -->
-
-
 
 <!-- ### 98.02 19F -->
 <!-- * [Welcome 19f](20_welcome/) -->

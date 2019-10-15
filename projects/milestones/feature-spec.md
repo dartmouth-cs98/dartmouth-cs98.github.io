@@ -11,11 +11,11 @@ published: true
 
 The feature spec is a document that is a walk-though of your project from the users perspective. It provides a listing of all the features you are envisioning for the product. The feature spec functions as your overall plan for the project. Rather than thinking about it as locking you in, this is an opportunity to think through your product in detail. Think of it as a living document, don’t be afraid to change it later as your ideas about the project mature. It does not need to be an exhaustive document. Joel Spolsky (of Stackoverflow and more recently Trello) has a nice writeup of the why and how of specs here: [joelonsoftware](http://www.joelonsoftware.com/articles/fog0000000035.html) and here's some great general [tips on feature specs](https://medium.com/dali-lab/9-ideas-for-more-useful-feature-specs-7ca5c679ca3c). 
 
-For our needs — the feature spec will be listing of what you think you need to build this term to be able to prove out your idea. 
+**However**, for our needs — the feature spec will be much simpler: a listing of what you think you need to build this term to be able to prove out your idea. 
 
 ## Another document?
 
-Nope! 
+**Nope!**
 
 Rather than creating a separate document for this — we're going to use [ZenHub](https://www.zenhub.com/)!  Wait what is this ZenHub thing?! Not another tool!  ❌
 
@@ -77,7 +77,7 @@ If none of the above made sense, don't worry, it will once you start assigning e
 
 🚀 During a team meeting, plan out a development strategy with general feature milestones. Identify minimum viable product (MVP) features and optional stretch goals. Create a list of features that are needed to be able to do some product validation. Remember, at the end of the term you'll need to show something that is testable and viewable by a public audience.
 
-Rather than creating a separate doc and porting things over — who needs the duplicate work 🤦‍ - we'll skip that step and jump right in.  Similarly to how you made your User Personas into GitHub Issues, we'll be using GitHub to track your main features. 
+Rather than creating a separate doc and porting things over — who needs the duplicate work 🤦‍ - we'll skip that step and jump right in.  Similarly to how you made your [User Personas](user-personas) into GitHub Issues, we'll be using GitHub to track your main features. 
 
 ## Create Epics
 
@@ -87,13 +87,15 @@ Once you've set yourself up with ZenHub - simply follow these steps to create an
 
 1. Go to **NEW ISSUE** in ZenHub.
 1. Title is your feature name. Things like: "robot can drive from point a -> point b", "display list of posts stored in db".  Again these are big ticket features - not individual tasks.
-1. Description - put in as much of a description as you want to make it clear what this is.
+1. Description - put in as much of a description as you want to make it clear what this is. Ideally you would follow a [User Story driven template](https://www.zenhub.com/blog/how-to-use-epics-and-milestones/) such as: `As <user persona x>, I want to <do task y> so I can <accomplish goal z>`.  Since your personas are issues you can link even [link them in](https://help.github.com/en/articles/autolinked-references-and-urls) if you want by simply mentioning the issue number `#2`.
 1. Label it:
   * <font style="color:red">[ 🔥 primary feature]</font>
   * <font style="color:orange">[ 💼 secondary feature]</font>
   * <font style="color:lightblue">[ 🏹 stretch feature]</font>
 1. Estimate. Give it an guesstimate of effort 1-40 (1 person hour-ish).
-1. Click: **Create an Epic**
+1. Click: **Create an Epic** *(for now you don't need to assign any subtasks)*
+
+![](img/epics1.jpg){: .medium}
 
 
 ### <font style="color:red">[ 🔥 primary feature]</font>
@@ -107,8 +109,7 @@ These are features that make the product more usable, but can be hacked around i
 ### <font style="color:lightblue">[ 🏹 stretch feature]</font>
 
 Self explanatory. Things not quite critical but would be really cool.
-
-
+s
 ## How Many?
 
 There is no rule about how many features you should have. It should make sense for your product. 
@@ -117,3 +118,5 @@ There is no rule about how many features you should have. It should make sense f
 ## To Turn In:
 
 * ZenHub URL with Epics filter turned on.
+
+![](img/epic-filter.jpg){: .medium_small}
