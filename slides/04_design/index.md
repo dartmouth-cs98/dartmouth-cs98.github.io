@@ -1,6 +1,6 @@
 ---
 layout: page_with_slides
-title: Ideas and Design
+title: Mockups and Data Models
 published: true
 ---
 

@@ -21,7 +21,7 @@ name: base
 
 
 ---
-name: Design
+name: Mockups and Data Models
 
 .fancy.medium_small[![](https://media.giphy.com/media/povenlBAIz14s/giphy.gif)]
 
@@ -55,7 +55,7 @@ name: But I just want to code!!
 
 
 ---
-name: Step 1: Inspiration Board
+name: Step 0a: Inspiration Board
 
 * find examples of similar products
 * take screenshots / save urls
@@ -71,7 +71,21 @@ name: Step 1: Inspiration Board
 
 
 ---
-name: Step 2: Sketches
+name: Step 0b: Imitate / Steal / Use DesignKits
+
+<!-- .fancy.medium[![good vs bad design](img/goodvsbad.png)] -->
+.fancy.medium[![design kits](img/components.gif)]
+* https://dribbble.com/
+* https://blog.prototypr.io/design-for-programmers-d38c56982cd0
+* https://www.awwwards.com/web-design-trends-for-2017.html
+* https://www.figma.com/resources/assets/
+
+???
+* best form of flattery is imitation
+* design kits are the best
+
+---
+name: Step 1: Sketches
 
 * paper is best
 * quickly jot down views and functionalities
@@ -85,7 +99,7 @@ name: Step 2: Sketches
 * we'll try to get to that today
 
 ---
-name: Step 3: Mockups
+name: Step 2: Mockups
 
 * with inspiration and sketches
 * start on mockups ([Figma](http://figma.com))
@@ -121,11 +135,10 @@ name: No UI? No problem!
 
 
 ---
-name: Step 4: Functional Mockups
+name: Step 3: Functional Mockups
 
 * put mockups together
 * build with [Figma](https://help.figma.com/article/199-getting-started-with-prototyping)
-* for paper sketches use: [MarvelApp PopPaper](https://marvelapp.com/pop/)
 
 .fancy.medium[[![figma prototyping](img/proto-figma-2.gif)](https://help.figma.com/article/199-getting-started-with-prototyping)]
 
@@ -185,7 +198,7 @@ name: Hierarchy
 
 
 ---
-name: More Principles
+name: More Visual Design Principles
 
 
 <div id="" style="overflow:scroll; height:400px;">
@@ -241,38 +254,76 @@ name: Flux Express
 * you chose blue for a restaurant site because you like blue
 * but blue isn't appetizing - they rebranded multiple times
 * it looks clean - until you realize you're supposed to order food
+* these guys turned into orchard systems and had a successful exit and are now retired at the age of 24 - CTO also ended up loving design work and endlessly fiddled with created logos etc
 
 
+
+
+
+---
+name:  Sketch: Generate Options
+
+
+.fancy.medium[![](../../projects/milestones/img/papersketch.png)]
+
+* assignment: [http://cs98.me/projects/milestones/mockups-models](http://cs98.me/projects/milestones/mockups-models)
+* decide which **(2-5) main features** you will sketch that are essential to your product
+* thick markers, paper
+* **5 minutes of individual sketching per feature**
+* compare sketches and create group versions
+* Aim for **2-3 versions per feature**.
+
+???
+* the thicker the marker, the more you force yourself to keep the designs at a conceptual level 
+* Include little or no specific content
+* Drop any worries about scale, straight lines, grids, etc.
+* Think in flows whenever possible (what pages come after?)
+* Never settle for your first idea!
 
 
 ---
-name: Make or Break
+name:  Mockups: Figma
 
 
-.fancy.medium[![sad chat](img/sadchat.jpeg)]
+.fancy.medium_small[![](img/figma.gif)]
 
-* [drop in users](https://techcrunch.com/2018/05/01/snapchat-reredesign/)
+* vector drawing
+* design kits
+* prototyping
+* animation
+* collaboration
+* engineering blog
+
 
 ???
-* i always found the hidden slides to be confusing but changing things once people get used to it is even worse
-* just announced snapchat originals or some such bullshit to lure back lost users
+* upload sketches here
+* create designs here
+* read their engineering blog
 
 ---
-name: resources
+name:  Data Models
 
-.fancy.medium[![good vs bad design](img/goodvsbad.png)]
 
-lots of resources out there
-
-* [cs52.me/workshops/design](http://cs52.me/workshops/design)
-* https://dribbble.com/
-* https://blog.prototypr.io/design-for-programmers-d38c56982cd0
-* http://www.cssdesignawards.com/
-* https://www.awwwards.com/web-design-trends-for-2017.html
+```javascript
+user: {
+  id,
+  name,
+  bday,
+  favorite_animal
+},
+post: {
+  author: user.id,
+  title,
+  date,
+  content,
+  image_url
+}
+```
 
 ???
-* best form of flattery is imitation
-
+* a place to get started - but also to keep updated as you work on this
+* record some of your thoughts on the data structures / serialization you'll need
+* or if you don't have data models - put down some idea
 
 
 ---
@@ -302,42 +353,14 @@ name: NEXT Scaffolding
 * going to be a bit of a rush to get to MVP for demos
 
 
----
-name: NEXT week: Wiring
 
-.fancy.small[![](http://i.giphy.com/3o6MbnG1lpwIf5stB6.gif)]
+---
+name: Today: Plan, Build, Discuss, Sketch
+
+.fancy.small[![](img/dazzle.gif)]
 
 ???
-* wiring together for a deep test
-* data front to back - any serious computational components wired in
+* today - work on plans if you haven't finished yet, discuss stuff, plan stuff, draw stuff
+* if you want feedback ask me or Kizito
 
 
----
-name:  Sketch Time Step 1: Generate Options
-
-
-.fancy.medium[![](../../projects/milestones/img/papersketch.png)]
-
-* assignment: [http://cs98.me/projects/milestones/mockups-models](http://cs98.me/projects/milestones/mockups-models)
-* which **(2-5) main features** you will sketch that are essential to your product
-* thick markers, paper
-* **5 minutes of individual sketching per feature**
-* compare sketches and create group versions
-* Aim for **2-3 versions per feature**.
-
-???
-* the thicker the marker, the more you force yourself to keep the designs at a conceptual level 
-* Include little or no specific content
-* Drop any worries about scale, straight lines, grids, etc.
-* Think in flows whenever possible (what pages come after?)
-* Never settle for your first idea!
-
-
----
-name:  Sketch Time Step 2
-
-
-.fancy.medium_small.left[![](../../projects/milestones/img/popapp-prototype-animation.gif)]
-
-* Put in [Pop Paper](https://marvelapp.com/pop/)
-* Test User Flow
