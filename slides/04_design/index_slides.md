@@ -362,5 +362,6 @@ name: Today: Plan, Build, Discuss, Sketch
 ???
 * today - work on plans if you haven't finished yet, discuss stuff, plan stuff, draw stuff
 * if you want feedback ask me or Kizito
+* I'd like to make **SCAFFOLDING DUE tuesday - think we can pull that off? **
 
 
