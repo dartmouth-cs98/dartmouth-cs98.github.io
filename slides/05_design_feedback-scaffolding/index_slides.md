@@ -109,6 +109,9 @@ name: Feedback Partners
 
 ???
 * is graded - want to see comments from each of you :-) 
+* we'll do for first 45 min or so then you can work on scaffolding etc
+* please put your heart into helping your feedback partner / discussion
+* you are also welcome to get some feedback on your scaffolding plan with them if you want or your idea or your user persona - they can create a github issue instead we should all have access to each others repos
 
 
 
