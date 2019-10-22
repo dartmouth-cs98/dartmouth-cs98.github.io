@@ -64,14 +64,19 @@ Here's a template for what to add every week:
 You'll update this weekly during your sprint transitions! 
 
 
-## Planning
+
+## Planning / Rake Your ZenHub Garden
 
 Now plan out your next steps.  Add in *New Issues*, sort them into *IceBox* and *Backlog*.  Assign at least 4 issues per person.
 
-**4 issues?!?!**
+During this step you should follow the [Rake Your ZenHub Garden](wiring-start-sprint#rake-your-zenhub-garden) steps. You'll do this every week.
 
-Well yes, there is no other milestone other than making progress. If every issue takes 2 hours (a nice casual sitdown work session), then there are you are at 8 hours. That leaves a few hours for things taking a bit longer to do / team meetings and discussions.
-
+1. 🚀**Create New Sprint Milestone**
+1. 🚀**New Bugs**
+1. 🚀**Update Epics**
+1. 🚀**New Subtasks**
+1. 🚀**Process All Issues**
+1. 🚀**Assign Subtasks**
 
 
 ## Keep up the good work, you're all rockstars

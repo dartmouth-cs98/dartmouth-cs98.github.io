@@ -56,15 +56,13 @@ name: Heart
 
 
 ---
-name: Heart
+name: Empathize
 
-.fancy.medium_small[![](img/icare.gif)]
+.fancy.small[![](img/icare.gif)]
 
 
 ???
 * empathy with the user persona
-
-
 
 ---
 name: Heart
@@ -73,18 +71,19 @@ name: Heart
 
 
 ???
-* also - onboarding flow
+* also - think onboarding flow
+* when you try out someones figma (or product) do you get it right away?  be a critical thinker - question assumptions even if you got a good verbal intro into the project - does it make sense to you?
 
 
 
 ---
-name: Divide and Conquer
+name: Keep users in mind
 
 .fancy.medium_small[![](img/pretend.gif)]
 
 
 * ask for and give project brief
-* remember to mention who target audience is
+* share user personas and who the target audience is
 * act the part
 * empathize
 * get into it
@@ -136,10 +135,9 @@ name: Next, planning our first sprint
 
 .fancy.small[![](../../projects/milestones/img/rocks.gif)]
 
-* readme.md
-* starter code for every part of project
-* hello world from client, server, etc
-* github pull request flow -> zenhub issue
+* Will do Thursday in class
+* Sprint retrospectives generally to be due every Sunday night
+* General idea is connect your components (client <-> server <-> db) - can get started on that early if you want. 
 
 ???
 *
