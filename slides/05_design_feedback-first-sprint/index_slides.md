@@ -64,15 +64,6 @@ name: Empathize
 ???
 * empathy with the user persona
 
----
-name: Heart
-
-.fancy.medium[![](img/pretentyoucare.gif)]
-
-
-???
-* also - think onboarding flow
-* when you try out someones figma (or product) do you get it right away?  be a critical thinker - question assumptions even if you got a good verbal intro into the project - does it make sense to you?
 
 
 
@@ -90,6 +81,19 @@ name: Keep users in mind
 
 ???
 *
+
+
+---
+name: Pretend
+
+.fancy.medium[![](img/pretentyoucare.gif)]
+
+
+???
+* also - think onboarding flow
+* when you try out someones figma (or product) do you get it right away?  be a critical thinker - question assumptions even if you got a good verbal intro into the project - does it make sense to you?
+
+
 
 
 
@@ -116,33 +120,52 @@ name: Feedback Partners
 
 
 ---
-name: Scaffolding
-
-.fancy.left[![](img/microservice.png)]
-.fancy.right[![](img/gitflow.png)]
-
-.right[
-* readme.md
-* starter code for every part of project
-* hello world from client, server, etc
-* github pull request flow -> zenhub issue
-]
-
-???
-* due thurs
-
-
----
-name: Next, planning our first sprint
+name: Planning our first sprint
 
 
 .fancy.small[![](../../projects/milestones/img/rocks.gif)]
 
-* Will do Thursday in class
-* Sprint retrospectives generally to be due every Sunday night
-* General idea is connect your components (client <-> server <-> db) - can get started on that early if you want. 
+* Sprint retrospectives are due every Sunday night (2AM Monday)
+* Idea for this first one is to connect your components (client <-> server <-> db)
 
 ???
 *
 
+
+---
+name: Create a Milestone
+
+.fancy.left[![](img/milestones1.jpg)]
+.fancy.right[![](img/milestone2.jpg)]
+
+???
+* milestones are by time - weeks
+* epics are by subject - features
+
+---
+name: Rake Your ZenHub Garden 🌻
+
+
+1. **Create a new sprint milestone**
+1. **New Bugs**
+1. **Enter Feedback**
+1. **Update Epics**
+1. **New Subtasks**
+    * create new issues
+    * label them
+    * assign a time estimate
+1.  **Process All Issues**
+    * *Icebox*
+    * *Backlog* 
+    * *In Progress*
+    * no unsorted *New Issues*.
+    * update time estimates
+1. **Assign Subtasks**
+
+
+???
+* i know there's a lot of text in the milestone... but its not rockets science - you just have to maintain a current sprint and issues that are sorted
+* as the week goes you can add issues into the new issues pile and wait until the retrospective to sort them out
+* each subtask is one code session or thereabouts
+* using milestones will give you a way to group your weekly tasks even when the are just parts of epics - remember epics are for long feature - milestones group tasks by week - so you can see the progress you are making 
 

@@ -95,7 +95,7 @@ Go through ZenHub and organize! This is a generalized process to follow every we
     * *Backlog* if they are something to work on **this week**.
     * *In Progress* for the specific tasks you are currently working on - should be around 1 per person at any given time.
     * You should end with no unsorted *New Issues*.
-    * Close issues that are old or deprecated.
+    * Close issues that are old or deprecated - make sure you update estimate to an actual time taken when you close.
 1. 🚀**Assign Subtasks**:
     * take at least 4 issues per person that fit with the goals of this week and assign them to this weeks milestone - and assign each to a person on your team.  Each subtask is ideally assigned to only 1 person - split them up further if multiple people are working on them.
     * now you'll be able to track progress toward the milestone!  and get graded on it! 🏄

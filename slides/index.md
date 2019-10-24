@@ -17,7 +17,8 @@ permalink: /slides/
 * [First Team Meeting](03_first-team-meeting)
 * [Refining Ideas](04_user-personas)
 * [Getting Started on Design](04_design)
-* [Design Feedback](05_design_feedback-scaffolding)
+* [Scaffolding Intro](05_scaffolding)
+* [Design Feedback](05_design_feedback-first-sprint)
 <!-- * [GitHub Pull Requests](05_github-prs) -->
 <!-- * [Code Review Intro](07_code_review/) -->
 
