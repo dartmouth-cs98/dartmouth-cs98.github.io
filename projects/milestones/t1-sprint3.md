@@ -25,7 +25,7 @@ This is a good time to get immediate feedback as well — so try the features ou
 
 Have a time to discuss what is working and what isn't.  Include a summary of this when you submit this!
 
-🚀 Create a wiki page:  Sprint Retrospectives
+🚀 Add to your Sprint Retrospectives Wiki Page
 
 Here's a template:
 
@@ -58,6 +58,50 @@ You'll update this weekly during your sprint transitions!
 At this point, you should basically be all set for demos!  
 
 Kidding, but seriously, this week you come up with a plan for what your demo will look like and work towards making sure you can execute it. You should plan on having a fully testable prototype by the end of this sprint!
+
+<!-- 
+
+During the expo you will present your work to various people, including your instructor. As a heads up, for the grading part what we'll be looking for:
+
+* During DEMO:
+  * Verbal project pitch and user onboarding.
+    * verbal pitch should be 1 minute tops.
+    * purpose of the product motivated
+  * Testing questions prepared / notes taken
+  * How much of the MVP functionality was functional
+  * Was the primary critical functionality testable
+* Online Submission:
+  * collaborative coding (usage of PRs/issues)
+  * overall difficulty rating of what you attempted
+  * user testing summary and debrief
+    * with some data analysis
+    * observations recorded
+    * insights/conclusions
+  * readmes current with environment setup
+
+# Term 1 Demos Feature Prioritization
+
+## Critical Features
+
+* 🔥list of features from MVP (with due dates)
+* 🔥link each to github issue
+* 🔥start with what you had for your original feature spec and update
+
+## Secondary Features
+
+* 🍦 break out less important but would like to have features here (with potential due dates)
+
+## Non Critical
+
+* ⛔ identify features that don't need to be done this term here
+
+```
+
+## Signoff
+
+Each team will need to get instructor signoff on this. -->
+
+
 
 
 ## Planning / Rake Your ZenHub Garden

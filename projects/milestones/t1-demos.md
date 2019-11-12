@@ -5,11 +5,11 @@ published: true
 ---
 
 
-![](img/technigala19W.jpg){: .fancy .medium}
+![](img/technigala19F.png){: .fancy .medium}
 
 This is your final for the term and a public demo of the projects! Invite your friends, family, enemies, and randos!  There will be food and drinks!
 
-Demos are **Wednesday, March 6th, 6-8pm**. Please show up at **5:45pm** to set up your table (remember, this is your final!).  The event will be expo style - you will have a table with your project name and either a screen or a stand for a laptop to better demo your awesome projects. Come early to clean up your screens and set things up.
+Demos are **Tuesday, Nov 19th, 6-8pm**. Please show up at **5:45pm** to set up your table (remember, this is your final!).  The event will be expo style - you will have a table with your project name and either a screen or a stand for a laptop to better demo your awesome projects. Come early to clean up your screens and set things up.
 
 Be prepared to
 * Motivate the idea to a general audience (very brief intros, don't spend too much time talking)
@@ -29,7 +29,7 @@ You'll want to be able to observe and keep notes on how people use what you've b
 Here's some things you'll be graded on:
 
 * During DEMO:
-  * Verbal project pitch and user onboarding.
+  * Verbal project pitch and user on-boarding.
     * verbal pitch should be 1 minute tops.
     * purpose of the product motivated
   * Testing questions prepared / notes taken

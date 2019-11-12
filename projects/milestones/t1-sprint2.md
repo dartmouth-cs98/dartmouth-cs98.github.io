@@ -25,7 +25,7 @@ This is a good time to get immediate feedback as well — so try the features ou
 
 Have a time to discuss what is working and what isn't.  Include a summary of this when you submit this!
 
-🚀 Create a wiki page:  Sprint Retrospectives
+🚀 Add to your Sprint Retrospectives Wiki Page
 
 Here's a template:
 
