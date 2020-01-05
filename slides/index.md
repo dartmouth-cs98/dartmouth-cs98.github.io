@@ -5,25 +5,25 @@ permalink: /slides/
 ---
 
 
-### Part 1
-* [Welcome](00_welcome/)
-* [Idea Generation](01_ideas/)
-* [Hack-a-thing-1](02_hack-a-thing-1/)
-* [Interviews](02_interviews/)
-* [Paper Sharing, Milestone Intro](03_milestone_intro/)
-<!-- * [Pitch Intro](02_pitch_intro/) -->
-<!-- * [milestone intro](02_milestone_intro/) (nah)-->
-<!--  idea pitches and paper sharing -->
-* [First Team Meeting](03_first-team-meeting)
-* [Refining Ideas](04_user-personas)
-* [Getting Started on Design](04_design)
-* [Scaffolding Intro](05_scaffolding)
-* [Design Feedback](05_design_feedback-first-sprint)
-<!-- * [GitHub Pull Requests](05_github-prs) -->
-<!-- * [Code Review Intro](07_code_review/) -->
+### 98.01 20W
+<!-- * [Welcome](00_welcome/) -->
+<!-- * [Idea Generation](01_ideas/) -->
+<!-- * [Hack-a-thing-1](02_hack-a-thing-1/) -->
+<!-- * [Interviews](02_interviews/) -->
+<!-- * [Paper Sharing, Milestone Intro](03_milestone_intro/) -->
+<!-- EE* [Pitch Intro](02_pitch_intro/) -->
+<!-- EE* [milestone intro](02_milestone_intro/) (nah)-->
+<!-- EE idea pitches and paper sharing -->
+<!-- * [First Team Meeting](03_first-team-meeting) -->
+<!-- * [Refining Ideas](04_user-personas) -->
+<!-- * [Getting Started on Design](04_design) -->
+<!-- * [Scaffolding Intro](05_scaffolding) -->
+<!-- * [Design Feedback](05_design_feedback-first-sprint) -->
+<!-- EE* [GitHub Pull Requests](05_github-prs) -->
+<!-- EE* [Code Review Intro](07_code_review/) -->
 
-<!-- ### 98.02 19F -->
-<!-- * [Welcome 19f](20_welcome/) -->
+### 98.02 20W
+<!-- * [Welcome back!](20_welcome/) -->
 
 <!-- * [Code Review 2](22_code_review/) -->
 
