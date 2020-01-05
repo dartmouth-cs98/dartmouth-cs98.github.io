@@ -4,6 +4,11 @@ title: Dartmouth CS98
 ---
 
 
+<div markdown="1" style="text-align:center">
+![cs98 logo](assets/imgs/cs98%20logo.png){: .small}
+</div>
+
+
 # ORC Description
 Participation in a software engineering group project to meet a real-world need. Group members are responsible for all aspects of a software system, including iterative requirements analysis, design, implementation, and testing. The course also stresses customer interactions, documentation, process, and teamwork. The result is a software product of significant scope and significant benefit to a user base.
 
