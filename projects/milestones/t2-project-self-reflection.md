@@ -46,12 +46,11 @@ Start a wiki page titled:  `T2 Project Reflection and Next Steps Worksheet`
 
 
 ## Feedback
-*What feedback from last term do you think is relevant and interesting to incorporate. List your feedback and label them with how they stack up for your vision.*
+*What feedback from last term do you think is relevant and interesting to incorporate. List your feedback broadly and label them with how they stack up for your vision. These may already be in ZenHub but after this discussion they should be.*
 
 * [critical 🔥]
 * [stretch goal 🍦]
 * [rejected ⛔]
-
 
 
 #### Questions
@@ -66,7 +65,7 @@ Start a wiki page titled:  `T2 Project Reflection and Next Steps Worksheet`
 ## Vision
 *Refine your vision.*
 
-#### Feedback
+#### Feedback Analysis
 *How does the current feedback/user testing/progress change how you think about the direction of the project?*
 
 
