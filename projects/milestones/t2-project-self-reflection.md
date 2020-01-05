@@ -9,14 +9,13 @@ published: true
 
 <hr>
 
-
 The second term for your projects is going to be awesome. Now comes the fun part. You have working products, all the setup work is done — now you get to enjoy the fruits of your labors and add features, tweak and refine, make things look pretty, and ship the final product!
 
 But right now is also a good time to work out the future direction of the project.  You have some feedback, some bug reports, now what?  
 
-We'll start out the term with some self reflection about the project — to try to incorporate feedback from user testing and consider any pivots etc. You should do this with your whole team. 
+We'll start out the term with some self reflection about the project — to try to incorporate feedback from user testing and consider any pivots etc. This should be an in-person conversation that you have with your whole team.
 
-This is a markdown worksheet template that you should copy into your project github wiki and fill out. These are **starting points for discussion with your team**. Don't skimp on this.  We'll discuss it in person during next class. You need
+This is a markdown worksheet template that you should copy into your project github wiki and fill out. These are **starting points for discussion with your team**. Don't skimp on this.  We'll discuss it in person during next class.  
 
 Start a wiki page titled:  `T2 Project Reflection and Next Steps Worksheet`
 *(you can use [hackmd](https://hackmd.io) and then copy/paste into wiki)*

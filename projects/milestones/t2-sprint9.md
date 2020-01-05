@@ -37,7 +37,7 @@ Last retrospective!
 
 Have a time to discuss what is working and what isn't.  Include a summary of this when you submit this!
 
-🚀 Create a wiki page:  `Sprint Retrospectives Term 2` 
+🚀 Add to your `Sprint Retrospectives for Term 2` Wiki Page
 
 Here's a template for what to add every week:
 

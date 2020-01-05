@@ -6,16 +6,15 @@ published: true
 
 ![](img/hack-a-thing.gif){: .fancy .medium}
 
-## To Start
-
-* setup and clone a github repo using github classroom here: [https://classroom.github.com/g/hyGnTHEh](https://classroom.github.com/g/hyGnTHEh)
-* first person in your group to click the link above will provision the repo and name it
-* second person in your group should just click the link above also and select the proper group to be added to it
 
 
 ## Overview
-Similarly to [Hack-A-Thing-1](hack-a-thing-1), we'll spend a week hacking on some technology. You can either choose a new technology to try out or you can go deeper on what you were working on previously.  However, if you choose to dive deeper there is an expectation that the work is reasonably complex to justify two weeks of experimentation. Don't just brush this assignment off and follow some easy tutorial.  This is a chance to play around with something you've been curious about and share it with the rest of the class.  If you choose to keep hacking on the same thing as last week make sure to use git tag to mark it, and that you do enough on it to count. 
 
+Goal: Hack on something potentially related to your project
+
+Similarly to [Hack-A-Thing-1](hack-a-thing-1), we'll spend a week hacking on some technology. However, now you can either choose a new technology to try out that is more relevant to your project, or you can go deeper on what you were working on previously.  However, if you choose to dive deeper there is an expectation that the work is reasonably complex to justify two weeks of experimentation. Don't just brush this assignment off and follow some easy tutorial.  This is a chance to play around with something you've been curious about and share it with the rest of the class.  If you choose to keep hacking on the same thing as last week make sure to use git tag to mark it, and that you do enough on it to count. 
+
+If you already have a team and an idea — you should attempt to hack on something related to your idea.  Use this as an opportunity to brush up on needed skills, or to hack a small technology demo of some particular functionality.   Don't worry about merging it in later, these are standalone hacks, but they'll help you figure out how to do it better once you are implementing it for realz later.
 
 ## Using git tags
 
@@ -25,14 +24,13 @@ git tag hack-a-thing-1 #this will tag the current place you are at as hack-a-thi
 git push origin --tags
 ```
 
-
 ## Time Commitment/complexity
 
 You should plan to spend at least 10 hours on this. The workload of this course overall is at a minimum 10 hours a week — if you spend less your final product may suffer and you will make the world sad.
 
 ## Teams
 
-For this milestone you should work in pairs.This is also an opportunity to try to work with someone new or try out a working dynamic with someone you might want to work with later.
+For this milestone you should work in pairs. This is also an opportunity to try to work with someone new or try out a working dynamic.
 
 ## Build
 
@@ -41,6 +39,12 @@ Choose some technology and build a thing.  This can be as simple as finding a go
 ## Tutorials
 
 If you follow a tutorial or two just remember to acknowledge this fact in your README file.
+
+## To Start
+
+* setup and clone a github repo using github classroom here: [https://classroom.github.com/g/hyGnTHEh](https://classroom.github.com/g/hyGnTHEh)
+* first person in your group to click the link above will provision the repo and name it
+* second person in your group should just click the link above also and select the proper group to be added to it
 
 ## README
 

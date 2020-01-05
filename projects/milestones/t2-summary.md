@@ -35,7 +35,7 @@ Put this in a wiki page `Final Project Report` that looks like the following:
 ```
 
 ## Gifs
-Create several gifs of your product in action. These can be short - show some cool part of your product working. This will be displayed for posterity to inspire the next generation, so make them inspirational! and they are required! you don't need to highlight each individual feature - just your app in general. Future classes don't care that you have a login page - they do care to see what your product is all about.
+Create gifs of your product in action. These can be short - show some cool part of your product working. This will be displayed for posterity to inspire the next generation, so make them inspirational! and they are required! you don't need to highlight each individual feature - just your app in general. Future classes don't care that you have a login page - they do care to see what your product is all about.
 
 There are lots of gif making apps out there: [gif brewery](https://gfycat.com/gifbrewery), [giphycapture](https://giphy.com/apps/giphycapture), [screentogif](http://www.screentogif.com/)
 

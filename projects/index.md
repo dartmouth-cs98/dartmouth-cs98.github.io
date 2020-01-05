@@ -85,7 +85,7 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 <hr>
 
 ## Term 2 At a Glance
-During the second term we'll focus on specific weekly milestones that each team will create will less overall milestones.
+During the second term we'll focus on specific weekly milestones that each team will create, with fewer overall generalized milestones.  The goal of term 2 is to take feedback and inspiration from last term and incorporate and polish your product and push it further.  You should have a fully functional product by 
 
 **Week 1**:<br>
   We'll start out the term with some self reflection about the project — to try to incorporate feedback from user testing and consider any pivots etc.
@@ -110,8 +110,8 @@ During the second term we'll focus on specific weekly milestones that each team 
   - [ ] Milestone: [Close out Sprint 3, Evaluate and Plan Sprint 4](milestones/t2-sprint3)
   - [ ] Milestone: [Success Metrics and Validation Plan](milestones/t2-project-validation)
 
-**Week 5**:<br>
-  Midterm checkin to share out progress and things learned with the other teams.
+**Week 5 Alpha Release**:<br>
+  Alpha Release for midterm checkin to share out progress and things learned with the other teams and get feedback.
 
   - [ ] Milestone: [Close out Sprint 4, Evaluate and Plan Sprint 5](milestones/t2-sprint4)
   - [ ] Milestone: [Midterm Checkin 1](milestones/midterm-checkin)
@@ -121,31 +121,29 @@ During the second term we'll focus on specific weekly milestones that each team 
 
   - [ ] Milestone: [Close out Sprint 5, Evaluate and Plan Sprint 6](milestones/t2-sprint5)
 
-**Week 7**:<br>
-  Midterm checkin to share out progress and things learned with the other teams.
+**Week 7 Beta Release**:<br>
+  Beta Release for internal user testing.
 
   - [ ] Milestone: [Close out Sprint 6, Evaluate and Plan Sprint 7](milestones/t2-sprint6)
-  - [ ] Milestone: [Create Dog-Fooding Plan](milestones/dog-fooding)
-
+  - [ ] Milestone: [Dog Fooding](milestones/dog-fooding)
 
 **Week 8**:<br>
-  Work time and buddy team progress update.
+  Work on publishing the product, which can mean different things for the different projects:  Mobile App Store, or posting a "show HN" on HackerNews or Reddit, or sending out emails to potential users, etc.
 
   - [ ] Milestone: [Close out Sprint 7, Evaluate and Plan Sprint 8](milestones/t2-sprint7)
-  - [ ] Milestone: [Setup Dog-Fooding and analyze results](milestones/dog-fooding)
-
+  <!-- - [ ] Milestone: [Setup Dog-Fooding and analyze results](milestones/dog-fooding) -->
+  - [ ] Milestone: [Publishing](milestones/t2-publishing)
 
 **Week 9**:<br>
-  Come up with a plan for publishing the product and a go to market strategy.
-  In class session of breaking each others projects to reveal bugs and give last minute feedback.
+  MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Expo style. Open to public. Invite Everyone! 
 
   - [ ] Milestone: [Close out Sprint 8, Evaluate and Plan Sprint 9](milestones/t2-sprint8)
-  - [ ] Milestone: [Publishing](milestones/t2-publishing)
+  <!-- - [ ] Milestone: [Publishing](milestones/t2-publishing) -->
+  - [ ] Milestone: [FINAL DEMOS](milestones/t2-demos)
   <!-- - [ ] Milestone: [Pre-Final-Demo Bug Hunt](milestones/t2-final-bughunt) -->
 
 **Week 10**:<br>
   MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Expo style. Open to public. Invite Everyone! 
 
   - [ ] Milestone: [Close out Sprint 9!](milestones/t2-sprint9)
-  - [ ] Milestone: [FINAL DEMOS](milestones/t2-demos)
   - [ ] Milestone: [Final Project Submission](milestones/t2-summary)

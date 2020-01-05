@@ -36,14 +36,16 @@ git push origin --tags
 
 Have a time to discuss what is working and what isn't.  Include a summary of this when you submit this!
 
-🚀 Create a wiki page:  `Sprint Retrospectives Term 2` 
+🚀 Create a wiki page:  `Sprint Retrospectives for Term 2`
+<!-- 🚀 Add to your `Sprint Retrospectives for Term 2` Wiki Page -->
 
-Here's a template for what to add every week:
+
+Here's a template:
 
 ```markdown
 * Retrospective on Sprint #_: 
     * members in attendance:
-        ![selfie proof of meeting]()
+        ![selfie proof of meeting](http://url/to/image)
         - [x] Jasmine
         - [ ] Alladin
     * what worked well
@@ -65,6 +67,7 @@ You'll update this weekly during your sprint transitions!
 
 
 
+
 ## Planning / Rake Your ZenHub Garden
 
 Now plan out your next steps.  Add in *New Issues*, sort them into *IceBox* and *Backlog*.  Assign at least 4 issues per person.
@@ -81,8 +84,7 @@ During this step you should follow the [Rake Your ZenHub Garden](wiring-start-sp
 
 ## Keep up the good work, you're all rockstars
 
-![](img/notarockstar.gif){: .fancy .medium-small}
-
+![](img/rockstar.gif){: .fancy .medium-small}
 
 
 ## To Turn In:
