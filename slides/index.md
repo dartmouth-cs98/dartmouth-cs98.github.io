@@ -1,12 +1,12 @@
 ---
 layout: page
-title:
+title: ""
 permalink: /slides/
 ---
 
 
-### 98.01 20W
-<!-- * [Welcome](00_welcome/) -->
+# CS98.01 20W (term 1)
+* [Welcome](00_welcome/)
 <!-- * [Idea Generation](01_ideas/) -->
 <!-- * [Hack-a-thing-1](02_hack-a-thing-1/) -->
 <!-- * [Interviews](02_interviews/) -->
@@ -22,7 +22,7 @@ permalink: /slides/
 <!-- EE* [GitHub Pull Requests](05_github-prs) -->
 <!-- EE* [Code Review Intro](07_code_review/) -->
 
-### 98.02 20W
+# CS98.02 20W (term 2)
 <!-- * [Welcome back!](20_welcome/) -->
 
 <!-- * [Code Review 2](22_code_review/) -->

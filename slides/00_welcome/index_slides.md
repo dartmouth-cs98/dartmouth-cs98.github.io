@@ -63,13 +63,13 @@ name: etc
 
 .medium_small[![](img/tn8zWeNYA73G0.gif)]
 
-* 3B — 4:30-6:20pm
-<!-- * 3A - Mon 3:30-5:20 and Tues 4:30-6:20, LSC 200 -->
+<!-- * 3B — 4:30-6:20pm -->
+* 3A - Mon 3:30-5:20 and Tues 4:30-6:20, LSC 201
 * Mondays, discussion/activities
+<!-- * Tuesdays, discussion/activities -->
 * Thursdays, meeting time/sharing
 * x-hours
   * Mon 5:35 - 6:25pm, as necessary room available
-* 11/17 Carson61, 11/19 LSC200, after Fairchild 101
 
 ???
 * coding together
@@ -187,11 +187,14 @@ name: ZenHub
     </video>
 </div>
 
-* agile workflow 
-* more intro later - but specific "tickets" per person to coordinate work
+* agile workflow
+* similar to products such as Asana/Jira/Basecamp/Trello
+* integrated with GitHub - every ticket is an issue
+* specific work issues/tickets per person to coordinate work
 * mandatory, graded, **helpful**
 
-
+???
+* how many have used a task tracker such as Jira before?
 
 ---
 name: Grading
@@ -212,6 +215,7 @@ name: Grading
 
 
 ???
+* grading is somewhat vague at least to start - you get milestones but really its the final product quality that matters - rethinking even using canvas
 * will try to have individual meetings with each one of your - details to follow
 * may be adjusted slightly
 * your grade my vary based on individual contribution (combined metric effort+feedback+participation+github)
@@ -529,15 +533,14 @@ name: How do we get there?
 ---
 name: At a glance
 
-* Week 1: Interviews, Hack-a-thing
-* Week 2: Refine ideas, Hack-a-thing
-* Week 3: Form groups and select ideas
-* Week 4: Define project and scope and technologies
-* Week 5: Mockups, data models, codes started
-* Week 6: Code wired together, rudimentary functionality
-* Week 7: Code reviews
-* Week 8: Focus on critical/testable features
-* Week 9: MVP Demo Celebration
+* Week 1: Interviews, Hack-a-thing 1
+* Week 2: Share Papers, Pitch Ideas, Form groups
+* Week 3: Hack-a-thing 2, Define project and scope and technologies
+* Week 4: Mockups, data models, codes started
+* Week 5: Code wired together, rudimentary functionality
+* Week 6: Code reviews
+* Week 7: Focus on critical/testable features
+* Week 8: MVP Demo Celebration
 
 
 ???
@@ -857,12 +860,11 @@ name: start with: Interviews
 
 
 ---
-name: this week
+name: Inspo
 
 * Start an idea inspiration board.
-* **find a cool article or paper on tech/software/cs/problems in the world, that you want to share with the class**
-* **interview some people**
-* details to follow tonight
+* **find a cool article or paper on tech/software/cs/problems in the world, that you want to share with the class (for next week)**
+* **interview some people (for this week)**
 
 .left[![](img/bulb.gif)]
 .right[![](img/bulb2.gif)]
