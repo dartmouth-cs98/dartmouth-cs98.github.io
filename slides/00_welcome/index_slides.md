@@ -23,18 +23,18 @@ name: CS98
 
 ## Senior Design and Implementation Project I
 
-#### _the startup experience_<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^<font style="color:grey;font-style:italic;">founder</font>
+#### _the tech startup experience_<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^<font style="color:grey;font-style:italic;">founder</font>
 
 <br><br><br><br>
 
 *Tim Tregubov*
 
 ???
-* 2 terms long
+* what does that even mean?
 * a lot of you have had internships - working at a company
 * academic course project experience
 * but probably not a do your own startup experience
-* software dev best practice
+* from just an idea - to full product
 * will be about you so if you have ideas on how to improve just talk to me
 
 
@@ -57,6 +57,7 @@ name: Course Goals
 * so added rigor for complexity
 * then added rigor for idea - realized people needed to love it
 * the general point here is: you have half a year, don't fucking waste it on something you don't care about.
+* **in this class you have the freedom to choose to work on something you care about**
 
 ---
 name: etc
@@ -106,8 +107,8 @@ name: Code
 .small[![](img/giphy_cheating.gif)]
 
 * the internet is full of the codes
-* if (cite) { ~no penalty }
-* else { mandatory vacation }
+* `if (cite) { no penalty }`
+* `else { mandatory vacation }`
 
 ```javascript
 // adapted from: http://stackoverflow.com/someurl
@@ -150,7 +151,7 @@ name: Slack, Canvas
 * don't worry about me being in channels - i'm friendly and don't bite - here to help
 * honestly don't read unless you @mention me
 * and if problems come up later there's history and i'm aware of it
-* less of a prof, more of scrum manager (equally useless?) here to help guide you through an awesome building experience
+* **less of a prof, more of scrum manager (equally useless?) here to help guide you through an awesome building experience**
 
 
 
@@ -220,37 +221,30 @@ name: Grading
 * may be adjusted slightly
 * your grade my vary based on individual contribution (combined metric effort+feedback+participation+github)
 * weekly checkins will start once you have teams
-* will send out info about doing 1 goal setting meeting individually in the next couple of weeks for each of you
 * grumpier in my old age
-* warnings about last year
 * people have complained that project goals weren't clear and they were penalized about user experience issues
 * "didn't realize that there would be a focus on UX and whether the project was usable"
 * problem unless researchy or difficult then we can talk about pivoting / progress on solving the problem
-* again talk to me if things are unclear
+* again talk to me if things are unclear - but can't get away with slacking
 
 
 ---
 name: Survey
 
-<iframe src="https://dalilab.typeform.com/report/CTeb9I/JVBhNIjDat0IdlOC"  width="900" height="500" frameBorder="0" ></iframe>
+<iframe src="https://dalilab.typeform.com/report/QgAYvm/kS6HWM9RUXiTTMde"  width="900" height="500" frameBorder="0" ></iframe>
 
-???
+???s
 
 ---
 name: What you want, P1
 
-* main goal is to make something that I'm super excited about
-* Super excited to take the course!
-* I hope that I can build something that is **useful in real life**
-* I want to make a **project that has an impact**, somewhere on some field
-* I'm most interested in tech for social good! Something that has a **positive impact on the world**. OR something that **blends tech/data/art** in an interesting way.
-* hope is to build a **shippable and usable product**
-* I'd love to build something that people actually use
-* I just want to make something cool. Not really sure what that entails.
-* I want to **conceptualize and guide a product** from idea => MVP+ implementation!
-* Working on something that benefits a non-profit goal like education or public health would be even more rewarding.
-* I would like to build something around a business plan though - **a product that could actually be taken to market**.
-* I'm excited to **solve potential real world problems and hopefully have a fun group experience**!
+* I just hope for one more opportunity at Dartmouth to put together what I’ve learned and **end up with a cool product**
+* Would ultimately like **to do something which I'm very proud** which sounds corny but is true! 
+* whatever my group's **final product is continues to be in use after the spring**
+* I am super excited for this course! I really enjoyed our final project in CS52 of coming up with a product idea and quickly implementing it in a few weeks. I feel like CS98 will allow us to really delve into all aspects of our product and **produce something much more polished and fully developed**.
+* I **hope to be efficient** on this project
+* To have a **solid experience with teamwork and collaboration** while creating an **impactful product**.
+* create a **meaningful project that can really benefit those who need help**.
 
 
 ???
@@ -261,34 +255,13 @@ name: What you want, P1
 ---
 name: What you want, P2
 
-* Want to **spend time with a group** and **achieve something great** together.
-* Gain **experience in a team setting** with a **significant project** and hard deadlines
-* I'm scared of this class and software development. I **would like to not be scared**
-* I really hope I can **grow in confidence** as a developer, and learn the skills required to grow an idea into a product. I hope to be part of a **team that works hard, but is also patient**.
-* My dream is that I have a team where everyone has clearly defined responsibilities, and can be **trusted to complete their tasks** without being begged.
-* I've done a lot of projects in either mobile or web development and I would **like to branch out**
-* Prefer not working with people looking to line their pockets from the project.
-* I would love to learn more about computer vision
-* Want to flex skills outside of web dev/app dev.
-* ***Just wanna graduate*** 
-
+* I believe a lot of technology today such as instagram filters and what not, improve the quality of our lives, but not so much **solve the necessary problems**. I would love to tackle some of those issues with this culminating experience!
+* I'm extremely **excited to have a finished product that we can use and show to others**.
+* It's cool to **work on something you're passionate about**.
+* I’m going to be a PM after graduation so I’m really **excited to work hands-on** for the last time (for a while).
 
 ???
 * the question is do you want to graduate having built something cool AND with a good grade?   when i meet with each of you individually - tell me what you want - if you want to pass and don't care, do tell me, i'll try to help make that painless so we're not fighting
-
-
----
-name: What you want, P3
-* I want to **make a product I'm proud of** and that I can continue later and maybe even put on a resume.
-* I'm especially interested in **applying the skills** I learned in the past three years to a project that serves for **social good**.
-* Finally do a long-term project that hopefully can have impressive result!
-* I hope to build something really cool that **won't just sit in a git repo** somewhere but actually be used
-*  lot of coding experience and project experience that will help me in a professional setting after graduation. I think an **exposure to a wide range of technologies** would be beneficial.
-* I want to be able to leave Dartmouth having created/done something to be proud of, and potentially carry it on further past Dartmouth.
-* I've been looking forward to this course since I became a CS major. I want to **build some cool shit that will have an impact**. I also want to meet some more CS majors!
-
-
-???
 
 
 ---
@@ -307,31 +280,14 @@ name: What you want is what I want!
 ???
 * we're in this together - yes this is a required class - but it can be enjoyable for all of us
 
-<!-- name: Last year
-
-.left.large[![](img/box-plot-image.png)]
-
-.right[
-* Median: 3.66
-* Minimum: 1
-* Maximum: 4
-* First quartile: 3.33
-* Third quartile: 4
-* Interquartile Range: 0.67
-* Outliers: 1 1 1
-] -->
-
-
 
 
 ---
 name: Your Questions So Far
 
-* To what degree are consumer interactions going to be a part of the design and implementation process of the project?
-* I’m worried about workload, so I would prefer having small deadlines along the terms even as just a guideline.
-*  I'm wondering how regimented the 3B time is? I've never taken a 3B before and am a little nervous about that aspect, but everything else I can't wait for.
 * How is a two-term course usually structured?
 * Do we pick our groups or are they assigned?
+* How will we learn new technologies? Are there any class modules?
 
 
 
@@ -353,13 +309,11 @@ name: Project Complexity
 * some data persistance or computation
 * some display of said data or computation that is reasonably complex
 * it is two terms so you have time to implement something cool!
-* don't worry we'll figure this out together
 * reward for challenge - min complexity - but better grade if challenged
 * will give feedback: easy - medium - hard levels
 * can negotiate - time converts to complexity at some point
 * past -> rigor
 * 2 terms == lotta f' time
-* will try to have some rubrics for each milestone in advance
 
 
 
@@ -510,7 +464,7 @@ name: From Scratch?!?
 * learning from past experiences so i can help avoid pitfalls from the past
 * this will be the best cs98 to date
 * starter projects can be helpful but also dangerous, too complex sometimes (eval starter projects)
-* having that experience and confidence that you too can be a startup founder
+* having that **experience and confidence that you too** can be a startup founder
 * a builder of worlds
 
 
