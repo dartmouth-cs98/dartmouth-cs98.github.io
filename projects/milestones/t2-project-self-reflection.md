@@ -93,16 +93,7 @@ Start a wiki page titled:  `T2 Project Reflection and Next Steps Worksheet`
 
 
 ## TeamWork 
-*lastly, reflect on how your team is working together*
-
-#### What has been working well?
-*give kudos and shoutouts, comment on communication techniques that have worked, pr review practices, etc*
-
-#### What has not?
-*try to discuss any problems openly and respectfully. communication breakdowns? are some teammembers taking others tasks for themselves? etc*
-
-#### Steps
-*if there are problems, think of some ways to resolve them, go back to your team contract from last term to see what you said you would do for resolution*
+*lastly, at the end of last term in the term summary you did a bit of work around teamwork. this is just a reminder for everyone to revisit that and if you have any new or further thoughts after the break feel free to record them here.*
 
 ```
 
