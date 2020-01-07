@@ -21,8 +21,8 @@ name: base
 ---
 name: CS98
 
-.medium[![](https://media.giphy.com/media/APchGXnNFaAT6JhuZu/giphy.gif)]
-<!-- .medium_small[![](https://media.giphy.com/media/uos5sW7pBy5W0/giphy.gif)] -->
+<!-- .medium[![](https://media.giphy.com/media/APchGXnNFaAT6JhuZu/giphy.gif)] -->
+.medium_small[![](https://media.giphy.com/media/uos5sW7pBy5W0/giphy.gif)]
 
 
 ???
@@ -37,8 +37,8 @@ name: CS98
 ---
 name: Administrative Stuff
 
-<!-- .medium_small[![](https://media.giphy.com/media/7o6JghTx4mn84/giphy.gif)] -->
-*gif removed*
+.medium_small[![](https://media.giphy.com/media/7o6JghTx4mn84/giphy.gif)]
+<!-- *gif removed* -->
 
 * LSC200
 * Tuesdays: team checkins and work time
@@ -53,72 +53,95 @@ name: Administrative Stuff
 
 
 ---
-name:  Critical Feedback Summary
+name:  Constructive Feedback Summary
 
-* providing specific tutorials / assignments +4
-* use x-hour +2
-* more critical feedback +5
-* more frequent in-person check ins / in class consultation time +5
-* need less emphasis on lectures and more group coding and Q&A sessions ?
-* more food 🍕 +1
-* idea generation and time spent at beginning was good +4
-* less gifs
-* I'm spending 30+ hours on the project because others are slacking off
-* sprint transitions weren't very structured/well organized 
-* don't fully understand how we'll be graded, but to be fair we don't find that out until the second term, so maybe the final grade after end of term demos will shed some light.
-* had some trouble keeping track of course deadlines for assignments 
+* Too slow to start, might’ve been nice to **start building 1 week earlier** +10
+* Maybe check in a bit more frequently to see if we’re on track +3
+* felt the **code experimenting did not really come in handy** when the actual projects started
+* **project pitches could come first**, and then based on all the different ideas people can then start investigating tech stacks
+* Was sometimes unclear on where feedback was coming through - the canvas comments section is somewhat obscure and not as intuitive as an email or slack message might have been +2
+* should be a more **organized system for speaking with the professor**. Maybe a queue on the whiteboard?
+
 
 ???
-* the gifs are there to keep me awake, but i'll try with fewer
-* i thought canvas sent out notifactions when assigned are published, since it doesn't i'll be more mindful
-* we'll grade monday mornings - so be prepared
+* will switch to compiling feedback into slack - thinking of ditching canvas altogether 
+* current section moving everything up a week and doing second hack-a-thing after the pitches instead - great idea.
+
+
+
+---
+name:  Constructive Feedback Summary
+
+* Making sure all members of a group are contributing. +2
+* Technigala was a little stressful because **we didn't know when the instructors would come by**, so it would have been helpful to know what time we would all have to be at our booth
+* I think this class should be held during a normal time period. The 3A/3B are disruptive and strange, although I know it's meant to limit conflicts with other classes
+* *Mandating* the use of ZenHub is a very poor decision that I think most students in the class felt was unfair, and was an immense waste of time. I know Tim likes ZenHub, but it's very very far from being an industry standard: and saying that we *must* specifically use ZenHub, rather than base GitHub issue tracking, or even Jira or any other alternatives, and basing all of the weekly grading on how well we used ZenHub felt very bad. Spent a lot of time just debugging ZenHub issues instead of actually working.
+* **Better group formation** and a little more **structure flexibility for different types of projects**
+* We need more motivation ❗️
+
+???
+* more checkins got it!
+* zenhub is pretty much identical feature wise jira asana etc - if there are strong preferences please pitch them to me, i like zenhub because it is actually just a layer on top of github issues, so if you prefer github issues, you can mostly just use that - mostly the icebox -> backlog -> in progress -> review -> done task flow is what we're looking for which is doable in lots of different systems - not sure what the zenhub debug issues are but happy to help figure them out.
+* some of these i'm not sure where the problems lie - so would love to have more input on - what did people not like about the group formation?  in 
 
 
 ---
 name:  Positive Feedback Selections
 
-* Every year the class becomes less of a layup. 👍
-* this course is a blessing. 
-* Everything seemed quite adequate and necessary.
-* I really like creating something from start to finish
-* The part where we could play with new technologies really helped us see the different kinds of products we could design.
-* There is a collaborative environment that is fostered in the classroom every day - people are kind to one another and are willing to help each other
-* It's allowing me to build a real project and apply the things I've learned throughout my major!
-* I had a lot of fun working with new technologies that I didn't have the opportunity to learn in other classes
-* I have enjoyed all of it  The exercises we went through were helpful in aiding me to think of outside of the box ideas.
-* I enjoy doing group work and also enjoyed the tutorials in the beginning of the term.
-* I think the group style of the course makes for a better learning experience. On top of that, having the ability to create my own idea with other people that I work well with is incredible.
+* Everything was great.
+* inspired us to think about how we could **create something with impact**, and empowered us to really build something we thought could make a difference. I like the way the class is an opportunity to get a taste of entrepreneurship as well as creating technology for good.
+* **Group work was really fun and group matching** went well for me. I liked the emphasis on learning and development as a software engineer.
+* I think **having the first few weeks as time to explore ideas/try new technologies was really good** instead of jumping right into a project.
+* The extremely **realistic and creative space** to simulate developing a product in real life.
 
+---
+name:  Positive Feedback Selections
 
+* There was a **lot of freedom** in this course, which was great. It was great to be able to work on something we were passionate about, somewhat on our own terms. The **team workflow also promoted a lot of the skills** that are super important for real-world tech jobs.
+* I think the **pitches were a pretty good way of forming teams**. Also enjoyed having time to do interviews and come up with ideas. I also think having time during Tuesday and Thursday classes are really helpful in getting work done and meeting with all of our team members.
+* hands-off but available-for-help approach is great for the project.
+* Continue having a loose approach towards projects but pushing us along towards developing a final product.
 
 ???
 * collaboration, team, ownership, fun
 * there were lots of other great ideas - which i won't go into detail, but suffice to say there changes in term1 and some in term2 also!  if your idea wasn't mentioned don't worry i'm going through all of them
+* tricky part is balancing out all the requirements and backgrounds
+
 
 
 ---
-name:  This term
+name: This Week
+
+* today: [project self reflection](/projects/milestones/t2-project-self-reflection)
+* today/tomorrow: [plan sprint 1](/projects/milestones/t2-starting-sprint)
+* end of week: [personal success](/projects/milestones/t2-personal-success)
+* all the time: update designs
+
+???
+* the idea here is to gather all your thoughts from demos and feedback and figure out where you collectively want to go to next
+*  updating designs so you know what you're buidling is helpful.  also there are design starter packs for figma that might help with look and feel if you want - i can share one
+
+
+
+---
+name:  This term generally 
 
 <!-- .medium[![](img/pride-rock.gif)] -->
-*gif removed*
 
-* Per team milestones in ZENHUB - with due dates and accountability
-* More clarification and feedback along the way
-* Each Monday class we'll have team checkins/standups showing progress during sprint
-* Pride
+* figure out revised direction
+* focus on: 
+  * polished experience
+  * any shortcuts are hidden (no user workarounds)
+  * taking pride in your work
+  * commitment to the project from everyone on the team
+  * deployed by week 7 - some plan for validation
+  * visible care taken:
+    * thinking through use cases
+    * no bugs
+
 
 
 ???
-* what makes me proud:
-  * polished experience
-  * any shortcuts are hidden (no user workarounds)
-  * you taking pride in your work
-  * commitment to the project from everyone on the team
-  * visible care taken:
-    * documentation
-    * thinking through use cases
-    * no bugs
-  * beauty - this is a tricky one - 
 * what makes you proud might be different, hence the assignment for your personal success goals
 
 
@@ -131,20 +154,8 @@ name: Time For ACTIVITY!
 
 ???
 * more arts and crafts time!
-* kidding 
+* kidding,  lets just catch up
 
 
-
----
-name: This Week
-
-* today: retrospective
-* today/tomorrow: plan sprint 1
-* end of week: personal success
-* all the time: update designs
-
-???
-* the idea here is to gather all your thoughts from demos and feedback and figure out where you collectively want to go to next
-*  updating designs so you know what you're buidling is helpful.  also there are design starter packs for figma that might help with look and feel if you want - i can share one
 
 

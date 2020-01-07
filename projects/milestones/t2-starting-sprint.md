@@ -64,7 +64,7 @@ Remember that each issue/task should be scoped to be around 1 sitdown work sessi
 
 💢Feel free to assign each other tasks, a little aggressiveness is ok! you can interact via comments on the issues also, on a good project the board will feel like a community, people upvoting and clapping for each other, discussing the issues, or how best to implement something. EC: mention `@timofei7` in an issue or a PR when you need help or feedback or want to say hi. We're happy to help — and since this was a wall of text we'll know that you happened to read it all. 
 
-## Monday Checkins
+## Start of Week Checkins
 
 Every week, after your sprint transition, we'll do a checkin in class specific to what you what you worked on. You should be prepared to show progress and we're review your transition and help scope out next steps if you need.
 

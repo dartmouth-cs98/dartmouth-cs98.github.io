@@ -23,7 +23,7 @@ permalink: /slides/
 <!-- EE* [Code Review Intro](07_code_review/) -->
 
 # CS98.02 20W (term 2)
-<!-- * [Welcome back!](20_welcome/) -->
+* [Welcome back!](20_welcome/)
 
 <!-- * [Code Review 2](22_code_review/) -->
 
