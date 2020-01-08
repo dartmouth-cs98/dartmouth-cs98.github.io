@@ -6,9 +6,9 @@ published: true
 
 
 
-This is the time to make some plans for this term. We will do fewer pre-assigned milestones but will instead focus on custom milestones for your individual projects.
+This is the time to make some plans for this term. We will do fewer pre-assigned milestones but will instead focus individual sprints and features for the projects.
 
-As you think about your milestones, consider any feedback you collected and carefully prioritize your features. You have 9 weeks to turn your current MVP into a polished, fully working, and shipped final product!  Think about your critical features and accommodate them first.  Make sure your user flow works and makes sense. 
+As you think about your features, consider any feedback you collected and carefully prioritize your features. You have 9 weeks to turn your current MVP into a polished, fully working, and shipped final product!  Think about your critical features and accommodate them first.  Make sure your user flow works and makes sense. 
 
 As you think ahead, you should know that this term is fast paced. You should have an alpha release ready by midterms and a beta release two weeks after that. For any consumer facing product you'll want to get it into the hands of real users by week 7 or so. That last step is hard, polishing a thing and shipping it, you think you can save it for last, but you don't want to be that group that is pulling an all-nighter before final demos. Ideally, no all-nighters should be required! 🌃
 
@@ -50,10 +50,10 @@ The biggest reason that we're using ZenHub is because it is backed by github iss
         * <font style="color:orange">[ ❗️important]</font>
         * <font style="color:lightblue">[ 🍲 back burner]</font>
         * <font style="color:grey">[ 🙅won't fix]</font>
-1. 🚀Enter in **ALL** new feature ideas
+1. 🚀Enter in **ALL** new feature ideas as **Epics**
     * create new issues (select the appropriate repo "Create in ..." if associated with a particular repo) for each new feature idea you had via feedback last term, or as you brainstormed earlier in this milestone.
     * label them with a <span style="color: blue;"> 💎enhancement</span> tag or <span style="color: orange;">🚔critical</span> or others as you see fit. Feel free to use `invalid` and/or create your own tags.
-    * if any seem to be epics feel free to upgrade them now also - certainly anything that is a full feature.
+    * assign approximate due dates for these Epics.
 1. 🚀Create a milestone:
     * create a new milestone and label it `term2 week1 sprint` with a due date of next Sunday. **always add due dates to sprints**
     * assign some tasks, the usual 4 per. 
