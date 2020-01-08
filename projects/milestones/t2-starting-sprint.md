@@ -53,7 +53,6 @@ The biggest reason that we're using ZenHub is because it is backed by github iss
 1. 🚀Enter in **ALL** new feature ideas as **Epics**
     * create new issues (select the appropriate repo "Create in ..." if associated with a particular repo) for each new feature idea you had via feedback last term, or as you brainstormed earlier in this milestone.
     * label them with a <span style="color: blue;"> 💎enhancement</span> tag or <span style="color: orange;">🚔critical</span> or others as you see fit. Feel free to use `invalid` and/or create your own tags.
-    * assign approximate due dates for these Epics.
 1. 🚀Create a milestone:
     * create a new milestone and label it `term2 week1 sprint` with a due date of next Sunday. **always add due dates to sprints**
     * assign some tasks, the usual 4 per. 
