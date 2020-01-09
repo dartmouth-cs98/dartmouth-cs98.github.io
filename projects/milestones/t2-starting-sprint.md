@@ -5,7 +5,6 @@ published: true
 ---
 
 
-
 This is the time to make some plans for this term. We will do fewer pre-assigned milestones but will instead focus on individual sprints and features for the projects.
 
 As you think about your features, consider any feedback you collected and carefully prioritize your features. You have 9 weeks to turn your current MVP into a polished, fully working, and shipped final product!  Think about your critical features and accommodate them first.  Make sure your user flow works and makes sense. 

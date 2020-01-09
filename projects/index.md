@@ -17,8 +17,6 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 - [ ] Milestone: [Interviews](milestones/interviews)<br>
 - [ ] Milestone: [Hack-a-thing-1](milestones/hack-a-thing-1)<br>
   - *to be done individually or in pairs*
-<!-- - [ ] Tues: no class
-- [ ] Thurs: Intro to Course and Hacktivity -->
 
 **Week 2**:<br>
   Idea week and Group Formation.

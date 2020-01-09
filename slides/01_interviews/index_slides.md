@@ -18,12 +18,25 @@ name: base
 
 .title[{{name}}]
 
+
+
 ---
 name: CS98: Today
 
+* ### Part 1) Project Sharing (next door)
+* ask questions
+* give feedback
+* eat cookies
+* ### Part 2) Interview
+* gather back here for rest of class
 
-## don't sit with your Interview partner if you had one!
 
+---
+name: CS98: Today
+
+## Sit at tables in groups of ~5
+#### don't sit with your Interview partner if you had one!
+#### mix it up and try not to sit with friends!
 
 
 
@@ -45,7 +58,7 @@ name: Today
 
 
 ---
-name: Story Time
+name: Story Time - 30 min
 
 .fancy.medium[![](img/kitchen-story.gif)]
 
@@ -61,7 +74,7 @@ name: Story Time
 
 
 ---
-name: Deeper Take
+name: Deeper Take - Till EOC
 
 .fancy.medium[![](img/no-idea.gif)]
 
@@ -70,7 +83,6 @@ name: Deeper Take
   * **platform** (vr, product, mobile, web, text, etc)
   * **topic/problem statement** (from interviews)
   * **audience** (4 year olds with missing teeth, single parents, stressed teens, mail delivery people in their 70s)
-  * **1 random animal** (kittens, lions, etc)
 
 <!-- * Write down:
   * **1 platform** (vr, product, mobile, web, text, etc)
@@ -85,7 +97,7 @@ name: Deeper Take
 * oh god not another activity!
 * platform like Vr
 * topics: like healthcare, problem
-* audience: like kindergartners, or married stressed  parents, etc
+* audience: like kindergartners, or  stressed  parents, etc
 
 
 <!-- 
@@ -104,32 +116,32 @@ name: Mix em up
  -->
 
 ---
-name: Identify and Sketch Features - 30MIN
+name: Identify and Sketch Features
 
 .large[
 .fancy.left[![](img/proto2.jpg)]
 .fancy.right[![](img/proto1.jpg)]
 ]
 
-* use digital tools like [Pop Paper](https://marvelapp.com/pop/) or [Figma](https://www.figma.com)
+* use digital tools like [Figma](https://www.figma.com)
 * or paper or foam!
 
 ???
 
 
 ---
-name: Identify and Sketch Features - 50MIN
+name: Identify and Sketch Features
 
 * split up your idea into main features
   * collaboratively build it
-  * [Pop Paper](https://marvelapp.com/pop/) | [Figma](https://www.figma.com) | paper | foam
+  * paper/foam -> scan photos (Scannable App) || [Figma](https://www.figma.com)
   * show user flows
 * prep a **short pitch deck**
   * problem statement /**story**
   * who is it for?
   * what is your special insight
   * **show your mocks/sketches/drawings**
-* post a link to google presentation `#section-fallwinter`
+* post a link to google presentation `#section-winterspring`
 * pitch it
 
 ???
@@ -138,21 +150,13 @@ name: Identify and Sketch Features - 50MIN
 
 
 ---
-name: Coming Next
-
-* Tues: Hack-a-thing and Paper presentations!
-* Thurs: Pitches Start
-* and then: Team Formation!
-
-
----
-name: Share Topics
+name: Share A Paper
 
 .small[![](img/sharing.gif)]
 
 * Next assignment: find and share an interesting paper or article
 * can be about tech or problems in the world
-* post in slack `#inspiration` with comment about why it is interesting to you
+* add a couple of slides about it the google slide deck on canvas
 
 ???
 * this is just a little starter
@@ -160,3 +164,15 @@ name: Share Topics
 * then next week we'll share them out - will send more info about this later
 
 
+
+---
+name: Coming Next
+
+* Mon: Hack-a-thing and Paper presentations!
+* Thurs: Pitches Start
+* and then: Team Formation!
+* Monday we'll bleed into the x-hour... 
+
+???
+
+we won't do this xhour thing often but this time we'll use and maybe once more

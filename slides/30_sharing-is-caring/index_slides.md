@@ -20,24 +20,31 @@ name: base
 
 
 ---
-name: CS98 All Together!
-
+name: CS98 Today Part 1: All Together!
 
 .fancy.medium[![](img/sharinggifs.gif)]
 
-* thursdays - mostly team and checkin time
+* let's start off with a bit of sharing
+* tips and tricks for success - advice for the next generation
+* expo style 20 minutes - with snacks
+
+<!-- * thursdays - mostly team and checkin time
 * today a bit of a mix
-* Fall term projects sit by whiteboards please!
+* Fall term projects sit by whiteboards please! -->
 
 ???
-* this is an experiment, mostly will be productive team time
 * but a couple times we'll do some sharing/testing/etc
-
-
+* share what you've learned
+* inspire the next generation
 
 ---
-name: Next Up
+name: CS98 Today Part 2
 
+.large[![](img/scheduled1.jpg)]
+
+
+
+<!-- 
 .fancy.medium[![](img/thefuture.gif)]
 
 
@@ -50,42 +57,8 @@ name: Next Up
     * will send out team form
 
 
-???
 * should this be a project? 
 * will send out details about the present a paper thing tonight
 * hack-a-thing2 - get some ideas from your peers - ask me on slack if you want some advice on cool tech.  i recommend ar or vr with unity, mobile with react-native, something with voice, maybe alexa
-* we have some extra alexa funding for a team, but alexa is pretty limited so it could be part of a solution
-
-
----
-name: FallWinter Sharing Is Caring
-
-
-.fancy.medium[![](img/pooh.gif)]
-
-* share a bit about projects
-* tips and tricks for success
-* expo style 30 minutes
-
-???
-* share what you've learned
-* inspire the next generation
-
-
----
-name: WinterSpring Hack-a-thing-1
-
-<iframe src="https://giphy.com/embed/tQ8uT9t0uK92M" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-* lets see what we all built!
-* [timer](http://www.intervaltimer.com/timers/8195593-share-a-hack/fullscreen)
-* hack speed dating
-* 5 min to compare notes and share in pairs
-* then move
-
-???
-* not a complete graph but get a variety
-* ask questions - the idea here is to see what you would like to try next
-* and share experiences with what you built - i want to see also
-
+* we have some extra alexa funding for a team, but alexa is pretty limited so it could be part of a solution -->
 

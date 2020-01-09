@@ -78,3 +78,22 @@ name: Next UP
 * so - news or tech / can be about a problem you're interested in solving
 
 
+<!-- 
+
+
+name: WinterSpring Hack-a-thing-1
+
+<iframe src="https://giphy.com/embed/tQ8uT9t0uK92M" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+* lets see what we all built!
+* [timer](http://www.intervaltimer.com/timers/8195593-share-a-hack/fullscreen)
+* hack speed dating
+* 5 min to compare notes and share in pairs
+* then move
+
+
+* not a complete graph but get a variety
+* ask questions - the idea here is to see what you would like to try next
+* and share experiences with what you built - i want to see also -->
+
+
