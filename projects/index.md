@@ -88,9 +88,9 @@ During the second term we'll focus on specific weekly milestones that each team 
 **Week 1**:<br>
   We'll start out the term with some self reflection about the project — to try to incorporate feedback from user testing and consider any pivots etc.
 
-  - [ ] Milestone: [Project Self Reflection](milestones/t2-project-self-reflection)
-  - [ ] Milestone: [Sprint 1 Plan](milestones/t2-starting-sprint)
-  - [ ] Milestone: [Personal Success Metrics](milestones/t2-personal-success)
+  - [X] Milestone: [Project Self Reflection](milestones/t2-project-self-reflection)
+  - [X] Milestone: [Sprint 1 Plan](milestones/t2-starting-sprint)
+  - [X] Milestone: [Personal Success Metrics](milestones/t2-personal-success)
 
 
 **Week 2**:<br>
