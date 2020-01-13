@@ -14,14 +14,14 @@ title: Projects
 **Week 1**:<br>
 To kick off the course we'll do a week long hackathon on a technology/platform of your choosing to stretch coding muscles as well as interview some people to introduce some new input data into our idea generators.
 
-- [ ] Milestone: [Interviews](milestones/interviews)<br>
-- [ ] Milestone: [Hack-a-thing-1](milestones/hack-a-thing-1)<br>
+- [X] Milestone: [Interviews](milestones/interviews)<br>
+- [X] Milestone: [Hack-a-thing-1](milestones/hack-a-thing-1)<br>
   - *to be done individually or in pairs*
 
 **Week 2**:<br>
   Idea week and Group Formation.
 
-- [ ] Milestone: [Share A Paper](milestones/paper-presentation)<br>
+- [X] Milestone: [Share A Paper](milestones/paper-presentation)<br>
 - [ ] Milestone: [Pitch Ideas](milestones/pitches)
   - *in pairs*
 
@@ -95,7 +95,7 @@ During the second term we'll focus on specific weekly milestones that each team 
 
 **Week 2**:<br>
   
-  - [ ] Milestone: [Close out Sprint 1, Evaluate and Plan Sprint 2](milestones/t2-sprint1)
+  - [X] Milestone: [Close out Sprint 1, Evaluate and Plan Sprint 2](milestones/t2-sprint1)
 
 **Week 3**:<br>
   Buddy team code review. In class we will pair up teams and review each others codes. There will be a small github component to this.

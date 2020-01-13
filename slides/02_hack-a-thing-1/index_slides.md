@@ -57,10 +57,7 @@ name: Hack-a-thing-1 Speed Sharing
 ???
 
 
-
----
-name: Next UP
-
+<!-- 
 .medium[![](img/NEXT-UP-GIF.gif)]
 
 - [Hack-a-thing-2](../../projects/milestones/hack-a-thing-2)
@@ -70,13 +67,12 @@ name: Next UP
 * same or different
 * paper/news presentations - on tech or problems in the world
 
-???
 * for paper can be technical paper you think is cool
 * could be a news article about a cool technology
 * or a news article about a problem you find interesting or compelling
 * i've been on a bit of binge researching homelessness and gig economy
 * so - news or tech / can be about a problem you're interested in solving
-
+ -->
 
 <!-- 
 

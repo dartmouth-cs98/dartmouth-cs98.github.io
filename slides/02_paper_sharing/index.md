@@ -1,6 +1,6 @@
 ---
 layout: page_with_slides
-title: Milestone Intro
+title: Paper Sharing
 published: true
 ---
 

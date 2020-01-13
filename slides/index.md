@@ -9,8 +9,9 @@ permalink: /slides/
 * [Welcome](00_welcome/)
 <!-- * [Idea Generation](01_ideas/) -->
 * [Interviews](01_interviews/)
-<!-- * [Paper Sharing, Milestone Intro](02_milestone_intro/) -->
-<!-- * [Hack-a-thing-1](02_hack-a-thing-1/) -->
+* [Paper Sharing, Milestone Intro](02_paper_sharing/)
+* [Hack-a-thing-1](02_hack-a-thing-1/)
+<!-- https://tinyurl.com/cs98-20w-pitches -->
 <!-- EE* [Pitch Intro](02_pitch_intro/) -->
 <!-- EE* [milestone intro](02_milestone_intro/) (nah)-->
 <!-- EE idea pitches and paper sharing -->

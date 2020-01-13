@@ -23,30 +23,10 @@ name: base
 name: CS98 Today
 
 
-* paper presentations
-* [https://tinyurl.com/cs98-19f-papers](https://tinyurl.com/cs98-19f-papers) 
-
-
----
-name: MileStones!
-
-<!-- .medium_small[![](img/finalproject.jpg)] -->
-
-* Pitches (10/7, 10/8)
-  * shared google slides
-* Groups Form, State Of The Art Research (10/8, 10/10)
-* Personas/Features (10/15)
-* Mockups/Scaffolding (10/22)
-* Data/Component Wiring Sprint 1 (10/27)
-* Sprint 2 (11/3)
-* Sprint 3 (11/10)
-* Sprint 4 (11/17)
-* Technigala Demos (11/19)
-
-
-???
-* demos are of MVP, most critical functionality - does not need things like login etc
-
+* paper presentations!
+  * [https://tinyurl.com/cs98-20w-papers](https://tinyurl.com/cs98-20w-papers) 
+<!-- * [https://tinyurl.com/cs98-19f-papers](https://tinyurl.com/cs98-19f-papers)  -->
+* Hack-A-Thing Speed Dating
 
 
 ---
@@ -61,6 +41,17 @@ name: Pitch Deck
 * just need to know how many so we can have enough time for it
 
 
+---
+name: Short But Sweet
+
+.medium_small[![](img/elevatorelf.gif)]
+
+1. Show your passion (30 seconds)
+    * Engage with story hook
+1. Show you know your stuff (10 seconds)
+1. Show them you are the chef who will make this happen (20 seconds)
+
+
 
 
 
@@ -69,9 +60,9 @@ name: Pitch Presentations
 
  .fancy.medium[![](http://i.giphy.com/nldqZAXfXH6I8.gif)]
 
-* 3 minute MAX presentation with 2 minutes Q&A
+* 3 minute **MAX** presentation with 2 minutes Q&A
 * can do in pairs if you want
-* [milestone](../../project/milestones/pitches)
+* [milestone](../../projects/milestones/pitches)
 
 ???
 * A 2 minute presentation with 2 minutes of Q&A to pitch your idea to the class
@@ -84,11 +75,9 @@ name: Pitch Presentations
 ---
 name: Next Up
 
+* [Hack-A-Thing Sharing](../02_hack-a-thing-1/)
 * Thursday: 
-  * [pitches round 1](../../project/milestones/pitches)
-  * hack sharing
-* Monday: 
-  * [pitches round 2](../../project/milestones/pitches)
+  * [pitches!](../../projects/milestones/pitches)
 
 ???
 * two opportunities - lets try thursday if not many then monday during xhour to continue

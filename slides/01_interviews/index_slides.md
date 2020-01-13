@@ -54,8 +54,10 @@ name: Today
   - but hopefully this will be fun and fruitful
 * goal is to broaden our scope
 
-
-
+<!--
+!!!! need to motivate story a bit more here - pull from pitch deck??????
+people seemed a little confused
+-->
 
 ---
 name: Story Time - 30 min

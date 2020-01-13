@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pitch Deck Round 1 & 2
+title: Pitch Deck
 published: true
 ---
 
@@ -22,11 +22,11 @@ You can use a short slide deck but keep it very visual with *at most 10 words* o
 Please, don't be shy, your idea is great! Pitch cause you care. Pitch for the practice. Pitch to make a difference. Pitch to inspire!
 
 Some thoughts:
-* There are [lots of fascinating apis](https://www.programmableweb.com/) out there: from beer reviews to machine learning, and vision apis, to fictional datasets. Could you integrate some of these to enhance your idea?
 * Games, could you take some known game and make it a site or mobile app?
 * Is there an existing product that you want to clone but with a special take.  Uber for puppies, airbnb for breakfast sandwiches, cryptocurrencies for goldfish?
 * Your ideas can be serious, world changing, or completely silly.  The point is to enjoy building something cool.
-
+* There are [lots of fascinating apis](https://www.programmableweb.com/) out there: from beer reviews to machine learning, and vision apis, to fictional datasets. Could you integrate some of these to enhance your idea?
+ 
 Once teams are created around these pitches, you will have an opportunity to brainstorm/pivot/contribute a bit more as a team so **these don't lock you in**.
 
 ## Background Research
