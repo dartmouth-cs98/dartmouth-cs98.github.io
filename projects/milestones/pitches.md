@@ -22,10 +22,23 @@ You can use a short slide deck but keep it very visual with *at most 10 words* o
 Please, don't be shy, your idea is great! Pitch cause you care. Pitch for the practice. Pitch to make a difference. Pitch to inspire!
 
 Some thoughts:
-* Games, could you take some known game and make it a site or mobile app?
+* Games, could you take some known game and make it a site or mobile app? Could you make a game for education or poverty or other behavior change?
 * Is there an existing product that you want to clone but with a special take.  Uber for puppies, airbnb for breakfast sandwiches, cryptocurrencies for goldfish?
-* Your ideas can be serious, world changing, or completely silly.  The point is to enjoy building something cool.
+* Your ideas can be **serious**, **world changing**, or **completely silly**.  The point is to enjoy building something cool.
 * There are [lots of fascinating apis](https://www.programmableweb.com/) out there: from beer reviews to machine learning, and vision apis, to fictional datasets. Could you integrate some of these to enhance your idea?
+* [Change in the the Nature of Change](https://www.youtube.com/embed/AwXzt2CV7is?start=230) talk on Monolithic -> Decentralized -> Distributed industries
+* Other inspiration sources:
+  * [https://80000hours.org/career-guide/world-problems/](https://80000hours.org/career-guide/world-problems/)
+  * [https://80000hours.org/problem-profiles/#potentially_promising](https://80000hours.org/problem-profiles/#potentially_promising)
+  * [http://www.ycombinator.com/resources/](http://www.ycombinator.com/resources/)
+  * [https://www.startupschool.org/library](https://www.startupschool.org/library)
+  * [http://www.paulgraham.com/startupideas.html](http://www.paulgraham.com/startupideas.html)
+  * [https://www.producthunt.com](https://www.producthunt.com)
+  * [https://www.ycombinator.com/rfs/](https://www.ycombinator.com/rfs/)
+  * [https://www.npr.org/podcasts/510313/how-i-built-this](https://www.npr.org/podcasts/510313/how-i-built-this)
+  * [https://dribbble.com/](https://dribbble.com/)
+  * [http://abc.go.com/shows/shark-tank](http://abc.go.com/shows/shark-tank)
+
  
 Once teams are created around these pitches, you will have an opportunity to brainstorm/pivot/contribute a bit more as a team so **these don't lock you in**.
 
