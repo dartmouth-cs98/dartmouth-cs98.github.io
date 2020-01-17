@@ -48,6 +48,7 @@ Here is a markdown template that you can copy into your gist to get you started:
 * name:
 * date:
 * occupation:
+* relationship to interviewers:
 * location:
 * interview partner:
 
