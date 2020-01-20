@@ -22,7 +22,7 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
   Idea week and Group Formation.
 
 - [X] Milestone: [Share A Paper](milestones/paper-presentation)<br>
-- [ ] Milestone: [Pitch Ideas](milestones/pitches)
+- [X] Milestone: [Pitch Ideas](milestones/pitches)
   - *in pairs*
 
 **Week 3**:<br>
@@ -30,14 +30,14 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
   
   Idea week and Group Formation.
 
-- [ ] Milestone: [Hack-a-thing-2](milestones/hack-a-thing-2)
 - [ ] In Class: [Group Dynamics Worksheet](milestones/group-dynamics-worksheet)
 - [ ] In Class: [First Team Worksheet](milestones/first-meeting)
+- [ ] Milestone: [State of the Art Research](milestones/project-research)
+- [ ] Milestone: [Hack-a-thing-2](milestones/hack-a-thing-2)
 
 **Week 4**:<br>
   Defining the project in more details with a project proposal and feature spec. Plan on lots of team meetings, discussions, even arguments.
 
-- [ ] Milestone: [State of the Art Research](milestones/project-research)
 - [ ] Milestone: [User Personas](milestones/user-personas)
   - A short document describing the concept and core components of your project.
 - [ ] Milestone: [Project Proposal](milestones/project-proposal)
@@ -100,7 +100,7 @@ During the second term we'll focus on specific weekly milestones that each team 
 **Week 3**:<br>
   Buddy team code review. In class we will pair up teams and review each others codes. There will be a small github component to this.
 
-  - [ ] Milestone: [Close out Sprint 2, Evaluate and Plan Sprint 3](milestones/t2-sprint2)
+  - [X] Milestone: [Close out Sprint 2, Evaluate and Plan Sprint 3](milestones/t2-sprint2)
 
 **Week 4**:<br>
   A team set milestone is accomplished or updated.
