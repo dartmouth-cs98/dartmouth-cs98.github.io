@@ -18,6 +18,8 @@ Create this as a wiki page titled `First Team Meeting Worksheet` in github.
 ```markdown
 # First Team Meeting Worksheet
 
+![insert a team selfie here as proof of meeting](http://url/to/team/photo.jpg)
+
 ## Team Members Present
 
 * name
