@@ -14,7 +14,7 @@ Goal: Hack on something potentially related to your project
 
 Similarly to [Hack-A-Thing-1](hack-a-thing-1), we'll spend a week hacking on some technology. However, now you can either choose a new technology to try out that is more relevant to your project, or you can go deeper on what you were working on previously.  However, if you choose to dive deeper there is an expectation that the work is reasonably complex to justify two weeks of experimentation. Don't just brush this assignment off and follow some easy tutorial.  This is a chance to play around with something you've been curious about and share it with the rest of the class.  If you choose to keep hacking on the same thing as last week make sure to use git tag to mark it, and that you do enough on it to count. 
 
-If you already have a team and an idea — you should attempt to hack on something related to your idea.  Use this as an opportunity to brush up on needed skills, or to hack a small technology demo of some particular functionality.   Don't worry about merging it in later, these are standalone hacks, but they'll help you figure out how to do it better once you are implementing it for realz later.
+You should attempt to hack on something related to your teams project idea.  Use this as an opportunity to brush up on needed skills, or to hack a small technology demo of some particular functionality.   Don't worry about merging it in later, these are standalone hacks, but they'll help you figure out how to do it better once you are implementing it for realz later.
 
 ## Using git tags
 
@@ -26,7 +26,7 @@ git push origin --tags
 
 ## Time Commitment/complexity
 
-You should plan to spend at least 10 hours on this. The workload of this course overall is at a minimum 10 hours a week — if you spend less your final product may suffer and you will make the world sad.
+You should plan to spend at least 10 hours on this. The workload of this course overall is at a minimum 10 hours a week (outside of class) — if you spend less your final product may suffer and you will make the world sad.
 
 ## Teams
 
