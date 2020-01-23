@@ -312,11 +312,15 @@ img.mini, .mini img {
 .right {
   float:right;
   width:48%;
+  text-align: left !important;
+  // flex: 1;
+  // justify-content: start;
 }
 
 .right-small {
   float:right;
   width:38%;
+  text-align: left;
 }
 
 .right-large {
@@ -327,6 +331,7 @@ img.mini, .mini img {
 .left {
   float:left;
   width:48%;
+  text-align: right !important;
 }
 
 .left-small {
@@ -337,6 +342,10 @@ img.mini, .mini img {
 .left-large {
   float:left;
   width:52%;
+}
+
+.clearit {
+  float:clear;
 }
 
 

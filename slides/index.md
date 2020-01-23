@@ -7,7 +7,7 @@ permalink: /slides/
 
 # CS98.01 20W (term 1)
 * [Welcome](00_welcome/)
-<!-- * [Idea Generation](01_ideas/) -->
+* [Idea Generation](01_ideas/)
 * [Interviews](01_interviews/)
 * [Paper Sharing, Milestone Intro](02_paper_sharing/)
 * [Hack-a-thing-1](02_hack-a-thing-1/)
@@ -15,7 +15,7 @@ permalink: /slides/
 <!-- EE* [Pitch Intro](02_pitch_intro/) -->
 <!-- EE* [milestone intro](02_milestone_intro/) (nah)-->
 <!-- EE idea pitches and paper sharing -->
-<!-- * [First Team Meeting](03_first-team-meeting) -->
+* [First Team Meeting](03_first-team-meeting)
 <!-- * [Refining Ideas](04_user-personas) -->
 <!-- * [Getting Started on Design](04_design) -->
 <!-- * [Scaffolding Intro](05_scaffolding) -->
