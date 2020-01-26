@@ -30,10 +30,10 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
   
   Idea week and Group Formation.
 
-- [ ] In Class: [Group Dynamics Worksheet](milestones/group-dynamics-worksheet)
-- [ ] In Class: [First Team Worksheet](milestones/first-meeting)
-- [ ] Milestone: [State of the Art Research](milestones/project-research)
-- [ ] Milestone: [Hack-a-thing-2](milestones/hack-a-thing-2)
+- [X] In Class: [Group Dynamics Worksheet](milestones/group-dynamics-worksheet)
+- [X] In Class: [First Team Worksheet](milestones/first-meeting)
+- [X] Milestone: [State of the Art Research](milestones/project-research)
+- [X] Milestone: [Hack-a-thing-2](milestones/hack-a-thing-2)
 
 **Week 4**:<br>
   Defining the project in more details with a project proposal and feature spec. Plan on lots of team meetings, discussions, even arguments.
@@ -105,7 +105,7 @@ During the second term we'll focus on specific weekly milestones that each team 
 **Week 4**:<br>
   A team set milestone is accomplished or updated.
 
-  - [ ] Milestone: [Close out Sprint 3, Evaluate and Plan Sprint 4](milestones/t2-sprint3)
+  - [X] Milestone: [Close out Sprint 3, Evaluate and Plan Sprint 4](milestones/t2-sprint3)
   - [ ] Milestone: [Success Metrics and Validation Plan](milestones/t2-project-validation)
 
 **Week 5 Alpha Release**:<br>

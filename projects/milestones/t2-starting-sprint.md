@@ -36,9 +36,9 @@ The biggest reason that we're using ZenHub is because it is backed by github iss
 
 ## New Term - New Issues
 
-1. 🚀Go through **ALL** your current *New Issues* and deal with them.
-    * Either sort them into *Icebox* if you aren't going to work on them soon.
-    * *Backlog* if they are something to work on next.
+1. 🚀Go through **ALL** your current *Unsorted* new issues and deal with them.
+    * Either sort them into *Later* if you aren't going to work on them soon.
+    * *Next* if they are something to work on next.
     * *InProgress* for the specific tasks you are currently going to work on.
     * Close issues that are old or deprecated. 
 1. 🚀Enter in **ALL** bugs from the past term.

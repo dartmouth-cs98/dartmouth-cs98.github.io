@@ -88,7 +88,7 @@ The goal is to inform your further development — what would be useful to know 
 
 ## Planning / Rake Your ZenHub Garden
 
-Now plan out your next steps.  Add in *New Issues*, sort them into *IceBox* and *Backlog*.  Assign at least 4 issues per person.
+Now plan out your next steps.  Add in *Unsorted* new issues, sort them into *Later* and *Next*.  Assign at least 4 issues per person.
 
 During this step you should follow the [Rake Your ZenHub Garden](wiring-start-sprint#rake-your-zenhub-garden) steps. You'll do this every week.
 

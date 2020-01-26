@@ -27,7 +27,7 @@ This is a good time to get immediate feedback as well — so try the features ou
 
 🚀 Discuss what is working and what isn't and then summarize your meetings notes in the below format.
 
-🚀 Create a wiki page titled:  `Sprint Retrospectives`
+🚀 Create a wiki page titled:  `Sprint Retrospectives Term 1`
 
 Here's a template:
 
@@ -66,7 +66,7 @@ Remember, prioritize hard/real functionality over filler. Don't worry about thin
 
 ## Planning / Rake Your ZenHub Garden
 
-Now plan out your next steps.  Add in *New Issues*, sort them into *IceBox* and *Backlog*.  Assign at least 4 issues per person.
+Now plan out your next steps.  Add in *Unsortned* new issues, sort them into *Later* and *Next*.  Assign at least 4 issues per person.
 
 During this step you should follow the [Rake Your ZenHub Garden](wiring-start-sprint#rake-your-zenhub-garden) steps. You'll do this every week.
 

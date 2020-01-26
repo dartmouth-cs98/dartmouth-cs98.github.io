@@ -25,6 +25,7 @@ User stories are short scenarios about how your product is used.  User personas 
 We'll store our Personas as [Issues in our github repos](https://help.github.com/articles/creating-an-issue/). We'll dig into that more later but for now - go to your main repo. 
 
 🚀 Create a new issue for each persona you come up with.
+🚀 Label it - `user-persona`. 
 
 ![](img/user-personas.jpg)
 

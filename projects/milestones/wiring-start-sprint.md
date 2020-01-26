@@ -51,6 +51,10 @@ You are welcome to do 1+3 in one big team meeting, say Sunday night, since you a
 ❓ Can I just use groupme to tell people what to do?<br>
 ⛔️ No! You can discuss things to do for sure, but you should always use zenhub to keep track of who is working on what. Also you should be using Slack not groupme, we're all in this together.
 
+❓ I heard we're going to use ZenHub but I've used Jira/other brand before, why can't we use that?<br>
+⛔️ Sorry, but we're going to stick to one task manager. For all practical purposes Jira/Asana/Trello/ZenHub all have many overlapping features - ZenHub happens to do use github as it's backend directly, which means you can spend more of your time directly on github rather than switching between a lot of tools. The important part is the agile workflow of moving tickets between stages and they all do it the same way.
+
+
 <br>
 
 ![](img/rocks.gif){: .fancy .small}
@@ -82,7 +86,8 @@ Go through ZenHub and organize! This is a generalized process to follow every we
 1. 🚀**Update Epics**: Prioritize your Feature Epics/Create new Epics as necessary:
     * See [Epics](feature-spec#create-epics) to review
     * Use epics for any large task with subtasks that need to be broken out - each is a distinct feature of your product (not at the level of technical detail).
-1. 🚀**New Subtasks**: Break down subtasks you want to deal with this week. They can associated with Epics or standalone - should go into *New Issues* for now.
+    * update dates on Epics.
+1. 🚀**New Subtasks**: Break down subtasks you want to deal with this week. They can associated with Epics or standalone - should go into *Unsorted* for now.
     * **create new issues** (select the appropriate repo "Create in ..." if associated with a particular repo) 
     * **label them** with these or others: 
       * <font style="color:red">[ 🔥 blocker]</font>
@@ -90,11 +95,11 @@ Go through ZenHub and organize! This is a generalized process to follow every we
       * <font style="color:lightblue">[ 🍲 back burner]</font>
       * <font style="color:blue">[ 💎enhancement ]</font>
     * **assign a time estimate** - complexity generally related to how long you think it should it take in hours.
-1. 🚀 **Process All Issues**: Go through **ALL** your current *New Issues* as well as *Icebox/Backlog/InProgress* and [deal with them](feature-spec#default-pipeline-breakdown).
-    * *Icebox* if you aren't going to work on them soon.
-    * *Backlog* if they are something to work on **this week**.
+1. 🚀 **Process All Issues**: Go through **ALL** your current *Unsorted* as well as *Later/Next/InProgress* and [deal with them](feature-spec#default-pipeline-breakdown).
+    * *Later* (sometimes called Icebox) if you aren't going to work on them soon.
+    * *Next* (sometimes called Backlog) if they are something to work on **this week**.
     * *In Progress* for the specific tasks you are currently working on - should be around 1 per person at any given time.
-    * You should end with no unsorted *New Issues*.
+    * You should end with no unsorted new issues in *Unsorted*.
     * Close issues that are old or deprecated - make sure you update estimate to an actual time taken when you close.
 1. 🚀**Assign Subtasks**:
     * take at least 4 issues per person that fit with the goals of this week and assign them to this weeks milestone - and assign each to a person on your team.  Each subtask is ideally assigned to only 1 person - split them up further if multiple people are working on them.

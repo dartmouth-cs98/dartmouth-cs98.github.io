@@ -83,7 +83,7 @@ so that your commits are recognized as belonging to you.  Make sure you have at 
 
 ## ZenHub issues 
 
-🚀 Go ahead and create an Issue for each team member to do a pull request. Assign them.  When you do the [Pull Request link it to that issue](https://www.zenhub.com/blog/github-issue-pull-request-linking/).
+🚀 Go ahead and create an Issue for each team member to do a pull request. Assign them.  Always when you do the [Pull Request link it to that issue](https://www.zenhub.com/blog/github-issue-pull-request-linking/).
 
 ![](img/github-pr-issue-connection-dropdown.jpg){: .fancy .medium}
 
