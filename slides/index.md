@@ -16,8 +16,8 @@ permalink: /slides/
 <!-- EE* [milestone intro](02_milestone_intro/) (nah)-->
 <!-- EE idea pitches and paper sharing -->
 * [First Team Meeting](03_first-team-meeting)
-<!-- * [Refining Ideas](04_user-personas) -->
-<!-- * [Getting Started on Design](04_design) -->
+* [Refining Ideas](04_user-personas)
+* [Getting Started on Design](04_design)
 <!-- * [Scaffolding Intro](05_scaffolding) -->
 <!-- * [Design Feedback](05_design_feedback-first-sprint) -->
 <!-- EE* [GitHub Pull Requests](05_github-prs) -->

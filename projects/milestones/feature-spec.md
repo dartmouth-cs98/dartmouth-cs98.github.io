@@ -26,9 +26,8 @@ Rather than creating a separate document for this — we're going to use [ZenHub
 ZenHub is a tool built on top of GitHub Issues to make them better. GitHub issues are decent on their own, but they are hard to keep track of when you have a lot (just a long list) and it is hard to know who is currently working on what, or to assign due dates to things, of if you have multiple repos how to keep track of stuff. ZenHub fixes all of this, and is powered by GitHub issues underneath it all, so you can connect/[close them with Pull Requests](https://blog.github.com/2013-05-14-closing-issues-via-pull-requests/). 
 
 ![](img/zenhub-board.jpg){: .fancy .medium}
-<br>*(a well utilized DALI ZenHub board)*
 
-There are two different ways to use ZenHub - you can either download a [Chrome Extension](https://www.zenhub.com/extension) and then ZenHub appears in the GitHub interface for you automagically. Or you can log in via [zenhub.com](https://app.zenhub.com) - just log in via github, choose **dartmouth-cs98** as your Organization,  change workspace to one of your repos.  It should already be set up that there is a workspace named for your project that is connected to your repos.  This means that all your issues should now show up (under *New Issues*). 
+There are two different ways to use ZenHub - you can either download a [Chrome Extension](https://www.zenhub.com/extension) and then ZenHub appears in the GitHub interface for you automagically. Or you can log in via [app.zenhub.com](https://app.zenhub.com) - just log in via github, choose **dartmouth-cs98** as your Organization,  change workspace to one named like your repos.  It should already be set up that there is a workspace named for your project that is connected to your repos.  This means that all your issues should now show up (under *Unsorted*). 
 
 🚀 Sign in to [ZenHub](https://app.zenhub.com) now.
 
@@ -39,8 +38,8 @@ There are two different ways to use ZenHub - you can either download a [Chrome E
 
 * **cohesive**: all your issues from multiple repos appear in 1 workspace
 * **pipeline**:  assignments are different from what is currently being worked on - move an issue to *In Progress* when you are working on it. Feel free to claim or assign others to issues. More on pipelines below. 
-* **duedates / milestones**: to assign a date to a group of issues you can create a *Milestone*. Milestones should be thought of as sprints,  sets of tasks with a common due date.  Makes sense to have them similar to milestone due dates.
-* **epics**: You can also use *Epics* to group sets of smaller tasks.  If a single issue seems too big - *convert to epic*.
+* **duedates / milestones**: to assign a date to a group of issues you can create a *Milestone*. We will use Milestones to demarcate weekly Sprints:  sets of tasks with a common due date.
+* **epics**: You will use *Epics* to group sets of smaller tasks.  If a single issue seems too big - *convert to epic*.
 * **reports**: One you have milestones you can see an estimate of how quickly you'll finish all your tasks.
 * **dependencies**: You can make issues dependent on other issues, so if you have a task that requires someone else to do something you can mark that so they know they are blocking you. Very helpful!
 
@@ -48,17 +47,17 @@ There are two different ways to use ZenHub - you can either download a [Chrome E
 ### [Default Pipeline Breakdown](https://help.zenhub.com/support/solutions/articles/43000010339-setting-up-your-first-zenhub-workspace): 
 
 ![](img/zenhub-for-class.jpg){: .fancy .medium}
-<br>*(starting to use ZenHub for class feedback)*
+<br>*(using ZenHub for class planning)*
 
 
-* **New Issues**:<br>
-    New Issues land here automatically. You should drag (triage) them out of here as soon as possible.
+* **Unsorted**:<br>
+    **New Issues** land here automatically. You should drag (triage) them out of here as soon as possible.
 
-* **Icebox**:<br>
-    The Icebox represents items that are a low priority in the product backlog. Leaving Issues in the icebox over deleting them helps avoid a cycle of raising duplicate Issues. Icebox Issues should not take up a team member's time or mental bandwidth; putting ideas into the Icebox Pipeline gets them out of the way and helps teams focus on immediate priorities.
+* **Later**:<br>
+    Later (often called Icebox) represents items that are a low priority in the product backlog. Leaving Issues in the icebox over deleting them helps avoid a cycle of raising duplicate Issues. **Later** Issues should not take up a team member's time or mental bandwidth; putting ideas into the Later Pipeline gets them out of the way and helps teams focus on immediate priorities.
 
-* **Backlog**:<br>
-    Backlog Issues are not a current focus, but you will act on them at some point. If they don't have a GitHub Milestone, you can consider them part of your “product backlog”. Once you add a Milestone, they become part of your “sprint backlog” (that is, the tasks that you'll complete in an upcoming sprint.) The process of keeping this pipeline organized is known as “backlog refinement”.
+* **Next**:<br>
+    Next Issues are not a current focus, but you will act on them at some point. These are often called Backlog, but we'll simplify and just call that whole stack Nexts.  If an issue doesn't have a Milestone/Sprint assigned, you can consider them part of your “product backlog”. Once you add a Milestone, they become part of your “sprint backlog” (that is, the tasks that you'll complete in an upcoming sprint.) The process of keeping this pipeline organized is known as “backlog refinement”, we'll do something a bit simpler and do all of this during a team retrospective meeting.
 
 * **In Progress**:<br>
      Issues here should have a good amount of detail, like estimates and requirements, since they're your team's current focus. This is the answer to, “What are you doing now?” Ideally, each team member should be working on just one thing at a time. Tasks here should be ordered by priority with Assignees added.
@@ -79,9 +78,9 @@ If none of the above made sense, don't worry, it will once you start assigning e
 
 Rather than creating a separate doc and porting things over — who needs the duplicate work 🤦‍ - we'll skip that step and jump right in.  Similarly to how you made your [User Personas](user-personas) into GitHub Issues, we'll be using GitHub to track your main features. 
 
-## Create Epics
+## Create Epics for Each Feature
 
-[Epics](https://help.zenhub.com/support/solutions/articles/43000010341) are ways of grouping together tasks/issues by subject rather than by due date.  The main idea is that GitHub Issues are small tasks, individually bite sized coding time, but we need something to group them together into larger features that may take a lot more time. That is where *Epics* come in. 
+[Epics](https://help.zenhub.com/support/solutions/articles/43000010341) are ways of grouping together tasks/issues by subject rather than by due date.  The main idea is that GitHub Issues are small tasks, individually bite sized coding time, but we need something to group them together into larger features that may take a lot more time. That is where *Epics* come in. *Epics* are multi-issue groupings that are perfect for product features. 
 
 Once you've set yourself up with ZenHub - simply follow these steps to create an *Epic* for **each** of your primary features.
 
@@ -109,14 +108,43 @@ These are features that make the product more usable, but can be hacked around i
 ### <font style="color:lightblue">[ 🏹 stretch feature]</font>
 
 Self explanatory. Things not quite critical but would be really cool.
-s
+
 ## How Many?
 
 There is no rule about how many features you should have. It should make sense for your product. 
 
+Examples could be: 
+
+* onboarding flow
+* search and filter
+* main algorithm for audio signal processing
+* image processing to detect primary colors
+* user functionality
+* main character design and animation
+* enemy player logic
+* display list of posts stored in db
+* robot drives from point a to point b
+
+## Visualize Timeline in Roadmap
+
+Now, wouldn't it be great to see all these features not in a list but in a beautiful gantt chart format so you can prioritize them a little bit and see what should be done when? 
+
+![](img/roadmap.gif){: .large}
+
+[Roadmaps](https://help.zenhub.com/support/solutions/articles/43000539465) are exactly that. So now we'll add all our new **Epics** to the **Roadmap** for our project.
+
+![](img/add-epics.gif){: .large}
+
+For now it is probably easiest to have them all at the root level and not worry about grouping them together into *Projects* (for instance if you had a Mobile app and a VR app - those might be different *Projects*, feel free to organize that way).  Regardless, what you definitely should do at a minimum, is give them dates.
+
+🚀 Add in all your epics to the *Roadmap*. 
+🚀 For each epic select an approximate date range. 
+🚀 Take a screenshot of your Roadmap and attach it to the canvas submission. 
+
 
 ## To Turn In:
 
-* ZenHub URL with Epics filter turned on.
+* ZenHub URL
+* Screenshot of Roadmap
 
 ![](img/epic-filter.jpg){: .medium_small}

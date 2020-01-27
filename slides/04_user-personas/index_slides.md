@@ -27,7 +27,7 @@ name: CS98 - This Week!
 
 .medium.fancy[![](img/thats-okay.gif)]
 
-* Tues, Thurs:
+* Mon, Thurs:
   1. User Personas
   1. Project Proposal
   1. Feature Spec -> ZenHub
@@ -35,6 +35,7 @@ name: CS98 - This Week!
 
 * Thurs-Next Tues:
   1. Mockups and Data Models
+  1. Scaffolding!
 
 ???
 * refining our plans!
@@ -151,6 +152,10 @@ name: Today
 .medium_small.fancy[![](img/newton-ideas.gif)]
 
 * create some personas! (1 per teammember) [http://cs98.me/projects/milestones/user-personas](http://cs98.me/projects/milestones/user-personas)
+* then: 
+  1. [project proposal](http://cs98.me/projects/milestones/project-proposal)
+  1. [feature spec](http://cs98.me/projects/milestones/feature-spec)
+  1. [designs](http://cs98.me/projects/milestones/mockups-models)!
 
 ???
 
