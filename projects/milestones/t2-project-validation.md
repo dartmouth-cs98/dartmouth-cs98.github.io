@@ -18,36 +18,59 @@ Is your final validation a published app with lots of users?  Is it methods vali
 ❓ Why is this important?
 🖐 Your validation plan is what your project is really about. You have some idea, how do you show that it worked?  This is where you prove something about the project.  Remember your initial problem statement, you may have revised it since the start of the project, but the important question is, does your solution solve that problem or what steps does it take towards solving that problem.
 
+## Team Goals
+
+* we finish complex features x, y, z as they are critical to our product
+* we need to include this additional stretch goal as it is very cool
+* we want to try including analytics and doing advertising
+* we don't kill each other one week before demos
+* we publish our product to app store or post it on the interwebs somewhere
+
+
+### Success Metrics / KPIs
+
+How might you measure what success means to you?  Think of these are your Key Performance Indicators (KPIs) — these are things you can measure that provide evidence that you are making progress towards your goals.  For consumer facing digital product, your goals might be user acquisition/retention, but they may also be quality measures such as number of positive responses, or project process things like code unit tests or PRs approved. 
+
+Your measurements may fall into two types: lagging measurements are things that have happened or outputs such as number of users and sales; leading measurements are inputs and process such as code quality or signups which may predict future outputs. Think about desired outcomes such as behavior change / usage, 
+
+🕐 While we may not have enough time to get good measurements, thinking about what some measurements are that you could use will help you identify ways to evaluate your success and measure progress as well as use as a feedback mechanism for potential improvement. 
+
+Some examples: 
+
+* publish and get 100 people to download it
+* show that our process works with numerical analysis of performance data
+* write a medium post about our product and it gets claps
+* have a few users that use our product several days in a row organically
+* recruit testers and 80% report improved outcomes / behavior change / other qualitative feedback
+* get 90% code unit test coverage
+* achieve 3 of our 5 stretch goals
+* our analytics show that >50% of people complete our main flows, beat the game, complete their profile, etc
+* in-product survey shows that users are likely to recommend our product (net promoter score)
+* successfully demo our product >3 times over 3 weeks leading up to Technigala and get good feedback from prof and other students
+* every teammate feels like their individual goals for the course were accomplished
 
 ## Wiki Page
 
-Create a wiki page on your github repo called: `Final Success Metrics and Validation Plan`.  Use the following template, try to do a bit more than the examples, 5+ per section.
+Create a wiki page on your github repo called: `Final Success Metrics and Validation Plan`.  Use the following template, try for at least 5 items per section.
 
 
 ```markdown
 # Success Metrics and Validation Plan
 
 ## Team Goals
-*Discuss and identify any team goals that you think would be important to tackle.*
+*Discuss and identify any team goals that you think would be important to tackle*
 
-* ex: we finish complex features x, y, z as they are critical to our product
-* ex: we need to include this additional stretch goal as it is very cool
-* ex: we want to try including analytics and doing advertising
+* some goals
 
 ## Success Metrics
-*what are some success metrics for you as a team?*
+*what are some success metrics that you might use for your product / customers / your team / your cs98?*
 
-* ex: we publish and get 100 people to download it
-* ex: we don't kill each other one week before demos
-* ex: we show that our process works with numerical analysis of performance data
-* ex: we are the favorite team and we get a lunch voucher to get brunch with the prof
+* some measurable things
 
 ## Validation Plan
-*now comes the hard part, the validation plan. how do you get from goals to success metrics that are validated? this can be user testing, performance metrics, a public demo, etc. if you feel stuck talk to us about it.*
+*how do you get from goals to success metrics that are validated? this can be user testing, performance metrics, a public demo, etc. this is your implementation plan to gather the above.*
 
-* ex: we use analytics to show that feature x is important
-* ex: we plan to demo our product to 50 people and observe and survey them to show that our product is impactful
-* ex: we will use a set of tests to run our product through its steps and see how it performs in a preset number of situations
+* some concrete steps to remember to do
 
 ```
 
