@@ -89,7 +89,7 @@ Go through ZenHub and organize! This is a generalized process to follow every we
     * update dates on Epics.
 1. 🚀**New Subtasks**: Break down subtasks you want to deal with this week. They can associated with Epics or standalone - should go into *Unsorted* for now.
     * **create new issues** (select the appropriate repo "Create in ..." if associated with a particular repo) 
-    * **label them** with these or others: 
+    * **label them** can be a helpful way to communicate about priority or types of tickets: 
       * <font style="color:red">[ 🔥 blocker]</font>
       * <font style="color:orange">[ ❗️important]</font>
       * <font style="color:lightblue">[ 🍲 back burner]</font>
@@ -104,6 +104,7 @@ Go through ZenHub and organize! This is a generalized process to follow every we
 1. 🚀**Assign Subtasks**:
     * take at least 4 issues per person that fit with the goals of this week and assign them to this weeks milestone - and assign each to a person on your team.  Each subtask is ideally assigned to only 1 person - split them up further if multiple people are working on them.
     * now you'll be able to track progress toward the milestone!  and get graded on it! 🏄
+1. When you work on a task - move it to **In Progress** - this is critical so that your teammates know what is happening.
 
 **More about good agile workflow [here](https://help.zenhub.com/support/solutions/articles/43000010338-agile-concepts-in-github-and-zenhub).**
 

@@ -38,20 +38,21 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 **Week 4**:<br>
   Defining the project in more details with a project proposal and feature spec. Plan on lots of team meetings, discussions, even arguments.
 
-- [ ] Milestone: [User Personas](milestones/user-personas)
+- [X] Milestone: [User Personas](milestones/user-personas)
   - A short document describing the concept and core components of your project.
-- [ ] Milestone: [Project Proposal](milestones/project-proposal)
+- [X] Milestone: [Project Proposal](milestones/project-proposal)
   - A short document describing the concept and core components of your project.
-- [ ] Milestone: [Feature Spec](milestones/feature-spec)
+- [X] Milestone: [Feature Spec](milestones/feature-spec)
   - A walk-though of your project from the users perspective listing out every feature
 
 **Week 5**:<br>
 
-- [ ] Milestone: [Mockups & Data Models](milestones/mockups-models)
+- [X] Milestone: [Mockups & Data Models](milestones/mockups-models)
   - Sketches of the user experience and mockups of each main interaction / view. Include descriptions of the various data objects that the project will require.
-- [ ] Milestone: [Start Sprint 1: Make Implementation & Data Wiring Sprint Plan](milestones/wiring-start-sprint)
 - [ ] Milestone: [Scaffolding](milestones/scaffolding)
   - Initial code scaffolding started with a component plan and tools and frameworks chosen.
+- [ ] Milestone: [Start Sprint 1: Make Implementation & Data Wiring Sprint Plan](milestones/wiring-start-sprint)
+
 
 **Week 6**:<br>
   Rudimentary functionality in place and all components are connected and exchange data. Server->client or algorithmic components started.
@@ -106,7 +107,7 @@ During the second term we'll focus on specific weekly milestones that each team 
   A team set milestone is accomplished or updated.
 
   - [X] Milestone: [Close out Sprint 3, Evaluate and Plan Sprint 4](milestones/t2-sprint3)
-  - [ ] Milestone: [Success Metrics and Validation Plan](milestones/t2-project-validation)
+  - [X] Milestone: [Success Metrics and Validation Plan](milestones/t2-project-validation)
 
 **Week 5 Alpha Release**:<br>
   Alpha Release for midterm checkin to share out progress and things learned with the other teams and get feedback.
