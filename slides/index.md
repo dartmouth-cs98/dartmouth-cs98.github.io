@@ -18,8 +18,8 @@ permalink: /slides/
 * [First Team Meeting](03_first-team-meeting)
 * [Refining Ideas](04_user-personas)
 * [Getting Started on Design](04_design)
-* [Scaffolding Intro](05_scaffolding)
-<!-- * [Design Feedback](05_design_feedback-first-sprint) -->
+<!-- * [Scaffolding Intro](05_scaffolding) -->
+* [Design Feedback](05_design_feedback-first-sprint)
 <!-- EE* [GitHub Pull Requests](05_github-prs) -->
 <!-- EE* [Code Review Intro](07_code_review/) -->
 
@@ -28,7 +28,7 @@ permalink: /slides/
 
 * [Success Validation](24_success_validation/)
 
-* [Code Review 2](22_code_review/)
+<!-- * [Code Review 2](22_code_review/) -->
 
 
 ### Together

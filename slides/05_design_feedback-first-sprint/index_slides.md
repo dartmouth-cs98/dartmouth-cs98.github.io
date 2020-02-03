@@ -131,6 +131,26 @@ name: Planning our first sprint
 ???
 *
 
+---
+name: Sprint Retrospectives Every Week
+
+* Sprint #_ Retrospective: 
+    * members in attendance:
+        <div style="width:100px;">![selfie proof of meeting](img/teamselfie.png)</div>
+        - [x] Jasmine
+        - [ ] Alladin
+    * what worked well
+        * we made progress
+    * what didn't
+        * we didn't make much progress
+    * self assessment on progress
+        * how is your progress? 
+        * tentative plan for upcoming weeks
+          * current week: goals
+          * week #: goals
+          * week #: goals, etc
+    * briefly summarize any other topics/discussions
+
 
 ---
 name: Create a Milestone
@@ -155,10 +175,10 @@ name: Rake Your ZenHub Garden 🌻
     * label them
     * assign a time estimate
 1.  **Process All Issues**
-    * *Icebox*
-    * *Backlog* 
-    * *In Progress*
-    * no unsorted *New Issues*.
+    * **Later** *(Icebox)*
+    * **Next** *(Backlog)*
+    * **In Progress**
+    * no unsorted **Unsorted** *(New Issues)*.
     * update time estimates
 1. **Assign Subtasks**
 
@@ -169,3 +189,49 @@ name: Rake Your ZenHub Garden 🌻
 * each subtask is one code session or thereabouts
 * using milestones will give you a way to group your weekly tasks even when the are just parts of epics - remember epics are for long feature - milestones group tasks by week - so you can see the progress you are making 
 
+
+---
+name: Your Zenhub Board
+
+![](img/zenhub.jpg)
+
+???
+
+
+---
+name: Your Epics
+
+![](img/epics.jpg)
+
+???
+
+
+
+---
+name: Scaffolding
+
+.fancy.left[![](img/microservice.png)]
+.fancy.right[![](img/gitflow.png)]
+
+.right[
+* readme.md
+* starter code for every part of project
+* hello world from client, server, etc
+* github pull request flow -> zenhub issue
+]
+
+???
+* due thurs
+
+
+---
+name: Deep Wiring
+
+.fancy.left[![](img/mr2.jpg)]
+.fancy.right[![](img/mr1.jpeg)]
+
+
+???
+* connect database to server to client
+* try out some difficult component
+* deep connection

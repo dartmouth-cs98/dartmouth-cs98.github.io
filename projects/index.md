@@ -49,9 +49,9 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 
 - [X] Milestone: [Mockups & Data Models](milestones/mockups-models)
   - Sketches of the user experience and mockups of each main interaction / view. Include descriptions of the various data objects that the project will require.
+- [ ] Milestone: [Start Sprint 1: Make Implementation & Data Wiring Sprint Plan](milestones/wiring-start-sprint)
 - [ ] Milestone: [Scaffolding](milestones/scaffolding)
   - Initial code scaffolding started with a component plan and tools and frameworks chosen.
-- [ ] Milestone: [Start Sprint 1: Make Implementation & Data Wiring Sprint Plan](milestones/wiring-start-sprint)
 
 
 **Week 6**:<br>
