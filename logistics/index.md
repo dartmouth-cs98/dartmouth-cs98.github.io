@@ -57,6 +57,11 @@ or
 (policy adapted from: https://integrity.mit.edu/handbook/writing-code)
 
 
+## Consecutive Terms
+
+Since 98.01 and 98.02 involve team projects and the project from 98.01 continues into 98.02, these two courses must be taken in consecutive terms. If a student is not able to do 98.02 in the term immediately after their 98.01, the department asks that the student repeat 98.01 and then take 98.02. In extenuating circumstances, the student can petition the department for an exception. The petition should be addressed to Undergraduate Adviser (presently, Professor Cormen) and should clearly describe why the student believes they deserve an exception.
+
+The Undergraduate Adviser will share the petition with a department faculty committee that will make the final determination.
 
 ## Special accommodations and Religious observances ##
 
