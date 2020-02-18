@@ -110,6 +110,10 @@ post: {
 
 Your project may or may not have data that needs to be serialized or saved to a server, but most likely it will have some data structures that you need to think about. Think about these and write them down — you'll be able to alter them later, this is just a start.
 
+## Design Work Never Stops
+
+While there is a deadline to do the first pass of design work — in reality you'll be updating and interacting with your Figma mockups for the rest of the project.  People (instructors/tas/classmates) will comment and leave feedback, and you should always respond to this.  You don't have to implement all feedback, but do respond to the figma comments and resolve them once you have acted on them — either making design changes or responding to the comment with some reasoning about why you aren't going to implement the suggested changes.
+
 ## To Turn In:
 * 2 Wiki Pages:
     * `Mockups and Sketches`:
