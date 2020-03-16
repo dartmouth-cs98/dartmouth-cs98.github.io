@@ -41,7 +41,7 @@ We'll be using [Figma](https://www.figma.com/) (free for students) to record ske
 
 [Here's and a basic tutorial for figma](http://cs52.me/workshops/design).
 
-*Additional reading: There are many good design resources out there. Here's [one](http://cdn.ustwo.com/PPP/PP3.pdf) about pixel perfect design.*
+*Additional reading: There are many good design resources out there. Here's [one](https://www.ustwo.com/blog/the-pixel-perfect-precision-handbook) about pixel perfect design.*
 
 #### Record and Upload Sketches
 
