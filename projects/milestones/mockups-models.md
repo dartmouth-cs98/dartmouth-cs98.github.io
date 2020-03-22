@@ -33,7 +33,7 @@ Time to take the abstract to concrete. Sketch rough layouts of screens focused o
 
 ![](img/papersketch.png){: .fancy .medium}
 
-You can [download all sorts of device paper](http://sneakpeekit.com/) to help.  You can also use color foam for this if you like! 
+You can [download all sorts of device paper](http://sneakpeekit.com/) to help.  You can also use color foam for this if you like!  For VR experiences you may find a [template like this](https://blog.prototypr.io/vr-sketch-sheets-4843fd690c91) more helpful.
 
 ### Figma! 
 

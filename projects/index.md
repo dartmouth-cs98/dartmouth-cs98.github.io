@@ -49,10 +49,9 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 
 - [X] Milestone: [Mockups & Data Models](milestones/mockups-models)
   - Sketches of the user experience and mockups of each main interaction / view. Include descriptions of the various data objects that the project will require.
-- [ ] Milestone: [Start Sprint 1: Make Implementation & Data Wiring Sprint Plan](milestones/wiring-start-sprint)
+- [X] Milestone: [Start Sprint 1: Make Implementation & Data Wiring Sprint Plan](milestones/wiring-start-sprint)
 - [ ] Milestone: [Scaffolding](milestones/scaffolding)
   - Initial code scaffolding started with a component plan and tools and frameworks chosen.
-
 
 **Week 6**:<br>
   Rudimentary functionality in place and all components are connected and exchange data. Server->client or algorithmic components started.
@@ -113,7 +112,8 @@ During the second term we'll focus on specific weekly milestones that each team 
   Alpha Release for midterm checkin to share out progress and things learned with the other teams and get feedback.
 
   - [ ] Milestone: [Close out Sprint 4, Evaluate and Plan Sprint 5](milestones/t2-sprint4)
-  - [ ] Milestone: [Midterm Checkin 1](milestones/midterm-checkin)
+  - [ ] Milestone: [Midterm Checkin](milestones/t2-midterm-checkin)
+
 
 **Week 6**:<br>
   Evaluate and iterate on project features.
