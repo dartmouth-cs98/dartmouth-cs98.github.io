@@ -61,16 +61,17 @@ There are 2 (COSC98.01+COSC98.02) sequences of this course. You need to take COS
   - **Section FallWinter (19F-20W)**
     - 3B Classes will meet Tuesday and Thursday (4:30-6:20).
     - Thursday class time will used for team meetings and working together.
-    - 3BX will be available for help / team meeting time.
+    <!-- - 3BX will be available for help / team meeting time. -->
     - Location: LSC200
   - **Section WinterSpring (20W-20S)**
     - 3A Classes will meet Monday (3:30-5:20) and Thursday (4:30-6:20).
     - Thursday class time will used for team meetings and working together.
-    - 3AX will be available for help / team meeting time.
-    - Location: LSC201
+    <!-- - 3AX will be available for help / team meeting time. -->
+    - Location: ZOOM (see link on Slack)
 
 Class time will be used for topic hackathons, team meetings, showing your work, and coding together time.  Each project team will also meet separately every week to work and hack together.  At least 10 hours per week is required and will be logged.
 
+![](assets/imgs/zoom.gif){: .fancy .small}
 <!-- ![](assets/imgs/lsc200.jpg){: .fancy } -->
 <!-- ![](assets/imgs/carson61.jpg){: .fancy } -->
 

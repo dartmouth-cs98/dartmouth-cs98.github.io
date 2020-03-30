@@ -50,35 +50,35 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
 - [X] Milestone: [Mockups & Data Models](milestones/mockups-models)
   - Sketches of the user experience and mockups of each main interaction / view. Include descriptions of the various data objects that the project will require.
 - [X] Milestone: [Start Sprint 1: Make Implementation & Data Wiring Sprint Plan](milestones/wiring-start-sprint)
-- [ ] Milestone: [Scaffolding](milestones/scaffolding)
+- [X] Milestone: [Scaffolding](milestones/scaffolding)
   - Initial code scaffolding started with a component plan and tools and frameworks chosen.
 
 **Week 6**:<br>
   Rudimentary functionality in place and all components are connected and exchange data. Server->client or algorithmic components started.
 
-- [ ] Milestone: [Close out Sprint 1, Evaluate and Plan Sprint 2](milestones/t1-sprint1)
+- [X] Milestone: [Close out Sprint 1, Evaluate and Plan Sprint 2](milestones/t1-sprint1)
 
 **Week 7**:<br>
   Show some progress.
 
-- [ ] Milestone: [Close out Sprint 2, Evaluate and Plan Sprint 3](milestones/t1-sprint2)
+- [X] Milestone: [Close out Sprint 2, Evaluate and Plan Sprint 3](milestones/t1-sprint2)
 
 **Week 8**:<br>
   Focus on function over form and main MVP functionality complete.
 
 <!-- - [ ] Milestone: [Testable Prototype](milestones/testable_prototype) -->
-- [ ] Milestone: [Close out Sprint 3, Evaluate and Plan Sprint 4](milestones/t1-sprint3)
+- [X] Milestone: [Close out Sprint 3, Evaluate and Plan Sprint 4](milestones/t1-sprint3)
 
 **Week 9**:<br>
   MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Expo style. Open to public.
 
-- [ ] Milestone: [Close out Sprint 4, Evaluate and Plan Sprint 5](milestones/t1-sprint4)
-- [ ] Milestone: [Close out last Sprint of term!](milestones/t1-sprint5)
-- [ ] Milestone: [Term 1 Demos and Testing](milestones/t1-demos)
+- [X] Milestone: [Close out Sprint 4, Evaluate and Plan Sprint 5](milestones/t1-sprint4)
+- [X] Milestone: [Close out last Sprint of term!](milestones/t1-sprint5)
+- [X] Milestone: [Term 1 Demos and Testing](milestones/t1-demos)
 
 **Week 10**:<br>
 
-- [ ] Milestone: [Term 1 Summary](milestones/t1-summary)
+- [x] Milestone: [Term 1 Summary](milestones/t1-summary)
 
 <hr>
 
@@ -88,25 +88,25 @@ During the second term we'll focus on specific weekly milestones that each team 
 **Week 1**:<br>
   We'll start out the term with some self reflection about the project — to try to incorporate feedback from user testing and consider any pivots etc.
 
-  - [X] Milestone: [Project Self Reflection](milestones/t2-project-self-reflection)
-  - [X] Milestone: [Sprint 1 Plan](milestones/t2-starting-sprint)
-  - [X] Milestone: [Personal Success Metrics](milestones/t2-personal-success)
+  - [ ] Milestone: [Project Self Reflection](milestones/t2-project-self-reflection)
+  - [ ] Milestone: [Sprint 1 Plan](milestones/t2-starting-sprint)
+  - [ ] Milestone: [Personal Success Metrics](milestones/t2-personal-success)
 
 
 **Week 2**:<br>
   
-  - [X] Milestone: [Close out Sprint 1, Evaluate and Plan Sprint 2](milestones/t2-sprint1)
+  - [ ] Milestone: [Close out Sprint 1, Evaluate and Plan Sprint 2](milestones/t2-sprint1)
 
 **Week 3**:<br>
   Buddy team code review. In class we will pair up teams and review each others codes. There will be a small github component to this.
 
-  - [X] Milestone: [Close out Sprint 2, Evaluate and Plan Sprint 3](milestones/t2-sprint2)
+  - [ ] Milestone: [Close out Sprint 2, Evaluate and Plan Sprint 3](milestones/t2-sprint2)
 
 **Week 4**:<br>
   A team set milestone is accomplished or updated.
 
-  - [X] Milestone: [Close out Sprint 3, Evaluate and Plan Sprint 4](milestones/t2-sprint3)
-  - [X] Milestone: [Success Metrics and Validation Plan](milestones/t2-project-validation)
+  - [ ] Milestone: [Close out Sprint 3, Evaluate and Plan Sprint 4](milestones/t2-sprint3)
+  - [ ] Milestone: [Success Metrics and Validation Plan](milestones/t2-project-validation)
 
 **Week 5 Alpha Release**:<br>
   Alpha Release for midterm checkin to share out progress and things learned with the other teams and get feedback.

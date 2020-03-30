@@ -75,3 +75,27 @@ We recognize that the academic environment at Dartmouth is challenging, that our
 ## Auditing ##
 
 Unfortunately due to the nature of the class auditing is not possible.
+
+
+# COVID-19 Addendum
+
+While the COVID-19 pandemic has already changed how this course is structured, it has the potential to result in further personal impact which may prevent you from continuing engagement in the class. This may be due to contraction of the disease by you or a loved one, increased familial responsibilities, financial difficulties, or impacts on your mental/emotional health.
+
+We have structured the course so that these disruptions will not necessarily prevent you from successfully completing this course. Course meetings will be conducted via Zoom with any important messaging recorded. This will enable flexible viewing of the course content. We will schedule opportunities for live interaction with the Professor during diverse times throughout the week. The group project is designed to be facilitate remote work using industry standard collaboration tools.
+
+In the event that you are directly or indirectly impacted by COVID-19 in such a way that will affect your performance in the course, it is imperative that you reach out to the instructor as soon as possible.  You may also reach out to your undergraduate Dean if that would make you more comfortable. We cannot assist you if we don’t know there is a problem. Our first priority is your health and security. We will work to put you in touch with appropriate resources to assist you. In addition, appropriate accommodations (for example: deadline extensions and/or extra office hours) will be implemented.
+
+## Video Recording
+
+From the Dean of the Faculty to students regarding recording of class sessions:
+
+### Consent to recording of course and group office hours 
+a) I affirm my understanding that this course and any associated group meetings involving students and the instructor, including but not limited to scheduled and ad hoc office hours and other consultations, may be recorded within any digital platform used to offer remote instruction for this course; 
+<br>b) I further affirm that the instructor owns the copyright to their instructional materials, of which these recordings constitute a part, and distribution of any of these recordings in whole or in part without prior written consent of the instructor may be subject to discipline by Dartmouth up to and including expulsion;
+<br>c) I authorize Dartmouth and anyone acting on behalf of Dartmouth to record my participation and appearance in any medium, and to use my name, likeness, and voice in connection with such recording; and 
+<br>d) I authorize Dartmouth and anyone acting on behalf of Dartmouth to use, reproduce, or distribute such recording without restrictions or limitation for any educational purpose deemed appropriate by Dartmouth and anyone acting on behalf of Dartmouth.
+
+###  Requirement of consent to one-on-one recordings 
+By enrolling in this course, I hereby affirm that I will not under any circumstance make a recording in any medium of any one-on-one meeting with the instructor without obtaining the prior written consent of all those participating, and I understand that if I violate this prohibition, I will be subject to discipline by Dartmouth up to and including expulsion, as well as any other civil or criminal penalties under applicable law.
+
+If you have any questions about any of these prohibitions or instructions, please consult your Dean’s Office. 

@@ -5,34 +5,34 @@ permalink: /slides/
 ---
 
 
-# CS98.01 20W (term 1)
-* [Welcome](00_welcome/)
-* [Idea Generation](01_ideas/)
-* [Interviews](01_interviews/)
-* [Paper Sharing, Milestone Intro](02_paper_sharing/)
-* [Hack-a-thing-1](02_hack-a-thing-1/)
+<!-- # CS98.01 20W (term 1) -->
+<!-- * [Welcome](00_welcome/) -->
+<!-- * [Idea Generation](01_ideas/) -->
+<!-- * [Interviews](01_interviews/) -->
+<!-- * [Paper Sharing, Milestone Intro](02_paper_sharing/) -->
+<!-- * [Hack-a-thing-1](02_hack-a-thing-1/) -->
 <!-- https://tinyurl.com/cs98-20w-pitches -->
 <!-- EE* [Pitch Intro](02_pitch_intro/) -->
 <!-- EE* [milestone intro](02_milestone_intro/) (nah)-->
 <!-- EE idea pitches and paper sharing -->
-* [First Team Meeting](03_first-team-meeting)
-* [Refining Ideas](04_user-personas)
-* [Getting Started on Design](04_design)
+<!-- * [First Team Meeting](03_first-team-meeting) -->
+<!-- * [Refining Ideas](04_user-personas) -->
+<!-- * [Getting Started on Design](04_design) -->
 <!-- * [Scaffolding Intro](05_scaffolding) -->
-* [Design Feedback](05_design_feedback-first-sprint)
+<!-- * [Design Feedback](05_design_feedback-first-sprint) -->
 <!-- EE* [GitHub Pull Requests](05_github-prs) -->
 <!-- EE* [Code Review Intro](07_code_review/) -->
 
-# CS98.02 20W (term 2)
+# CS98.02 20S (term 2)
 * [Welcome back!](20_welcome/)
 
-* [Success Validation](24_success_validation/)
+<!-- * [Success Validation](24_success_validation/) -->
 
 <!-- * [Code Review 2](22_code_review/) -->
 
 
-### Together
-* [Sharing is Caring](30_sharing-is-caring/)
+<!-- ### Together -->
+<!-- * [Sharing is Caring](30_sharing-is-caring/) -->
 
 <!-- * [Teams, Teams, Teams](31_teamsteamsteams) -->
 <!-- * [Feedback Session](33_feedback_session) -->
