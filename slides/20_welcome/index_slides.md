@@ -135,9 +135,9 @@ name:  Positive Feedback Selections
 name: This Week
 
 * today: [project self reflection](/projects/milestones/t2-project-self-reflection)
-* today/tomorrow: [plan sprint 1](/projects/milestones/t2-starting-sprint)
+* thursday: [plan sprint 1](/projects/milestones/t2-starting-sprint)
 * end of week: [personal success](/projects/milestones/t2-personal-success)
-* all the time: update designs
+* all the time: update designs!!
 
 ???
 * the idea here is to gather all your thoughts from demos and feedback and figure out where you collectively want to go to next
