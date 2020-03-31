@@ -28,12 +28,12 @@ name:
 
 
 ???
-* hope everybody is well and safe
+* hope everybody is well and safe!
 
 * anybody work on their project over break?  want to share what you makeds?  
 * side projects?
 
-* So this term.  Fewer general milestones and more feedback and numbers on canvas!  
+* So this term.  Fewer general milestones and more feedback and numbers on canvas and we get to be remote!  and do it all pass/fail!
 
 
 ---
@@ -43,7 +43,7 @@ name: Administrative Stuff
 <!-- *gif removed* -->
 
 * ZOOM & Tandem
-* Tuesdays & Thursdays & x-hours: team checkins and work time
+* Tuesdays & Thursdays: team checkins and work time
 * Tips:
   * video on for community /feedback
   * Tandem while you work - quick and easy impromptu meetings especially during class work time
@@ -58,7 +58,7 @@ name: Administrative Stuff
 
 
 ???
-* questions co
+* some of your team members may be separated by timezones - so finding meeting times will be tricky - but hopefully not impossible! 
 
 
 ---
@@ -69,6 +69,9 @@ name:  New Grading!
 * Will fix on canvas and release 
 * No news yet on C/NC for last term vs grade - preference? 
 
+???
+* as luck have it currently you're all passing
+* but i know grade isn't hte motivator here but making an impressive product is
 
 
 ---
@@ -142,6 +145,7 @@ name: This Week
 ???
 * the idea here is to gather all your thoughts from demos and feedback and figure out where you collectively want to go to next
 *  updating designs so you know what you're buidling is helpful.  also there are design starter packs for figma that might help with look and feel if you want - i can share one
+* also figure out how you're going to optimize working remote - i'll send out some tips on that
 
 
 
@@ -166,6 +170,8 @@ name:  This term generally
 
 ???
 * what makes you proud might be different, hence the assignment for your personal success goals
+* last term a couple projects experiences traction - 2 projects had their medium posts picked up by professional publications - 1 project has a paying customer - and some others saw some real usage numbers after sending it out online - you wouldn't believe how exited they were - the goal is for all of you to have that experience - being excited about seeing some impact - we'll talk more about this
+* quantum, cooking, and sprout, ftg had a bunch of people download
 * questions concerns? 
 
 
