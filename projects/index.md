@@ -145,4 +145,5 @@ During the second term we'll focus on specific weekly milestones that each team 
   MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Expo style. Open to public. Invite Everyone! 
 
   - [ ] Milestone: [Close out Sprint 9!](milestones/t2-sprint9)
+  - [ ] Milestone: [Write a Medium Post](milestones/t2-medium)
   - [ ] Milestone: [Final Project Submission](milestones/t2-summary)
