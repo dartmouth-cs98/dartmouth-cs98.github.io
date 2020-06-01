@@ -52,6 +52,10 @@ Here's a recommended flow, but you are welcome to come up with your own.  As lon
   * Offer link to try it out right at the end of this.
 
 
+## Images 
+
+People love pictures and videos.  Make videos, screenshots, gifs etc of your product and include them.  
+
 ## Just 1?
 
 Just one article is required, but you may write more than one if your team wants to! For instance could imagine splitting it up into articles about technical aspects and others about impact or teamwork etc. Extra Credit all around!
