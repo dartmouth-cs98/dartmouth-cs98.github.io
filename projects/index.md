@@ -14,15 +14,15 @@ title: Projects
 **Week 1**:<br>
 To kick off the course we'll do a week long hackathon on a technology/platform of your choosing to stretch coding muscles as well as interview some people to introduce some new input data into our idea generators.
 
-- [X] Milestone: [Interviews](milestones/interviews)<br>
-- [X] Milestone: [Hack-a-thing-1](milestones/hack-a-thing-1)<br>
+- [ ] Milestone: [Interviews](milestones/interviews)<br>
+- [ ] Milestone: [Hack-a-thing-1](milestones/hack-a-thing-1)<br>
   - *to be done individually or in pairs*
 
 **Week 2**:<br>
   Idea week and Group Formation.
 
-- [X] Milestone: [Share A Paper](milestones/paper-presentation)<br>
-- [X] Milestone: [Pitch Ideas](milestones/pitches)
+- [ ] Milestone: [Share A Paper](milestones/paper-presentation)<br>
+- [ ] Milestone: [Pitch Ideas](milestones/pitches)
   - *in pairs*
 
 **Week 3**:<br>
@@ -30,55 +30,55 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
   
   Idea week and Group Formation.
 
-- [X] In Class: [Group Dynamics Worksheet](milestones/group-dynamics-worksheet)
-- [X] In Class: [First Team Worksheet](milestones/first-meeting)
-- [X] Milestone: [State of the Art Research](milestones/project-research)
-- [X] Milestone: [Hack-a-thing-2](milestones/hack-a-thing-2)
+- [ ] In Class: [Group Dynamics Worksheet](milestones/group-dynamics-worksheet)
+- [ ] In Class: [First Team Worksheet](milestones/first-meeting)
+- [ ] Milestone: [State of the Art Research](milestones/project-research)
+- [ ] Milestone: [Hack-a-thing-2](milestones/hack-a-thing-2)
 
 **Week 4**:<br>
   Defining the project in more details with a project proposal and feature spec. Plan on lots of team meetings, discussions, even arguments.
 
-- [X] Milestone: [User Personas](milestones/user-personas)
+- [ ] Milestone: [User Personas](milestones/user-personas)
   - A short document describing the concept and core components of your project.
-- [X] Milestone: [Project Proposal](milestones/project-proposal)
+- [ ] Milestone: [Project Proposal](milestones/project-proposal)
   - A short document describing the concept and core components of your project.
-- [X] Milestone: [Feature Spec](milestones/feature-spec)
+- [ ] Milestone: [Feature Spec](milestones/feature-spec)
   - A walk-though of your project from the users perspective listing out every feature
 
 **Week 5**:<br>
 
-- [X] Milestone: [Mockups & Data Models](milestones/mockups-models)
+- [ ] Milestone: [Mockups & Data Models](milestones/mockups-models)
   - Sketches of the user experience and mockups of each main interaction / view. Include descriptions of the various data objects that the project will require.
-- [X] Milestone: [Start Sprint 1: Make Implementation & Data Wiring Sprint Plan](milestones/wiring-start-sprint)
-- [X] Milestone: [Scaffolding](milestones/scaffolding)
+- [ ] Milestone: [Start Sprint 1: Make Implementation & Data Wiring Sprint Plan](milestones/wiring-start-sprint)
+- [ ] Milestone: [Scaffolding](milestones/scaffolding)
   - Initial code scaffolding started with a component plan and tools and frameworks chosen.
 
 **Week 6**:<br>
   Rudimentary functionality in place and all components are connected and exchange data. Server->client or algorithmic components started.
 
-- [X] Milestone: [Close out Sprint 1, Evaluate and Plan Sprint 2](milestones/t1-sprint1)
+- [ ] Milestone: [Close out Sprint 1, Evaluate and Plan Sprint 2](milestones/t1-sprint1)
 
 **Week 7**:<br>
   Show some progress.
 
-- [X] Milestone: [Close out Sprint 2, Evaluate and Plan Sprint 3](milestones/t1-sprint2)
+- [ ] Milestone: [Close out Sprint 2, Evaluate and Plan Sprint 3](milestones/t1-sprint2)
 
 **Week 8**:<br>
   Focus on function over form and main MVP functionality complete.
 
 <!-- - [ ] Milestone: [Testable Prototype](milestones/testable_prototype) -->
-- [X] Milestone: [Close out Sprint 3, Evaluate and Plan Sprint 4](milestones/t1-sprint3)
+- [ ] Milestone: [Close out Sprint 3, Evaluate and Plan Sprint 4](milestones/t1-sprint3)
 
 **Week 9**:<br>
   MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Expo style. Open to public.
 
-- [X] Milestone: [Close out Sprint 4, Evaluate and Plan Sprint 5](milestones/t1-sprint4)
-- [X] Milestone: [Close out last Sprint of term!](milestones/t1-sprint5)
-- [X] Milestone: [Term 1 Demos and Testing](milestones/t1-demos)
+- [ ] Milestone: [Close out Sprint 4, Evaluate and Plan Sprint 5](milestones/t1-sprint4)
+- [ ] Milestone: [Close out last Sprint of term!](milestones/t1-sprint5)
+- [ ] Milestone: [Term 1 Demos and Testing](milestones/t1-demos)
 
 **Week 10**:<br>
 
-- [x] Milestone: [Term 1 Summary](milestones/t1-summary)
+- [ ] Milestone: [Term 1 Summary](milestones/t1-summary)
 
 <hr>
 

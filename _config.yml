@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dartmouth-cs98.github.io" # the base hostname & protocol for your site
 twitter_username: timofei7
 github_username:  timofei7
-ta_github_username: kmasaba21
+ta_github_username: timofei7
 
 # Build settings
 markdown: kramdown

@@ -54,20 +54,20 @@ Groups are required to establish a team meeting schedule for coding hours throug
 
 ## Schedule:
 
-There are 2 (COSC98.01+COSC98.02) sequences of this course. You need to take COSC98.01 and COSC98.02 in consecutive terms and cannot mix and match. Section 1 is **19F(98.01) + 20W(98.02)** and Section 2 is **20W(98.01) + 20S(98.02)**.
+There are 2 (COSC98.01+COSC98.02) sequences of this course. You need to take COSC98.01 and COSC98.02 in consecutive terms and cannot mix and match. FallWinter is **20F(98.01) + 21W(98.02)** and WinterSpring is **21W(98.01) + 21S(98.02)**.
 
 ### Class:
 
-  - **Section FallWinter (19F-20W)**
-    - 3B Classes will meet Tuesday and Thursday (4:30-6:20).
+  - **FallWinter (20F-21W)**
+    - L Classes will meet Tuesday and Thursday (5:00-6:50).
     - Thursday class time will used for team meetings and working together.
     <!-- - 3BX will be available for help / team meeting time. -->
-    - Location: LSC200
-  - **Section WinterSpring (20W-20S)**
+    - Location: virtually on various platforms
+    
+  <!-- - **Section WinterSpring (20W-20S)**
     - 3A Classes will meet Monday (3:30-5:20) and Thursday (4:30-6:20).
     - Thursday class time will used for team meetings and working together.
-    <!-- - 3AX will be available for help / team meeting time. -->
-    - Location: ZOOM (see link on Slack)
+    - Location: ZOOM (see link on Slack) -->
 
 Class time will be used for topic hackathons, team meetings, showing your work, and coding together time.  Each project team will also meet separately every week to work and hack together.  At least 10 hours per week is required and will be logged.
 

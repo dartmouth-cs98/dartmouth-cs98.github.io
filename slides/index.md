@@ -5,7 +5,7 @@ permalink: /slides/
 ---
 
 
-<!-- # CS98.01 20W (term 1) -->
+# CS98.01 20F (term 1)
 <!-- * [Welcome](00_welcome/) -->
 <!-- * [Idea Generation](01_ideas/) -->
 <!-- * [Interviews](01_interviews/) -->
@@ -23,8 +23,8 @@ permalink: /slides/
 <!-- EE* [GitHub Pull Requests](05_github-prs) -->
 <!-- EE* [Code Review Intro](07_code_review/) -->
 
-# CS98.02 20S (term 2)
-* [Welcome back!](20_welcome/)
+<!-- # CS98.02 20S (term 2) -->
+<!-- * [Welcome back!](20_welcome/) -->
 
 <!-- * [Success Validation](24_success_validation/) -->
 
