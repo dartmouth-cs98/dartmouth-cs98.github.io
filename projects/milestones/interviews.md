@@ -13,7 +13,7 @@ This milestone is to get our thoughts percolating about ideas that might be from
 
 ## Find Someone
 
-Your mission is to find at least 1 person who is not a student and invite them for coffee/tea/gelato/walk around Occom Pond (or even just 15 minutes to video chat). This could be a professor you find inspiring, a mentor, a parent, a co-worker from an internship, your favorite barista, or someone completely random in town. If a family member then you have to do 2 interviews as it is generally easier to interview a family member. 
+Your mission is to find at least 1 person who is not a student and invite them to a short chat (social distanced, zoom call, etc). This could be a professor you find inspiring, a mentor, a parent, a co-worker from an internship, your favorite barista, or someone completely random in town. If a family member then you have to do 2 interviews as it is generally easier to interview a family member. 
 
 ## Interview Them
 
@@ -26,7 +26,7 @@ Pay attention to them while you converse. How are they acting? Are there any par
 
 ## Partner
 
-Do this assignment with a partner (but you each need to have chosen 1 person to interview together, so at least 2 interviews together).  It is much easier to keep conversations going with a partner to help.  Have one person take notes.  Have some prepared questions / topics.  Talk about some ideas you might have and build off of them. If you can't find a partner - ask in the #section-fallwinter slack channel, if you choose to do this one without a partner then record the conversation so you aren't taking notes while having the conversation. Ask for their permission to do so.
+Do this assignment with a partner (but you each need to have chosen 1 person to interview together, so at least 2 interviews together).  It is much easier to keep conversations going with a partner to help.  Have one person take notes. Have some prepared questions / topics.  Talk about some ideas you might have and build off of them. If you can't find a partner - ask in the #section-fallwinter slack channel, if you choose to do this one without a partner then record the conversation so you aren't taking notes while having the conversation. Ask for their permission to do so.
 
 ## Tips On Good Need Finding
 

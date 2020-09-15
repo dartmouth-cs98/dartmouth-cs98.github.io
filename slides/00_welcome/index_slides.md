@@ -53,16 +53,18 @@ name: Course Goals
 ???
 * talk about history
 * class used to be a layup
-* first realized nobody had built stuff
+* first realized few had built stuff from scratch
 * so added rigor for complexity
 * then added rigor for idea - realized people needed to love it
 * the general point here is: you have half a year, don't fucking waste it on something you don't care about.
+* ill talk about htis a lot throughout the next couple of weeks
 * **in this class you have the freedom to choose to work on something you care about**
+* it is less a formal class and more a cool opportunity to do that
 
 
 
 ---
-name: Who are you to be teaching this class?
+name: Who am I to be teaching this class?
 
 .medium_small[![](img/zing0.jpg)]
 
@@ -73,14 +75,15 @@ name: Who are you to be teaching this class?
 
 
 ???
-* me? doesn't reallly matter
-* worked in webdev when it was done in perl, before python was invented
-* been in your shoes - loved all my projects classes,  made my best friends for life in projects classes, hated how they were structured, watched teams crash and burn, wanted to create a structure that support and empowers students to build cool things (dali was born out of that). 
+* who me? usually don't intro myself as i get to know you **informally around sudikoff**, but remote is more challenging - **please do stop in/ don't be afraid to chat**
+* worked in webdev when **perl** was a popular language and **tables were how you did layout**
+* **love building stuff and helping empower people to build their visions of the world**
+* my  parents were artists - if i wanted a toy, they told me to make it - and i've since realized not everyone has had that experience - out of nothing->something
+* been in your shoes - been a student here. loved all my projects classes,  made my best friends for life in projects classes, hated how they were structured, watched teams crash and burn, wanted to create a structure that support and empowers students to build cool things (dali was born out of that). 
 * this class and dali were built out of what i wished i had had when i was an undergrad
-* i'm here to help, i may not always know the answer and theres plenty i don't know, but i always have opinions and am here to support you as you take what you've learned and build something cool - anything!
-* while yes, i can help the most with webdev stuff/react based stuff like react-native, don't think your project has to be that, if i dont' know something - i'll try to connect with you someone who does
-* my  parents were artists - if i wanted a toy, they told me to make it
-* want to help people have the transformative experience of creating something out of nothing.  and idea->reality
+* i'm here to **help**, i may **not always know the answer** and theres plenty i don't know, but i always have **opinions** and am here to support you as you take what you've learned and build something cool - anything!
+* while yes, since i also teach fulsltack - i can help the most with webdev stuff/react based stuff like react-native, don't think your project has to be that, if i dont' know something - i'll try to connect you to someone who does
+* my mission for a long time has been to help people have the transformative experience of creating something out of nothing.  and idea->impact
 
 
 
@@ -103,7 +106,7 @@ name: etc
 * activities such as bughunts and testing
 * brainstorm and pitch ideas
 * inter and intra group collaboration
-* will keep time logs - for billing purposes
+* in the past we kept time logs - like for for billing purposes not sure if i'll do that this time around
 
 
 
@@ -122,7 +125,7 @@ name: Online @
 * administrative stuffs
 * using github extensively, get comfortable
 * previous projects on github and on the website
-* open an issue or PR!
+* open an issue or PR! communicate with me about what you'd like this class to be
 
 
 
@@ -142,15 +145,14 @@ name: Code
 ```
 
 ???
-* think of it more like industry intellectual property
-* don't use another companies code without it being above board
-* internet full of codes is a good thing - we're all archeologists - puzzle solvers
+* non standard academic honesty disclaimer - if you've taken 52 you've heard this before
+* internet full of codes is a good thing - we're all archeologists - glue together pot shards of code
 * if copy - just cite it
 * sharing is caring (when cited)
 * goals is to share your work - have lots of green squares on github
-* remember, I am hyper available, just talk to me
 * helps me helps your teammates
-* sometimes important because maybe there's more reasoning to why something was done some way
+* important because maybe there's more reasoning to why something was done some way
+  * in industry you want readable code with explanations of why you are doing something - if you copy/paste from stackoverflow - link to it - someone later might thank you - that someone might be you! if there comes along a better answer or that code had bugs for instance
 
 
 
@@ -187,7 +189,8 @@ name: this is git
 .fancy.medium_small[![xkcd git](http://imgs.xkcd.com/comics/git.png)]
 
 ???
-* mandatory
+* git feature flow is mandatory
+* part of grade is pull requests
 
 
 ---
@@ -221,7 +224,7 @@ name: Project Management
 * mandatory, graded!, **helpful**
 
 ???
-* how many have used a task tracker such as Jira before?
+* how many have used a task tracker such as Jira before? - should be a way to raise your hand in remo
 
 ---
 name: Grading
@@ -243,14 +246,12 @@ name: Grading
 
 ???
 * grading is somewhat vague at least to start - you get milestones but really its the final product quality that matters - rethinking even using canvas
-* will try to have individual meetings with each one of your - details to follow
-* may be adjusted slightly
 * your grade my vary based on individual contribution (combined metric effort+feedback+participation+github)
 * weekly checkins will start once you have teams
 * grumpier in my old age
-* people have complained that project goals weren't clear and they were penalized about user experience issues
 * "didn't realize that there would be a focus on UX and whether the project was usable"
-* problem unless researchy or difficult then we can talk about pivoting / progress on solving the problem
+* **each milestone is a minimum / more what you should be doing during that week - if you do the minimum you probably won't end up with a good project at the end**
+* check /check minus / check plus
 * again talk to me if things are unclear - but can't get away with slacking
 * the question is do you want to graduate having built something cool AND with a good grade?  tell me what you want - if you want to pass and don't care, do tell me, i'll try to help make that painless so we're not fighting
 
@@ -260,8 +261,10 @@ name: Survey
 <iframe src="https://dalilab.typeform.com/report/fOJUbuwP/Muj6riUJCSJtvPIv"  width="900" height="500" frameBorder="0" ></iframe>
 
 ???
+* sent out a survey to get a sense of your goals
 * good stuff in here
 * **a little surprised that making the world a better place wasn't a bit more popular** given how it is all going to shit right now - but we'll have a couple weeks to explore some possibilities here.
+* i'll probably rant a bit in the next weeks about how you have the talent to make a real positive impact - so bear with me
 
 ---
 name: What you want, P1
@@ -628,7 +631,7 @@ name: Outside the Box?
 
 
 ---
-name: Previous Projects
+name: Let's See Some Previous Projects
 
 
 * [http://cs98.me/projects/previous/](http://cs98.me/projects/previous/)
@@ -749,11 +752,13 @@ name: next up: Hack-A-Thing
 
 .medium_small[![](img/hack-a-thing.gif)]
 
-* [Hack-a-thing-1](../projects/milestones/hack-a-thing-1)
+* [Hack-a-thing-1](/projects/milestones/hack-a-thing-1)
   * individually or in pairs
-  * choose some technology based on interesting
+  * choose some technology based on interest
+  * find a tutorial or two
   * hack something together
-  * plan to spend **10 hours** (min) learning/exploring
+  * plan to spend **10 hours** min learning/exploring
+
 
 ???
 * idea is to broaden your horizons
@@ -762,6 +767,8 @@ name: next up: Hack-A-Thing
   * but don't get tooo attached
 * follow a tutorial
 * plan to spend at least 10 hours on this
+* my favs: unity3d, react, react-native
+* plenty of good tutorials out there, if you start one and don't like it you can drop and try out a few small ones etc. 
 
 
 
@@ -779,12 +786,12 @@ name:
 ]
 
 .right[
-1. each person write down a random word
-1. form teams
+1. spread out to 5 people per table - be brave and move around
+1. as a team write down 5 random words in the [figma words page](https://www.figma.com/file/bwTuttjwGi2INJOK7oHxvc/Hacktivity-%231-20F?node-id=0%3A1)
 1. swap words with another team
-1. brainstorm and create a product that ties together all words
-1. can be a digital or physical product
-1. create a presentation and show it
+1. brainstorm and create some visuals for a product that ties together the words
+1. can be a digital/physical product
+1. prep pitch and show it
 ]
 
 ???
