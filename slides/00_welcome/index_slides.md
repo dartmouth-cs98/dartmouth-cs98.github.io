@@ -59,18 +59,44 @@ name: Course Goals
 * the general point here is: you have half a year, don't fucking waste it on something you don't care about.
 * **in this class you have the freedom to choose to work on something you care about**
 
+
+
+---
+name: Who are you to be teaching this class?
+
+.medium_small[![](img/zing0.jpg)]
+
+* webdev since the late 90s
+* love building stuff and helping empower people to build their visions of the world
+* almost always online
+* have been in your shoes
+
+
+???
+* me? doesn't reallly matter
+* worked in webdev when it was done in perl, before python was invented
+* been in your shoes - loved all my projects classes,  made my best friends for life in projects classes, hated how they were structured, watched teams crash and burn, wanted to create a structure that support and empowers students to build cool things (dali was born out of that). 
+* this class and dali were built out of what i wished i had had when i was an undergrad
+* i'm here to help, i may not always know the answer and theres plenty i don't know, but i always have opinions and am here to support you as you take what you've learned and build something cool - anything!
+* while yes, i can help the most with webdev stuff/react based stuff like react-native, don't think your project has to be that, if i dont' know something - i'll try to connect with you someone who does
+* my  parents were artists - if i wanted a toy, they told me to make it
+* want to help people have the transformative experience of creating something out of nothing.  and idea->reality
+
+
+
+
 ---
 name: etc
 
 .medium_small[![](img/tn8zWeNYA73G0.gif)]
 
 <!-- * 3B — 4:30-6:20pm -->
-* 3A - Mon 3:30-5:20 and Tues 4:30-6:20, LSC 201
-* Mondays, discussion/activities
-<!-- * Tuesdays, discussion/activities -->
+<!-- * 3A - Mon 3:30-5:20 and Tues 4:30-6:20, LSC 201 -->
+* L - Tuesdays/Thursdays 5-6:50pm ET. 
+<!-- * Mondays, discussion/activities -->
+* Tuesdays, discussion/activities
 * Thursdays, meeting time/sharing
-* x-hours
-  * Mon 5:35 - 6:25pm, as necessary room available
+* x-hours, Fridays 6:20-7:10 optional team meeting time
 
 ???
 * coding together
@@ -177,7 +203,7 @@ name: git help
 
 
 ---
-name: ZenHub
+name: Project Management
 
 <div class="blockquote-style">
     <video loop autoplay muted class="medium fancy">
@@ -188,11 +214,11 @@ name: ZenHub
     </video>
 </div>
 
-* agile workflow
-* similar to products such as Asana/Jira/Basecamp/Trello
+* agile workflow - github projects
+* similar to Asana/Jira/Basecamp/Trello/ZenHub
 * integrated with GitHub - every ticket is an issue
 * specific work issues/tickets per person to coordinate work
-* mandatory, graded, **helpful**
+* mandatory, graded!, **helpful**
 
 ???
 * how many have used a task tracker such as Jira before?
@@ -210,9 +236,9 @@ name: Grading
 * Individual contribution scaling vs Team grade
     * Github pull requests and commits
     * Issue engagement and story points
-    * Technical (craft, breadth/depth of work) *
-    * Team (communication, attendance, team player) *
-    * Growth (curiosity, rigor, improvement over the term) *
+    * Technical (craft, breadth/depth of work)
+    * Team (communication, attendance, team player)
+    * Growth (curiosity, rigor, improvement over the term)
 
 
 ???
@@ -226,42 +252,47 @@ name: Grading
 * "didn't realize that there would be a focus on UX and whether the project was usable"
 * problem unless researchy or difficult then we can talk about pivoting / progress on solving the problem
 * again talk to me if things are unclear - but can't get away with slacking
-
+* the question is do you want to graduate having built something cool AND with a good grade?  tell me what you want - if you want to pass and don't care, do tell me, i'll try to help make that painless so we're not fighting
 
 ---
 name: Survey
 
-<iframe src="https://dalilab.typeform.com/report/QgAYvm/kS6HWM9RUXiTTMde"  width="900" height="500" frameBorder="0" ></iframe>
+<iframe src="https://dalilab.typeform.com/report/fOJUbuwP/Muj6riUJCSJtvPIv"  width="900" height="500" frameBorder="0" ></iframe>
 
-???s
+???
+* good stuff in here
+* **a little surprised that making the world a better place wasn't a bit more popular** given how it is all going to shit right now - but we'll have a couple weeks to explore some possibilities here.
 
 ---
 name: What you want, P1
 
-* I just hope for one more opportunity at Dartmouth to put together what I’ve learned and **end up with a cool product**
-* Would ultimately like **to do something which I'm very proud** which sounds corny but is true! 
-* whatever my group's **final product is continues to be in use after the spring**
-* I am super excited for this course! I really enjoyed our final project in CS52 of coming up with a product idea and quickly implementing it in a few weeks. I feel like CS98 will allow us to really delve into all aspects of our product and **produce something much more polished and fully developed**.
-* I **hope to be efficient** on this project
-* To have a **solid experience with teamwork and collaboration** while creating an **impactful product**.
-* create a **meaningful project that can really benefit those who need help**.
-
+* excited to get to work and **build something cool**! I want to finally **feel like a real coder**
+* would love to **build something very impressive** from the ground up.
+* a project which could be eventually built into a **full-scale product** with a company built around it
+* build a **deeper understanding/empathy for product**
+* make something that can realistically **be used by many people**. **grow** in new coding skills
+* mostly just want to be involved in a team of equals working toward a singular goal
+* Hope to **build a complete product** I can pitch to VC's
+* really want to come up with / **find an idea I love**, then I think the rest will be great.
+* think of an idea that allows me to **learn a lot** and that I am passionate about
+* work on an idea that I find **meaningful**.
+* make something that functions as a **portfolio piece**. come away with a much more polished project
 
 ???
-* great my whole life my driving motivation has been to build cool things
-* my  parents were artists - if i wanted a toy, they told me to make it
-* want to help people have the transformative experience of creating something out of nothing.  and idea->reality
+* 
 
 ---
 name: What you want, P2
 
-* I believe a lot of technology today such as instagram filters and what not, improve the quality of our lives, but not so much **solve the necessary problems**. I would love to tackle some of those issues with this culminating experience!
-* I'm extremely **excited to have a finished product that we can use and show to others**.
-* It's cool to **work on something you're passionate about**.
-* I’m going to be a PM after graduation so I’m really **excited to work hands-on** for the last time (for a while).
+* I am really excited to take this course. I hope that I can finish the winter with a **project that I am truly proud of**. I think this course could be the single most useful course that I take at the college i**f the work is put in and done right**
+* really excited to work with others on a cool project!
+* I hope to create something awesome that **helps the world and solves a need**. I want to take this opportunity to **make something special**. I'm excited to have the ability to build something awesome for a college class. I'm hopeful team dynamics and stuff go well and every one carries equal weight.
+* I would really love to be able to ship whatever I am working on. I also hope that my project has a **positive and tangible impact** on my users. *My biggest worry going into software development is that I might be working on products that don’t really matter to people (they could live without them) and I love tech because of the opportunity to improve people’s quality of life.*
+* **This seems like a daunting task, but I'm up for the challenge!**
 
 ???
-* the question is do you want to graduate having built something cool AND with a good grade?   when i meet with each of you individually - tell me what you want - if you want to pass and don't care, do tell me, i'll try to help make that painless so we're not fighting
+* 
+* 
 
 
 ---
@@ -283,14 +314,42 @@ name: What you want is what I want!
 
 
 ---
-name: Your Questions So Far
+name: Your Questions/Worries So Far P1
 
-* How is a two-term course usually structured?
-* Do we pick our groups or are they assigned?
+
+* The remote nature of the course makes me concerned that it will be difficult to get help if needed.
+* I'm worried about balancing the time commitment between school while also trying to figure out what to do after graduation
+* am worried because I don't have a group and I don't think I'm going to be able to come up with a good/impactful idea
+* worried that I won't be passionate about the project I'm placed on or that my vision for its impact won't align with my teams. It would be horrible to spend 6 months on a project that matters little to me or that my groupmates aren't passionate about.
+* I'm a little concerned my skills are too narrow
 * How will we learn new technologies? Are there any class modules?
 
+???
+* i'm very approachable for help, some of the course is about figuring stuff out with your team, but i can help work around things
+* this class helps built a great project that you could either turn into your thing after graduation or helps have sharable code that you can talk through with potential employers
+* don't worry about having a group - we'll work on ideas and figuring out groups in the first 3.5 weeks :-) 
+* hopefully the project/team selection process will help make sure everyone cares - but if you are ever stuck feeling this way, talk to me
+* for new technologies we'll spend the next two weeks exploring ideas and tech - you'll do a few short hackathons to brush up on skills and explore things you haven't tried before.
+
+---
+name: Your Questions/Worries So Far P2
 
 
+* in teams of 5 there will necessarily be huge gaps in skill and, as in most group projects, there will be 1-3 people who have to carry most of the workload. I'd like the work to be balanced but also want a quality product (i.e. want the best people working on it) which makes that outcome seem like an inevitability. Curious about what solutions you've developed in the past for free-riders and mismatched skillsets.
+* How will these remote terms affect group work and ability to get stuff done?
+* I hope being virtual does not effect enthusiasm with projects
+* How is a two-term course usually structured?
+* Do we pick our groups or are they assigned?
+
+
+???
+* great question - firstly the grade is scaled based on how much work you put in, so while the project might get an A because it was carried by a couple of super dedicated members, a slacker who didn't put in code or effort could get a D. 
+* for mismatched skillsets, the best thing is that we have 6 months, and that we'll start off with some hackathons to try to level the playing field.
+* ended last year with a term of remote cs98 and it generally worked pretty well, the biggest thing to do is make sure your team meets and works together a lot. 
+* i hope so too - virtual is tough - this summer 52 projects (much shorter) were pretty awesome though and people were excited and motivated to work on them.  if you feel unmotivated tell me,  i love sharing my excitement for projects
+* first term is learning, defining, making MVP that tests essential functionality
+* term 2 is learning from feedback, iterating, polishing, shipping
+* groups are formed by pitching ideas and then we form groups around those ideas based on ranking of idea, who you want to work, who you don't want to work with.  
 
 
 ---
@@ -322,8 +381,8 @@ name: Commitment
 
 .tiny.fancy[![](img/kitten-commitment.gif)]
 
-* 10-15hrs a week min (outside of class)
-* physically working together is important
+* ~15hrs a week (outside of class)
+* working together/at the same time is important
 * class time (some of which can be coding time)
 * the more you put in the more you'll get out in terms of project satisfaction / grade / fame / fortune / impact on the world
 
@@ -357,9 +416,10 @@ name: CS vs Startup
 
 * What about science?
 * What about social entrepreneurship?
+* What about **R**esearch?
 
 ???
-* last term someone asked CS culminating vs startup
+* is this a CS culminating or a startup founding class? 
 * it can definitely be more experimental or not have a clear consumer
 * but we're humans, so everything is a problem to solve
 * if you want to do something algorithmic or a software library or dev tool thats fine, all the steps we take can be made to fit. 
@@ -406,20 +466,17 @@ name: Potential Stacks
 
 * no BAAS/PAAS allowed
 * client-side:
-  * web: HTML5, _react_, etc
-  * desktop: native, _electron_, etc
-  * mobile: native, _react-native_, etc
-  * game/vr: _unity3d_, unreal, etc
-  * IoT: _arduino_, raspberry pi, wearables, etc
+  * web: HTML5, __react__, etc
+  * mobile: native, __react-native__, etc
+  * desktop: native, __electron__, etc
+  * game/vr: __unity3d__, unreal, etc
+  * IoT: __arduino__, raspberry pi, wearables, etc
 * server-side:
-  * _node_, _express_, rails, elixir, _flask_, django*
+  * __node__, __express__, rails, elixir, __flask__, django*
 * hosting:
-  * _Heroku_, _GitHub pages_, AWS, etc
+  * __Heroku__, __Netlify__, AWS, etc
 * databases:
-  * _MongoDB_, sqlite, RDS, MySQL, Postgres
-* hardware:
-  * buttons, eye tracking, vr, cameras, sensors!
-  * hololens, kinect, oculus, cardboard
+  * __MongoDB__, sqlite, RDS, MySQL, Postgres
 
 And much much more
 
@@ -429,6 +486,7 @@ And much much more
 * \*hate
 * we're actually gonna learn some shit
 * let me know if you want to try some cool hardware - we can try working that out
+* bolded are things i like and recommend
 
 
 
@@ -438,13 +496,12 @@ name: Potential Hardware
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H713WDWTUDo?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
   * buttons, eye tracking, vr, cameras, sensors!
-  * hololens, magic leap, kinect, oculus quest, google cardboard, actual cardboard
+  * magic leap, kinect, oculus quest, google cardboard, actual cardboard
   * raspberry Pi IoT kits, haptic gloves
   * iphones for AR
 
-??? 
+???
 * we have some devices available to play with
 * not today but if you are interested in any of these slack me
 
@@ -474,7 +531,7 @@ name: How do we get there?
 
 .medium.fancy[![](img/shield.gif)]
 
-* hack-a-thing to get us warmed up
+* hack-a-things to get us warmed up
 * then milestones to guide us
 * github to keep us on track
 
@@ -487,18 +544,20 @@ name: How do we get there?
 ---
 name: At a glance
 
-* Week 1: Interviews, Hack-a-thing 1
-* Week 2: Share Papers, Pitch Ideas, Form groups
-* Week 3: Hack-a-thing 2, Define project and scope and technologies
-* Week 4: Mockups, data models, codes started
-* Week 5: Code wired together, rudimentary functionality
-* Week 6: Code reviews
-* Week 7: Focus on critical/testable features
-* Week 8: MVP Demo Celebration
-
+* Term 1 (learning, defining, making MVP that tests essential functionality)
+    * Week 1: Interviews, Hack-a-thing 1
+    * Week 2: Share Papers, Pitch Ideas, Form groups
+    * Week 3: Hack-a-thing 2, Define project and scope and technologies
+    * Week 4: Mockups, data models, codes started
+    * Week 5: Code wired together, rudimentary functionality
+    * Week 6: Code reviews
+    * Week 7: Focus on critical/testable features
+    * Week 8: MVP Demo Celebration
+* Term 2  (learning from feedback, iterating, polishing, shipping)
 
 ???
 * expectations:  you have a working testable thing at the end of t1 that you enjoy working on and are excited to get feedback on. 
+* you implemented the core most interesting functionality so you could get feedback on it
 
 
 ---
@@ -510,9 +569,9 @@ The goal: a project you are super proud of!
 
 ### also Fame and Fortune* / a better world
 
-.left[![](img/technigala.jpg)]
-
-.right[![](img/mafia.jpg)]
+<!-- .left[![](img/technigala.jpg)] -->
+<!-- .right[![](img/mafia.jpg)] -->
+.medium_small[![](img/mafia.jpg)]
 
 
 ???
@@ -567,160 +626,13 @@ name: Outside the Box?
 * Your ideas can be serious, world changing, or completely silly.  The point is to enjoy building something cool.
 
 
----
-name: Previous Project: Hindsite 16f-17w
-
-
-.large[![](../../projects/previous/16f-17w/img/timeline-reef.gif)]
-
-???
-* better history chrome extension
-* full text search of every page you've visited - previews
-* was in the chrome store for a little while
-* cost a lot in hosting - they all had jobs
-* but they applied to ycombinator
-* and worked on it for an extra term too
-* sam altman kept it installed and logged in for a few months
-* cool problems to solve like scalability and security
-
 
 ---
-name: Previous Project: Climb.AR 16f-17w
+name: Previous Projects
 
 
-.large[![](../../projects/previous/16f-17w/img/music_game_demo.gif)]
-
-???
-* climbing game platform
-* uses kinect and camera to identify holds, and provide a unity library for event based game building
-
-
-
----
-name: Previous Project: Lensflare 16f-17w
-
-
-.small[![](../../projects/previous/16f-17w/img/lensflare_poster.jpeg)]
-
-???
-* HoloLens app to allow spatial annotations with text, video and 3D animated assets
-* has a backend and management interface to allow easily adding/customizing assets
-* production quality could have been a product
-
----
-name: Previous Project: MiAM 17f-18w
-.tiny[![](../../projects/previous/17f-18w/img/miam-feed.gif)]
-.tiny[![](../../projects/previous/17f-18w/img/miam-remix.gif)]
-
-
-???
-* react-native app that allows people to create / stack different gifs and stickers together and remix others
-* also meme battle
-* published but didn't get the PR push at the end
-
-
-
-
----
-name: Previous: Planit '17, Wanderlust '18
-
-.left[![](../../projects/previous/17f-18w/img/planit2.gif)]
-
-.right.medium_small[![](../../projects/previous/18w-18s/img/wanderlust-2s.gif)]
-
-
-???
-* travel planning and journalling 
-* built a nice complex system (phoenix elixir/ react)
-* didn't really do much user testing so in the end the product wasn't ready for prime time
-* travel is hard... crowded space
-
-
----
-name: Previous Project: Scannible 17f-18w
-.tiny[![](../../projects/previous/17f-18w/img/scannibble1.gif)]
-
-???
-* food allergen database and detector
-
-
----
-name: Previous Project: CoinDuel 18W-18S
-.tiny[![](../../projects/previous/18w-18s/img/coinduel-howtoplay.gif)]
-
-???
-* fanduel with crypto - in app store, was oddly fun
-* a bit simple but they made their own currency
-
-
----
-name: Previous Project: Monad 18W-18S
-.medium[![](../../projects/previous/18w-18s/img/monad.gif)]
-
-???
-* playmonad
-* learn to code ai bots online
-* built a really complex deployment platform
-* docker, react, python, mongo
-
-
----
-name: Previous Project: Tasssel 18F-19W
-
-> <iframe style="border: none;" width="500" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FaUwZCUORxAAuT7YZ1Eiq0dbv%2FHome%3Fnode-id%3D2%253A2%26scaling%3Dscale-down" allowfullscreen></iframe>
-
-
-???
-* fly out to YC - was pretty full featured product
-
-
----
-name: Previous Project: Smores 18F-19W
-
-.medium[![](../../projects/previous/18f-19w/img/smores-screencap.jpg)]
-
-
-???
-* collaborative physics puzzles - help the marshmallow get to the graham cracker
-* 2 iphones at the same time
-
-
----
-name: Previous Project: NavSight 19W-19S
-
-.tiny[![](../../projects/previous/19w-19s/img/jukejuke-1.gif)]
-
-???
-* multipart experiment, had OBD car adapter, had ML model for traffic lights, had a haptic belt (lots of soldering) for direction control
-
----
-name: Previous Project: Echo.Verse 19W-19S
-
-<div class="blockquote-style">
-    <video loop autoplay muted class="small fancy">
-    <source src="http://res.cloudinary.com/dali-lab/video/upload/ac_none,w_560,h_315,c_crop/v1546203223/cs98/19w-pixivity-2.webm" type="video/webm"/>
-    <source src="http://res.cloudinary.com/dali-lab/video/upload/ac_none,w_560,h_315,c_crop/v1546203223/cs98/19w-pixivity-2.mp4" type="video/mp4"/>
-    <source src="http://res.cloudinary.com/dali-lab/video/upload/ac_none,w_560,h_315,c_crop/v1546203223/cs98/19w-pixivity-2.ogv" type="video/ogg"/>
-    Your browser does not support HTML5 video tags
-    </video>
-</div>
-
-???
-* art installation, reddit scraping, sentiment analysis, unity3d for displaying echo chambers
-
----
-name: Previous Project: BearTrax 19W-19S
-
-.tiny[![](../../projects/previous/19w-19s/img/wity-0.gif)]
-.tiny[![](../../projects/previous/19w-19s/img/wity1.gif)]
-
-
-???
-* art installation
-
-
-
-
+* [http://cs98.me/projects/previous/](http://cs98.me/projects/previous/)
+* look through these for inspo!
 
 
 ---
