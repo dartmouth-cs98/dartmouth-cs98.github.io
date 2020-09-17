@@ -7,8 +7,8 @@ permalink: /slides/
 
 # CS98.01 20F (term 1)
 * [Welcome](00_welcome/)
-<!-- * [Idea Generation](01_ideas/) -->
-<!-- * [Interviews](01_interviews/) -->
+* [Idea Generation](01_ideas/)
+<!-- * [Interview Sharing](01_interviews/) -->
 <!-- * [Paper Sharing, Milestone Intro](02_paper_sharing/) -->
 <!-- * [Hack-a-thing-1](02_hack-a-thing-1/) -->
 <!-- https://tinyurl.com/cs98-20w-pitches -->

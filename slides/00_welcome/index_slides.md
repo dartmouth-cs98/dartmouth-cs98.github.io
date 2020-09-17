@@ -539,9 +539,9 @@ name: How do we get there?
 * github to keep us on track
 
 ???
-* we'll just follow a simple recipe for success - weekly progress
+* we'll just follow a simple recipe for success - **weekly progress**
 * never had a team not have a successful working project
-* caveat last spring a couple teams had last minute breaking changes during demos... broke my heart to see it
+* caveat once a team had last minute breaking changes during demos... broke my heart to see it
 
 
 ---
@@ -687,9 +687,9 @@ name: what is the point?
 * care for making a better world
 * the existential responsiblity to create the world as you want it to be
 * you may feel powerless, but every action you do in the world matters
-* i'm not inspirational, but i want to try through this class to empower you all to care about what you do and to change the world for the better
+* i want to try through this class to empower you all to care about what you do and to change the world for the better
 * if you want to talk philosophy, i have office hours
-* collegepulse wants to solve societal pressures and misconceptions - less people drink and have sex then people might feel pressured into believing - greater potential impact past american schools - what does it mean to black out in cultures where nobody drinks? or where drinking ages are different?
+* collegepulse wants to solve societal pressures and misconceptions - less people drink and have sex then people might feel pressured into believing
 
 ---
 name: just breathe
@@ -725,6 +725,7 @@ name: start with: Interviews
 * who knows prof: Misha Gronas?
 * he always has crazy ideas - his last was outsourcing streaming videos of talks/events  
 * will send out assignment on canvas
+* broader the potential problem space and broaden the technology space as  well thorugh the first couple of weeks of exploration - goal is to be fun
 
 
 

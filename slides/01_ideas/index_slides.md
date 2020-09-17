@@ -36,7 +36,8 @@ name: CS98: Today
 ---
 name: Hack-a-thing-1
 
-<iframe src="https://giphy.com/embed/tQ8uT9t0uK92M" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+.fancy.medium[![](img/hacker.gif)]
+
 
 * what to hack on?
 * anybody started?
@@ -44,17 +45,18 @@ name: Hack-a-thing-1
 ???
 * anybody choose a thing to hack on?   what?
 * anybody need ideas?
+* anybody need a partner? 
 
 
 
 ---
 name: Technologies
 
-.fancy.medium[![](img/andreessen.jpg)]
+.fancy.medium_small[![](img/andreessen.jpg)]
 
 * hearables
+* mobile sensors
 * ar/vr
-* sensors
 * wearables
 * IoT
 
@@ -64,6 +66,7 @@ name: Technologies
 * marc andreessen 
 * hearables
 * lots of cool sensors from the stuff on your phone to cheap eeg for brainwaves and heartrate monitors
+* some of these are harder than others to work with during remote times, but sensors or hearing tech might still be workable
 
 ---
 name: WTF hearable?
@@ -106,14 +109,14 @@ name: AR/VR
 
 
 
-
----
+<!-- 
 name: Spatial Computing?
 
+stoopid magic leap
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HD9jeo9M8vo?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-* lots of work left to do
+* lots of work left to do -->
 
 ---
 name: VR
@@ -141,11 +144,12 @@ name: VR
 ---
 name: change in the nature of change
 
-.fancy.large[![](img/changes.jpg)]
+[.fancy.large[![](img/changes.jpg)]](https://www.youtube.com/embed/AwXzt2CV7is?start=230)
 
 * Jim Coulter ’82 Founding Partner and Co-CEO, TPG Capital
 
 ???
+* last year went to a cool talk from this alum
 * he talked about how they look for industries where there was a bunch of change happening - in particular change that was maybe slowing but not decided
 * but he's looking for good investments not necessarily things to fix that are broken
 * https://www.youtube.com/embed/AwXzt2CV7is?start=230
@@ -160,7 +164,7 @@ name: distributed economies
   * dark ages (celibate living in monastery)
   * medieval Europe (tutors living in home)
   * 18th century (oxford or apprenticeships)
-  * 19th century (assembly line education)*
+  * 19th century (assembly line education)
   * Now 21st century - what are we doing better?
 
 ???
@@ -183,6 +187,7 @@ name: Some Broad Topics
 * education
 * games
 * behavior change (health, happiness, security)
+* mobile sensors
 * opensource
 
 
@@ -196,13 +201,14 @@ name: Some Broad Topics
 
 
 ---
-name: Share Topics
+name: Find and Share Topics
 
 .small[![](img/sharing.gif)]
 
 * Next assignment: find and share an interesting paper or article
 * can be about tech or problems in the world
-* post in slack `#inspiration` with comment about why it is interesting to you as you research
+* will present these next week
+* feel free to post in slack `#inspiration` as you go
 
 ???
 * this is just a little starter
@@ -220,15 +226,16 @@ name: Interviews
 
 
 ???
-* talk to at least 1 person who is not a student
-* they can be professor you find inspiring, a mentor, a parent, a co-worker from an internship etc
-* ask about a problem or idea for something they would like improved/fixed/made
-* record: target audience, what the problem is,  what the proposed solution might look like
-* idea is to get our thoughts percolating about ideas that might be outside dartmouth
-* who knows prof: Misha Gronas?
-* he always has crazy ideas - his last was outsourcing streaming videos of talks/events  
-* will send out assignment on canvas
-
+* another way we'll gather more inputs is via the interviews assignmnet
+* when you interview - come prepared with some canned questions
+* ones i like are around what are some things you hate?  how about annoying?
+* Don’t suggest answers to your questions: Even if they
+pause before answering,
+* Don’t be afraid of silence: Often if you allow there to be
+silence, a person will reflect on what they’ve just said
+and say something deeper.
+* Be aware of nonverbal cues: Consider body language
+and emotions. this can show points of weakness to attack. I mean shows an affect that might be helpful, is this awkward for them? do they want to say more? 
 
 
 ---
@@ -237,21 +244,19 @@ name: Stories
 .fancy.tiny[![](img/stories.gif)]
 
 * What are we but a collection of stories that we tell?
-
-* oorrr What is the problem?
-  * Story hook / why it matters?
+* What is the problem?
+* Story hook / why it matters?
 
 ???
 * but why is story important?
 * what are we but a collection of stories that we tell?  real deep.
-* if you ever want story time in class just ask me something
-* and then:
-* What are you doing / your solution?
-* How are you special?
-
+* at this stage you are trying to find peoples stories
+* but soon you'll build a story of your product that you'll pitch
+* and it'll be based on a story of the problem you are solving
+* i love telling stories
 
 ---
-name: Ok but like, why?
+name: Stories -> Pitches
 
 .fancy.medium[![](img/why.gif)]
 
@@ -263,7 +268,7 @@ name: Ok but like, why?
 ---
 name: Project Teams
 
-.fancy.medium[![](img/community-nope.gif)]
+.fancy.medium[![](img/thatscool.gif)]
 
 
 * more teams+ideas next week
@@ -287,9 +292,7 @@ name: Ideas
 
 ???
 * hard to generate
-* today we'll do some brainstorming
-* today will be different
-* queue smoke machine
+* hence we'll take a little time on this, gather more input first
 
 
 ---
@@ -324,25 +327,86 @@ name: Choose your own adventure
 
 .fancy.medium[![](img/Months1.png)]
 
-
 * https://waitbutwhy.com/2014/05/life-weeks.html
 
 ???
+* tools to visualize your life
+* blog by tim urban 
 * this is cs98
+
+---
+name: Choose your own adventure
+
+.fancy.small[![](img/Weeks.png)]
+
+???
+* how about in weeks? 
+* all this is to say that we're spending a decent amount of time together
+* lets make the best of it
+
+---
+name: Choose your own adventure
+
+.fancy.medium_small[![](img/WeeksMatter.png)]
+
+???
+* transitioning into a new phase 
+
+
+---
+name: Build Things That Matter
+
+.medium[![](img/Venn1.png)]
+
+
+???
+* another image from the same waitbywhy blog - a lot has been written about what makes a good life
+* this guy summarizes it:  working to improve the future or the lives of others is what makes for a good week. 
+*  with or without this class - you have the tools to make an impact
+* **hopefully in the upcoming weeks we spend together we can have all good weeks, improving the future for ourselves, each other, and maybe even the world**
+
+
+---
+name: Software Solutions @scale
+
+* Challenges:
+  * WhatsApp: "irresponsible and explosive messages"
+  * Facebook: please regulate us before we hurt someone, nvm all your clicks are belong to us
+  * Slack: noise over knowledge
+  * Attention Economy: competing for your attention with garbage, selling your time and data for what?
+* Many Opportunities:
+  * resource sharing
+  * health
+  * education
+  * society
+
+???
+* as soon as you start thinking in terms of scale - everything gets more interesting, more opportunities and challenges
+* when you set out to build a platform that lets you rate your friends (fb) or send messages to groups (whatsapp)- you think you're doing a good thing, but at scale lots more issues to consider.
+* **whatsapp** - theoretically brings people together - but also promotes mob killings.
+* **facebook** - zuckerberg in the congressional hearings last year asked for new laws, but has since dug in on freedom of expression and allowing political advertising on the platform
+* **slack**: productivity tool but also makes people feel productive when they are asking and answering questions that should have been documented better - millions of hours of productivity lost - people spending online instead of with their families
+* be mindful 
+    * **lots of industries where scale will bring change**
+    * health - small monitoring and motivation improvements can extend lifespans, increase happiness
+    * society - bringing people actually closer rather than dividing them - maybe VR
+
+
 
 ---
 name: In Class Interviews!
 
 .medium_small[![](img/anatomy.jpg)]
 
-* [Interviews Milestone](../projects/milestones/interviews)
-* interview someone you don't know well (tables paired)
+* [Interviews Milestone](/projects/milestones/interviews)
+* interview someone you don't know well (paired)
 * tell stories, stir the pot, get inspired
 * talk about things you hate, ideas you have, cool technologies you want to try or have tried
 * 15 min or so then switch
 
 
 ???
+* this will help find an interview partner, or you can use student interview as your second interview
 * idea is to STIR THE POT, inject some randomness into our thinking
 * i'm happy to talk about some big topic problems i see that need solving
   * homelessness
