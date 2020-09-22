@@ -23,30 +23,33 @@ name: base
 ---
 name: CS98: Today
 
-* ### Part 1) Project Sharing (next door)
+<!-- * ### Part 1) Project Sharing (next door)
 * ask questions
 * give feedback
 * eat cookies
 * ### Part 2) Interview
-* gather back here for rest of class
+* gather back here for rest of class -->
+
+* share out hackathings
+* discuss interviews
 
 
 ---
 name: CS98: Today
 
 ## Sit at tables in groups of ~5
-#### don't sit with your Interview partner if you had one!
-#### mix it up and try not to sit with friends!
+
+* don't sit with your Interview partner if you had one!
+* mix it up and try not to sit with friends!
 
 
 
 ---
 name: Today
 
-
+* Hackathings
 * Interviews
 * Ideas++
-* Broaden our problem scope
 
 ???
 * today talk about ideas and workshop out some of the interviews

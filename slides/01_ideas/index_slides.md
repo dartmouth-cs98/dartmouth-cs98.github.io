@@ -25,7 +25,6 @@ name: CS98: Today
 
 * Topics
 * Broaden our problem scope
-* Hack-a-thing1
 
 ???
 * today talk about ideas and workshop out some of the interviews
@@ -95,7 +94,7 @@ name: AR/VR
 * before pokemon go came ingress
 
 ???
-* niantic is doing some cool stuff - i emailed them asking about access to platform maybe 
+* niantic is doing some cool stuff - a lot of it is not yet available - world platform
 * before pokemon go they had a game called ingress
 * sent people on missions to take pictures of landmarks
 * used that for pokemon go
@@ -168,15 +167,17 @@ name: distributed economies
   * Now 21st century - what are we doing better?
 
 ???
+* shift from centralized toward decentralized/distributed across a variety of sectors
 * industries disrupted by the distributed economy
+* maybe started with computing:  not mainframe or even personal computer -> but distributed devices
 * healthcare: not monolithic hospitals -> distributed care
-* computing:  not mainframe or even personal computer -> but distributed devices
 * shopping:  many online stores or at least sellers
 * experiences:  not tour agencies but individuals via airbnb
-* education: not industrial buildings with thousands of students ->  supplemental materials 
+* education: not industrial buildings with thousands of students ->  supplemental materials  (brick -> khan academy). brick building - sitting in a classroom with all our peers, processed class by class... hmm.
 * media:  not blockbuster or cable, many streaming services
 * this enables a few things ->  distributed solutions are easier!
 * you don't need a ton of money to build a factory floor -> you can solve smaller problems -> this is cascading - increasing the speed of innovation
+* role of the platform in enabling this - airbnb, amazon, etc
 
 
 ---
@@ -185,7 +186,7 @@ name: Some Broad Topics
 .fancy.small[![](img/flyaway.gif)]
 
 * education
-* games
+* games/gamification
 * behavior change (health, happiness, security)
 * mobile sensors
 * opensource
@@ -236,6 +237,7 @@ silence, a person will reflect on what they’ve just said
 and say something deeper.
 * Be aware of nonverbal cues: Consider body language
 and emotions. this can show points of weakness to attack. I mean shows an affect that might be helpful, is this awkward for them? do they want to say more? 
+* are they excited are they angry? build on that
 
 
 ---
@@ -254,6 +256,7 @@ name: Stories
 * but soon you'll build a story of your product that you'll pitch
 * and it'll be based on a story of the problem you are solving
 * i love telling stories
+* story is how we get someone interested
 
 ---
 name: Stories -> Pitches
@@ -261,7 +264,7 @@ name: Stories -> Pitches
 .fancy.medium[![](img/why.gif)]
 
 * choose initial started ideas via pitching
-* the story of what your product does
+* the story of the problem your product solves
 
 ???
 
@@ -351,6 +354,7 @@ name: Choose your own adventure
 
 ???
 * transitioning into a new phase 
+* scary for me to look at
 
 
 ---
@@ -400,7 +404,7 @@ name: In Class Interviews!
 
 * [Interviews Milestone](/projects/milestones/interviews)
 * interview someone you don't know well (paired)
-* tell stories, stir the pot, get inspired
+* tell stories, stir the pot, get inspired, find synergies
 * talk about things you hate, ideas you have, cool technologies you want to try or have tried
 * 15 min or so then switch
 
@@ -412,6 +416,7 @@ name: In Class Interviews!
   * homelessness
   * universal income
   * education
+* write it down the same way you would for the assignment and submit together with the other interview
 
 ---
 name: Coming Next
