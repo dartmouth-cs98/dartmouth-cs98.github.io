@@ -30,12 +30,16 @@ name: CS98: Today
 * ### Part 2) Interview
 * gather back here for rest of class -->
 
+* notion for class
 * share hackathings
 * discuss interviews
 
 ???
 * first question - how many people would like to have a second freeform hackathing for next week  - or should we do project idea pitches starting next week
-* sent a poll on slack
+* looks like starting pitches next week!  will post how to create pitch slides
+* for notion - let's use this to supplement any sharing in class - so we'll post activities in here
+* also make yourself exist in the class directory - even if you think you have your team all set, still good to get to know some of your classmates - we'll use that database in the projects database as well.
+* might just port the entire class website over to notion for simplicity.
 
 
 ---
@@ -47,6 +51,8 @@ name:  Speed Hack Sharing
     * what you didn't
     * what you got stuck on, etc
 
+???
+* also don't forget to post on the notion what you did so people can explore it a little and ask questions
 
 ---
 name: Interview Hacktivity 
