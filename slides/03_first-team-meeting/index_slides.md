@@ -50,11 +50,12 @@ name: What is it we are building?!
 
 
 ---
-name: Team Meeting
+name: First Team Meeting (TODAY!)
 
 .medium.fancy[![](img/skating.gif)]
 
-
+- [X] [Group Dynamics Worksheet](/projects/milestones/group-dynamics-worksheet)
+- [X] [First Team Worksheet](/projects/milestones/first-meeting)
 
 ???
 * get to know your team
@@ -93,20 +94,37 @@ name: Don't be afraid to
 
 
 ---
-name: Choose your own adventure
+name: State Of The Art
 
-.medium[![](img/Months1.png)]
+.medium.fancy[![](img/whatdoweknow.gif)]
 
+* concurrently: [State of the Art Research](/projects/milestones/project-research)
 
-* https://waitbutwhy.com/2014/05/life-weeks.html
 
 ???
-* this is cs98
-* inspiration / motivation
-
-
+* while you're discussing with your teams over the weekend ALSO concurrently do
+* state of the art research
+* look into what has been done before
+* papers or links to products
+* if your idea has already been done, learn from what they did and what you could do better
+* think: market + competitive + scientific methods research all together!
 
 ---
+name: TODOs:
+
+* 1: [First Team Meeting Worksheet](/projects/milestones/first-meeting)
+* 2: [Group Dynamics Worksheet](/projects/milestones/group-dynamics-worksheet)
+* concurrently: [State of the Art Research](/projects/milestones/project-research)
+* (github classroom links to start first team repo)
+* postponing next hack-a-thing till you decide as a team what to do
+
+???
+* first two are templates and discussions that you can start today and finish up this weekend
+* state of the art research is due next class - as you hone in on your idea you need to do some back
+
+
+
+<!-- ---
 name: Team Hack-A-Thing-2
 
 * [more hacking due monday!](http://cs98.me/projects/milestones/hack-a-thing-2)
@@ -124,29 +142,4 @@ name: Team Hack-A-Thing-2
 * work on the idea today, ask yourselves the existential question
 * can you create the meaning you want to see in the world?
 
-
-
-
-
-
-
-<!-- ---
-name: TODOs:
-
-* 1: [First Team Meeting Worksheet](../../projects/milestones/first-meeting)
-* 2: [Group Dynamics Worksheet](../../projects/milestones/group-dynamics-worksheet)
-* next: [State of the Art Research](../../projects/milestones/project-research)
-* (github classroom links to start first team repo)
-
-???
-* get to know your team
-* compare ideas and thoughts
-* write a team contract - how you'll resolve conflicts etc
-* do a little bit more research into the idea - talk to me
-
  -->
-
-
-
-
-

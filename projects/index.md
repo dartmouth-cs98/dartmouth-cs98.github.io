@@ -26,7 +26,7 @@ To kick off the course we'll do a week long hackathon on a technology/platform o
   - *in pairs*
 
 **Week 3**:<br>
-  A second round week long hackathon on a technology/platform of your choosing to stretch coding muscles and prepare for project. This is to be done as a team.
+  Figuring out what the idea really is. A second round hackathon on a technology/platform of your choosing to stretch coding muscles and prepare for project. This is to be done as a team.
   
   Idea week and Group Formation.
 

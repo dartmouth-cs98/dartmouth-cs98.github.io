@@ -86,8 +86,8 @@ Create this as a wiki page titled `Group Dynamics Worksheet` in github (more dir
 *You are required to spend at least 10 hours/week outside of class. Outline a general weekly meeting schedule with at least 1 time that everybody can make. That one meeting must include the entire team in the same room, in person. The rest of the 10 hours may be split into several sessions throughout the week. A nice tool for this is [when2meet](https://www.when2meet.com/).*
 
 ### Schedule
-* LSC 200 at 3:30 on Mondays
-* LSC 200 at 4:30 on Thursdays
+* ZOOM at 3:30 on Mondays
+* The green at 4:30 on Thursdays
 * Place at Time on Day
 * Place at Time on Day
 
@@ -129,7 +129,7 @@ If you haven't set up a team repo — let's do that now. We'll be using github c
 *Every member* on your team **must** use github classroom to set up the teams correctly and automatically.  Choose your term and section below:
 
 <!-- * [CS98 Sequence 1 starting in 19F](https://classroom.github.com/g/qI_-SZ-w) -->
-* [CS98 Sequence 2 starting in 20w](https://classroom.github.com/g/1le2uP2W)
+* [CS98 20F](https://classroom.github.com/g/wBYcda0t)
 
 The first person on your team will name the repo and the team name. Each consecutive person will click on the same github classroom link above and simply choose the repo and team to be granted permissions. Please use this as it keeps everything organized and in one place.  Once your team is created and you have all gone through the classroom link you will be able to create additional repositories as necessary within the cs98 github organization.
 
