@@ -12,29 +12,23 @@ published: true
 
 Goal: Hack on something potentially related to your project
 
-Similarly to [Hack-A-Thing-1](hack-a-thing-1), we'll spend a week hacking on some technology. However, now you can either choose a new technology to try out that is more relevant to your project, or you can go deeper on what you were working on previously.  However, if you choose to dive deeper there is an expectation that the work is reasonably complex to justify two weeks of experimentation. Don't just brush this assignment off and follow some easy tutorial.  This is a chance to play around with something you've been curious about and share it with the rest of the class.  If you choose to keep hacking on the same thing as last week make sure to use git tag to mark it, and that you do enough on it to count. 
+Similarly to [Hack-A-Thing-1](hack-a-thing-1), we'll spend a week hacking on some technology. However, now you can try out something that is more relevant to your project together with some of your teammates.
 
-You should attempt to hack on something related to your teams project idea.  Use this as an opportunity to brush up on needed skills, or to hack a small technology demo of some particular functionality.   Don't worry about merging it in later, these are standalone hacks, but they'll help you figure out how to do it better once you are implementing it for realz later.
+You should attempt to hack on something related to your teams project idea.  Use this as an opportunity to brush up on needed skills, or to hack a small technology demo of some particular functionality.  Don't worry about merging it in later, these are standalone hacks, but they'll help you figure out how to do it better once you are implementing it for realz later.
 
-## Using git tags
-
-```bash
-git commit #make sure you are all committed and pushed
-git tag hack-a-thing-1 #this will tag the current place you are at as hack-a-thing-1
-git push origin --tags
-```
+*If your first hack-a-thing is something related to your project, you can choose to dive deeper on it with the expectation that your second hack-a-thing is reasonably complex to justify two weeks of experimentation.*
 
 ## Time Commitment/complexity
 
-You should plan to spend at least 10 hours on this. The workload of this course overall is at a minimum 10 hours a week (outside of class) — if you spend less your final product may suffer and you will make the world sad.
+You should plan to spend at least 10 hours on this.
 
 ## Teams
 
-For this milestone you should work in pairs. This is also an opportunity to try to work with someone new or try out a working dynamic.
+For this milestone you can work in pairs from your project team. Discuss as a team what sorts of things you want to try out. This is a chance for team members to learn the stack and to explore some code libraries.
 
 ## Build
 
-Choose some technology and build a thing.  This can be as simple as finding a good tutorial and following it or get your hands dirty with a problem that is related to your project and try to see if you can get it working.  For instance, you think you want to build a webapp where image uploading will be an integral part. For this you could get a standalone page up that has image uploading.  Or if you think your product will be an iOS app but you've never coded one, for this you could follow an online tutorial to get a sample iOS app up and running.  The goal is to have a bit of time to play with some technologies and gain a bit of comfort with the potential options that you are considering for your project.
+Choose some technology and build a thing.  This can be as simple as finding a good tutorial and following it or get your hands dirty with a problem that is related to your project and try to see if you can get it working.  For instance, you think you want to build a webapp where image uploading will be an integral part. For this you could get a standalone page up that has image uploading.  Or if you think your product will be an iOS app but you've never coded one, for this you could follow an online tutorial to get a sample iOS app up and running.
 
 ## Tutorials
 
