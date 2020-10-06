@@ -27,13 +27,14 @@ name: CS98 - This Week!
 
 .medium.fancy[![](img/thats-okay.gif)]
 
-* Mon, Thurs:
+* Tues, Thurs:
   1. User Personas
   1. Project Proposal
   1. Feature Spec -> ZenHub
   1. (getting started on sketches)
-
-* Thurs-Next Tues:
+* Weekend:
+  1. Hack-a-things2 due 
+* Next week:
   1. Mockups and Data Models
   1. Scaffolding!
 
