@@ -27,6 +27,7 @@ name: Mockups and Data Models
 
 
 ???
+* tonight project proposal due
 * just some tips
 * sorry for the repeat for those of you who have heard this before
 * not really a designer (tried to go to graphic design school many years ago though)
@@ -361,7 +362,8 @@ name: Today: Plan, Build, Discuss, Sketch
 
 ???
 * today - work on plans if you haven't finished yet, discuss stuff, plan stuff, draw stuff
-* if you want feedback ask me or Kizito
-* I'd like to make **SCAFFOLDING DUE tuesday - think we can pull that off? **
+* if you want feedback ask me
+* I'd like to make **Mockups DUE next Tuesday - think we can pull that off? **
+* I'd like to make **SCAFFOLDING DUE next Thursday - think we can pull that off? **
 
 
