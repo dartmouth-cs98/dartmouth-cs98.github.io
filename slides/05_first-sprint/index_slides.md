@@ -109,7 +109,7 @@ name: Your Epics
 
 
 ---
-name: Scaffolding
+name: Scaffolding & Deep Wiring
 
 .fancy.left[![](img/microservice.png)]
 .fancy.right[![](img/gitflow.png)]
@@ -120,17 +120,6 @@ name: Scaffolding
 * hello world from client, server, etc
 * github pull request flow -> zenhub issue
 ]
-
-???
-* due thurs
-
-
----
-name: Deep Wiring
-
-.fancy.left[![](img/mr2.jpg)]
-.fancy.right[![](img/mr1.jpeg)]
-
 
 ???
 * connect database to server to client
