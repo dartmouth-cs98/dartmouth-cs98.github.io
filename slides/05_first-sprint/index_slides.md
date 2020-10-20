@@ -116,9 +116,9 @@ name: Scaffolding & Deep Wiring
 
 .right[
 * readme.md
-* starter code for every part of project
-* hello world from client, server, etc
+* code for every part of project
 * github pull request flow -> zenhub issue
+* then deep connect client->api->db / some functionality
 ]
 
 ???
