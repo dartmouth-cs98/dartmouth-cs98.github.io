@@ -83,10 +83,10 @@ Go through ZenHub and organize! This is a generalized process to follow every we
     * label them with a <span style="color: red;">🐛bug</span> label [*(create new labels)*](https://help.github.com/en/articles/creating-a-label)
 1. 🚀**Enter Feedback**: Enter in any **design** feedback you have in Figma that is actionable (link to comment):
     * label them with a <span style="color: purple;">[design]</span> label
-1. 🚀**Update Epics**: Prioritize your Feature Epics/Create new Epics as necessary:
+1. 🚀**Update Epics/Roadmap**: Prioritize your Feature Epics/Create new Epics as necessary:
     * See [Epics](feature-spec#create-epics) to review
     * Use epics for any large task with subtasks that need to be broken out - each is a distinct feature of your product (not at the level of technical detail).
-    * update dates on Epics.
+    * update dates on Epics - *look at your roadmap and update there.*
 1. 🚀**New Subtasks**: Break down subtasks you want to deal with this week. They can associated with Epics or standalone - should go into *Unsorted* for now.
     * **create new issues** (select the appropriate repo "Create in ..." if associated with a particular repo) 
     * **label them** can be a helpful way to communicate about priority or types of tickets: 

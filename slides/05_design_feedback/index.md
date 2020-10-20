@@ -1,6 +1,6 @@
 ---
 layout: page_with_slides
-title: Design Feedback and Scaffolding
+title: Design Feedback
 published: true
 ---
 

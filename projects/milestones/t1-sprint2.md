@@ -68,7 +68,7 @@ During this step you should follow the [Rake Your ZenHub Garden](wiring-start-sp
 
 1. 🚀**Create New Sprint Milestone**
 1. 🚀**New Bugs**
-1. 🚀**Update Epics**
+1. 🚀**Update Epics/Roadmap**
 1. 🚀**New Subtasks**
 1. 🚀**Process All Issues**
 1. 🚀**Assign Subtasks**
