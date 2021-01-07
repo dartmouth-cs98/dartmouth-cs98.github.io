@@ -106,7 +106,6 @@ name:  Positive Feedback Selections
 * gave us autonomy, extreme passion for the class and was a very valuable resource
 * always available to answer questions.
 * did a good job gradually loosening the leash, so to speak. gave us more and more freedom to self determine as time progressed.
-* passionate lectures
 * always available on Slack for help and genuinely wants everyone to succeed.
 * popping in to check on each group
 * empathy for product, felt like a strong culminating experience
