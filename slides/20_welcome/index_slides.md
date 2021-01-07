@@ -42,12 +42,10 @@ name: Administrative Stuff
 .medium_small[![](img/zoom.gif)]
 <!-- *gif removed* -->
 
-* ZOOM & Tandem
+* Remo mostly
 * Tuesdays & Thursdays: team checkins and work time
 * Tips:
-  * video on for community /feedback
-  * Tandem while you work - quick and easy impromptu meetings especially during class work time
-  * Check Slack lots
+  * Use Slack lots, better to overcommunicate with your team
   * Use ZenHub - last term was.. ok
 
 <!--
@@ -62,74 +60,82 @@ name: Administrative Stuff
 
 
 ---
-name:  New Grading!
+name:  Constructive Feedback Summary
 
-* Grading : 🔥👍👎
-* You'll want to trend towards more thumbs up and oks, and fewer thumbsdown.
-* Will fix on canvas and release 
-* No news yet on C/NC for last term vs grade - preference? 
+* a bit more **clarity on grading** and more updates on grading
+* **closer oversight** throughout the 10 weeks vs. checking in after week 10
+* go back to the powerpoint format, easier to follow
+* would recommend decreasing the number of different platforms on which we met.
+* sometimes the remo **lectures went on a little long**
+* **more feedback/comments on sprints and code**
+* one more round of hack-a-things would be great
+* wish we got into project groups earlier in the class.
+* need more time or knowledge of different tech stacks available
+* the organization is not super clear from the website.
+* we weren't given any direction for the best way to learn our chosen tech stack. It seems like CS52 should be a prereq.
+* wish we got started on coding sooner and spent less time coming up with project ideas.
 
 ???
-* as luck have it currently you're all passing
-* but i know grade isn't hte motivator here but making an impressive product is
+* closer oversight - you want it, you got it. this isn't a traditional class  - it is basically an experience where you as a team define what you want to build and do it, i just help a little with the structure, happy to be as handsoff or handson as you want!
+* more feedback - got it will do! please do also feel free to tag me in PR's if there is something specific you want feedback on
+* for when/where/platform for class meets, i wish there was on platform that did it all
+* closer oversight - you want it, you got it. 
+* all these are good - and why the second term will help - now you're all more comfortable with the stacks and done with learning curve can really start making progress
+* i'll try to clarify any structure issues - but this term is much simpler, pretty much just sprints, and i'll try to help keep you on track
 
 
 ---
 name:  Constructive Feedback Summary
 
-* Yeah just **more resources**/ more class approved resources for common Tech Stacks
-* The timeline of the first few assignments before group formation could be tighter.
-* Proactive check-in on students' progress more often
-* **Check in with each group each class**
-* Grade assignments in a more timely manner / **getting feedback on Sprints** to see if we are doing things at a good pace.
-* Better introduction for people who haven’t taken 52
-* I think **more time could be spent on the pre-development phase** and more with students getting their hands dirty.
-
+* group projects are hard
+* Remo can be a bit buggy
+* timing of the class is difficult given remote learning
+* zoom fatigue, but that's not specific to this course
+* why there aren't grad TAs or some guidance from dali 
 
 ???
-* now that grading is simpler - will be easier - and i'm looking forward to spending more time with each team with the new remote structure. 
-* more time on pre-dev?
-
-
-
----
-name:  Constructive Feedback Summary
-
-* Maybe **laying out what requirements needed** to be specifically completed by Technigala. I know we had a baseline of requirements but maybe in class towards the beginning of the term explicitly laying out what needed to be done by technigala.
-* Not always clear **what/when things are due**, due to the combination of the class website and Canvas both giving stimuli on that front.
-* A little more **proactive guidance**
-
-???
-* more checkins got it!
-* let me think a bit more in terms of each of your teams and will get back to you with specific guidance of expectation
+* this stuff is all very real - zoom fatigue, people fatigue, remote learning and all whatever is happening in our nations capitol.  i think what i'd like to do to help with this is basically foster more personal connections - have been thinking a lot about how to help us all stay afloat and happy.  in class zoom games i don't think are the solution, although if you have ones that are fun please tell me!  i'd rather try to schedule a time to meet each of you individually, just a short chat about your hopes and dreams in general and for this class. i'll send out deets. 
 * happy to provide guidance - but also want to give you creative freedom - so reach out to me please if you want more
 
 
 ---
 name:  Positive Feedback Selections
 
-* Great. I thought the **weekly checkpoints** were enough to keep us organized and set a roadmap for the week. It was the perfect amount of time to elapse for us to work on our issues, before meeting and creating more.
-* The focus on the project grade is a good choice.
-* I think the **energy and tone** is really good for the class
-* managed to clear the stressful atmosphere.
-* he set up an awesome and **engaging** course for us. **we loved it and learned a ton**
-* Again, not much to change!
-* Great way to end my CS major!
+* Allowing students a great degree of freedom
+* Everything.
+* gave us autonomy, extreme passion for the class and was a very valuable resource
+* always available to answer questions.
+* did a good job gradually loosening the leash, so to speak. gave us more and more freedom to self determine as time progressed.
+* passionate lectures
+* always available on Slack for help and genuinely wants everyone to succeed.
+* popping in to check on each group
+* empathy for product, felt like a strong culminating experience
+* **teamwork** (**teaching each other** what we've learned)
+* like how wide open it is and how flexible it is.
+* cool opportunity to **apply the learnings from the CS major to whatever context or project we want.**
+* will hopefully allow me to **graduate** so that's cool!
+
 
 ---
 name:  Positive Feedback Selections
 
-* It was good! Definitely a lot of work, but I learned a lot, thought our **group worked well together**, and am **glad we have another term of it**! **I can't wait to keep working on my project.**
-* I’ve really enjoyed it, happy to have been a cs major.
-* Awesome idea for a course, I was **very motivated to work hard**.
-* I really like the way the **class prepares you to do your own thing**
-* the small activities in the beginning like the presentations and pitches were really helpful. [...]very organized and structured which I appreciated.
-* Loved the work times in class
+* I'm very **happy to be learning something new and creating a very intricate project for my culminating major experience**
+* positively. I've **learned a lot** about developing as part of a team.
+* **group time** is helpful for everyone.
+* It is very much **self enforced** but it was good having check ins to show progress and weekly sprint to keep us on top of things
+* hack-a-things were great for determining a tech stack, **great to learn without too much pressure**
+* forces good git flow
+* Remo is really nice/fun for meeting up as teams; Working for a remote team was great
+* Remo was very good for communicating with my team while also being able to easily communicate with professor Tregubov.
+* The professor integrated the various online meeting platforms into the class quite well.
+* well organized meeting times
 
 ???
 * collaboration, team, ownership, fun
-* there were lots of other great ideas - which i won't go into detail, but suffice to say there changes in term1 and some in term2 also!  if your idea wasn't mentioned don't worry i'm going through all of them
-* tricky part is balancing out all the requirements and backgrounds
+* key takeaways:
+   * pros/cons for platforms, and timing issues
+   * more feedback though
+   * battling zoom fatigue
 
 
 
@@ -138,7 +144,7 @@ name:  Positive Feedback Selections
 name: This Week
 
 * today: [project self reflection](/projects/milestones/t2-project-self-reflection)
-* thursday: [plan sprint 1](/projects/milestones/t2-starting-sprint)
+* tomorrow: [plan mini sprint 1](/projects/milestones/t2-starting-sprint)
 * end of week: [personal success](/projects/milestones/t2-personal-success)
 * all the time: update designs!!
 
@@ -170,7 +176,7 @@ name:  This term generally
 
 ???
 * what makes you proud might be different, hence the assignment for your personal success goals
-* last term a couple projects experiences traction - 2 projects had their medium posts picked up by professional publications - 1 project has a paying customer - and some others saw some real usage numbers after sending it out online - you wouldn't believe how exited they were - the goal is for all of you to have that experience - being excited about seeing some impact - we'll talk more about this
+* last year a couple projects experiences traction - **3 projects had their medium posts picked up by professional publications** - 1 project had a paying customer - and some others saw some real usage numbers after sending it out online - you wouldn't believe how exited they were - the goal is for all of you to have that experience - being excited about seeing some impact - we'll talk more about this
 * quantum, cooking, and sprout, ftg had a bunch of people download
 * questions concerns? 
 
@@ -181,22 +187,6 @@ name: Time For ACTIVITY!
 
 .fancy.medium_small[![](img/activity.gif)]
 .fancy.medium_small[![](img/slideforfun.gif)]
-
-???
-* more arts and crafts time!
-* kidding,  lets just catch up
-
----
-name: Time for TANDEM
-
-.right[
-* close out zoom
-* sign onto tandem
-* join your team room
-* work on project reflection
-* i'll drop in to catch up
-]
-.left.large[![](img/tandem.jpg)]
 
 ???
 * more arts and crafts time!

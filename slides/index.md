@@ -24,8 +24,8 @@ permalink: /slides/
 <!-- EE* [GitHub Pull Requests](05_github-prs) -->
 <!-- EE* [Code Review Intro](07_code_review/) -->
 
-<!-- # CS98.02 20S (term 2) -->
-<!-- * [Welcome back!](20_welcome/) -->
+# CS98.02 21W (term 2)
+* [Welcome back!](20_welcome/)
 
 <!-- * [Success Validation](24_success_validation/) -->
 
