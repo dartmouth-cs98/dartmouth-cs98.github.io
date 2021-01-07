@@ -162,6 +162,7 @@ name:  This term generally
 
 * figure out revised direction
 * focus on: 
+  * not stalling
   * polished experience
   * any shortcuts are hidden (no user workarounds)
   * taking pride in your work
@@ -179,6 +180,7 @@ name:  This term generally
 * last year a couple projects experiences traction - **3 projects had their medium posts picked up by professional publications** - 1 project had a paying customer - and some others saw some real usage numbers after sending it out online - you wouldn't believe how exited they were - the goal is for all of you to have that experience - being excited about seeing some impact - we'll talk more about this
 * quantum, cooking, and sprout, ftg had a bunch of people download
 * questions concerns? 
+* some project stall because it feels hard to refactor if necessary to implement bigger picture vision stuff.  don't be afraid.  as with anything, you have to be ok with deleting to make progress
 
 
 
