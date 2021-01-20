@@ -82,7 +82,7 @@ Class time will be used for topic hackathons, team meetings, showing your work, 
   - Open Help/Hack Hours during X-Hour every week. <br>
 
   - Instructor: [Tim Tregubov](mailto:tim@cs.dartmouth.edu)<br>
-    [by appointment in Sudikoff 219/007](https://calendly.com/timofei/check-in)<br>
+    [by appointment](https://woven.com/c/timofei16/meet-with-me)<br>
     ![](assets/imgs/tt_profile.jpg){: .fancy .profile}<br>
     [@tim](https://cs98-dartmouth.slack.com/messages/@tim/)<br>
 
