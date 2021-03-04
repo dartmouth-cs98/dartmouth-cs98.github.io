@@ -134,16 +134,19 @@ During the second term we'll focus on specific weekly milestones that each team 
   - [ ] Milestone: [Publishing](milestones/t2-publishing)
 
 **Week 9**:<br>
-  MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Expo style. Open to public. Invite Everyone! 
+  
 
   - [ ] Milestone: [Close out Sprint 8, Evaluate and Plan Sprint 9](milestones/t2-sprint8)
   <!-- - [ ] Milestone: [Publishing](milestones/t2-publishing) -->
-  - [ ] Milestone: [FINAL DEMOS](milestones/t2-demos)
+  - [ ] Milestone: [Draft a Medium Post](milestones/t2-medium)
   <!-- - [ ] Milestone: [Pre-Final-Demo Bug Hunt](milestones/t2-final-bughunt) -->
 
 **Week 10**:<br>
   MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Expo style. Open to public. Invite Everyone! 
 
   - [ ] Milestone: [Close out Sprint 9!](milestones/t2-sprint9)
-  - [ ] Milestone: [Write a Medium Post](milestones/t2-medium)
+  - [ ] Milestone: [Publish a Medium Post](milestones/t2-medium)
+
+**Week 11**:<br>
+  - [ ] Milestone: [FINAL DEMOS](milestones/t2-demos)
   - [ ] Milestone: [Final Project Submission](milestones/t2-summary)

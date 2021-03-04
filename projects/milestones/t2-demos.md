@@ -11,7 +11,7 @@ published: true
 
 This is your final for the term and a public demo of the projects! Invite your friends, family, enemies, and randos!  There will be food and drinks!
 
-Demos are **Tuesday, June 9th, Online @ 6-8pm**. Please show up at **5:50pm** to get ready and don't leave before your instructor comes by (remember we could have had a final instead!).  The event will be expo style - you will have a *virtual* table with your project name. 
+Demos are **Wednesday, March 17th, Online @ 6-8pm**. Please show up at **5:50pm** to get ready and don't leave before your instructor comes by (remember we could have had a final instead!).  The event will be expo style - you will have a *virtual* table with your project name. 
 
 <!-- Come early to clean up your screens and set things up. -->
 
