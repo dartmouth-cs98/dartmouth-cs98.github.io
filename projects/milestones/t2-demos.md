@@ -7,7 +7,7 @@ published: true
 
 ![](img/endofterm.gif){: .fancy .small}
 
-![](img/Technigala-20S.jpg){: .fancy .medium}
+![](img/Technigala21W.png){: .fancy .medium}
 
 This is your final for the term and a public demo of the projects! Invite your friends, family, enemies, and randos!  There will be food and drinks!
 
