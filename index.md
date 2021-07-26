@@ -50,19 +50,19 @@ Teams will be ~5 members each. Group dynamics and roles will be discussed. Group
 
 ## Time Commitment:
 
-Groups are required to establish a team meeting schedule for coding hours throughout the week. Minimum obligation is 10 hours/week outside of class time. Group coding is encouraged.
+Groups are required to establish a team meeting schedule for coding hours throughout the week. Minimum obligation is 10 hours/week **outside** of class time. Group coding is encouraged.
 
 ## Schedule:
 
-There are 2 (COSC98.01+COSC98.02) sequences of this course. You need to take COSC98.01 and COSC98.02 in consecutive terms and cannot mix and match. FallWinter is **20F(98.01) + 21W(98.02)** and WinterSpring is **21W(98.01) + 21S(98.02)**.
+There are 2 (COSC98.01+COSC98.02) sequences of this course. You need to take COSC98.01 and COSC98.02 in consecutive terms and cannot mix and match. FallWinter is **21F(98.01) + 22W(98.02)** and WinterSpring is **22W(98.01) + 22S(98.02)**.
 
 ### Class:
 
   - **FallWinter (20F-21W)**
-    - L Classes will meet Tuesday and Thursday (5:00-6:50).
+    - 3A Classes will meet Tuesday and Thursday.
     - Thursday class time will used for team meetings and working together.
     <!-- - 3BX will be available for help / team meeting time. -->
-    - Location: virtually on various platforms
+    - Location: in-person! LSC200!
     
   <!-- - **Section WinterSpring (20W-20S)**
     - 3A Classes will meet Monday (3:30-5:20) and Thursday (4:30-6:20).
@@ -71,8 +71,8 @@ There are 2 (COSC98.01+COSC98.02) sequences of this course. You need to take COS
 
 Class time will be used for topic hackathons, team meetings, showing your work, and coding together time.  Each project team will also meet separately every week to work and hack together.  At least 10 hours per week is required and will be logged.
 
-![](assets/imgs/zoom.gif){: .fancy .small}
-<!-- ![](assets/imgs/lsc200.jpg){: .fancy } -->
+<!-- ![](assets/imgs/zoom.gif){: .fancy .small} -->
+![](assets/imgs/lsc200.jpg){: .fancy }
 <!-- ![](assets/imgs/carson61.jpg){: .fancy } -->
 
 ### Office Hours and Contact:
@@ -82,7 +82,7 @@ Class time will be used for topic hackathons, team meetings, showing your work, 
   - Open Help/Hack Hours during X-Hour every week. <br>
 
   - Instructor: [Tim Tregubov](mailto:tim@cs.dartmouth.edu)<br>
-    [by appointment](https://woven.com/c/timofei16/meet-with-me)<br>
+    [by appointment](https://calendly.com/timofei)<br>
     ![](assets/imgs/tt_profile.jpg){: .fancy .profile}<br>
     [@tim](https://cs98-dartmouth.slack.com/messages/@tim/)<br>
 

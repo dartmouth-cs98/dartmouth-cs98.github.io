@@ -77,6 +77,7 @@ We recognize that the academic environment at Dartmouth is challenging, that our
 Unfortunately due to the nature of the class auditing is not possible.
 
 
+<s>
 # COVID-19 Addendum
 
 While the COVID-19 pandemic has already changed how this course is structured, it has the potential to result in further personal impact which may prevent you from continuing engagement in the class. This may be due to contraction of the disease by you or a loved one, increased familial responsibilities, financial difficulties, or impacts on your mental/emotional health.
@@ -84,6 +85,7 @@ While the COVID-19 pandemic has already changed how this course is structured, i
 We have structured the course so that these disruptions will not necessarily prevent you from successfully completing this course. Course meetings will be conducted via Zoom with any important messaging recorded. This will enable flexible viewing of the course content. We will schedule opportunities for live interaction with the Professor during diverse times throughout the week. The group project is designed to be facilitate remote work using industry standard collaboration tools.
 
 In the event that you are directly or indirectly impacted by COVID-19 in such a way that will affect your performance in the course, it is imperative that you reach out to the instructor as soon as possible.  You may also reach out to your undergraduate Dean if that would make you more comfortable. We cannot assist you if we don’t know there is a problem. Our first priority is your health and security. We will work to put you in touch with appropriate resources to assist you. In addition, appropriate accommodations (for example: deadline extensions and/or extra office hours) will be implemented.
+</s>
 
 ## Video Recording
 
