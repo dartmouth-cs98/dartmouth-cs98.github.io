@@ -1,5 +1,8 @@
 # dartmouth-cs98.github.io
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4c66fafd-5e1b-45b4-8261-101b87c0cc83/deploy-status)](https://app.netlify.com/sites/cs98/deploys)
+
+
 Source for the website for Dartmouth CS98.  Updated periodically.  Now includes slides and notes. Contribute at your leisure.
 
 **NOTE:** assignments tend to change without notice, so if you are taking the class please refer to canvas / the published site at [cs52.me](http://cs52.me).
