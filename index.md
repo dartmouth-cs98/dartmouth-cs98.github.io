@@ -58,9 +58,9 @@ There are 2 (COSC98.01+COSC98.02) sequences of this course. You need to take COS
 
 ### Class:
 
-  - **FallWinter (20F-21W)**
-    - 3A Classes will meet Tuesday and Thursday.
-    - Thursday class time will used for team meetings and working together.
+  - **FallWinter (21F-22W)**
+    - 3A Classes will meet Monday and Wednesday.
+    <!-- - Thursday class time will used for team meetings and working together. -->
     <!-- - 3BX will be available for help / team meeting time. -->
     - Location: in-person! LSC200!
     
@@ -69,7 +69,7 @@ There are 2 (COSC98.01+COSC98.02) sequences of this course. You need to take COS
     - Thursday class time will used for team meetings and working together.
     - Location: ZOOM (see link on Slack) -->
 
-Class time will be used for topic hackathons, team meetings, showing your work, and coding together time.  Each project team will also meet separately every week to work and hack together.  At least 10 hours per week is required and will be logged.
+Class time will be used for topic hackathons, team meetings, showing your work, and coding together time.  Each project team will also meet separately every week to work and hack together.  At least 10 hours per week is the required time commitment to this course.
 
 <!-- ![](assets/imgs/zoom.gif){: .fancy .small} -->
 ![](assets/imgs/lsc200.jpg){: .fancy }
@@ -92,10 +92,16 @@ Class time will be used for topic hackathons, team meetings, showing your work, 
     [@kate](https://cs98-dartmouth.slack.com/messages/@Kate/)<br>
  -->
 
-   <!-- - TA: [Kizito Masaba](mailto:Kizito.Masaba.GR@dartmouth.edu)<br>
+   - TA: [Will Romano](mailto:William.J.Romano.GR@Dartmouth.edu)<br>
     Office hours by appointment<br>
-    ![](assets/imgs/kizito.jpg){: .fancy .profile}<br>
-    [@kizito](https://cs98-dartmouth.slack.com/messages/@Kizito/)<br> -->
+    ![](assets/imgs/will.jpg){: .fancy .profile}<br>
+    [@Will Romano](https://cs98-dartmouth.slack.com/messages/@U026BGB7WSH/)<br>
+
+
+   - TA: [Wayner Barrios Quiroga ](mailto:wayner.j.barrios.quiroga.gr@dartmouth.edu)<br>
+    Office hours by appointment<br>
+    ![](assets/imgs/wayner.jpg){: .fancy .profile}<br>
+    [@waybarrios](https://cs98-dartmouth.slack.com/messages/@waybarrios/)<br>
 
 
 

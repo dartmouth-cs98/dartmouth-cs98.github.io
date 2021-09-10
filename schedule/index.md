@@ -10,10 +10,10 @@ title: Schedule
 ### Week 1: ###
   * Intro To Course
   * Hactivity
-  * Pitch Off
 
 ### Week 2: ###
   * Present Hack-a-thing-1
+  * Hack-a-thing-2
   * Pitch Round 1
 
 ### Week 3: ###

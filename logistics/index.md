@@ -63,23 +63,24 @@ Since 98.01 and 98.02 involve team projects and the project from 98.01 continues
 
 The Undergraduate Adviser will share the petition with a department faculty committee that will make the final determination.
 
-## Special accommodations and Religious observances ##
-
-Students with disabilities who may need disability-related academic adjustments and services for this course are encouraged to see me privately as early in the term as possible.  Similarly for Religious observances please talk to the staff as early as possible to resolve any conflicts.
-
 ## Wellness
 
 We recognize that the academic environment at Dartmouth is challenging, that our terms are intensive, and that classes are not the only demanding part of your life. There are a number of resources available to you on campus to support your wellness, including: your [undergraduate dean](http://www.dartmouth.edu/~upperde/), [Counseling and Human Development](http://www.dartmouth.edu/~chd/), and the [Student Wellness Center](http://www.dartmouth.edu/~healthed/). I encourage you to use these resources and come speak with me to take care of yourself throughout the term.
-
 
 ## Auditing ##
 
 Unfortunately due to the nature of the class auditing is not possible.
 
 
-<s>
 # COVID-19 Addendum
 
+Attendance:
+You are expected to attend class in person unless you have made alternative arrangements due to illness, medical reasons, or the need to isolate due to COVID-19. For the health and safety of our class community, please: **do not attend class when you are sick**, nor when you have been instructed by Student Health Services to stay home. You will be able to view recordings of some of the classes in Canvas if you are unable to attend. Please contact the instructor. 
+
+Safety:
+In accordance with [current College policy](https://covid.dartmouth.edu/face-mask-policy), all members of the Dartmouth community are required to wear a suitable face covering when indoors, regardless of vaccination status. This includes our classroom and other course-related locations, such as labs, studios, and office hours. If you need to take a quick drink during class, please dip your mask briefly for each sip. Eating is never permitted in the classroom. (The only exception to the mask requirement is for students with an approved disability-related accommodation; see below.) If you do not have an accommodation and refuse to comply with masking or other safety protocols, I am obligated to assure that the Covid health and safety standards are followed, and you will be asked to leave the classroom. You remain subject to course attendance policies, and dismissal from class will result in an unexcused absence. If you refuse to comply with masking or other safety protocols, and to ensure the health and safety of our community, I am obligated to report you to the Dean’s office for disciplinary action under Dartmouth’s [Standards of Conduct](https://student-affairs.dartmouth.edu/policy/standards-conduct). Additional COVID-19 protocols may emerge. Pay attention to emails from the senior administrators at the College.
+
+<s>
 While the COVID-19 pandemic has already changed how this course is structured, it has the potential to result in further personal impact which may prevent you from continuing engagement in the class. This may be due to contraction of the disease by you or a loved one, increased familial responsibilities, financial difficulties, or impacts on your mental/emotional health.
 
 We have structured the course so that these disruptions will not necessarily prevent you from successfully completing this course. Course meetings will be conducted via Zoom with any important messaging recorded. This will enable flexible viewing of the course content. We will schedule opportunities for live interaction with the Professor during diverse times throughout the week. The group project is designed to be facilitate remote work using industry standard collaboration tools.
@@ -104,3 +105,16 @@ If you have questions, please contact the Office of the Dean of the Faculty of A
 By enrolling in this course, I hereby affirm that I will not under any circumstance make a recording in any medium of any one-on-one meeting with the instructor without obtaining the prior written consent of all those participating, and I understand that if I violate this prohibition, I will be subject to discipline by Dartmouth up to and including expulsion, as well as any other civil or criminal penalties under applicable law.
 
 If you have any questions about any of these prohibitions or instructions, please consult your Dean’s Office. 
+
+## Accommodations ##
+
+Students requesting disability-related accommodations and services for this course are required
+to register with Student Accessibility Services (SAS; [Getting Started with SAS webpage](https://students.dartmouth.edu/student-accessibility/students/working-sas/getting-started);
+student.accessibility.services@dartmouth.edu; 1-603-646-9900) and to request that an
+accommodation email be sent to me in advance of the need for an accommodation. Then,
+students should schedule a follow-up meeting with me to determine relevant details such as
+what role SAS or its [Testing Center](https://students.dartmouth.edu/student-accessibility/services/testing-center) may play in accommodation implementation. This process
+works best for everyone when completed as early in the quarter as possible. If students have
+questions about whether they are eligible for accommodations or have concerns about the
+implementation of their accommodations, they should contact the SAS office. All inquiries and
+discussions will remain confidential.

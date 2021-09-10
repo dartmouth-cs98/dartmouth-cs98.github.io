@@ -6,7 +6,8 @@ permalink: /slides/
 
 
 # CS98.01 21F (term 1)
-* [Welcome](00_welcome/)
+* Welcome
+<!-- * [Welcome](00_welcome/) -->
 * Idea Generation
 <!-- * [Idea Generation](01_ideas/) -->
 * Need Finding / Interviews
