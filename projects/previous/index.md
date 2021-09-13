@@ -58,5 +58,5 @@ published: true
 
 # [20F-21W](https://dalilab.notion.site/df8ca2fe4424474bb9ba011ed3affb71?v=01d8acf555664a958569d5cf18de66fb) #
 
-> ![](20w-20s/img/facebookViz.gif){: .large .fancy}]
+> ![](20f-21w/img/facebookViz.gif){: .large .fancy}]
 
