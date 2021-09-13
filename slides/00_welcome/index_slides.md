@@ -703,9 +703,6 @@ name: just breathe
 * no kinect or hololens exp, or react-native etc
 * you can learn and build a lot in 6 months
 
-
-
-
 ---
 name: start with: Interviews
 
