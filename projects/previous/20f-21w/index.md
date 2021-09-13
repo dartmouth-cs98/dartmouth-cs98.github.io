@@ -4,6 +4,10 @@ title: 20W-20S
 ---
 
 
+[See Expo Program Here](https://dalilab.notion.site/df8ca2fe4424474bb9ba011ed3affb71?v=01d8acf555664a958569d5cf18de66fb)
+
+
+<!-- 
 
 # Artificien 20f-21w #
 
@@ -92,4 +96,4 @@ title: 20W-20S
 > ![](img/ensemble0.png){: .medium .fancy}
 > ![](img/ensemble0.gif){: .medium .fancy}
 
-
+ -->
