@@ -8,8 +8,12 @@ published: true
 
 ## To Start
 
-* setup and clone a github repo using github classroom here: [https://classroom.github.com/g/aD7rqYWq](https://classroom.github.com/g/aD7rqYWq)
-* you may work with up to 1 other person on this - but you are welcome to also work individually. You may get more out of it individually. If working in a group, the first person to accept the invite via the link above should name the repo. The second person should still use the same link but select the name of the team created by the first.  We'll be using github classroom for a lot of things.
+_You may work with up to 1 other person on this - but you are welcome to also work individually._
+
+
+🚀 setup and clone a github repo using github classroom here: [https://classroom.github.com/g/spgQ3doa](https://classroom.github.com/g/spgQ3doa). If working in a group, the first person to accept the invite via the link above should name the repo, the "team" in GitHub Classroom. The second person should still use the same link above but then select the name of the team already created.  GitHub Classroom will then generate a repository for you from a template that includes a README.md file to fill out. 
+
+🚀 Clone this repository and then do all your hack-a-thing work in the repository.  To submit your hack-a-thing simply commit and push, and then submit the link to the repo on Canvas. 
 
 
 ## Overview
@@ -55,9 +59,9 @@ This is also a time to figure out how to use git flow - if you are working with 
 ## To Turn In
 
 * github url to your repo for your attempt
-* readme.md file included in repo per above
+* README.md file included in repo per above
 * at least 2 commits per person with [author recognized by github](https://help.github.com/articles/why-are-my-commits-linked-to-the-wrong-user/#commits-are-not-linked-to-any-user).
 
 ## In Class
 
-* be prepared to show a demo of what you built in class!
+* be prepared to show a demo/screenshots of what you built in class / talk about what you learned.

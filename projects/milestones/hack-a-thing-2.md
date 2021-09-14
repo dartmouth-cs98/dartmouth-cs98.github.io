@@ -36,9 +36,9 @@ If you follow a tutorial or two just remember to acknowledge this fact in your R
 
 ## To Start
 
-* setup and clone a github repo using github classroom here: [https://classroom.github.com/g/hyGnTHEh](https://classroom.github.com/g/hyGnTHEh)
-* first person in your group to click the link above will provision the repo and name it
-* second person in your group should just click the link above also and select the proper group to be added to it
+🚀 setup and clone a github repo using github classroom here: [https://classroom.github.com/g/rM_zQP7v](https://classroom.github.com/g/rM_zQP7v). If working in a group, the first person to accept the invite via the link above should name the repo, the "team" in GitHub Classroom. The second person should still use the same link above but then select the name of the team already created.  GitHub Classroom will then generate a repository for you from a template that includes a README.md file to fill out. 
+
+🚀 Clone this repository and then do all your hack-a-thing work in the repository.  To submit your hack-a-thing simply commit and push, and then submit the link to the repo on Canvas. 
 
 ## README
 
