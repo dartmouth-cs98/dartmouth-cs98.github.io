@@ -9,7 +9,7 @@ published: true
 
 ## Overview
 
-To do a bit more research into cool ideas and technologies, we will find and share a cool article or tech paper. The format will be a quick (max 2 min) presentation about what you found.
+To do a bit more research into cool ideas and technologies, we will find and share a cool article or tech paper. The format will be a __quick__ (max 1 min) summary about what you found / why it might be interesting to explore further in the context of the class!
 
 These could be about an interesting use of technoglogy such as [hearables](https://www.fastcompany.com/90212065/the-future-is-ear-why-hearables-are-finally-techs-next-big-thing), or a technical paper such as [Project Zanzibar](https://www.microsoft.com/en-us/research/project/project-zanzibar/#!publications). 
 
