@@ -1,5 +1,5 @@
 ---
-layout: page_with_slides
+layout: page
 title: Ideas
 published: true
 ---
