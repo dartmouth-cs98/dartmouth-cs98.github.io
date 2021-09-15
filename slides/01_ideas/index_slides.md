@@ -143,7 +143,7 @@ name: VR
 ---
 name: change in the nature of change
 
-[.fancy.large[![](img/changes.jpg)]](https://www.youtube.com/embed/AwXzt2CV7is?start=230)
+[.fancy.large[![](img/changes.jpg)]](http://www.youtube.com/watch?v=AwXzt2CV7is?start=230)
 
 * Jim Coulter ’82 Founding Partner and Co-CEO, TPG Capital
 
