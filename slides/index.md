@@ -10,8 +10,8 @@ permalink: /slides/
 * [Welcome](00_welcome/)
 <!-- * Idea Generation -->
 * [Idea Generation](01_ideas/)
-* Need Finding / Interviews
-<!-- * [Need Finding / Interviews](01_interviews/) -->
+<!-- * Need Finding / Interviews -->
+* [Need Finding / Interviews](01_interviews/)
 * Paper Sharing
 <!-- * [Paper Sharing](02_paper_sharing/) -->
 * Milestones
