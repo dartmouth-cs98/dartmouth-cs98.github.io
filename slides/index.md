@@ -12,17 +12,18 @@ permalink: /slides/
 * [Idea Generation](01_ideas/)
 <!-- * Need Finding / Interviews -->
 * [Need Finding / Interviews](01_interviews/)
+* Hack-a-things / Technical Problem Space
 * Paper Sharing
 <!-- * [Paper Sharing](02_paper_sharing/) -->
-* Milestones
+* Pitches! 
+* First Team Meeting
+<!-- * [First Team Meeting](03_first-team-meeting) -->
+* Milestones Intro
 <!-- * [Milestones](02_paper_sharing/) -->
-* Hack-a-things / Technical Problem Space
 <!-- https://tinyurl.com/cs98-20w-pitches -->
 <!-- EE* [Pitch Intro](02_pitch_intro/) -->
 * Intro To Agile
 <!-- EE idea pitches and paper sharing -->
-* First Team Meeting
-<!-- * [First Team Meeting](03_first-team-meeting) -->
 * Refining Ideas
 <!-- * [Refining Ideas](04_user-personas) -->
 * Getting Started on Design
