@@ -20,7 +20,7 @@ We will dive deeper into figuring out specific features in [Feature Spec](featur
 
 ```markdown
 # ProjectName Proposal
-### Team Members | CS98 20F
+### Team Members | CS98 21F
 
 ![insert a team photo here](http://url/to/team/photo.jpg)
 
