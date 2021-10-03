@@ -8,7 +8,9 @@ published: true
 
 ## Overview
 
-To get your team going on an idea - let's get started on finding some common passions.  You'll fill out the following worksheet together and add it to your github project repo wiki. 
+To get your team going on an idea - let's get started on finding some common passions. The goal is to have an honest and open discussion hearing from everyone about what excites or disappoints them about this direction. This is your chance to come together and refine your direction whether slight or a major pivot. 
+
+You'll fill out the following worksheet together and add it to your github project repo wiki. Each question is a discussion starter, don't do this in silence, you should talk through each before moving on.
 
 Here is a markdown file template to get you started with instructions on how/where to upload it below. 
 
