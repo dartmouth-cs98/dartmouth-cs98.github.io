@@ -30,7 +30,7 @@ Here's how it will work.
 3. Sprint Review+Retrospective (end of week)
 4. GOTO 1. 
 
-You are welcome to do 1+3 in one big team meeting, say Sunday night, since you are really recapping the week and then planning the next. 
+You are welcome to do 1+3 in one big team meeting, since you are really recapping the week and then planning the next. 
 
 
 ## Scope and Assignment Q/A
@@ -128,7 +128,7 @@ Make sure your README.md files are updated with the current installation and dep
 
 ### Continuous Integration / Testing (optional)
 
-You could set up Travis CI for your project with automatic linting / build checking. If you are writing for the web - set up your project with [eslint](https://eslint.org/).   Whenever you push to github it will automatically run eslint. There are automatic build runners for most languages. This is optional but can be helpful - especially linting.  You can have Travis CI run other stuff/tests. For web here's a small howto on how to set up [Travis](http://cs52.me/resources/travis). This works best for auto-deploying web projects - but can be helpful with other types of projects as well. If you have questions ask me about it.
+You could set up Travis CI or [GitHub Actions](https://docs.github.com/en/actions/quickstart) for your project with automatic linting / build checking. If you are writing for the web - set up your project with [eslint](https://eslint.org/). Whenever you push to github it will automatically run eslint. There are automatic build runners for most languages. This is optional but can be helpful - especially linting.  You can have CI run other stuff/tests. It is easiest to set up for auto-deploying web projects - but can be helpful with other types of projects as well. If you have questions ask me about it.
 
 
 ## To Turn In:

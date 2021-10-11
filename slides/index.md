@@ -18,16 +18,16 @@ permalink: /slides/
 * Pitches! 
 * First Team Meeting
 <!-- * [First Team Meeting](03_first-team-meeting) -->
-* Milestones Intro
+<!-- * Refining Ideas and User Personas-->
+* [Refining Ideas and User Personas](04_user-personas)
+<!-- * Milestones Intro -->
+<!-- * Getting Started on Design -->
+* [Getting Started on Design](04_design) 
 <!-- * [Milestones](02_paper_sharing/) -->
 <!-- https://tinyurl.com/cs98-20w-pitches -->
 <!-- EE* [Pitch Intro](02_pitch_intro/) -->
 * Intro To Agile
 <!-- EE idea pitches and paper sharing -->
-* Refining Ideas
-<!-- * [Refining Ideas](04_user-personas) -->
-* Getting Started on Design
-<!-- * [Getting Started on Design](04_design)  -->
 * Scaffolding
 <!-- * [Scaffolding](05_scaffolding) -->
 * Design Feedback
