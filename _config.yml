@@ -19,7 +19,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cs98.me" # the base hostname & protocol for your site
 twitter_username: timofei7
 github_username:  timofei7
-ta_github_username: timofei7
+ta_github_username: romano-w
+ta2_github_username: waybarrios
+
 
 # Build settings
 markdown: kramdown

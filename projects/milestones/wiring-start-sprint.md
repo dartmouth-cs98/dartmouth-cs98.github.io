@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Implementation & Data Wiring Sprint Plan
+title: Implementation & Data Wiring Sprint 1 Plan
 published: true
 ---
 
@@ -21,7 +21,7 @@ The idea is to have all rudimentary functionality in place. For instance if you 
 
 ## Your First Official Sprint!
 
-Starting this week and ongoing for the next 15 weeks or so, we will be doing weekly sprints!   A sprint is a development iteration cycle in the agile project framework.  We'll be doing a somewhat simplified version of this in that we'll combine a few different steps together. 
+Starting this week and ongoing for the next 15 weeks or so, we will be doing weekly sprints!  A sprint is a development iteration cycle in the agile project framework.  We'll be doing a somewhat simplified version of this in that we'll combine a few different steps together. 
 
 Here's how it will work. 
 
@@ -46,12 +46,15 @@ You are welcome to do 1+3 in one big team meeting, since you are really recappin
 ✅ Yes! You should assign people to each issue as you work on them so your team knows who is doing what. Feel free to assign each other tasks, a little aggressiveness is ok! Keep it to 1 teammate per issue.
 
 ❓ Can I use comments on issues to coordinate with my team?<br>
-✅ Yes! You can interact via comments on the issues, on a good project the board will feel like a community, people upvoting and clapping for each other, discussing the issues, or how best to implement something. EC: mention `@{{ site.github_username }}`, `@{{ site.ta_github_username }}` in an issue or a PR when you need help or feedback or want to say hi. We're happy to help — and since this was a wall of text we'll know that you happened to read it all. 
+✅ Yes! You can interact via comments on the issues, on a good project the board will feel like a community, people upvoting and clapping for each other, discussing the issues, or how best to implement something. EC: mention `@{{ site.github_username }}`, `@{{ site.ta_github_username }},``@{{ site.ta2_github_username }},` in an issue or a PR when you need help or feedback or want to say hi. We're happy to help — and since this was a wall of text we'll know that you happened to read it all. 
 
 ❓ Can I just use groupme to tell people what to do?<br>
 ⛔️ No! You can discuss things to do for sure, but you should always use zenhub to keep track of who is working on what. Also you should be using Slack not groupme, we're all in this together.
 
-❓ I heard we're going to use ZenHub but I've used Jira/other brand before, why can't we use that?<br>
+❓ Can I just use todos posted in slack to tell people what to do?<br>
+⛔️ No! You can discuss things to do for sure, but you should always use zenhub to keep track of who is working on what.
+
+❓ I've used Jira/other brand before, why can't we use that?<br>
 ⛔️ Sorry, but we're going to stick to one task manager. For all practical purposes Jira/Asana/Trello/ZenHub all have many overlapping features - ZenHub happens to do use github as it's backend directly, which means you can spend more of your time directly on github rather than switching between a lot of tools. The important part is the agile workflow of moving tickets between stages and they all do it the same way.
 
 
@@ -68,16 +71,34 @@ You are welcome to do 1+3 in one big team meeting, since you are really recappin
 🚂 Consistency in using a task manager style tool is hard. But here's the motivation — this is a very common approach — and in our case we'll also be using issue engagement and closure (together with PRs/commits) as grade metrics.  But at least we won't be doing [stack ranking](https://www.businessinsider.com/stack-ranking-employees-is-a-bad-idea-2013-11)! 😑
 
 
+## Set up
+
+The default columns for Zenhub are: New Issues, Icebox, Product Backlog, Sprint Backlog, In Progress, Review/QA, Done, Closed.  
+
+My Recommendation is to simplify this and instead have:
+
+* Unsorted: renamed New Issues
+* Later: renamed Icebox
+* Next: renamed Backlog
+* In Progress
+* Review/QA
+* Closed
+
+You can rename and delete pipeline columns in ZenHub pretty easily. You are welcome to use the more complicated setup with Icebox, Product, and Sprint backlogs but I find combining those into Later and Next is simpler. Next is where you put anything you want to work on during the current sprint. Later is everything else.
+
 ## Rake Your ZenHub Garden
 
-Go through ZenHub and organize! This is a generalized process to follow every week. 
+Go through ZenHub and organize! This is a generalized process to follow every week. Please follow this CAREFULLY! You will be graded on your zenhub board.
 
 
 ![](img/pufferfish.gif){: .fancy .small}
 ![](img/puffer2.gif){: .fancy .small}
 
-1. 🚀**Create a new sprint milestone**:
-    * create a new milestone and label it `sprint 1 - wiring` and remember to set a due date on it. **all milestones should have due dates**.
+1. 🚀**Create a new [Zenhub Sprint](https://help.zenhub.com/support/solutions/articles/43000611544-an-introduction-to-zenhub-sprints)**:
+    * Follow [these steps set up your Sprints](https://help.zenhub.com/support/solutions/articles/43000611544-an-introduction-to-zenhub-sprints)
+    * remember to set a due date on it. **all sprints should have due dates** and we'll be doing weekly sprints ending Sunday night at midnight.  
+    * do **not** use "Automatically build new sprints from the backlog" for now, you will be doing this manually each retrospective meeting.
+    * do use "Move unfinished issues to the next sprint" as that will make sure you don't forget any issues in a past Sprint.
 1. 🚀**New Bugs**: Enter in any bugs that you currently have:
     * create new issues (select the appropriate repo "Create in ..." if associated with a particular repo).
     * label them with a <span style="color: red;">🐛bug</span> label [*(create new labels)*](https://help.github.com/en/articles/creating-a-label)
@@ -102,8 +123,8 @@ Go through ZenHub and organize! This is a generalized process to follow every we
     * You should end with no unsorted new issues in *Unsorted*.
     * Close issues that are old or deprecated - make sure you update estimate to an actual time taken when you close.
 1. 🚀**Assign Subtasks**:
-    * take at least 4 issues per person that fit with the goals of this week and assign them to this weeks milestone - and assign each to a person on your team.  Each subtask is ideally assigned to only 1 person - split them up further if multiple people are working on them.
-    * now you'll be able to track progress toward the milestone!  and get graded on it! 🏄
+    * take at least 4 issues per person that fit with the goals of this week and assign them to this weeks sprint - and assign each to a person on your team.  Each subtask is ideally assigned to only 1 person - split them up further if multiple people are working on them.
+    * now you'll be able to track progress toward the sprint!  and get graded on it! 🏄
 1. When you work on a task - move it to **In Progress** - this is critical so that your teammates know what is happening.
 
 **More about good agile workflow [here](https://help.zenhub.com/support/solutions/articles/43000010338-agile-concepts-in-github-and-zenhub).**
@@ -115,7 +136,7 @@ Well yes, you gotta make progress right? Gotta make it to DEMOS! If every issue 
 
 ## Design Feedback and Updates
 
-We just did a round of feedback on designs that we took notes on in Figma. You should enter in all the actionable design feedback items into your ZenHub board and add them to this milestone to resolve.
+Whenever we do feedback on designs we'll be leaving comments in Figma. You should enter in all the actionable design feedback items into your ZenHub board and add them to this sprint to resolve.
 
 ✋ What do you mean "resolve"?  Well, you should at least respond to each Figma comment with some words, but in most cases this means updating your designs to correspond with your current plans as well as any changes that came up in discussion, or in the grading feedback for mockups.
 
@@ -124,17 +145,38 @@ We just did a round of feedback on designs that we took notes on in Figma. You s
 
 ### README.md
 
-Make sure your README.md files are updated with the current installation and deployment instructions as well as any architecture changes. This will be a small part of every milestone, you should always keep it up to date as the README is where your graders start to get it running locally for testing.
+Make sure your README.md files are updated with the current installation and deployment instructions as well as any architecture changes. This will be a small part of every sprint, you should always keep it up to date as the README is where your graders start to get it running locally for testing.
 
 ### Continuous Integration / Testing (optional)
 
-You could set up Travis CI or [GitHub Actions](https://docs.github.com/en/actions/quickstart) for your project with automatic linting / build checking. If you are writing for the web - set up your project with [eslint](https://eslint.org/). Whenever you push to github it will automatically run eslint. There are automatic build runners for most languages. This is optional but can be helpful - especially linting.  You can have CI run other stuff/tests. It is easiest to set up for auto-deploying web projects - but can be helpful with other types of projects as well. If you have questions ask me about it.
+You could set up [GitHub Actions](https://docs.github.com/en/actions/quickstart) for your project with automatic linting / build checking. If you are writing for the web - set up your project with [eslint](https://eslint.org/). Whenever you push to github it will automatically run eslint. There are automatic build runners for most languages. This is optional but can be helpful - especially linting.  You can have CI run other stuff/tests. It is easiest to set up for auto-deploying web projects - but can be helpful with other types of projects as well. Here's [a course from github](https://lab.github.com/githubtraining/github-actions:-continuous-integration) about actions. 
+
+Overall though the point is that whenever you merge into your `main` branch your code is automatically tested and also deployed somewhere. For some projects this doesn't apply, but for those where it is possible it will save a lot of time.
+
+<details markdown="block">
+<summary>Quick eslint action codes.</summary>
+
+```yaml
+name: test
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install modules
+      run: yarn
+    - name: Run ESLint
+      run: eslint . --ext .js,.jsx,.ts,.tsx
+```
+</details>
+
 
 
 ## To Turn In:
 * make sure you have a plan for a deep connection test of your components, if api/client that they are making requests to each other, if database that it is storing something and your api uses it somehow, if some computational or sensor components make sure you are getting inputs. 
 * do all the steps in the [ZenHub section](#rake-your-zenhub-garden), don't forget to label as we'll be checking for those.
-* submit zenhub link to your workspace with a filter set
+* submit zenhub link to your workspace
 
 ## Keep up the good work, you're all rockstars
 

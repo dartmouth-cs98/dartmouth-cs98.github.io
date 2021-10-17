@@ -27,7 +27,7 @@ This is a good time to get immediate feedback as well — so try the features ou
 
 🚀 Discuss what is working and what isn't and then summarize your meetings notes in the below format.
 
-🚀 Create a wiki page titled:  `Sprint Retrospectives Term 1`
+🚀 Create a new Issue titled:  `Sprint Retrospective Term 1 - Sprint 1`
 
 Here's a template:
 
@@ -39,6 +39,7 @@ Here's a template:
         - [ ] Alladin
     * what worked well
         * we made progress
+        * ![post some progress screenshots]()
         * etc
     * what didn't
         * we didn't make much progress
@@ -53,7 +54,10 @@ Here's a template:
     * briefly summarize any other topics/discussions
 ```
 
-You'll update this weekly during your sprint transitions! 
+Each week you will create a new issue that will summarize your sprint. 
+
+🚀 Assign `@{{ site.github_username }}`, `@{{ site.ta_github_username }},``@{{ site.ta2_github_username }},` to the issue so we can review and give feedback. Thanks!  
+
 
 
 ## Your Mission for Sprint 2
@@ -70,7 +74,7 @@ Now plan out your next steps.  Add in *Unsorted* new issues, sort them into *Lat
 
 During this step you should follow the [Rake Your ZenHub Garden](wiring-start-sprint#rake-your-zenhub-garden) steps. You'll do this every week.
 
-1. 🚀**Create New Sprint Milestone**  (hint: Sprint 2)
+1. 🚀**Create New Sprint**  (hint: Sprint 2)
 1. 🚀**New Bugs**
 1. 🚀**Update Epics/Roadmap**
 1. 🚀**New Subtasks**
@@ -82,4 +86,4 @@ During this step you should follow the [Rake Your ZenHub Garden](wiring-start-sp
 * submit zenhub link to your workspace
     * showing new assignments
     * and all of your previous sprint finished!
-* submit wiki page link to your retrospective
+* submit link to your retrospective issue
