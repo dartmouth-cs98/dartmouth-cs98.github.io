@@ -33,35 +33,38 @@ git push origin --tags
 
 ## Retrospective 
 
-Have a time to discuss what is working and what isn't.  Include a summary of this when you submit this!
+🚀 Discuss what is working and what isn't and then summarize your meetings notes in the below format.
 
-🚀 Add to your `Sprint Retrospectives for Term 2` Wiki Page
+🚀 Create a new Issue titled:  `Sprint Retrospective Term 1 - Sprint #`
 
-Here's a template for what to add every week:
+Here's a template:
 
 ```markdown
-* Retrospective on Sprint #_: 
+* Sprint #_ Retrospective: 
     * members in attendance:
         ![selfie proof of meeting]()
         - [x] Jasmine
         - [ ] Alladin
     * what worked well
         * we made progress
+        * ![post some progress screenshots]()
         * etc
     * what didn't
         * we didn't make much progress
         * etc
     * self assessment on progress
-        * where are you in relation to progress towards finalfinal product? 
+        * where are you in relation to progress towards product and milestones? 
           * give an estimate of how far towards your goals you are, do you think you're on track? 
         * lay out *each* of the following weeks till end of term with brief goals for each
           * current week: goals
           * week #: goals
           * week #: goals, etc
+    * briefly summarize any other topics/discussions
 ```
 
-You'll update this weekly during your sprint transitions! 
+Each week you will create a new issue that will summarize your sprint. 
 
+🚀 Assign `@{{ site.github_username }}`, `@{{ site.ta_github_username }},``@{{ site.ta2_github_username }},` to the issue so we can review and give feedback. Thanks!  
 
 
 ## Planning / Rake Your ZenHub Garden
